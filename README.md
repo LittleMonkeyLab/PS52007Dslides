@@ -4,6 +4,7 @@
 
 This is the first year I am trying to deliver Open First teaching materials. "If a job's worth doing, it's worth over-doing!" as they say. 
 I welcome feedback and tips/suggestions on how to improve.
+<img src="images/Dougal.jpeg" align="right" height="150">
 Key priorities: 
 - Accessibility
 - Engagement via content and by use of technology
@@ -11,7 +12,7 @@ Key priorities:
 - Playfulness
 - blaming any problems on Dougal -->
 
-<img src="images/Dougal.jpeg" align="right" height="150">
+
 ---
 
 
