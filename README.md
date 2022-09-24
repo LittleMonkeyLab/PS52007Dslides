@@ -9,10 +9,12 @@ Key priorities:
 - Engagement via content and by use of technology
 - Inclusivity
 - Playfulness
-
----
+- blaming any problems on Dougal -->
 
 <img src="images/Dougal.jpeg" align="right" height="150">
+---
+
+
 
 ### Lecture 01 - Module Overview
 #### Monday 3rd October, 2022
