@@ -14,8 +14,8 @@ Key priorities:
 
 <img src="images/Dougal.jpeg" align="right" height="150">
 
-### Workshop 1: Teaching R online with RStudio Cloud
-#### Friday July 3rd, 2 - 3:30pm BST
+### Lecture 01 - Module Overview
+#### Monday 3rd October, 2022
 
 ### Slides for Lecture 01
 - [html](https://ps52007dslides.littlemonkeylab.com/Lecture01/Lecture1-RJS.html#/title-slide)  
