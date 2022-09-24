@@ -1,0 +1,204 @@
+---
+title: "Template Lecture"
+author: "gordon wright"
+date: "UPDATE"
+bibliography: sliderefs.bib
+csl: apa7.csl
+mainfont: "Atkinson Hyperlegible"
+
+format:
+  revealjs:
+    theme: Lectures_RM.scss
+    # slide-number: true
+    # logo: "images/GoldLogo.png"
+    # footer: "[Research Methods in Psychology](http://www.bbc.co.uk/)"
+    # transition: fade
+    # background-transition: fade
+    # navigation-mode: linear
+    # highlight-style: a11y
+    # code-link: true
+    # preview-links: true
+    # 
+    # footnotes-hover: true
+    # links-as-notes: true
+    # reference-location: section
+    # category: slides, Research Methods
+    # 
+    # citations-hover: true
+    # citation-location: margin
+    # self-contained: true
+    # incremental: false
+    # multiplex: true
+
+
+execute:
+  freeze: auto
+---
+
+# introduction 2007
+
+## collaborators
+
+-   Johanna Hardin, Pomona College
+-   Benjamin S. Baumer, Smith College
+-   Amelia McNamara, University of St Thomas
+-   Nicholas J. Horton, Amherst College
+-   Colin W. Rundel, Duke University
+
+## setting the scene
+
+::: columns
+::: {.column width="50%" style="text-align: center;"}
+![](images/icons8-code-64.png){fig-alt="Code icon"} \## Scene 2
+
+**Assumption 1:**
+
+Teach authentic tools
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+![](images/icons8-code-R-64.png){fig-alt="R logo"}
+
+**Assumption 2:**
+
+Teach R as the authentic tool
+:::
+:::
+
+## takeaway
+
+<br><br>
+
+> The tidyverse provides an effective and efficient pathway for
+> undergraduate students at all levels and majors to gain computational
+> skills and thinking needed throughout the data science cycle.
+
+::: aside
+Çetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton,
+N. J., & Rundel, C. (2022). An educator's perspective of the tidyverse.
+Technology Innovations in Statistics Education, 14(1).
+[doi.org/10.5070/T514154352](https://doi.org/10.5070/T514154352).
+:::
+
+# principles of the tidyverse
+
+## tidyverse
+
+::: columns
+::: {.column width="80%"}
+-   meta R package that loads eight core packages when invoked and also
+    bundles numerous other packages upon installation
+-   tidyverse packages share a design philosophy, common grammar, and
+    data structures
+:::
+
+::: {.column width="20%"}
+![](images/tidyverse.png){fig-alt="Hex logo for the tidyverse package"
+fig-align="center"}
+:::
+:::
+
+![](images/data-science.png){fig-alt="The data science cycle with import (readr and tibble), tidy (tidyr and purr), transfor (dplyr, stringr, forcats, tidyr), visualize (ggplot2), model, communicate"
+fig-align="center"}
+
+## setup
+
+**Data:** Thousands of loans made through the Lending Club, a
+peer-to-peer lending platform available in the **openintro** package,
+with a few modifications.
+
+## start with a data frame
+
+## tidy data
+
+1.  Each variable forms a column
+2.  Each observation forms a row
+3.  Each type of observational unit forms a table
+
+::: aside
+Wickham, H. . (2014). Tidy Data. *Journal of Statistical Software*,
+*59*(10), 1--23.
+[doi.org/10.18637/jss.v059.i10](https://doi.org/10.18637/jss.v059.i10).
+:::
+
+## task: calculate a summary statistic
+
+::: highlight
+Calculate the mean loan amount.
+:::
+
+-   More verbose
+-   But also more expressive and extensible
+
+## the tidyverse approach
+
+::: incremental
+-   tidyverse functions take a `data` argument that allows them to
+    localize computations inside the specified data frame
+
+-   does not muddy the concept of what is in the current environment:
+    variables always accessed from within in a data frame without the
+    use of an additional function (like `with()`) or quotation marks,
+    never as a vector
+:::
+
+# teaching with the tidyverse
+
+## task: grouped summary
+
+::: highlight
+Based on the applicants' home ownership status, compute the average loan
+amount and the number of applicants. Display the results in descending
+order of average loan amount.
+:::
+
+## break it down I
+
+::: {.column width="40%"}
+Based on the applicants' home ownership status, compute the average loan
+amount and the number of applicants. Display the results in descending
+order of average loan amount.
+:::
+
+::: {.column width="60%"}
+Based on the applicants' home ownership status, compute the average loan
+amount and the number of applicants. Display the results in descending
+order of average loan amount.
+:::
+
+## pedagogical strengths of the tidyverse
+
+![](images/table1.png){fig-alt="Table 1 from paper: Consistency: Syntax, function interfaces, argument names and orders follow patterns; Mixability: Ability to use base and other functions within tidyverse syntax; Scalability: Unified approach to data wrangling and visualization works for datasets of a wide range of types and sizes; User-centered design: Function interfaces designed with users in mind; Readability: Interfaces that are designed to produce readable code; Community: Large, active, welcoming community of users and resources; Transferability: Data manipulation verbs inherit from SQL’s query syntax."
+fig-align="center"}
+
+## coda {.smaller}
+
+::: columns
+::: {.column width="60%"}
+> We are all converts to the tidyverse and have made a conscious choice
+> to use it in our research and our teaching. We each learned R without
+> the tidyverse and have all spent quite a few years teaching without it
+> at a variety of levels from undergraduate introductory statistics
+> courses to graduate statistical computing courses. This paper is a
+> synthesis of the reasons supporting our tidyverse choice, along with
+> benefits and challenges associated with teaching statistics with the
+> tidyverse.
+:::
+
+::: {.column width="40%"}
+[![](images/paper-tise.png){fig-alt="Screenshot of the paper titled \"An educator's perspective of the tidyverse\" from the journal (TISE) website. Shows the title of the paper, the names and affiliations of authors, and part of the abstract."}](https://doi.org/10.5070/T514154352)
+:::
+:::
+
+::: aside
+:::
+
+Çetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton,
+N. J., & Rundel, C. (2022). An educator's perspective of the tidyverse.
+*Technology Innovations in Statistics Education, 14*(1).
+[doi.org/10.5070/T514154352](https://doi.org/10.5070/T514154352). :::
+:::
+
+# thank you!
+
+[bit.ly/tidyperspective-pwl](https://bit.ly/tidyperspective-pwl)
