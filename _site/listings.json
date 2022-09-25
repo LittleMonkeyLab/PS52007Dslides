@@ -4,6 +4,15 @@
     "items": []
   },
   {
+    "listing": "/allmaterials.html",
+    "items": [
+      "/lectures/LectureSlides.html",
+      "/lectures/Lecture01/Lecture01.html",
+      "/preludes/prelude01.html",
+      "/preludes/prelude02.html"
+    ]
+  },
+  {
     "listing": "/preludeshub.html",
     "items": [
       "/preludes/prelude01.html",

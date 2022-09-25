@@ -11,10 +11,17 @@ listing:
   sort-ui: false
   filter-ui: false
   type: table
-  fields: [title, subtitle, author, image]
+  field-links: 
+    - title
+    - subtitle
+    - description
+    - reading-time
+    - image
+  fields: [title, subtitle, description, author, reading-time, image]
   field-display-names:
-    title: "Week"
-    subtitle: "Topic"
+    title: "Type"
+    subtitle: "Week"
+    description: "Topic"
 ---
 
 Below is a comprehensive list of preludes. 

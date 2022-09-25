@@ -3,8 +3,9 @@ title: "Prelude" #Item type
 subtitle: "01" # Week number
 description: "Description of content" #Topic
 author: "Dr. Gordon Wright"
-date: "22nd March 2023" #as per monday
+date: "22/03/2023" #as per monday
 image: images/slidehold.png
+reading-time: "LINK"
 categories: [Preludes]
 ---
 
