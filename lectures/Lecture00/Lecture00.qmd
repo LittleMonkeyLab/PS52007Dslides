@@ -18,6 +18,7 @@ REAL psychological research
 
 In groups, you will:
 
+::: small
 -   Identify an area of psychological research
 -   Review and critique the literature in this area
 -   Develop a testable hypothesis
@@ -27,6 +28,7 @@ In groups, you will:
 -   Collect REAL data
 -   Analyse these data
 -   Write up the results in APA format
+:::
 
 ## A full overview will be given in the first lecture!
 
@@ -80,14 +82,22 @@ Research Methods is a core module with a 30 credit weighting
 This means that in order to progress to Y3, you must pass all 3
 assessment elements:
 
--   Critical Proposal 1,800 words (15%)
+-   ::: takeaway
+    -   Critical Proposal 1,800 words (15%)
 
--   Mini-Dissertation 2,500 words (70%)
+    -   Mini-Dissertation 2,500 words (70%)
 
--   CHIP Learning Log 2x700 words (15%)
+    -   CHIP Learning Log 2x700 words (15%)
+    :::
 
-All coursework is INDIVIDUAL and subject to normal plagiarism and
-collusion rules
+## Warning
+
+::: callout-warning
+## Warning
+
+All coursework is [INDIVIDUAL]{.shout} and subject to normal plagiarism
+and collusion rules
+:::
 
 ## Module structure
 
