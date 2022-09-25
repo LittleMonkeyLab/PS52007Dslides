@@ -1,0 +1,71 @@
+
+
+search: false
+
+output-dir: "_LectureSlides"
+  
+  # post-render: _resources/scripts/return-to-source.ts
+
+# options for all formats - suggested not to change
+from: markdown+raw_attribute+raw_tex
+filters: 
+  - _resources/scripts/shortcodes.lua
+standalone: false
+embed-resources: true
+self-contained: true
+slide-level: 2
+
+menu: false
+# set a module code to show up on all HTML and PDF outputs - can be
+# any string, e.g. 'ST4011', or 'Spring Term'
+modulecode: 'PS52007D'
+
+# biobliography options - if using other file names
+# or multiple bibliography files, change/add them here
+# Can also change the referencing style here using a
+# different csl file - many more can be found at
+# https://github.com/citation-style-language/styles
+bibliography: grefs.bib
+csl: apa7.csl
+keep-tex: true
+
+
+# output format options - change these as required
+format:
+  revealjs:
+    theme: _resources/templates/Lectures_RM.scss
+    mainfont: Atkinson Hyperlegible
+    margin: 0.2
+    smaller: false
+    output-ext: htm
+  pdf:
+    template: _resources/templates/latex.tex
+    # template: _resources/templates/latex-colour.tex
+    pdfengine: lualatex
+    fontsize: 12pt # 10, 11, or 12pt
+    mainfont: Atkinson Hyperlegible # font used for main text throughout document
+    sansfont: Atkinson Hyperlegible
+    classoption: landscape
+    papersize: a4
+    pagestyle: empty
+    cosmiclatte: false # set true to turn on an off-white page background colour
+  html:
+    template: _resources/templates/html.html
+
+  pptx:
+    reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+  revealjs:
+    theme: _resources/templates/Lectures_RM.scss
+    mainfont: Atkinson Hyperlegible
+    margin: 0.2
+    self-contained: true
+    incremental: false
+    comments: 
+      hypothesis: true
+    smaller: false
+    output-ext: htm
+    
+editor: visual
+
+execute: 
+  freeze: auto
