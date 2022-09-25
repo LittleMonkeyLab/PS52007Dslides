@@ -1,8 +1,7 @@
 ---
 title: "PS52007D - Research Methods in Psychology 2022/3"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
-execute:
-  freeze: false
+categories: "Lectures"
 ---
 
 Thisy pag[e GGFINAL TEST PRE

@@ -62,8 +62,11 @@ website:
 
 
       - text: "---"
-      - section: "Materials by week"
-        contents:      
+      - text: "Materials by week"
+      - href: week1.qmd
+        text: Week 1
+      - href: week2.qmd
+        text: Week 2
       - href: week1.qmd
         text: Week 1
       - href: week1.qmd
@@ -100,15 +103,12 @@ website:
         text: Week 1
       - href: week1.qmd
         text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1        
       - text: "---"
-      - section: "Further resources"
-        contents:      
+      - text: "Further resources"
       - href: week1.qmd
         text: Stuff
+      - href: week2.qmd
+        text: Week 02
 
 
 
