@@ -18,10 +18,15 @@ website:
   twitter-card:
     creator: "@DrDeception"
     image: "images/twitter-card.png"
+  navbar: false
+     
 
   sidebar:
+    style: "docked"
+    search: true
+    background: "#6699CC" # Navy Blue
+    
     - title: "Preludes"
-      style: "docked"
       background: light
       contents:
         - preludeshub.qmd
