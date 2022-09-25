@@ -25,7 +25,7 @@ modulecode: 'PS52007D'
 # https://github.com/citation-style-language/styles
 bibliography: grefs.bib
 csl: apa7.csl
-keep-tex: false
+
 
 
 # output format options - change these as required
@@ -36,8 +36,8 @@ format:
     margin: 0.2
     smaller: false
     output-ext: htm
-  pdf:
-    pdf-engine: pdfroff
+  # pdf:
+  #   pdf-engine: pdfroff
   #   theme: _resources/templates/pdf.scss
   #   # template: _resources/templates/latex.tex
   #   # template: _resources/templates/latex-colour.tex
@@ -49,7 +49,8 @@ format:
   #   papersize: a4
   #   pagestyle: empty
   #   cosmiclatte: false # set true to turn on an off-white page background colour
-  html: default
+  html:
+    theme: [default, pdf.scss]
 
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
@@ -60,10 +61,10 @@ format:
     self-contained: true
     incremental: false
     comments:
-      hypothesis: true
+      hypothesis: false
     smaller: false
     output-ext: htm
-  # beamer: default
+
 
 editor: visual
 
