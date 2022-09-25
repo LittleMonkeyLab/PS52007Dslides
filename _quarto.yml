@@ -5,18 +5,6 @@ project:
 # keep-tex: true
 
 website:
-   sidebar:
-    style: "docked"
-    search: true
-    contents:
-      - section: "Basics"
-        contents:
-          - lectureshub.qmd
-          - preludeshub.qmd
-          - extrashub.qmd
-          
-  google-analytics: ""
-  page-navigation: true
   title: "Materials for PS52007D Research Methods in Psychology"
   description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
   site-url: "https://ps52007dslides.littlemonkeylab.com"
@@ -24,11 +12,19 @@ website:
   repo-url: https://github.com/LittleMonkeyLab/PS52007Dslides/
   repo-actions: [edit, issue]
 
-  opengraph: true
-  twitter-card:
-    creator: "@DrDeception"
-    image: "images/twitter-card.png"
-  
+  sidebar:
+    background: "#000080"
+    style: "docked"
+    search: true
+    contents:
+      - section: "Weekly Materials"
+        contents:
+          - preludeshub.qmd
+          - lectureshub.qmd
+          - labshub.qmd
+          - extrashub.qmd
+
+
 
   page-footer:
     right: "This page is built with ☕,❤️and [Quarto](https://quarto.org/)."
@@ -36,7 +32,7 @@ website:
       Content {{< fa brands creative-commons >}} 2022 by gordon wright. All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>
       [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-    background: "#6699CC"
+    background: "#000080"
 
 format:
   html:
