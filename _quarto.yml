@@ -5,6 +5,16 @@ project:
 # keep-tex: true
 
 website:
+   sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - lectureshub.qmd
+          - preludeshub.qmd
+          - extrashub.qmd
+          
   google-analytics: ""
   page-navigation: true
   title: "Materials for PS52007D Research Methods in Psychology"
@@ -18,65 +28,7 @@ website:
   twitter-card:
     creator: "@DrDeception"
     image: "images/twitter-card.png"
-
-  sidebar:
-    - title: "Preludes"
-      style: "docked"
-      background: light
-      contents:
-        - preludeshub.qmd
-
-    - title: "Lectures"
-      contents:
-        - lectureshub.qmd
-
-    - title: "Labs"
-      contents:
-        - labshub.qmd
-
-    - title: "Extras"
-      contents:
-        - extrashub.qmd
-
-    # sidebar:
-  #   contents: auto
-  #
-  #   background: "#6699CC" # Navy Blue
-  #   # logo: ""
-  #   pinned: true
-  #   align: center
-  #   tools:
-  #     - icon: book
-  #       href: https://bbc.co.uk/
-  #     - icon: images/moodle.png
-  #     - icon: github
-  #       href: https://github.com/LittleMonkeyLab/PS52007DWeb
-  #       text: "GitHub organization"
-  #     - icon: <i class="ai ai-google-scholar-square ai-3x"></i>
-  #       href: http://www.learn.gold.ac.uk/
-  #       text: "Learn.Gold VLE Page"
-  #     - icon: person-fill
-  #       href: http://www.learn.gold.ac.uk/
-  #       text: "Learn.Gold VLE Page"
-  #
-  #   style: docked
-  #   search: true
-  #   collapse-level: 1
-  #
-
-    #   - section: "Course Materials"
-    #
-    # - section: Preludes
-    #   contents: preludes/*
-    # - section: Lectures
-    #   contents: lectures/*
-    # - section: Labs
-    #   contents: labs/*
-    # - section: Extras
-    #   contents: extras/*
-
-
-
+  
 
   page-footer:
     right: "This page is built with ☕,❤️and [Quarto](https://quarto.org/)."
@@ -92,9 +44,6 @@ format:
       light: [cosmo, style/light.scss]
       dark: [cosmo, style/light.scss, style/dark.scss]
     linkcolor: "#325b74" # Pantone Midnight - Fall 2022
-    toc: true
-    code-copy: true
-    code-overflow: wrap
     mainfont: "Atkinson Hyperlegible"
     comments:
       hypothesis: true
@@ -140,8 +89,5 @@ format:
   # pptx:
   #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
 
-
-execute:
-  freeze: auto
 
 editor: visual

@@ -3,6 +3,7 @@ title: "PS52007D - Research Methods in Psychology 2022/3"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: "Lectures, Labs, Preludes, Extras"
 ---
+index.qmd
 
 Thisy pag[e GGFINAL TEST PRE
 LUNCH](https://github.com/LittleMonkeyLab/PS52007DWeb/blob/58b7f96a7391d6c29da5c94bd5966b72b22e53a5/docs/slides/Lecture01/Lecture01.pdf)cjiiontains
