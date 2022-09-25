@@ -1,0 +1,180 @@
+project:
+  type: website
+  bibliography: references.bib
+  csl: apa7.csl
+# keep-tex: true
+
+website:
+  google-analytics: "G-KS294259KL"
+  page-navigation: true
+  title: "PS52007D Research Methods in Psychology"
+  description: "Homepage for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
+  site-url: "https:"
+
+  repo-url: https://github.com/LittleMonkeyLab/PS52007DWeb/
+  repo-actions: [edit, issue]
+
+  opengraph: true
+  twitter-card:
+    creator: "@DrDeception"
+    image: "images/twitter-card.png"
+
+  sidebar:
+    background: "#6699CC" # Navy Blue
+
+    # logo: ""
+    pinned: true
+    align: center
+    tools:
+      - icon: book
+        href: https://bbc.co.uk/
+      - icon: images/moodle.png
+      - icon: github
+        href: https://github.com/LittleMonkeyLab/PS52007DWeb
+        text: "GitHub organization"
+      - icon: <i class="ai ai-google-scholar-square ai-3x"></i>
+        href: http://www.learn.gold.ac.uk/
+        text: "Learn.Gold VLE Page"
+      # - icon: person-fill
+      #   text: "Sakai"
+      #   menu:
+      #     - text: Gradescope
+      #       url: https:
+      #     - text: Gradebook
+      #       url: https:
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: course-support.qmd
+            text: Support
+          - href: course-team.qmd
+            text: Teaching team
+          - href: index.qmd
+            text: Schedule
+
+
+      - text: "---"
+      - href: coursework-overview.qmd
+        text: Coursework overview
+      - section: "Critical Proposal"
+        contents:
+          - href: critical-proposal-description.qmd
+            text: Description
+          - href: critical-proposal-marking.qmd
+            text: Marking guidelines
+          - href: critical-proposal-tips-resources.qmd
+            text: Tips + resources
+      - section: "MiniDissertation"
+        contents:
+          - href: minidissertation-description.qmd
+            text: Description
+          - href: minidissertation-marking.qmd
+            text: Marking guidelines
+          - href: minidissertation-tips-resources.qmd
+            text: Tips + resources
+      - section: "CHIP Learning Log"
+        contents:
+          - href: chip-log-description.qmd
+            text: Description
+          - href: chip-log-marking.qmd
+            text: Marking guidelines
+          - href: chip-log-tips-resources.qmd
+            text: Tips + resources
+      - text: "---"
+      - section: "Computing"
+        contents:
+          - href: computing-access.qmd
+            text: Access
+          - href: computing-troubleshooting.qmd
+            text: Troubleshooting
+      - text: "---"
+      - href: course-faq.qmd
+        text: FAQ
+      - href: course-links.qmd
+        text: Useful links
+      - href: slides/LectureSlides.qmd
+        text: SlideHeavens
+
+#
+#           - href: course-faq.qmd
+#             text: FAQ
+#           - href: course-links.qmd
+#             text: Useful links
+
+
+
+  page-footer:
+    right: "This page is built with ☕,❤️and [Quarto](https://quarto.org/)."
+    left: |
+      Content {{< fa brands creative-commons >}} 2022 by gordon wright. All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>
+      [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    background: "#6699CC"
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/light.scss]
+      dark: [cosmo, style/light.scss, style/dark.scss]
+    linkcolor: "#325b74" # Pantone Midnight - Fall 2022
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    comments:
+      hypothesis: true
+
+  # pdf:
+  #   # template: templates/eisvogel.tex
+  #   geometry:
+  #     - top=30mm
+  #     - left=30mm
+  # docx: default
+  #
+  #   # toc: true
+  #   # toc-depth: 3
+  #   # mainfont: "Atkinson Hyperlegible"
+  #   # sansfont: "Atkinson Hyperlegible"
+  #   # linkcolor: blue
+  #   # links-as-notes: true
+  #   # papersize: a4
+  #   # reference-links: true
+  #   # template: /templates/eisvogel.tex
+  # revealjs:
+  #   theme: _resources/templates/Lectures_RM.scss
+  #   mainfont: Atkinson Hyperlegible
+  #   self-contained: true
+  #   incremental: false
+  #   margin: 0.2
+  #   smaller: false
+  #   output-ext: htm
+  # pdf:
+  #   template: _resources/templates/latex.tex
+  #   # template: _resources/templates/latex-colour.tex
+    # pdfengine: lualatex
+    # fontsize: 12pt # 10, 11, or 12pt
+    # mainfont: Atkinson Hyperlegible # font used for main text throughout document
+    # sansfont: Atkinson Hyperlegible
+    # classoption: landscape
+    # papersize: a4
+    # pagestyle: empty
+    # cosmiclatte: false # set true to turn on an off-white page background colour
+  # html:
+  # #   template: _resources/templates/html.html
+  #
+  # pptx:
+  #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+
+
+execute:
+  freeze: auto
+
+editor: visual

@@ -1,9 +1,116 @@
 ---
-title: "CHANGE TITLE"
+title: "PS52007D - Research Methods in Psychology 2022/3"
+subtitle: "Module Coordinator - Dr. Gordon Wright"
+execute:
+  freeze: false
 ---
 
-This repository contains XXXXX
+Thisy pag[e GGFINAL TEST PRE
+LUNCH](https://github.com/LittleMonkeyLab/PS52007DWeb/blob/58b7f96a7391d6c29da5c94bd5966b72b22e53a5/docs/slides/Lecture01/Lecture01.pdf)cjiiontains
+an outline of the topics, content, and assignments for the semester.
+Note that this schedule will be updated as the semester progresses and
+the timeline of topics and assignments might be updated throughout the
+[semester](docs/slides/Lecture01/Lecture01.pdf).
 
--   Stuff
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+gs4_deauth()
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1ZsmGNXF5fZuNbkGsYRnFxhDKS9fZJQdtOg2Cw3KlrtQ/edit?usp=sharing", sheet = "TopLevel")
 
-☕
+```
+
+::: column-screen-right
+```{r, echo = FALSE, warning=FALSE}
+d %>%
+  mutate(
+    Date = as.Date(Date),
+    Week = ifelse(is.na(Week), "", Week)
+  ) %>%
+  gt() %>%
+  text_transform(cells_body(columns = c(Prelude)),
+    fn = function(x) {
+      ifelse(is.na(x), fontawesome::fa("leanpub", fill_opacity = 0),
+        ifelse(x == "x", fontawesome::fa("leanpub", fill_opacity = 0.2),       
+          glue::glue("<a href = {x}>{fontawesome::fa('leanpub')}</a>")
+        )
+      )
+    }
+  ) %>%
+  text_transform(cells_body(columns = c(Slides)),
+    fn = function(x) {
+      ifelse(is.na(x), fontawesome::fa("tv", fill_opacity = 0),
+             ifelse(x == "x", fontawesome::fa("tv", fill_opacity = 0.2), 
+        glue::glue("<a href = {x}>{fontawesome::fa('tv')}</a>")
+        )
+      )
+    }
+  ) %>%
+  text_transform(cells_body(columns = c(Lab)),
+    fn = function(x) {
+      ifelse(is.na(x), fontawesome::fa("users", fill_opacity = 0),
+             ifelse(x == "x", fontawesome::fa("users", fill_opacity = 0.2), 
+        glue::glue("<a href = {x}>{fontawesome::fa('users')}</a>")
+        )
+      )
+    }
+  ) %>%
+  text_transform(cells_body(columns = c(Extras)),
+    fn = function(x) {
+      ifelse(is.na(x), fontawesome::fa("magic", fill_opacity = 0),
+             ifelse(x == "x", fontawesome::fa("magic", fill_opacity = 0.2), 
+        glue::glue("<a href = {x}>{fontawesome::fa('magic')}</a>")
+        )
+      )
+    }
+  ) %>%
+  text_transform(cells_body(columns = c("Tickets")),
+    fn = function(x) {
+      ifelse(is.na(x), fontawesome::fa("comments", fill_opacity = 0),
+             ifelse(x == "x", fontawesome::fa("comments", fill_opacity = 0.2), 
+        glue::glue("<a href = {x}>{fontawesome::fa('comments')}</a>")
+        )
+      )
+    }
+  ) %>%
+  fmt_date(Date, date_style = 7) %>%
+  sub_missing(columns = c(Date, Topic, Notes), missing_text = "") %>%
+  cols_align(
+    align = "center", 
+    columns = c(Week, Prelude, Slides, Lab, Extras, Tickets)
+    ) %>%
+  cols_align(
+    align = "left", 
+    columns = c(Date, Topic, Notes)
+    )  %>%
+opt_row_striping(data = , row_striping = TRUE) %>% 
+
+tab_header(title = md("TABLE TITLE 2007b8"))  %>%
+     tab_style(
+     locations = cells_column_labels(columns = everything()),
+     style     = list(
+       #Give a thick border below
+       cell_borders(sides = "bottom", weight = px(3)),
+       #Make text bold
+       cell_text(weight = "bold")
+     )
+   ) %>% 
+   #Apply different style to the title
+   tab_style(
+     locations = cells_title(groups = "title"),
+     style     = cell_text(weight = "bold", size = 24)
+
+   ) %>%
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(rows = c(1, 7, 13, 14, 20, 26)
+    ) 
+  )%>%
+  tab_style(
+    style = cell_fill(color = "grey"),
+    locations = cells_body(rows = c(1, 7, 13, 14, 20, 26)
+  )
+)
+```
+:::
