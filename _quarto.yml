@@ -20,96 +20,60 @@ website:
     image: "images/twitter-card.png"
 
   sidebar:
-    background: "#6699CC" # Navy Blue
+    - title: "Preludes"
+      style: "docked"
+      background: light
+      contents:
+        - preludeshub.qmd
 
-    # logo: ""
-    pinned: true
-    align: center
-    tools:
-      - icon: book
-        href: https://bbc.co.uk/
-      - icon: images/moodle.png
-      - icon: github
-        href: https://github.com/LittleMonkeyLab/PS52007DWeb
-        text: "GitHub organization"
-      - icon: <i class="ai ai-google-scholar-square ai-3x"></i>
-        href: http://www.learn.gold.ac.uk/
-        text: "Learn.Gold VLE Page"
-      # - icon: person-fill
-      #   text: "Sakai"
-      #   menu:
-      #     - text: Gradescope
-      #       url: https:
-      #     - text: Gradebook
-      #       url: https:
+    - title: "Lectures"
+      contents:
+        - lectureshub.qmd
 
-    style: docked
-    search: true
-    collapse-level: 1
-    contents:
-      - section: "Course Materials"
-        contents:
-          - href: preludeshub.qmd
-            text: Preludes
-          - href: lectureshub.qmd
-            text: Lectures
-          - href: labshub.qmd
-            text: Labs
-          - href: extrashub.qmd
-            text: Extras
-          - href: oers.qmd
-            text: Open Educational Resources
+    - title: "Labs"
+      contents:
+        - labshub.qmd
 
+    - title: "Extras"
+      contents:
+        - extrashub.qmd
 
-      - text: "---"
-      - text: "Materials by week"
-      - href: week1.qmd
-        text: Week 1
-      - href: week2.qmd
-        text: Week 2
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - href: week1.qmd
-        text: Week 1
-      - text: "---"
-      - text: "Further resources"
-      - href: week1.qmd
-        text: Stuff
-      - href: week2.qmd
-        text: Week 02
+    # sidebar:
+  #   contents: auto
+  #
+  #   background: "#6699CC" # Navy Blue
+  #   # logo: ""
+  #   pinned: true
+  #   align: center
+  #   tools:
+  #     - icon: book
+  #       href: https://bbc.co.uk/
+  #     - icon: images/moodle.png
+  #     - icon: github
+  #       href: https://github.com/LittleMonkeyLab/PS52007DWeb
+  #       text: "GitHub organization"
+  #     - icon: <i class="ai ai-google-scholar-square ai-3x"></i>
+  #       href: http://www.learn.gold.ac.uk/
+  #       text: "Learn.Gold VLE Page"
+  #     - icon: person-fill
+  #       href: http://www.learn.gold.ac.uk/
+  #       text: "Learn.Gold VLE Page"
+  #
+  #   style: docked
+  #   search: true
+  #   collapse-level: 1
+  #
 
+    #   - section: "Course Materials"
+    #
+    # - section: Preludes
+    #   contents: preludes/*
+    # - section: Lectures
+    #   contents: lectures/*
+    # - section: Labs
+    #   contents: labs/*
+    # - section: Extras
+    #   contents: extras/*
 
 
 
