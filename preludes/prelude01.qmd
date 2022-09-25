@@ -1,6 +1,13 @@
 ---
 title: "Prelude 01"
-subtitle: "Module Coordinator - Dr. Gordon Wright"
+subtitle: "Fun stuff to do"
+description: "Description of content"
+author: "Dr. Gordon Wright"
+date: "22nd March 2023"
+image: images/slidehold.png
 categories: [Preludes]
 ---
+
 gnxfgjfgdn
+
+![](images/slidehold.png)

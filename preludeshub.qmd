@@ -3,10 +3,22 @@ title: "Preludes"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: "Preludes"
 listing:
-  categories: true
+  id: preludes-listings
+  image-placeholder: "/images/slidehold.png"
+  categories: false
   contents: preludes
+  date-format: full
+  sort-ui: false
+  filter-ui: false
   type: table
-    # - "preludes/*.qmd"
+  fields: [title, subtitle, author, image]
+  field-display-names:
+    title: "Week"
+    subtitle: "Topic"
 ---
 
+Below is a comprehensive list of preludes. 
 
+
+::: {#preludes-listings}
+:::

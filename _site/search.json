@@ -2,16 +2,16 @@
   {
     "objectID": "labshub.html",
     "href": "labshub.html",
-    "title": "Lab Activities",
+    "title": "Labss",
     "section": "",
-    "text": "Thisy page GGFINAL TEST PRE LUNCHcjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
+    "text": "Week\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "preludeshub.html",
     "href": "preludeshub.html",
     "title": "Preludes",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nPrelude 01\n\n\n\n\n\n\nPrelude 02\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Week\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\nPrelude 01\n\n\nFun stuff to do\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nPrelude 02\n\n\nModule Coordinator - Dr. Gordon Wright\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "oers.html",
@@ -28,53 +28,11 @@
     "text": "Thisy page GGFINAL TEST PRE LUNCHcjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
   },
   {
-    "objectID": "slides/LectureSlides.html",
-    "href": "slides/LectureSlides.html",
-    "title": "Lecture Slides",
-    "section": "",
-    "text": "here are some slides\nlink"
-  },
-  {
-    "objectID": "slides/Lecture01/Lecture01.html",
-    "href": "slides/Lecture01/Lecture01.html",
-    "title": "Lecture01",
-    "section": "",
-    "text": "Point 1\nPoint 2\nPoint 3\n\n\n\n\n\n\nList element A\nList element B\nList element C\n\n\n\n\n\nHere is an important point\n\nAdditional commentary.\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nNote\n\n\n\n\n\nThis is very noteworthy\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nWarning\n\n\n\n\n\nBe WARNED!!\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nImportant\n\n\n\n\n\nThis is very Important\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nTip\n\n\n\n\n\nThis is a useful tip\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nCaution\n\n\n\n\n\nThis is something to be cautious about\n\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nLeft column\n\n\n\n\nLittleMonkeyLab\n\n\n\n\n\n\n\nShout\nQuestion\ntakeaway\n\nA link to the BBC website\n\n\n\n\nHere is some content\n\nSpeaker notes (press ‘s’ when presenting to switch to speaker mode).\n\n\n\n\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\n\n\n\n\nVery important point1 made to the class"
-  },
-  {
-    "objectID": "slides/Lecture01/Lecture01.html#columns-unequal-20-80",
-    "href": "slides/Lecture01/Lecture01.html#columns-unequal-20-80",
-    "title": "Lecture01",
-    "section": "2 columns unequal 20% 80%",
-    "text": "2 columns unequal 20% 80%\n\n\n\nList One\n\nItem A\nItem B\nItem C\n\n\n\n\nList Two\n\nItem X\nItem Y\nItem Z"
-  },
-  {
-    "objectID": "slides/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
-    "href": "slides/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
-    "title": "Lecture01",
-    "section": "Level 2 centred text with break  with striking takeaway background",
-    "text": "Level 2 centred text with break  with striking takeaway background"
-  },
-  {
-    "objectID": "slides/Lecture01/Lecture01.html#references",
-    "href": "slides/Lecture01/Lecture01.html#references",
-    "title": "Lecture01",
-    "section": "References",
-    "text": "References\n[@andorsky2020; @datu2021; @king2021; @rice2021]"
-  },
-  {
-    "objectID": "slides/Lecture01/Lecture01.html#speaker-notes-1",
-    "href": "slides/Lecture01/Lecture01.html#speaker-notes-1",
-    "title": "Lecture01",
-    "section": "Speaker notes",
-    "text": "Speaker notes\nInclude speaker notes in another fenced code block.\n\nLike this."
-  },
-  {
     "objectID": "lectureshub.html",
     "href": "lectureshub.html",
-    "title": "Lecture Slides",
+    "title": "Lectures",
     "section": "",
-    "text": "Thisy page GGFINAL TEST PRE LUNCHcjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
+    "text": "Week\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\nLecture Slides\n\n\nEverything you need to know about Lecture Slides\n\n\n\n\n\n\n\n\n\nLecture01\n\n\nContent Not Yet Available\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "week1.html",
@@ -112,6 +70,48 @@
     "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "lectures/LectureSlides.html",
+    "href": "lectures/LectureSlides.html",
+    "title": "Lecture Slides",
+    "section": "",
+    "text": "here are some slides\nlink"
+  },
+  {
+    "objectID": "lectures/Lecture01/Lecture01.html",
+    "href": "lectures/Lecture01/Lecture01.html",
+    "title": "Lecture01",
+    "section": "",
+    "text": "Point 1\nPoint 2\nPoint 3\n\n\n\n\n\n\nList element A\nList element B\nList element C\n\n\n\n\n\nHere is an important point\n\nAdditional commentary.\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nNote\n\n\n\n\n\nThis is very noteworthy\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nWarning\n\n\n\n\n\nBe WARNED!!\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nImportant\n\n\n\n\n\nThis is very Important\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nTip\n\n\n\n\n\nThis is a useful tip\n\n\n\n\n\n\nHere is something I say\n\n\n\n\n\n\nCaution\n\n\n\n\n\nThis is something to be cautious about\n\n\n\n\n\n\n\n\nLeft column\n\nRight column\n\n\n\n\n\n\n\nLeft column\n\n\n\n\nLittleMonkeyLab\n\n\n\n\n\n\n\nShout\nQuestion\ntakeaway\n\nA link to the BBC website\n\n\n\n\nHere is some content\n\nSpeaker notes (press ‘s’ when presenting to switch to speaker mode).\n\n\n\n\n\nTab ATab B\n\n\nContent for Tab A\n\n\nContent for Tab B\n\n\n\n\n\n\nVery important point1 made to the class"
+  },
+  {
+    "objectID": "lectures/Lecture01/Lecture01.html#columns-unequal-20-80",
+    "href": "lectures/Lecture01/Lecture01.html#columns-unequal-20-80",
+    "title": "Lecture01",
+    "section": "2 columns unequal 20% 80%",
+    "text": "2 columns unequal 20% 80%\n\n\n\nList One\n\nItem A\nItem B\nItem C\n\n\n\n\nList Two\n\nItem X\nItem Y\nItem Z"
+  },
+  {
+    "objectID": "lectures/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
+    "href": "lectures/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
+    "title": "Lecture01",
+    "section": "Level 2 centred text with break  with striking takeaway background",
+    "text": "Level 2 centred text with break  with striking takeaway background"
+  },
+  {
+    "objectID": "lectures/Lecture01/Lecture01.html#references",
+    "href": "lectures/Lecture01/Lecture01.html#references",
+    "title": "Lecture01",
+    "section": "References",
+    "text": "References\n[@andorsky2020; @datu2021; @king2021; @rice2021]"
+  },
+  {
+    "objectID": "lectures/Lecture01/Lecture01.html#speaker-notes-1",
+    "href": "lectures/Lecture01/Lecture01.html#speaker-notes-1",
+    "title": "Lecture01",
+    "section": "Speaker notes",
+    "text": "Speaker notes\nInclude speaker notes in another fenced code block.\n\nLike this."
+  },
+  {
     "objectID": "preludes/prelude01.html",
     "href": "preludes/prelude01.html",
     "title": "Prelude 01",
@@ -130,6 +130,6 @@
     "href": "extrashub.html",
     "title": "Extras",
     "section": "",
-    "text": "Thisy page GGFINAL TEST PRE LUNCHcjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
+    "text": "Week\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

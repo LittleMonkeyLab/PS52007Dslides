@@ -1,9 +1,24 @@
 [
   {
+    "listing": "/labshub.html",
+    "items": []
+  },
+  {
     "listing": "/preludeshub.html",
     "items": [
       "/preludes/prelude01.html",
       "/preludes/prelude02.html"
     ]
+  },
+  {
+    "listing": "/lectureshub.html",
+    "items": [
+      "/lectures/LectureSlides.html",
+      "/lectures/Lecture01/Lecture01.html"
+    ]
+  },
+  {
+    "listing": "/extrashub.html",
+    "items": []
   }
 ]
