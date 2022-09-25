@@ -55,11 +55,5 @@ for (const dir of Deno.readDirSync(output_path)) {
 			}
 		}
 	}
-}	
-
-// remove the output directory
-try {
-	Deno.removeSync(output_path, { recursive: true });
-} catch (e) {
-	console.log(e);
 }
+

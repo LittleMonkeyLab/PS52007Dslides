@@ -1,14 +1,12 @@
 
 
-search: false
 
-output-dir: "_LectureSlides"
-  
-  # post-render: _resources/scripts/return-to-source.ts
+
+# post-render: _resources/scripts/return-to-source.ts
 
 # options for all formats - suggested not to change
 from: markdown+raw_attribute+raw_tex
-filters: 
+filters:
   - _resources/scripts/shortcodes.lua
 standalone: false
 embed-resources: true
@@ -27,7 +25,7 @@ modulecode: 'PS52007D'
 # https://github.com/citation-style-language/styles
 bibliography: grefs.bib
 csl: apa7.csl
-keep-tex: true
+keep-tex: false
 
 
 # output format options - change these as required
@@ -39,18 +37,19 @@ format:
     smaller: false
     output-ext: htm
   pdf:
-    template: _resources/templates/latex.tex
-    # template: _resources/templates/latex-colour.tex
-    pdfengine: lualatex
-    fontsize: 12pt # 10, 11, or 12pt
-    mainfont: Atkinson Hyperlegible # font used for main text throughout document
-    sansfont: Atkinson Hyperlegible
-    classoption: landscape
-    papersize: a4
-    pagestyle: empty
-    cosmiclatte: false # set true to turn on an off-white page background colour
-  html:
-    template: _resources/templates/html.html
+    pdf-engine: pdfroff
+  #   theme: _resources/templates/pdf.scss
+  #   # template: _resources/templates/latex.tex
+  #   # template: _resources/templates/latex-colour.tex
+
+      #   fontsize: 12pt # 10, 11, or 12pt
+  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
+  #   sansfont: Atkinson Hyperlegible
+  #   classoption: landscape
+  #   papersize: a4
+  #   pagestyle: empty
+  #   cosmiclatte: false # set true to turn on an off-white page background colour
+  html: default
 
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
@@ -60,12 +59,13 @@ format:
     margin: 0.2
     self-contained: true
     incremental: false
-    comments: 
+    comments:
       hypothesis: true
     smaller: false
     output-ext: htm
-    
+  # beamer: default
+
 editor: visual
 
-execute: 
+execute:
   freeze: auto
