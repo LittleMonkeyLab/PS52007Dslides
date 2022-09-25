@@ -39,7 +39,7 @@
     "href": "lectureshub.html",
     "title": "Lectures",
     "section": "",
-    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nLecture01\n\n\nContent Not Yet Available\n\n\n\n\n\nDr Gordon Wright\n\n\nThursday, March 10, 2022\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nLecture01\n\n\nContent Not Yet Available\n\n\n\n\n\nDr Gordon Wright\n\n\nThursday, March 10, 2022\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nLecture 01 Powerpoint Lecture 01 PDF Lecture 01 Quarto-html Lecture 01 as .qmd"
   },
   {
     "objectID": "week1.html",
@@ -184,170 +184,170 @@
   {
     "objectID": "lectures/Lecture01/Lecture01.html",
     "href": "lectures/Lecture01/Lecture01.html",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "",
-    "text": "A footnote↩︎"
+    "text": "Content Not Yet Available\n            \n            Dr Gordon Wright\n            \n            10, March, 2022"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#bullet-list-no-build",
     "href": "lectures/Lecture01/Lecture01.html#bullet-list-no-build",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Bullet List (no build)",
-    "text": "Bullet List (no build)\n\nPoint 1\nPoint 2\nPoint 3"
+    "text": "Bullet List (no build)\n      \n      Point 1\n      Point 2\n      Point 3"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#bullet-list-with-build",
     "href": "lectures/Lecture01/Lecture01.html#bullet-list-with-build",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Bullet List (with build)",
-    "text": "Bullet List (with build)\n\n\nList element A\nList element B\nList element C"
+    "text": "Bullet List (with build)\n      \n      \n      List element A\n      List element B\n      List element C"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-aside",
     "href": "lectures/Lecture01/Lecture01.html#page-with-aside",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with aside",
-    "text": "Page with aside\nHere is an important point\n\nAdditional commentary."
+    "text": "Page with aside\n      Here is an important point\n      \n      Additional commentary."
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-a-note-comment",
     "href": "lectures/Lecture01/Lecture01.html#page-with-a-note-comment",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with a note comment",
-    "text": "Page with a note comment\nHere is something I say\n\n\n\n\n\n\nNote\n\n\n\n\n\n\n\n\nNote\nThis is very noteworthy"
+    "text": "Page with a note comment\n      Here is something I say\n      \n      \n      \n      \n      \n      \n      Note\n      \n      \n      \n      \n      \n      \n      \n      \n      Note\n      This is very noteworthy"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#note",
     "href": "lectures/Lecture01/Lecture01.html#note",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Note",
-    "text": "Note\nThis is very noteworthy"
+    "text": "Note\n      This is very noteworthy"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-a-warning",
     "href": "lectures/Lecture01/Lecture01.html#page-with-a-warning",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with a warning",
-    "text": "Page with a warning\nHere is something I say\n\n\n\n\n\n\nWarning\n\n\n\n\n\n\n\n\nWarning\nBe WARNED!!"
+    "text": "Page with a warning\n      Here is something I say\n      \n      \n      \n      \n      \n      \n      Warning\n      \n      \n      \n      \n      \n      \n      \n      \n      Warning\n      Be WARNED!!"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#warning",
     "href": "lectures/Lecture01/Lecture01.html#warning",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Warning",
-    "text": "Warning\nBe WARNED!!"
+    "text": "Warning\n      Be WARNED!!"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-an-important-comment",
     "href": "lectures/Lecture01/Lecture01.html#page-with-an-important-comment",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with an important comment",
-    "text": "Page with an important comment\nHere is something I say\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\n\n\nImportant\nThis is very Important"
+    "text": "Page with an important comment\n      Here is something I say\n      \n      \n      \n      \n      \n      \n      Important\n      \n      \n      \n      \n      \n      \n      \n      \n      Important\n      This is very Important"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#important",
     "href": "lectures/Lecture01/Lecture01.html#important",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Important",
-    "text": "Important\nThis is very Important"
+    "text": "Important\n      This is very Important"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-a-tip",
     "href": "lectures/Lecture01/Lecture01.html#page-with-a-tip",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with a tip",
-    "text": "Page with a tip\nHere is something I say\n\n\n\n\n\n\nTip\n\n\n\n\n\n\n\n\nTip\nThis is a useful tip"
+    "text": "Page with a tip\n      Here is something I say\n      \n      \n      \n      \n      \n      \n      Tip\n      \n      \n      \n      \n      \n      \n      \n      \n      Tip\n      This is a useful tip"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#tip",
     "href": "lectures/Lecture01/Lecture01.html#tip",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Tip",
-    "text": "Tip\nThis is a useful tip"
+    "text": "Tip\n      This is a useful tip"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#page-with-a-caution",
     "href": "lectures/Lecture01/Lecture01.html#page-with-a-caution",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Page with a caution",
-    "text": "Page with a caution\nHere is something I say\n\n\n\n\n\n\nDanger\n\n\n\n\n\n\n\n\nCaution\nThis is something to be cautious about"
+    "text": "Page with a caution\n      Here is something I say\n      \n      \n      \n      \n      \n      \n      Danger\n      \n      \n      \n      \n      \n      \n      \n      \n      Caution\n      This is something to be cautious about"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#caution",
     "href": "lectures/Lecture01/Lecture01.html#caution",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Caution",
-    "text": "Caution\nThis is something to be cautious about"
+    "text": "Caution\n      This is something to be cautious about"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#two-columns-text",
     "href": "lectures/Lecture01/Lecture01.html#two-columns-text",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Two Columns (Text)",
-    "text": "Two Columns (Text)\n\n\nLeft column\n\nRight column"
+    "text": "Two Columns (Text)\n      \n      \n      Left column\n      \n      Right column"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#two-columns-text-image",
     "href": "lectures/Lecture01/Lecture01.html#two-columns-text-image",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Two Columns (Text + Image)",
-    "text": "Two Columns (Text + Image)\n\n\nLeft column\n\n\n\n\nLittleMonkeyLab"
+    "text": "Two Columns (Text + Image)\n      \n      \n      Left column\n      \n      \n      \n      \n      LittleMonkeyLab"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#slide-with-different-background-colour",
     "href": "lectures/Lecture01/Lecture01.html#slide-with-different-background-colour",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Slide with different background colour",
-    "text": "Slide with different background colour\nShout\nQuestion\ntakeaway\n\nA link to the BBC website"
+    "text": "Slide with different background colour\n      Shout\n      Question\n      takeaway\n      \n      A link to the BBC website"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#speaker-notes",
     "href": "lectures/Lecture01/Lecture01.html#speaker-notes",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Speaker Notes",
-    "text": "Speaker Notes\nHere is some content\n\nSpeaker notes (press ‘s’ when presenting to switch to speaker mode)."
+    "text": "Speaker Notes\n      Here is some content\n      \n      Speaker notes (press ‘s’ when presenting to switch to speaker mode)."
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#here-is-a-2-panel-tabset",
     "href": "lectures/Lecture01/Lecture01.html#here-is-a-2-panel-tabset",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Here is a 2 panel tabset",
-    "text": "Here is a 2 panel tabset\n\nTab ATab B\n\n\nContent for Tab A\n\n\n\n\nContent for Tab B"
+    "text": "Here is a 2 panel tabset\n      \n      Tab ATab B\n      \n      \n      Content for Tab A\n      \n      \n      \n      \n      Content for Tab B"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#slide-with-footnote",
     "href": "lectures/Lecture01/Lecture01.html#slide-with-footnote",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Slide with footnote",
-    "text": "Slide with footnote\nVery important point1 made to the class"
+    "text": "Slide with footnote\n      Very important point1 made to the class"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#columns-unequal-20-80",
     "href": "lectures/Lecture01/Lecture01.html#columns-unequal-20-80",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "2 columns unequal 20% 80%",
-    "text": "2 columns unequal 20% 80%\n\n\n\n\n\nList One\n\nItem A\nItem B\nItem C\n\n\n\n\n\n\nList Two\n\nItem X\nItem Y\nItem Z"
+    "text": "2 columns unequal 20% 80%\n      \n      \n      \n      \n      \n      List One\n      \n      Item A\n      Item B\n      Item C\n      \n      \n      \n      \n      \n      \n      List Two\n      \n      Item X\n      Item Y\n      Item Z"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
     "href": "lectures/Lecture01/Lecture01.html#level-2-centred-text-with-break-with-striking-takeaway-background",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Level 2 centred text with break  with striking takeaway background",
     "text": "Level 2 centred text with break  with striking takeaway background"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#references",
     "href": "lectures/Lecture01/Lecture01.html#references",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "References",
-    "text": "References\n(Andorsky, 2020; Datu et al., 2021; King, 2021; Rice et al., 2021)"
+    "text": "References\n      (Andorsky, 2020; Datu et al., 2021; King, 2021; Rice et al., 2021)"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#speaker-notes-1",
     "href": "lectures/Lecture01/Lecture01.html#speaker-notes-1",
-    "title": "Lecture01",
+    "title": "PS52007D: Lecture01",
     "section": "Speaker notes",
-    "text": "Speaker notes\nInclude speaker notes in another fenced code block.\n\nLike this."
+    "text": "Speaker notes\n      Include speaker notes in another fenced code block.\n      \n      Like this."
   },
   {
     "objectID": "preludes/prelude02.html",

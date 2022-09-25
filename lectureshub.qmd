@@ -23,8 +23,13 @@ listing:
     description: "Topic"
 ---
 
-Below is a comprehensive list of lectures. 
-
+Below is a comprehensive list of lectures.
 
 ::: {#lectures-listings}
 :::
+
+[Lecture 01
+Powerpoint](https://github.com/LittleMonkeyLab/PS52007Dslides/blob/gh-pages/_site/lectures/Lecture01/Lecture01.pptx){.uri}
+Lecture 01 PDF [Lecture 01
+Quarto-html](https://github.com/LittleMonkeyLab/PS52007Dslides/blob/gh-pages/_site/lectures/Lecture01/Lecture01.htm)
+Lecture 01 as .qmd

@@ -50,8 +50,9 @@ format:
   #   pagestyle: empty
   #   cosmiclatte: false # set true to turn on an off-white page background colour
   html:
-    theme: [default, pdf.scss]
-
+    template: _resources/templates/html.html
+  docx:
+    reference-doc: _resources/templates/custom-reference-doc.docx
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
   revealjs:
