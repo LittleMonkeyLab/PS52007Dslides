@@ -23,8 +23,7 @@ listing:
     description: "Topic"
 ---
 
-Below is a comprehensive list of preludes. 
-
+Below is a comprehensive list of preludes.
 
 ::: {#preludes-listings}
 :::
