@@ -1,0 +1,12 @@
+---
+title: "Lecture Slides"
+subtitle: "Everything you need to know about Lecture Slides"
+bibliography: sliderefs.bib
+csl: apa7.csl
+---
+
+this is some studf
+
+here are some slides
+
+[link](https://researchmethods.littlemonkeylab.com/slides/LectureSlides.html)
