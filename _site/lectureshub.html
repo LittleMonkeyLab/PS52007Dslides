@@ -69,7 +69,7 @@ ul.task-list{list-style: none;}
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-author','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -146,7 +146,7 @@ ul.task-list{list-style: none;}
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./labshub.html" class="sidebar-item-text sidebar-link">Labss</a>
+  <a href="./labshub.html" class="sidebar-item-text sidebar-link">Labs</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -191,6 +191,9 @@ ul.task-list{list-style: none;}
 <thead>
 <tr>
 <th>
+Type
+</th>
+<th>
 Week
 </th>
 <th>
@@ -200,35 +203,49 @@ Topic
 Author
 </th>
 <th>
+Date
+</th>
+<th>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1664098356054" data-listing-reading-time-sort="0.035" data-listing-title-sort="Lecture Slides" data-listing-filename-sort="LectureSlides.qmd">
+<tr data-index="0" data-listing-file-modified-sort="1664098356054" data-listing-reading-time-sort="0.035" data-listing-title-sort="Lecture Slides" data-listing-subtitle-sort="Everything you need to know about Lecture Slides" data-listing-description-sort="this is some studf">
 <td class="listing-title">
 <a href="./lectures/LectureSlides.html" class="title">Lecture Slides</a>
 </td>
 <td class="listing-subtitle">
-Everything you need to know about Lecture Slides
+<a href="./lectures/LectureSlides.html" class="subtitle">Everything you need to know about Lecture Slides</a>
+</td>
+<td class="listing-description">
+<a href="./lectures/LectureSlides.html" class="description">this is some studf</a>
 </td>
 <td class="listing-author">
 </td>
+<td class="listing-date">
+</td>
 <td class="listing-image">
-<img src="./images/slidehold.png" style="height: 40px;">
+<a href="./lectures/LectureSlides.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
 </td>
 </tr>
-<tr data-index="1" data-listing-date-sort="1646870400000" data-listing-file-modified-sort="1664098356048" data-listing-reading-time-sort="1.575" data-listing-title-sort="Lecture01" data-listing-filename-sort="Lecture01.qmd">
+<tr data-index="1" data-listing-date-sort="1646870400000" data-listing-file-modified-sort="1664098356048" data-listing-reading-time-sort="1.575" data-listing-title-sort="Lecture01" data-listing-subtitle-sort="Content Not Yet Available" data-listing-description-sort="Point 1" data-listing-image-sort="/lectures/Lecture01/images/LMLLOGO.png">
 <td class="listing-title">
 <a href="./lectures/Lecture01/Lecture01.html" class="title">Lecture01</a>
 </td>
 <td class="listing-subtitle">
-Content Not Yet Available
+<a href="./lectures/Lecture01/Lecture01.html" class="subtitle">Content Not Yet Available</a>
+</td>
+<td class="listing-description">
+<a href="./lectures/Lecture01/Lecture01.html" class="description">Point 1</a>
 </td>
 <td class="listing-author">
 Dr Gordon Wright
 </td>
+<td class="listing-date">
+Thursday, March 10, 2022
+</td>
 <td class="listing-image">
-<img src="./lectures/Lecture01/images/LMLLOGO.png" style="height: 40px;">
+<a href="./lectures/Lecture01/Lecture01.html" class="image"><img src="./lectures/Lecture01/images/LMLLOGO.png" style="height: 40px;"></a>
 </td>
 </tr>
 </tbody>

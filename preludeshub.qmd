@@ -15,9 +15,8 @@ listing:
     - title
     - subtitle
     - description
-    - reading-time
     - image
-  fields: [title, subtitle, description, author, reading-time, image]
+  fields: [title, subtitle, description, author, date, image]
   field-display-names:
     title: "Type"
     subtitle: "Week"

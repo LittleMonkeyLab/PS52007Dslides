@@ -1,9 +1,9 @@
 ---
-title: "Labss"
+title: "Labs"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: "Labs"
 listing:
-  id: labs-listings
+  id: Labs-listings
   image-placeholder: "/images/slidehold.png"
   categories: false
   contents: labs
@@ -11,10 +11,16 @@ listing:
   sort-ui: false
   filter-ui: false
   type: table
-  fields: [title, subtitle, author, image]
+  field-links: 
+    - title
+    - subtitle
+    - description
+    - image
+  fields: [title, subtitle, description, author, date, image]
   field-display-names:
-    title: "Week"
-    subtitle: "Topic"
+    title: "Type"
+    subtitle: "Week"
+    description: "Topic"
 ---
 
 Below is a comprehensive list of labs. 
