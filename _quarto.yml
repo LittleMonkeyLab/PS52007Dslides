@@ -5,13 +5,13 @@ project:
 # keep-tex: true
 
 website:
-  google-analytics: "G-KS294259KL"
+  google-analytics: ""
   page-navigation: true
-  title: "PS52007D Research Methods in Psychology"
-  description: "Homepage for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
-  site-url: "https:"
+  title: "Materials for PS52007D Research Methods in Psychology"
+  description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
+  site-url: "https://ps52007dslides.littlemonkeylab.com"
 
-  repo-url: https://github.com/LittleMonkeyLab/PS52007DWeb/
+  repo-url: https://github.com/LittleMonkeyLab/PS52007Dslides/
   repo-actions: [edit, issue]
 
   opengraph: true
@@ -47,67 +47,70 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - section: "Course information"
+      - section: "Course Materials"
         contents:
-          - href: course-overview.qmd
-            text: Overview
-          - href: course-syllabus.qmd
-            text: Syllabus
-          - href: course-support.qmd
-            text: Support
-          - href: course-team.qmd
-            text: Teaching team
-          - href: index.qmd
-            text: Schedule
+          - href: preludeshub.qmd
+            text: Preludes
+          - href: lectureshub.qmd
+            text: Lectures
+          - href: labshub.qmd
+            text: Labs
+          - href: extrashub.qmd
+            text: Extras
+          - href: oers.qmd
+            text: Open Educational Resources
 
 
       - text: "---"
-      - href: coursework-overview.qmd
-        text: Coursework overview
-      - section: "Critical Proposal"
-        contents:
-          - href: critical-proposal-description.qmd
-            text: Description
-          - href: critical-proposal-marking.qmd
-            text: Marking guidelines
-          - href: critical-proposal-tips-resources.qmd
-            text: Tips + resources
-      - section: "MiniDissertation"
-        contents:
-          - href: minidissertation-description.qmd
-            text: Description
-          - href: minidissertation-marking.qmd
-            text: Marking guidelines
-          - href: minidissertation-tips-resources.qmd
-            text: Tips + resources
-      - section: "CHIP Learning Log"
-        contents:
-          - href: chip-log-description.qmd
-            text: Description
-          - href: chip-log-marking.qmd
-            text: Marking guidelines
-          - href: chip-log-tips-resources.qmd
-            text: Tips + resources
+      - section: "Materials by week"
+        contents:      
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1
+      - href: week1.qmd
+        text: Week 1        
       - text: "---"
-      - section: "Computing"
-        contents:
-          - href: computing-access.qmd
-            text: Access
-          - href: computing-troubleshooting.qmd
-            text: Troubleshooting
-      - text: "---"
-      - href: course-faq.qmd
-        text: FAQ
-      - href: course-links.qmd
-        text: Useful links
-      - href: slides/LectureSlides.qmd
-        text: SlideHeavens
+      - section: "Further resources"
+        contents:      
+      - href: week1.qmd
+        text: Stuff
 
-#
-#           - href: course-faq.qmd
-#             text: FAQ
-#           - href: course-links.qmd
-#             text: Useful links
+
 
 
 
