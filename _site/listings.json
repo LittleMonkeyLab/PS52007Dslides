@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/labshub.html",
+    "items": []
+  },
+  {
+    "listing": "/allmaterials.html",
+    "items": [
+      "/lectures/Lecture00/Lecture00.html",
+      "/lectures/Lecture01/Lecture01.html",
+      "/preludes/prelude01.html",
+      "/preludes/prelude02.html"
+    ]
+  },
+  {
+    "listing": "/preludeshub.html",
+    "items": [
+      "/preludes/prelude01.html",
+      "/preludes/prelude02.html"
+    ]
+  },
+  {
+    "listing": "/lectureshub.html",
+    "items": [
+      "/lectures/Lecture00/Lecture00.html",
+      "/lectures/Lecture01/Lecture01.html"
+    ]
+  },
+  {
+    "listing": "/extrashub.html",
+    "items": []
+  }
+]
