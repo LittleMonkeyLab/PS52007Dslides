@@ -81,8 +81,8 @@ format:
     # papersize: a4
     # pagestyle: empty
     # cosmiclatte: false # set true to turn on an off-white page background colour
-  # html:
-  # #   template: _resources/templates/html.html
+    # html:
+    #   template: _resources/templates/test.html
   #
   # pptx:
   #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
