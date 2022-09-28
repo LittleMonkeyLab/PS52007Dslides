@@ -35,36 +35,31 @@ format:
     mainfont: Atkinson Hyperlegible
     margin: 0.2
     smaller: false
-    output-ext: htm
-  # pdf:
-  #   pdf-engine: pdfroff
-  #   theme: _resources/templates/pdf.scss
-  #   # template: _resources/templates/latex.tex
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    # output-ext: htm
+  pdf:
+    pdf-engine: lualatex
+    theme: _resources/templates/pdf.scss
+    template: _resources/templates/latex.tex
   #   # template: _resources/templates/latex-colour.tex
 
       #   fontsize: 12pt # 10, 11, or 12pt
-  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
-  #   sansfont: Atkinson Hyperlegible
-  #   classoption: landscape
-  #   papersize: a4
+    mainfont: Atkinson Hyperlegible # font used for main text throughout document
+    sansfont: Atkinson Hyperlegible
+    classoption: landscape
+    papersize: a4
   #   pagestyle: empty
   #   cosmiclatte: false # set true to turn on an off-white page background colour
-  html:
-    template: _resources/templates/html.html
+
   docx:
     reference-doc: _resources/templates/custom-reference-doc.docx
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
-  revealjs:
-    theme: _resources/templates/Lectures_RM.scss
-    mainfont: Atkinson Hyperlegible
-    margin: 0.2
-    self-contained: true
-    incremental: false
-    comments:
-      hypothesis: false
-    smaller: false
-    output-ext: htm
+  markdown: default
+
+
 
 
 editor: visual

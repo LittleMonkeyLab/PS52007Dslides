@@ -7,7 +7,6 @@ logo: "images/RMIPHEX.png"
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
 sidebar: false
 navbar: false
-navigation: frame
 ---
 
 # Induction Overview
@@ -37,18 +36,10 @@ In groups, you will:
 
 Do not worry! It's going to be a great adventure!
 
-![](images/paste-36AED111.png)
-
-## ![](images/paste-AE181EA7.png)
-
-## ![](images/paste-3587DBE7.png)
-
-## ![](images/paste-97C470B0.png){width="500"}
-
 ## A 'warm up' for your Y3 Dissertation
 
+::: small
 -   The same 20-week timeline
--   
 -   The same skills and techniques you will need
 -   Careful step-by-step guidance and support in the lab setting
 -   Scaled-down experiments and write-ups
@@ -56,6 +47,7 @@ Do not worry! It's going to be a great adventure!
 -   Tips and advice from world-class researchers
 -   Opportunity to think carefully about your final year Dissertation,
     and how to crush it!!
+:::
 
 ## Support and guidance
 
