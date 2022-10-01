@@ -1,0 +1,147 @@
+---
+title: 'Lecture01'
+subtitle: 'Content Not Yet Available'
+author: 'Dr Gordon Wright'
+date: "03/10/22"
+logo: "images/RMIPHEX.png"
+footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472) | [GitHub](www.github.com)"
+---
+
+# New Section
+
+## Bullet List (no build)
+
+-   Point 1
+
+-   Point 2
+
+-   Point 3
+
+## Bullet List (with build)
+
+::: incremental
+-   List element A
+-   List element B
+-   List element C
+:::
+
+
+## Page with a note comment
+
+Here is something I say
+
+::: {.callout-note collapse="false" appearance="default" icon="true"}
+## Note
+
+This is very noteworthy
+:::
+
+## Page with a warning
+
+Here is something I say
+
+::: {.callout-warning collapse="false" appearance="default" icon="true"}
+## Warning
+
+Be WARNED!!
+:::
+
+## Page with an important comment
+
+Here is something I say
+
+::: {.callout-important collapse="false" appearance="default" icon="true"}
+## Important
+
+This is very Important
+:::
+
+## Page with a tip
+
+Here is something I say
+
+::: {.callout-tip collapse="false" appearance="default" icon="true"}
+## Tip
+
+This is a useful tip
+:::
+
+---
+
+## Page with a caution
+
+Here is something I say
+
+::: {.callout-caution collapse="false" appearance="default" icon="true"}
+## Caution
+
+This is something to be cautious about
+:::
+
+## Slide with different background colour {background-color="teal"}
+
+[Shout]{.shout}
+
+[Question]{.question}
+
+[takeaway]{.takeaway}
+
+::: footerbox
+[A link to the BBC website](www.bbc.co.uk)
+:::
+
+# Section heading 2007
+
+subtitle
+
+---
+
+## Level 2 centred text with break <br> with striking takeaway background {.takeaway .center}
+---
+
+## References
+
+[@andorsky2020; @datu2021; @king2021; @rice2021]
+
+## Speaker notes
+
+Include speaker notes in another fenced code block.
+
+::: notes
+Like this.
+:::
+
+# Fragments with entrance
+
+::: fragment
+Fade in
+:::
+
+::: notes
+Fade out
+:::
+
+::: {.fragment .highlight-red}
+Highlight red
+:::
+
+::: {.fragment .highlight-current-red}
+Highlight current red (available in green and blue)
+:::
+
+::: {.fragment .fade-in-then-out}
+Fade in, then out
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+Fade in, then semi out
+:::
+
+::: {.fragment .fade-up}
+Slide up while fading in
+:::
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

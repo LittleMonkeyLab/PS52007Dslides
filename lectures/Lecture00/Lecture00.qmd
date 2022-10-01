@@ -4,9 +4,9 @@ subtitle: 'Induction Week Intro'
 author: 'Dr Gordon Wright'
 date: "09/27/22"
 logo: "images/RMIPHEX.png"
-footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
-sidebar: false
-navbar: false
+footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+
+
 ---
 
 # Induction Overview

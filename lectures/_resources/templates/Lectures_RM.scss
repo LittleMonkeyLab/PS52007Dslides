@@ -10,34 +10,29 @@ $presentation-title-slide-text-align: "left";
 $link-color: #75AADB;
 $code-block-font-size: 0.9em;
 
+
+
+// general
+$body-bg: #fff;
+$body-color: #000000;
+$link-color: #88398a;
+$presentation-font-size-root: 35px;
+
 /*-- scss:rules --*/
 
-.reveal .custom-title {
-  font-family: 'Delius Unicase', cursive;
-  color: #d2e3f3;
-  font-size: 3em;
-  position: absolute;
-  left: 20px;
-  top: 20px
+h1 {
+  font-weight: bold;
+  font-size: 1.6em;
 }
 
-.reveal .custom-subtitle {
-  font-family: 'Delius Unicase', cursive;
-  color: #d2e3f3;
-  font-size: 1.2em;
-  position: absolute;
-  left: 20px;
-  top: 200px
+h2 {
+  font-weight: bold;
+  font-size: 1.3em;
 }
 
-.reveal .custom-author {
-  color: #d2e3f3;
-  position: absolute;
-  text-align: right;
+h3 {
+  font-weight: bold;
   font-size: 1.1em;
-  right: 0px;
-  bottom: 40px;
-  line-height: 1.5em;
 }
 
 .reveal .takeaway h2 {
@@ -189,7 +184,7 @@ $code-block-font-size: 0.9em;
   text-align: center;
 }
 
-.shout { /*-- julie note: also not final (or accessible)! Just wanted something that isn't normal text - altering Header3 could also work here --*/
+.shout { /*-- note: also not final (or accessible)! Just wanted something that isn't normal text - altering Header3 could also work here --*/
   color: #FF744E;
   font-size: 1.5em;
   font-weight: bold;
@@ -237,4 +232,22 @@ reveal .calloutphoto {
   --emoji: unset;
   --icon: "\f083"; /* copied front FontAwesome */
   --icon-color: #c50a50;
+}
+
+.slide-logo {
+  display: block !important;
+  position: fixed !important;
+  top: 0 !important;
+  right: 10px !important;
+  max-height: 15% !important;
+  height: 100% !important;
+  width: auto !important;
+  color: $body-color !important;
+}
+
+.slide-number, .reveal.has-logo .slide-number {
+  bottom: 10px !important;
+  right: 10px !important;
+  top: unset !important;
+  color: $body-color !important;
 }

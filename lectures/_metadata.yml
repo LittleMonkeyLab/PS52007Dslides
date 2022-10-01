@@ -13,7 +13,8 @@ embed-resources: true
 self-contained: true
 slide-level: 2
 
-menu: false
+menu: true
+navigation-mode: linear
 # set a module code to show up on all HTML and PDF outputs - can be
 # any string, e.g. 'ST4011', or 'Spring Term'
 modulecode: 'PS52007D'
@@ -33,11 +34,24 @@ format:
   revealjs:
     theme: _resources/templates/Lectures_RM.scss
     mainfont: Atkinson Hyperlegible
+    logo: "images/RMIPHEX.png"
+    footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+    slide-number: c/t
+    menu: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: bottom-right
+    show-slide-number: all
+    title-slide-attributes:
+      data-background-color: "#000080"
+    preview-links: true
+    self-contained: true
     margin: 0.2
     smaller: false
     pdf-page-height-offset: -2
     max-width: 90%
     max-scale: 2.0
+    pdf-max-pages-per-slide: 1
     # output-ext: htm
   pdf:
     pdf-engine: lualatex

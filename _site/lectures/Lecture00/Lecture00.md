@@ -1,23 +1,14 @@
 ---
-author:
-- Dr Gordon Wright
-authors:
-- Dr Gordon Wright
 bibliography:
 - ../grefs.bib
 csl: ../apa7.csl
-date: 27, September, 2022
 date-format: DD, MMMM, YYYY
 editor: visual
 embed-resources: true
-footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
-logo: images/RMIPHEX.png
-menu: false
+menu: true
 modulecode: PS52007D
-navbar: false
-sidebar: false
-subtitle: Induction Week Intro
-title: Lecture00
+navigation-mode: linear
+pagetitle: lecture00
 toc-title: Table of contents
 website:
   description: Materials for PS52007D Research Methods in Psychology at
