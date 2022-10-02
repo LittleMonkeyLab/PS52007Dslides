@@ -191,7 +191,7 @@ h3 {
 }
 
 .question {
-  background-color: #FF744E;
+  font-color: #FF744E;
   font-style: italic;
 }
 
@@ -250,4 +250,10 @@ reveal .calloutphoto {
   right: 10px !important;
   top: unset !important;
   color: $body-color !important;
+}
+
+.reveal .bottomgap {
+  position: absolute !important;
+  right: 0px;
+  bottom: 100px;
 }

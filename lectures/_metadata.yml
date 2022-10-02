@@ -6,8 +6,8 @@
 
 # options for all formats - suggested not to change
 from: markdown+raw_attribute+raw_tex
-filters:
-  - _resources/scripts/shortcodes.lua
+# filters:
+#   - _resources/scripts/shortcodes.lua
 standalone: false
 embed-resources: true
 self-contained: true
