@@ -218,7 +218,7 @@ h3 {
 .reveal .slide-logo {
 bottom: 0;
 right: 30px !important;
-max-height: 9rem !important;
+max-height: 90px !important;
 height: auto !important;
 width: auto !important;
 }
@@ -239,8 +239,8 @@ reveal .calloutphoto {
   position: fixed !important;
   top: 0 !important;
   right: 10px !important;
-  max-height: 10% !important;
-  height: 80% !important;
+  max-height: auto !important;
+  height: auto !important;
   width: auto !important;
   color: $body-color !important;
 }

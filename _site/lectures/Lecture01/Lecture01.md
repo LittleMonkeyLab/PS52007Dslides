@@ -406,10 +406,10 @@ Self-Handicapping**]{.takeaway}
 -   What about the other 3 people in the group?
 :::
 
-[**The effect of Conscientiousness and Caffeine intake on Academic
-Self-Handicapping**]{.takeaway}
+## Rest of the group:
 
-Rest of the group: 
+[**The effect of Conscientiousness and Caffeine intake on Academic
+Self-Handicapping**]{.takeaway} 
 
 ::: incremental
 1.  [Extraversion]{.underline} (Low/High) & Sleep (Sound/Disturbed) on
@@ -489,9 +489,9 @@ decade?
 [BPS Research Ethics]{.underline} (respect, competence, responsibility,
 integrity)
 
-[Corporate Culture]{.underline} (e.g. \"***Move fast and break
-things***\" i.e. approaching the task with an emphasis on speed,
-disruption and experimentation)
+[Corporate Culture]{.underline} (e.g. "***Move fast and break things***"
+i.e. approaching the task with an emphasis on speed, disruption and
+experimentation)
 
 [Innovative Teaching]{.underline} (e.g. The Hacker School/Recurse
 Center - No feigning surprise, No 'Well-Actually's, No back-seat
