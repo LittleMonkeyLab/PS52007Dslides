@@ -63,33 +63,24 @@ website:
 -   Labs in general and the lab tomorrow
 -   Materials, independent study, SUCCESS!
 
-## A brief introduction from me
+## 
 
-![](images/CityDog.jpg){fig-align="center" width="300"}
+::: r-stack
+![](images/CityDog.jpg){.fragment fig-align="center" width="300"}
 
-## Yes.. And Dougal.
+![](images/DogBird.jpg){.fragment fig-align="center" width="300"}
 
-![](images/DogBird.jpg){fig-align="center" width="300"}
+![](images/PubDog.jpg){.fragment fig-align="center" width="300"}
 
-## He likes the pub
+![](images/FionaandDougalinthepub.JPG){.fragment fig-align="center"
+width="300"}
 
-![](images/PubDog.jpg){fig-align="center" width="300"}
+![](images/GordonBeth.JPG){.fragment fig-align="center" width="300"}
 
-## And Fiona (His favourite academic)
+![](images/OneShow.JPG){.fragment fig-align="center" width="800"}
 
-![](images/FionaandDougalinthepub.JPG){fig-align="center" width="300"}
-
-## Here's me being a fan boy!
-
-![](images/GordonBeth.JPG){fig-align="center" width="300"}
-
-## And being on the telly
-
-![](images/OneShow.JPG){fig-align="center" width="500"}
-
-## But I'm not TikTok Famous. (1.1M views, 220k likes)
-
-![](images/TIKTOKFamous.jpg){fig-align="center" width="300"}
+![](images/TIKTOKFamous.jpg){.fragment fig-align="center" width="400"}
+:::
 
 ## But seriously...
 
