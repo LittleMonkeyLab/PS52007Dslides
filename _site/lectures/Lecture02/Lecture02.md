@@ -159,7 +159,9 @@ The more you engage, the more topics you get to choose from.
 
 <https://www2.open.ac.uk/openlearn/CHIPs/>
 
-## A psychologist? A scientist?
+\<\<\<\<\<\<\< HEAD \## A psychologist? A scientist? ======= \## A
+psychologist? A scientist? \>\>\>\>\>\>\>
+6b312991f22ef2e10d3646130e0ffa4567fed6c9
 
 ![](images/paste-DE336E79.png)
 

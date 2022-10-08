@@ -1,0 +1,6 @@
+---
+title: "Lab02"
+author: "Dr. Gordon Wright"
+format: revealjs
+editor: visual
+---

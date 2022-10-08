@@ -100,7 +100,7 @@ Diener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds),
 
 Anyone can suggest a topic, by identifying where it sprang to mind.
 
-\# people need to approve it by confirming it is relevant, with a brief
+people need to approve it by confirming it is relevant, with a brief
 rationale.
 
 The more you engage, the more topics you get to choose from.
@@ -115,7 +115,9 @@ The more you engage, the more topics you get to choose from.
 
 <https://www2.open.ac.uk/openlearn/CHIPs/>
 
+
 ## A psychologist? A scientist?
+
 
 ![](images/paste-DE336E79.png)
 
