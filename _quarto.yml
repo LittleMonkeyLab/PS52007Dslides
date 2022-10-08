@@ -3,7 +3,7 @@ project:
   bibliography: references.bib
   csl: apa7.csl
 # keep-tex: true
-date-format: "DD, MMMM, YYYY"
+date-format: "DD MMMM, YYYY"
 website:
   title: "Materials for PS52007D Research Methods in Psychology"
   description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"

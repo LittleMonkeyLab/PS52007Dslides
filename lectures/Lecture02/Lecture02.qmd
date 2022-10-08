@@ -5,7 +5,6 @@ author: "Dr Gordon Wright"
 date: "10/10/22"
 logo: "images/RMIPHEX.png"
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
-format: revealjs
 links-as-notes: true
 preview-links: true
 ---
@@ -116,7 +115,7 @@ The more you engage, the more topics you get to choose from.
 
 <https://www2.open.ac.uk/openlearn/CHIPs/>
 
-## A psychologist? A scientist? 
+## A psychologist? A scientist?
 
 ![](images/paste-DE336E79.png)
 
