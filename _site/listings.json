@@ -2,7 +2,7 @@
   {
     "listing": "/labshub.html",
     "items": [
-      "/labs/Lab02.html"
+      "/labs/Lab02/Lab02.html"
     ]
   },
   {
@@ -10,7 +10,7 @@
     "items": [
       "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture02/Inductionweeksurvey.html",
-      "/labs/Lab02.html",
+      "/labs/Lab02/Lab02.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html",
       "/preludes/prelude01.html",

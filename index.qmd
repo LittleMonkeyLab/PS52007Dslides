@@ -4,11 +4,6 @@ subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: [Lectures, Labs, Preludes, Extras]
 ---
 
-testings 1422
-
-Thisy pag[e GGFINAL TEST PRE
-LUNCH](https://github.com/LittleMonkeyLab/PS52007DWeb/blob/58b7f96a7391d6c29da5c94bd5966b72b22e53a5/docs/slides/Lecture01/Lecture01.pdf)cjiiontains
-an outline of the topics, content, and assignments for the semester.
-Note that this schedule will be updated as the semester progresses and
-the timeline of topics and assignments might be updated throughout the
-[semester](docs/slides/Lecture01/Lecture01.pdf).
+Note that this schedule and relevant content will be updated as the
+semester progresses and the timeline of topics and assignments might be
+updated throughout the [semester](docs/slides/Lecture01/Lecture01.pdf).

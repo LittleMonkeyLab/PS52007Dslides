@@ -43,7 +43,7 @@ format:
     controls-layout: bottom-right
     show-slide-number: all
     title-slide-attributes:
-      data-background-color: "#228B22"
+      data-background-color: "#000080"
     preview-links: true
     self-contained: true
     margin: 0.2
@@ -53,19 +53,19 @@ format:
     max-scale: 2.0
     pdf-max-pages-per-slide: 1
     # output-ext: htm
-  pdf:
-    pdf-engine: lualatex
-    theme: _resources/templates/pdf.scss
-    template: _resources/templates/latex.tex
-  #   # template: _resources/templates/latex-colour.tex
-
-      #   fontsize: 12pt # 10, 11, or 12pt
-    mainfont: Atkinson Hyperlegible # font used for main text throughout document
-    sansfont: Atkinson Hyperlegible
-    classoption: landscape
-    papersize: a4
-  #   pagestyle: empty
-  #   cosmiclatte: false # set true to turn on an off-white page background colour
+  # pdf:
+  #   pdf-engine: lualatex
+  #   theme: _resources/templates/pdf.scss
+  #   template: _resources/templates/latex.tex
+  # #   # template: _resources/templates/latex-colour.tex
+  #
+  #     #   fontsize: 12pt # 10, 11, or 12pt
+  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
+  #   sansfont: Atkinson Hyperlegible
+  #   classoption: landscape
+  #   papersize: a4
+  # #   pagestyle: empty
+  # #   cosmiclatte: false # set true to turn on an off-white page background colour
 
   docx:
     reference-doc: _resources/templates/custom-reference-doc.docx

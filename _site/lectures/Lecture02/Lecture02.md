@@ -300,19 +300,23 @@ and designing good experiments.
 
 # Lab preview
 
-## On Tuesday
+## Tomorrow
 
-We will be working on:
+::: {.incremental .smaller}
+1.  Complete the Pulse
+2.  Finalise your groups (3 or 4 people, all from same Personal Tutorial
+    group)
+    -   Submit a list of names to your Lab Tutor
 
--   How to do a literature search like a pro (based on your newly chosen
-    topic!)
+    -   Discuss any problems you are facing
+3.  Agree a broad general focus for your group research and write it in
+    your lab notebook
+    -   This is now functioning and available in the right hand margin
+        of the VLE page. It's an experiment, so please give feedback!
+4.  Start establishing how you are going to work as a team and
+    identifying milestones
+:::
 
--   Some ideas for group working and time management over the year
-
--   Previewing your week 3 Personal Tutor meeting
-
-**Activities and resources will be provided**
-
-### Any Questions?
+# Any Questions?
 
 # 
