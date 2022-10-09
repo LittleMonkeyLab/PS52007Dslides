@@ -29,7 +29,7 @@ editor: visual
 
 # Teamwork & Project Management ideas
 
-## Apply "Scrum' process?
+## Apply "Scrum" process?
 
 In short, it's a transparent, accountable, transparent and pragmatic
 approach to project delivery.
