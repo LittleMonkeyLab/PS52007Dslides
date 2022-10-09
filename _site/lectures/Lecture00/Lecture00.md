@@ -2,7 +2,7 @@
 bibliography:
 - ../grefs.bib
 csl: ../apa7.csl
-date-format: DD, MMMM, YYYY
+date-format: DD MMMM, YYYY
 editor: visual
 embed-resources: true
 menu: true

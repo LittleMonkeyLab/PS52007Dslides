@@ -6,8 +6,8 @@ authors:
 bibliography:
 - ../grefs.bib
 csl: ../apa7.csl
-date: 03, October, 2022
-date-format: DD, MMMM, YYYY
+date: 03 October, 2022
+date-format: DD MMMM, YYYY
 editor: visual
 embed-resources: true
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"

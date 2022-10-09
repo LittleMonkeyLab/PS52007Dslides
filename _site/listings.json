@@ -1,12 +1,16 @@
 [
   {
     "listing": "/labshub.html",
-    "items": []
+    "items": [
+      "/labs/Lab02.html"
+    ]
   },
   {
     "listing": "/allmaterials.html",
     "items": [
       "/lectures/Lecture00/Lecture00.html",
+      "/lectures/Lecture02/Inductionweeksurvey.html",
+      "/labs/Lab02.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html",
       "/preludes/prelude01.html",
@@ -24,6 +28,7 @@
     "listing": "/lectureshub.html",
     "items": [
       "/lectures/Lecture00/Lecture00.html",
+      "/lectures/Lecture02/Inductionweeksurvey.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html"
     ]
