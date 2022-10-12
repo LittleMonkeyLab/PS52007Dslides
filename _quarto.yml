@@ -1,15 +1,15 @@
 project:
   type: website
-  bibliography: references.bib
-  csl: apa7.csl
+
+  # bibliography: references.bib
+  # csl: apa7.csl
 # keep-tex: true
 date-format: "DD MMMM, YYYY"
 website:
   title: "Materials for PS52007D Research Methods in Psychology"
   description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
   site-url: "https://ps52007dslides.littlemonkeylab.com"
-  resources:
-    - "_site/lectures/*.pptx"
+
 
   repo-url: https://github.com/LittleMonkeyLab/PS52007Dslides/
   repo-actions: [edit, issue]
@@ -91,4 +91,4 @@ format:
 editor: visual
 
 execute:
-  freeze: auto
+  freeze: true
