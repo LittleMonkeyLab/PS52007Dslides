@@ -1,11 +1,11 @@
 ---
-title: 'Lecture02'
-subtitle: 'Asking good questions and gathering reliable evidence'
+title: 'Lecture03'
+subtitle: 'http://ps52007dslides.littlemonkeylab.com/lectures/Lecture01/Lecture01.html#/title-slide'
 author: "Dr Gordon Wright"
 date: "10/10/22"
 logo: "images/RMIPHEX.png"
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
-links-as-notes: true
+chalkboard: true
 preview-links: true
 ---
 
