@@ -2,15 +2,31 @@
   {
     "listing": "/labshub.html",
     "items": [
-      "/labs/Lab02/Lab02.html"
+      "/labs/Lab02/Lab02.html",
+      "/labs/Lab03/Lab03.html",
+      "/labs/Lab04/Lab04.html",
+      "/labs/Lab05/Lab05.html",
+      "/labs/Lab06/Lab06.html",
+      "/labs/Lab07/Lab07.html",
+      "/labs/Lab08/Lab08.html",
+      "/labs/Lab09/Lab09.html",
+      "/labs/Lab10/Lab10.html"
     ]
   },
   {
     "listing": "/allmaterials.html",
     "items": [
-      "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture02/Inductionweeksurvey.html",
       "/labs/Lab02/Lab02.html",
+      "/labs/Lab03/Lab03.html",
+      "/labs/Lab04/Lab04.html",
+      "/labs/Lab05/Lab05.html",
+      "/labs/Lab06/Lab06.html",
+      "/labs/Lab07/Lab07.html",
+      "/labs/Lab08/Lab08.html",
+      "/labs/Lab09/Lab09.html",
+      "/labs/Lab10/Lab10.html",
+      "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html",
       "/preludes/prelude01.html",
@@ -27,8 +43,8 @@
   {
     "listing": "/lectureshub.html",
     "items": [
-      "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture02/Inductionweeksurvey.html",
+      "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html"
     ]

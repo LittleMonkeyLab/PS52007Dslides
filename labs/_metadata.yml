@@ -67,11 +67,11 @@ format:
   # #   pagestyle: empty
   # #   cosmiclatte: false # set true to turn on an off-white page background colour
 
-  docx:
-    reference-doc: _resources/templates/custom-reference-doc.docx
+  # docx:
+  #   reference-doc: _resources/templates/custom-reference-doc.docx
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
-  markdown: default
+
 
 
 
@@ -79,4 +79,4 @@ format:
 editor: visual
 
 execute:
-  freeze: auto
+  freeze: true
