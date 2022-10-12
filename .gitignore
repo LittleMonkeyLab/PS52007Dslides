@@ -10,3 +10,8 @@ PS52007Dslides.Rproj
 .Rdata
 .httr-oauth
 .DS_Store
+
+_site/lectures/Lecture**/Lecture**.pdf
+_site/labs/Lab**/Lab**.pdf
+_site/preludes/Prelude**/Prelude**.pdf
+_site/extras/Extra**/Extra**.pdf
