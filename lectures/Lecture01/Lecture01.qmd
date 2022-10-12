@@ -5,9 +5,8 @@ author: 'Dr Gordon Wright'
 date: "10/03/22"
 logo: "images/RMIPHEX.png"
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
-format: revealjs
-links-as-notes: true
 preview-links: true
+chalkboard: true
 ---
 
 ## Key topics today

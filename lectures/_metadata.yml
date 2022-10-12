@@ -8,9 +8,7 @@
 from: markdown+raw_attribute+raw_tex
 # filters:
 #   - _resources/scripts/shortcodes.lua
-standalone: false
-embed-resources: true
-self-contained: true
+
 slide-level: 2
 
 menu: true
@@ -45,7 +43,8 @@ format:
     title-slide-attributes:
       data-background-color: "#000080"
     preview-links: true
-    self-contained: true
+    # standalone: false
+    # embed-resources: true
     margin: 0.2
     smaller: false
     pdf-page-height-offset: -2
@@ -79,4 +78,4 @@ format:
 editor: visual
 
 execute:
-  freeze: auto
+  freeze: true

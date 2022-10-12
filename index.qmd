@@ -4,4 +4,7 @@ subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: [Lectures, Labs, Preludes, Extras]
 ---
 
-Note that this schedule and relevant content will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the [semester](_site/lectures/Lecture01/Lecture01.pdf).
+Note that this schedule and relevant content will be updated as the
+semester progresses and the timeline of topics and assignments might be
+updated throughout the
+[semester](_site/lectures/Lecture01/Lecture01.pdf).
