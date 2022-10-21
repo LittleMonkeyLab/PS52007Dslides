@@ -1,0 +1,158 @@
+---
+title: 'Lecture04'
+subtitle: 'Research, me-search & Inclusivity'
+author: "Dr Gordon Wright"
+date: "10/24/22"
+logo: "images/RMIPHEX.png"
+footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+chalkboard: true
+preview-links: true
+bibliography: references.bib
+---
+
+## Key topics today
+
+The week ahead (week 4)
+
+-   Personal Tutor Meeting about well-being
+-   Critical Proposal overview and tips
+-   Lab preview - Literature search and management
+    -   Your Critical Proposal Target Paper
+
+## Personal Tutor Meeting Week 4
+
+This week (week 4) your PT session is all about well-being
+
+::: callout-tip
+Please familiarise yourself with well-being services available in
+college
+
+<https://www.gold.ac.uk/students/wellbeing/wellbeing-service/>
+:::
+
+# Any Questions?
+
+## A crisis
+
+![](images/paste-20A00E59.png)
+
+## Later lectures
+
+The Reproducibility Crisis and the response - Open Science
+
+## Research & me-search
+
+![](images/paste-099457BD.png)
+
+[@altenmuller2021]
+
+## another
+
+Reflexivity and the psychologist
+
+[@morawski2005]
+
+## Inclusive Research
+
+Inclusive research is a term that was coined in the early twenty first
+century to embrace participatory and emancipatory approaches to research
+with people with learning/intellectual disabilities (Walmsley 2001)
+
+Inclusive research embraces participatory and emancipatory approaches to
+research. Its characteristics are that it:\
+· Is owned (not necessarily initiated) by lay people\
+· Furthers the interests of lay people, researchers are on their side\
+· Is collaborative\
+· Enables lay people to exercise control over process and outcomes\
+· Produces outputs that are accessible.\
+(adapted from Walmsley and Johnson 2003)
+
+## context
+
+wider rights movement. Nothing about us without us (Aspis 2000), a
+slogan of the disabled people's movement, has been applied to research
+as well as other areas.
+
+exclusivity not only touches but also contorts and diminishes all
+aspects of psychological science.
+
+@ledgerwood2022
+
+## OSF
+
+![](images/paste-B91D98B6.png)
+
+## Psyarxiv
+
+@conry-murray2022
+
+![](images/paste-1C2D781F.png)
+
+# Questions?
+
+## Lab activities
+
+Keep working!
+
+![](images/paste-B1D55680.png)
+
+![](images/paste-96A3FF92.png)
+
+## Notation
+
+We use a notation system to refer to these designs:
+
+2x2 = Two-way ANOVA. There are two IVS, the first IV has two levels, the
+second IV has 2 levels. There are a total of 4 conditions, 2x2 = 4.
+
+2x3 = Two-way ANOVA. There are two IVs, the first IV has two levels, the
+second IV has three levels. There are a total of 6 conditions, 2x3 = 6
+
+3x2 = Two-way ANOVA. There are two IVs, the first IV has three levels,
+the second IV has two levels. There are a total of 6 conditions, 3x2=6.
+
+4x4 = Two-way ANOVA. There are two IVs, the first IV has 4 levels, the
+second IV has 4 levels. There are a total of 16 condition, 4x4=16
+
+2x3x2 = Three-way ANOVA.There are a total of three IVs. The first IV has
+2 levels. The second IV has 3 levels. The third IV has 2 levels. There
+are a total of 12 condition. 2x3x2 = 12.
+
+## Review
+
+[Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering
+Questions with Data (Textbook): Introductory Statistics for Psychology
+Students.
+https://doi.org/10.17605/OSF.IO/JZE52](https://crumplab.github.io/statistics/)
+
+CC BY SA 4.0
+
+<https://crumplab.com/statistics/07-ANOVA.html>
+
+<https://crumplab.com/statistics/10-MixedANOVA.html#x2-designs>
+
+-   no IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, interaction
+-   IV1 main effect, IV2 main effect, no interaction
+-   IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, IV2 main effect, no interaction
+-   no IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, no IV2 main effect, interaction
+
+## graphs
+
+-   1 = there was a main effect for IV1.
+-   \~1 = there was **not** a main effect for IV1
+-   2 = there was a main effect for IV2
+-   \~2 = there was **not** a main effect of IV2
+-   1x2 = there was an interaction
+-   \~1x2 = there was **not** an interaction
+
+## graphs
+
+![](images/paste-F1923E23.png)
+
+## graphs 2
+
+![](images/paste-CEDD217D.png)
