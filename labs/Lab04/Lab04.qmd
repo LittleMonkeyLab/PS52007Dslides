@@ -1,8 +1,20 @@
 ---
 title: "Lab04"
+subtitle: "Variables, Design & Notation"
 author: "Dr. Gordon Wright"
-format: revealjs
+date: "10/25/2022"
+chalkboard: true
 editor: visual
 ---
 
-# Content pending
+# Getting clarity on your variables
+
+## Individual mini-dissertations
+
+2x2 ANOVA design with a single continuous DV
+
+Factorial
+
+Mixed
+
+Repeated-Measures (within-subject)
