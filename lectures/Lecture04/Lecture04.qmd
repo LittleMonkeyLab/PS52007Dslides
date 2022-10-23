@@ -15,9 +15,11 @@ bibliography: references.bib
 The week ahead (week 4)
 
 -   Personal Tutor Meeting about well-being
--   Critical Proposal overview and tips
--   Lab preview - Literature search and management
-    -   Your Critical Proposal Target Paper
+-   Departmental Seminar (week 5)
+-   Design & Analysis Quiz due next week (week 5)
+-   Research as a human enterprise
+-   Lab preview - Keep pressing on with Critical Proposal (due week 5)
+    -   Try to nail down your variables and your design ON THE PAGE!
 
 ## Personal Tutor Meeting Week 4
 
@@ -30,15 +32,61 @@ college
 <https://www.gold.ac.uk/students/wellbeing/wellbeing-service/>
 :::
 
+## Departmental Seminar (week 5)
+
+::: callout-important
+## Dr Valentina Cazzato Liverpool JMU
+
+Behavioural and Neural Signatures of Visual Body (mis)perception
+
+Thursday, 3 November 2022 at 16:00 -- 17:00 - RHB 300a
+
+[Visual representation of the body is a key aspect of self-body image.
+Its importance in our social life is proved by the unreasonable time and
+effort we put on taking care of our physical appearance, including use
+of plastic surgery, as well as by the severe mental disorders linked to
+its disturbance, such as Eating Disorders.]{.smaller}
+:::
+
 # Any Questions?
 
-## A crisis
+## In the first lecture I mentioned...
+
+![](images/cooltext421879728700980.png)
+
+## But what did I mean? 
+
+Your individual 'take' on Psychology?
+
+The Psychology you need or want for the future?
+
+A career path with hundreds of different routes?
+
+[or is it more personal than that?]{.shout}
+
+## Do you need a 'passion' in Psychology?
+
+We (staff) talk about this sometimes.
+
+Is it critical that you find a topic of interest to you?
+
+Does it help? Does it hinder?
+
+Is it possible to be a Psychologist without a personal stake?
+
+## Around us a crisis is unfolding
+
+![](images/paste-91273085.png)
+
+## Psychology is grossly misunderstood
 
 ![](images/paste-20A00E59.png)
 
-## Later lectures
+## Next week
 
-The Reproducibility Crisis and the response - Open Science
+The Replication Crisis and our ongoing response - Open Science
+
+The practice of Psychology we encourage in you!
 
 ## Research & me-search
 
@@ -46,9 +94,15 @@ The Reproducibility Crisis and the response - Open Science
 
 [@altenmuller2021]
 
-## another
+## Reflexivity
 
 Reflexivity and the psychologist
+
+Reflexivity generally refers to the examination of one's own beliefs,
+judgments and practices during the research process and how these may
+have influenced the research.
+
+An integral part of the Qualitative 'tradition'
 
 [@morawski2005]
 
@@ -58,29 +112,45 @@ Inclusive research is a term that was coined in the early twenty first
 century to embrace participatory and emancipatory approaches to research
 with people with learning/intellectual disabilities (Walmsley 2001)
 
-Inclusive research embraces participatory and emancipatory approaches to
-research. Its characteristics are that it:\
+Inclusive research embraces [participatory]{.underline} and
+[emancipatory]{.underline} approaches to research.
+
+Its characteristics are that it:\
 · Is owned (not necessarily initiated) by lay people\
 · Furthers the interests of lay people, researchers are on their side\
 · Is collaborative\
 · Enables lay people to exercise control over process and outcomes\
 · Produces outputs that are accessible.\
-(adapted from Walmsley and Johnson 2003)
 
 ## context
 
-wider rights movement. Nothing about us without us (Aspis 2000), a
-slogan of the disabled people's movement, has been applied to research
+Research situated within the wider rights movement.
+
+#### "Nothing about us without us" (Aspis, 2000).
+
+a slogan of the disabled people's movement, has been applied to research
 as well as other areas.
 
-exclusivity not only touches but also contorts and diminishes all
-aspects of psychological science.
+"exclusivity not only touches but also contorts and diminishes all
+aspects of psychological science" (Ledgerwood et al., 2022, p.2).
 
 @ledgerwood2022
 
-## OSF
+## OSF (Open Science Foundation)
 
 ![](images/paste-B91D98B6.png)
+
+## Open Data and Open Materials
+
+![](images/paste-CD2465BA.png)
+
+## Open Data
+
+![](images/paste-4D9E8FC8.png)
+
+## Open Materials
+
+![](images/paste-037992D4.png)
 
 ## Psyarxiv
 
@@ -94,7 +164,11 @@ aspects of psychological science.
 
 Keep working!
 
+Formalise your individual design
+
 ![](images/paste-B1D55680.png)
+
+## More specific
 
 ![](images/paste-96A3FF92.png)
 
@@ -102,21 +176,21 @@ Keep working!
 
 We use a notation system to refer to these designs:
 
-2x2 = Two-way ANOVA. There are two IVS, the first IV has two levels, the
-second IV has 2 levels. There are a total of 4 conditions, 2x2 = 4.
+[[2x2 = Two-way ANOVA]{.underline}. There are two IVS, the first IV has
+two levels, the second IV has 2 levels. There are a total of 4
+conditions, 2x2 = 4.]{.smaller}
 
-2x3 = Two-way ANOVA. There are two IVs, the first IV has two levels, the
-second IV has three levels. There are a total of 6 conditions, 2x3 = 6
+[[2x3 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+two levels, the second IV has three levels. There are a total of 6
+conditions, 2x3 = 6]{.smaller}
 
-3x2 = Two-way ANOVA. There are two IVs, the first IV has three levels,
-the second IV has two levels. There are a total of 6 conditions, 3x2=6.
+[[4x4 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+4 levels, the second IV has 4 levels. There are a total of 16 condition,
+4x4=16]{.smaller}
 
-4x4 = Two-way ANOVA. There are two IVs, the first IV has 4 levels, the
-second IV has 4 levels. There are a total of 16 condition, 4x4=16
-
-2x3x2 = Three-way ANOVA.There are a total of three IVs. The first IV has
-2 levels. The second IV has 3 levels. The third IV has 2 levels. There
-are a total of 12 condition. 2x3x2 = 12.
+[[**2x3x2 = Three-way ANOVA**]{.underline}.There are a total of three
+IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV
+has 2 levels. There are a total of 12 condition. 2x3x2 = 12.]{.smaller}
 
 ## Review
 
@@ -131,6 +205,28 @@ CC BY SA 4.0
 
 <https://crumplab.com/statistics/10-MixedANOVA.html#x2-designs>
 
+## 3 'flavours' of 2x2 ANOVA
+
+**2bx2b** - Between-subjects/Factorial ANOVA
+
+**2wx2w** - Within-subject/Repeated Measures ANOVA
+
+**2bx2w** or **2wx2b** - Mixed ANOVA
+
+You will be using one of these (all supported by SPSS Exercise 1)
+
+JAMOVI is a reasonable alternative to SPSS
+
+## The 3 effects possible in a 2x2 ANOVA
+
+Main effect of IV1
+
+Main effect of IV2
+
+Interaction of IV1\*IV2
+
+## therefore 8 possible 'outcomes' of a 2x2 ANOVA
+
 -   no IV1 main effect, no IV2 main effect, no interaction
 -   IV1 main effect, no IV2 main effect, no interaction
 -   IV1 main effect, no IV2 main effect, interaction
@@ -140,7 +236,7 @@ CC BY SA 4.0
 -   no IV1 main effect, IV2 main effect, interaction
 -   no IV1 main effect, no IV2 main effect, interaction
 
-## graphs
+## graph key
 
 -   1 = there was a main effect for IV1.
 -   \~1 = there was **not** a main effect for IV1
@@ -149,10 +245,12 @@ CC BY SA 4.0
 -   1x2 = there was an interaction
 -   \~1x2 = there was **not** an interaction
 
-## graphs
+## Bar charts
 
 ![](images/paste-F1923E23.png)
 
-## graphs 2
+## Line plots
 
 ![](images/paste-CEDD217D.png)
+
+## References

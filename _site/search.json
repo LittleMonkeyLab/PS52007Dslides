@@ -95,7 +95,70 @@
     "href": "labs/Lab04/Lab04.html#individual-mini-dissertations",
     "title": "Lab04",
     "section": "Individual mini-dissertations",
-    "text": "Individual mini-dissertations\n2x2 ANOVA design with a single continuous DV\nFactorial\nMixed\nRepeated-Measures (within-subject)\n\n\n\nPS52007D Research Methods VLE"
+    "text": "Individual mini-dissertations\nMust conform to a 2x2 ANOVA with a single continuous DV"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#lab-activities",
+    "href": "labs/Lab04/Lab04.html#lab-activities",
+    "title": "Lab04",
+    "section": "Lab activities",
+    "text": "Lab activities\nFormalise your individual design"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#more-specific",
+    "href": "labs/Lab04/Lab04.html#more-specific",
+    "title": "Lab04",
+    "section": "More specific",
+    "text": "More specific"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#notation",
+    "href": "labs/Lab04/Lab04.html#notation",
+    "title": "Lab04",
+    "section": "Notation",
+    "text": "Notation\nWe use a notation system to refer to these designs:\n2x2 = Two-way ANOVA. There are two IVS, the first IV has two levels, the second IV has 2 levels. There are a total of 4 conditions, 2x2 = 4.\n2x3 = Two-way ANOVA. There are two IVs, the first IV has two levels, the second IV has three levels. There are a total of 6 conditions, 2x3 = 6\n4x4 = Two-way ANOVA. There are two IVs, the first IV has 4 levels, the second IV has 4 levels. There are a total of 16 condition, 4x4=16\n2x3x2 = Three-way ANOVA.There are a total of three IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV has 2 levels. There are a total of 12 condition. 2x3x2 = 12."
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#flavours-of-2x2-anova",
+    "href": "labs/Lab04/Lab04.html#flavours-of-2x2-anova",
+    "title": "Lab04",
+    "section": "3 ‘flavours’ of 2x2 ANOVA",
+    "text": "3 ‘flavours’ of 2x2 ANOVA\n2bx2b - Between-subjects/Factorial ANOVA\n2wx2w - Within-subject/Repeated Measures ANOVA\n2bx2w or 2wx2b - Mixed ANOVA\nYou will be using one of these (all supported by SPSS Exercise 1 and 2)\nJAMOVI is a reasonable alternative to SPSS (also supported in Exercise 1 and 2)"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#the-3-effects-possible-in-a-2x2-anova",
+    "href": "labs/Lab04/Lab04.html#the-3-effects-possible-in-a-2x2-anova",
+    "title": "Lab04",
+    "section": "The 3 effects possible in a 2x2 ANOVA",
+    "text": "The 3 effects possible in a 2x2 ANOVA\nMain effect of IV1\nMain effect of IV2\nInteraction of IV1*IV2"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#therefore-8-possible-outcomes-of-a-2x2-anova",
+    "href": "labs/Lab04/Lab04.html#therefore-8-possible-outcomes-of-a-2x2-anova",
+    "title": "Lab04",
+    "section": "therefore 8 possible ‘outcomes’ of a 2x2 ANOVA",
+    "text": "therefore 8 possible ‘outcomes’ of a 2x2 ANOVA\n\nno IV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, interaction\nIV1 main effect, IV2 main effect, no interaction\nIV1 main effect, IV2 main effect, interaction\nno IV1 main effect, IV2 main effect, no interaction\nno IV1 main effect, IV2 main effect, interaction\nno IV1 main effect, no IV2 main effect, interaction"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#graph-key-for-following-charts",
+    "href": "labs/Lab04/Lab04.html#graph-key-for-following-charts",
+    "title": "Lab04",
+    "section": "graph key for following charts",
+    "text": "graph key for following charts\n\n1 = there was a main effect for IV1.\n~1 = there was not a main effect for IV1\n2 = there was a main effect for IV2\n~2 = there was not a main effect of IV2\n1x2 = there was an interaction\n~1x2 = there was not an interaction"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#bar-charts",
+    "href": "labs/Lab04/Lab04.html#bar-charts",
+    "title": "Lab04",
+    "section": "Bar charts",
+    "text": "Bar charts\nhttps://crumplab.com/statistics/10-MixedANOVA.html#fig-10bar22"
+  },
+  {
+    "objectID": "labs/Lab04/Lab04.html#line-plots",
+    "href": "labs/Lab04/Lab04.html#line-plots",
+    "title": "Lab04",
+    "section": "Line plots",
+    "text": "Line plots\nhttps://crumplab.com/statistics/10-MixedANOVA.html#fig-10lines22\n\n\n\nPS52007D Research Methods VLE"
   },
   {
     "objectID": "labs/Lab02/Lab02.html#todays-activities",
@@ -228,7 +291,7 @@
     "href": "lectures/Lecture04/Lecture04.html#key-topics-today",
     "title": "Lecture04",
     "section": "Key topics today",
-    "text": "Key topics today\nThe week ahead (week 4)\n\nPersonal Tutor Meeting about well-being\nCritical Proposal overview and tips\nLab preview - Literature search and management\n\nYour Critical Proposal Target Paper"
+    "text": "Key topics today\nThe week ahead (week 4)\n\nPersonal Tutor Meeting about well-being\nDepartmental Seminar (week 5)\nDesign & Analysis Quiz due next week (week 5)\nResearch as a human enterprise\nLab preview - Keep pressing on with Critical Proposal (due week 5)\n\nTry to nail down your variables and your design ON THE PAGE!"
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#personal-tutor-meeting-week-4",
@@ -238,18 +301,53 @@
     "text": "Personal Tutor Meeting Week 4\nThis week (week 4) your PT session is all about well-being\n\n\n\n\n\n\nTip\n\n\nPlease familiarise yourself with well-being services available in college\nhttps://www.gold.ac.uk/students/wellbeing/wellbeing-service/"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#a-crisis",
-    "href": "lectures/Lecture04/Lecture04.html#a-crisis",
+    "objectID": "lectures/Lecture04/Lecture04.html#departmental-seminar-week-5",
+    "href": "lectures/Lecture04/Lecture04.html#departmental-seminar-week-5",
     "title": "Lecture04",
-    "section": "A crisis",
-    "text": "A crisis"
+    "section": "Departmental Seminar (week 5)",
+    "text": "Departmental Seminar (week 5)\n\n\n\n\n\n\nDr Valentina Cazzato Liverpool JMU\n\n\nBehavioural and Neural Signatures of Visual Body (mis)perception\nThursday, 3 November 2022 at 16:00 – 17:00 - RHB 300a\nVisual representation of the body is a key aspect of self-body image. Its importance in our social life is proved by the unreasonable time and effort we put on taking care of our physical appearance, including use of plastic surgery, as well as by the severe mental disorders linked to its disturbance, such as Eating Disorders."
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#later-lectures",
-    "href": "lectures/Lecture04/Lecture04.html#later-lectures",
+    "objectID": "lectures/Lecture04/Lecture04.html#in-the-first-lecture-i-mentioned",
+    "href": "lectures/Lecture04/Lecture04.html#in-the-first-lecture-i-mentioned",
     "title": "Lecture04",
-    "section": "Later lectures",
-    "text": "Later lectures\nThe Reproducibility Crisis and the response - Open Science"
+    "section": "In the first lecture I mentioned…",
+    "text": "In the first lecture I mentioned…"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#but-what-did-i-mean",
+    "href": "lectures/Lecture04/Lecture04.html#but-what-did-i-mean",
+    "title": "Lecture04",
+    "section": "But what did I mean?",
+    "text": "But what did I mean?\nYour individual ‘take’ on Psychology?\nThe Psychology you need or want for the future?\nA career path with hundreds of different routes?\nor is it more personal than that?"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#do-you-need-a-passion-in-psychology",
+    "href": "lectures/Lecture04/Lecture04.html#do-you-need-a-passion-in-psychology",
+    "title": "Lecture04",
+    "section": "Do you need a ‘passion’ in Psychology?",
+    "text": "Do you need a ‘passion’ in Psychology?\nWe (staff) talk about this sometimes.\nIs it critical that you find a topic of interest to you?\nDoes it help? Does it hinder?\nIs it possible to be a Psychologist without a personal stake?"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#around-us-a-crisis-is-unfolding",
+    "href": "lectures/Lecture04/Lecture04.html#around-us-a-crisis-is-unfolding",
+    "title": "Lecture04",
+    "section": "Around us a crisis is unfolding",
+    "text": "Around us a crisis is unfolding"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#psychology-is-grossly-misunderstood",
+    "href": "lectures/Lecture04/Lecture04.html#psychology-is-grossly-misunderstood",
+    "title": "Lecture04",
+    "section": "Psychology is grossly misunderstood",
+    "text": "Psychology is grossly misunderstood"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#next-week",
+    "href": "lectures/Lecture04/Lecture04.html#next-week",
+    "title": "Lecture04",
+    "section": "Next week",
+    "text": "Next week\nThe Replication Crisis and our ongoing response - Open Science\nThe practice of Psychology we encourage in you!"
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#research-me-search",
@@ -259,32 +357,53 @@
     "text": "Research & me-search\n\n(Altenmüller et al., 2021)"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#another",
-    "href": "lectures/Lecture04/Lecture04.html#another",
+    "objectID": "lectures/Lecture04/Lecture04.html#reflexivity",
+    "href": "lectures/Lecture04/Lecture04.html#reflexivity",
     "title": "Lecture04",
-    "section": "another",
-    "text": "another\nReflexivity and the psychologist\n(Morawski, 2005)"
+    "section": "Reflexivity",
+    "text": "Reflexivity\nReflexivity and the psychologist\nReflexivity generally refers to the examination of one’s own beliefs, judgments and practices during the research process and how these may have influenced the research.\nAn integral part of the Qualitative ‘tradition’\n(Morawski, 2005)"
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#inclusive-research",
     "href": "lectures/Lecture04/Lecture04.html#inclusive-research",
     "title": "Lecture04",
     "section": "Inclusive Research",
-    "text": "Inclusive Research\nInclusive research is a term that was coined in the early twenty first century to embrace participatory and emancipatory approaches to research with people with learning/intellectual disabilities (Walmsley 2001)\nInclusive research embraces participatory and emancipatory approaches to research. Its characteristics are that it:\n· Is owned (not necessarily initiated) by lay people\n· Furthers the interests of lay people, researchers are on their side\n· Is collaborative\n· Enables lay people to exercise control over process and outcomes\n· Produces outputs that are accessible.\n(adapted from Walmsley and Johnson 2003)"
+    "text": "Inclusive Research\nInclusive research is a term that was coined in the early twenty first century to embrace participatory and emancipatory approaches to research with people with learning/intellectual disabilities (Walmsley 2001)\nInclusive research embraces participatory and emancipatory approaches to research.\nIts characteristics are that it:\n· Is owned (not necessarily initiated) by lay people\n· Furthers the interests of lay people, researchers are on their side\n· Is collaborative\n· Enables lay people to exercise control over process and outcomes\n· Produces outputs that are accessible."
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#context",
     "href": "lectures/Lecture04/Lecture04.html#context",
     "title": "Lecture04",
     "section": "context",
-    "text": "context\nwider rights movement. Nothing about us without us (Aspis 2000), a slogan of the disabled people’s movement, has been applied to research as well as other areas.\nexclusivity not only touches but also contorts and diminishes all aspects of psychological science.\nLedgerwood et al. (2022)"
+    "text": "context\nResearch situated within the wider rights movement.\n“Nothing about us without us” (Aspis, 2000).\na slogan of the disabled people’s movement, has been applied to research as well as other areas.\n“exclusivity not only touches but also contorts and diminishes all aspects of psychological science” (Ledgerwood et al., 2022, p.2).\nLedgerwood et al. (2022)"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#osf",
-    "href": "lectures/Lecture04/Lecture04.html#osf",
+    "objectID": "lectures/Lecture04/Lecture04.html#osf-open-science-foundation",
+    "href": "lectures/Lecture04/Lecture04.html#osf-open-science-foundation",
     "title": "Lecture04",
-    "section": "OSF",
-    "text": "OSF"
+    "section": "OSF (Open Science Foundation)",
+    "text": "OSF (Open Science Foundation)"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#open-data-and-open-materials",
+    "href": "lectures/Lecture04/Lecture04.html#open-data-and-open-materials",
+    "title": "Lecture04",
+    "section": "Open Data and Open Materials",
+    "text": "Open Data and Open Materials"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#open-data",
+    "href": "lectures/Lecture04/Lecture04.html#open-data",
+    "title": "Lecture04",
+    "section": "Open Data",
+    "text": "Open Data"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#open-materials",
+    "href": "lectures/Lecture04/Lecture04.html#open-materials",
+    "title": "Lecture04",
+    "section": "Open Materials",
+    "text": "Open Materials"
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#psyarxiv",
@@ -298,42 +417,77 @@
     "href": "lectures/Lecture04/Lecture04.html#lab-activities",
     "title": "Lecture04",
     "section": "Lab activities",
-    "text": "Lab activities\nKeep working!"
+    "text": "Lab activities\nKeep working!\nFormalise your individual design"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#more-specific",
+    "href": "lectures/Lecture04/Lecture04.html#more-specific",
+    "title": "Lecture04",
+    "section": "More specific",
+    "text": "More specific"
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#notation",
     "href": "lectures/Lecture04/Lecture04.html#notation",
     "title": "Lecture04",
     "section": "Notation",
-    "text": "Notation\nWe use a notation system to refer to these designs:\n2x2 = Two-way ANOVA. There are two IVS, the first IV has two levels, the second IV has 2 levels. There are a total of 4 conditions, 2x2 = 4.\n2x3 = Two-way ANOVA. There are two IVs, the first IV has two levels, the second IV has three levels. There are a total of 6 conditions, 2x3 = 6\n3x2 = Two-way ANOVA. There are two IVs, the first IV has three levels, the second IV has two levels. There are a total of 6 conditions, 3x2=6.\n4x4 = Two-way ANOVA. There are two IVs, the first IV has 4 levels, the second IV has 4 levels. There are a total of 16 condition, 4x4=16\n2x3x2 = Three-way ANOVA.There are a total of three IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV has 2 levels. There are a total of 12 condition. 2x3x2 = 12."
+    "text": "Notation\nWe use a notation system to refer to these designs:\n2x2 = Two-way ANOVA. There are two IVS, the first IV has two levels, the second IV has 2 levels. There are a total of 4 conditions, 2x2 = 4.\n2x3 = Two-way ANOVA. There are two IVs, the first IV has two levels, the second IV has three levels. There are a total of 6 conditions, 2x3 = 6\n4x4 = Two-way ANOVA. There are two IVs, the first IV has 4 levels, the second IV has 4 levels. There are a total of 16 condition, 4x4=16\n2x3x2 = Three-way ANOVA.There are a total of three IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV has 2 levels. There are a total of 12 condition. 2x3x2 = 12."
   },
   {
     "objectID": "lectures/Lecture04/Lecture04.html#review",
     "href": "lectures/Lecture04/Lecture04.html#review",
     "title": "Lecture04",
     "section": "Review",
-    "text": "Review\nCrump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52\nCC BY SA 4.0\nhttps://crumplab.com/statistics/07-ANOVA.html\nhttps://crumplab.com/statistics/10-MixedANOVA.html#x2-designs\n\nno IV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, interaction\nIV1 main effect, IV2 main effect, no interaction\nIV1 main effect, IV2 main effect, interaction\nno IV1 main effect, IV2 main effect, no interaction\nno IV1 main effect, IV2 main effect, interaction\nno IV1 main effect, no IV2 main effect, interaction"
+    "text": "Review\nCrump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52\nCC BY SA 4.0\nhttps://crumplab.com/statistics/07-ANOVA.html\nhttps://crumplab.com/statistics/10-MixedANOVA.html#x2-designs"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#graphs",
-    "href": "lectures/Lecture04/Lecture04.html#graphs",
+    "objectID": "lectures/Lecture04/Lecture04.html#flavours-of-2x2-anova",
+    "href": "lectures/Lecture04/Lecture04.html#flavours-of-2x2-anova",
     "title": "Lecture04",
-    "section": "graphs",
-    "text": "graphs\n\n1 = there was a main effect for IV1.\n~1 = there was not a main effect for IV1\n2 = there was a main effect for IV2\n~2 = there was not a main effect of IV2\n1x2 = there was an interaction\n~1x2 = there was not an interaction"
+    "section": "3 ‘flavours’ of 2x2 ANOVA",
+    "text": "3 ‘flavours’ of 2x2 ANOVA\n2bx2b - Between-subjects/Factorial ANOVA\n2wx2w - Within-subject/Repeated Measures ANOVA\n2bx2w or 2wx2b - Mixed ANOVA\nYou will be using one of these (all supported by SPSS Exercise 1)\nJAMOVI is a reasonable alternative to SPSS"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#graphs-1",
-    "href": "lectures/Lecture04/Lecture04.html#graphs-1",
+    "objectID": "lectures/Lecture04/Lecture04.html#the-3-effects-possible-in-a-2x2-anova",
+    "href": "lectures/Lecture04/Lecture04.html#the-3-effects-possible-in-a-2x2-anova",
     "title": "Lecture04",
-    "section": "graphs",
-    "text": "graphs"
+    "section": "The 3 effects possible in a 2x2 ANOVA",
+    "text": "The 3 effects possible in a 2x2 ANOVA\nMain effect of IV1\nMain effect of IV2\nInteraction of IV1*IV2"
   },
   {
-    "objectID": "lectures/Lecture04/Lecture04.html#graphs-2",
-    "href": "lectures/Lecture04/Lecture04.html#graphs-2",
+    "objectID": "lectures/Lecture04/Lecture04.html#therefore-8-possible-outcomes-of-a-2x2-anova",
+    "href": "lectures/Lecture04/Lecture04.html#therefore-8-possible-outcomes-of-a-2x2-anova",
     "title": "Lecture04",
-    "section": "graphs 2",
-    "text": "graphs 2\n\n\n\n\nVLE\n\n\n\nAltenmüller, M. S., Lange, L. L., & Gollwitzer, M. (2021). When research is me-search: How researchers’ motivation to pursue a topic affects laypeople’s trust in science. PLoS ONE, 16(7), e0253911. https://doi.org/10.1371/journal.pone.0253911\n\n\nConry-Murray, C., & Silverstein, P. (n.d.). The role of values in psychological science: Examining identity-based inclusivity. https://doi.org/10.31234/osf.io/cskg2\n\n\nLedgerwood, A., Hudson, S. T. J., Lewis, N. A., Maddox, K. B., Pickett, C. L., Remedios, J. D., Cheryan, S., Diekman, A. B., Dutra, N. B., Goh, J. X., & al., et. (2022). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. Perspectives on Psychological Science, 17(4), 937–959. https://doi.org/10.1177/17456916211036654\n\n\nMorawski, J. G. (2005). Reflexivity and the psychologist. History of the Human Sciences, 18(4), 77–105. https://doi.org/10.1177/0952695105058472"
+    "section": "therefore 8 possible ‘outcomes’ of a 2x2 ANOVA",
+    "text": "therefore 8 possible ‘outcomes’ of a 2x2 ANOVA\n\nno IV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, no interaction\nIV1 main effect, no IV2 main effect, interaction\nIV1 main effect, IV2 main effect, no interaction\nIV1 main effect, IV2 main effect, interaction\nno IV1 main effect, IV2 main effect, no interaction\nno IV1 main effect, IV2 main effect, interaction\nno IV1 main effect, no IV2 main effect, interaction"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#graph-key",
+    "href": "lectures/Lecture04/Lecture04.html#graph-key",
+    "title": "Lecture04",
+    "section": "graph key",
+    "text": "graph key\n\n1 = there was a main effect for IV1.\n~1 = there was not a main effect for IV1\n2 = there was a main effect for IV2\n~2 = there was not a main effect of IV2\n1x2 = there was an interaction\n~1x2 = there was not an interaction"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#bar-charts",
+    "href": "lectures/Lecture04/Lecture04.html#bar-charts",
+    "title": "Lecture04",
+    "section": "Bar charts",
+    "text": "Bar charts"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#line-plots",
+    "href": "lectures/Lecture04/Lecture04.html#line-plots",
+    "title": "Lecture04",
+    "section": "Line plots",
+    "text": "Line plots"
+  },
+  {
+    "objectID": "lectures/Lecture04/Lecture04.html#references",
+    "href": "lectures/Lecture04/Lecture04.html#references",
+    "title": "Lecture04",
+    "section": "References",
+    "text": "References\n\n\n\nVLE\n\n\n\nAltenmüller, M. S., Lange, L. L., & Gollwitzer, M. (2021). When research is me-search: How researchers’ motivation to pursue a topic affects laypeople’s trust in science. PLoS ONE, 16(7), e0253911. https://doi.org/10.1371/journal.pone.0253911\n\n\nConry-Murray, C., & Silverstein, P. (n.d.). The role of values in psychological science: Examining identity-based inclusivity. https://doi.org/10.31234/osf.io/cskg2\n\n\nLedgerwood, A., Hudson, S. T. J., Lewis, N. A., Maddox, K. B., Pickett, C. L., Remedios, J. D., Cheryan, S., Diekman, A. B., Dutra, N. B., Goh, J. X., & al., et. (2022). The pandemic as a portal: Reimagining psychological science as truly open and inclusive. Perspectives on Psychological Science, 17(4), 937–959. https://doi.org/10.1177/17456916211036654\n\n\nMorawski, J. G. (2005). Reflexivity and the psychologist. History of the Human Sciences, 18(4), 77–105. https://doi.org/10.1177/0952695105058472"
   },
   {
     "objectID": "lectures/Lecture03/Lecture03.html#key-topics-today",
