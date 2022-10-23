@@ -213,7 +213,7 @@ CC BY SA 4.0
 
 **2bx2w** or **2wx2b** - Mixed ANOVA
 
-You will be using one of these (all supported by SPSS Exercise 1)
+You will be using one of these (all supported by SPSS Exercise 1 & 2)
 
 JAMOVI is a reasonable alternative to SPSS
 
