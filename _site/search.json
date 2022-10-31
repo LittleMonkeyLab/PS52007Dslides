@@ -161,6 +161,118 @@
     "text": "Line plots\nhttps://crumplab.com/statistics/10-MixedANOVA.html#fig-10lines22\n\n\n\nPS52007D Research Methods VLE"
   },
   {
+    "objectID": "labs/Lab05/Lab05.html#i-got-the-i-got-the-power",
+    "href": "labs/Lab05/Lab05.html#i-got-the-i-got-the-power",
+    "title": "Lab05",
+    "section": "I got the, I got the power!",
+    "text": "I got the, I got the power!\nThe formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\nCohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother."
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#what",
+    "href": "labs/Lab05/Lab05.html#what",
+    "title": "Lab05",
+    "section": "What?",
+    "text": "What?\nThis means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..\n\na small p value indicates the results are surprising if the null hypothesis IS true\na large p value indicates the results are not very surprising if the null IS true."
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#gpower",
+    "href": "labs/Lab05/Lab05.html#gpower",
+    "title": "Lab05",
+    "section": "G*Power",
+    "text": "G*Power\nYou can download G*Power on this page. Under the heading “download” click on the appropriate version for whether you have a Windows or Mac computer.\nhttps://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#x2-factorial-anova-power-analysis",
+    "href": "labs/Lab05/Lab05.html#x2-factorial-anova-power-analysis",
+    "title": "Lab05",
+    "section": "2x2 factorial ANOVA Power analysis",
+    "text": "2x2 factorial ANOVA Power analysis\nIn a 2x2 design, there are three effects to compare:\n\nthe main effect of IV1,\nthe main effect of IV2,\nand the interaction between IV1 and IV2."
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#look-after-the-little-effect-first",
+    "href": "labs/Lab05/Lab05.html#look-after-the-little-effect-first",
+    "title": "Lab05",
+    "section": "Look after the little effect first",
+    "text": "Look after the little effect first\nThere are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered by a single experimental design. This just means that your sample size will need to be sufficient to detect the weakest effect size of the three.\nYou might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.\nThis means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.\nif the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#gpower-guide",
+    "href": "labs/Lab05/Lab05.html#gpower-guide",
+    "title": "Lab05",
+    "section": "G*Power guide",
+    "text": "G*Power guide\nIf you are running a design with 2 between participant IVs, use Slide 1\nIf you are running a mixed design, and want to explore the between Main effect - slide 2\nIf you are running a mixed design, and want to explore the within Main effect - slide 3\nIf you are running a mixed design, and want to explore the interaction effect - slide 4\nIf you are running a design with 2 between participant IVs, use Slide 5"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
+    "href": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
+    "title": "Lab05",
+    "section": "1 - Fully Between Designs (any effect of interest)",
+    "text": "1 - Fully Between Designs (any effect of interest)"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#power-plot",
+    "href": "labs/Lab05/Lab05.html#power-plot",
+    "title": "Lab05",
+    "section": "Power plot",
+    "text": "Power plot"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-a-between-main-effect",
+    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-a-between-main-effect",
+    "title": "Lab05",
+    "section": "2 - Mixed design (looking at a between main effect)",
+    "text": "2 - Mixed design (looking at a between main effect)"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#graph",
+    "href": "labs/Lab05/Lab05.html#graph",
+    "title": "Lab05",
+    "section": "graph",
+    "text": "graph"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-within-main-effect",
+    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-within-main-effect",
+    "title": "Lab05",
+    "section": "3 - Mixed design (looking at within main effect)",
+    "text": "3 - Mixed design (looking at within main effect)"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-interaction-effect",
+    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-interaction-effect",
+    "title": "Lab05",
+    "section": "4 - Mixed design (looking at interaction effect)",
+    "text": "4 - Mixed design (looking at interaction effect)"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#graph-1",
+    "href": "labs/Lab05/Lab05.html#graph-1",
+    "title": "Lab05",
+    "section": "graph",
+    "text": "graph"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#repeated-measures-anova-any-effect",
+    "href": "labs/Lab05/Lab05.html#repeated-measures-anova-any-effect",
+    "title": "Lab05",
+    "section": "5 - Repeated Measures ANOVA (any effect)",
+    "text": "5 - Repeated Measures ANOVA (any effect)"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#graph-2",
+    "href": "labs/Lab05/Lab05.html#graph-2",
+    "title": "Lab05",
+    "section": "Graph",
+    "text": "Graph"
+  },
+  {
+    "objectID": "labs/Lab05/Lab05.html#writing-up",
+    "href": "labs/Lab05/Lab05.html#writing-up",
+    "title": "Lab05",
+    "section": "Writing up",
+    "text": "Writing up\n\n“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a insert type 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al. (2023).”\n\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
     "objectID": "labs/Lab02/Lab02.html#todays-activities",
     "href": "labs/Lab02/Lab02.html#todays-activities",
     "title": "Lab02",
@@ -1435,101 +1547,10 @@
     "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "labs/Lab05/Lab05.html#i-got-the-i-got-the-power",
-    "href": "labs/Lab05/Lab05.html#i-got-the-i-got-the-power",
+    "objectID": "labs/Lab05/Lab05.html#gpower-guide---key-info",
+    "href": "labs/Lab05/Lab05.html#gpower-guide---key-info",
     "title": "Lab05",
-    "section": "I got the, I got the power!",
-    "text": "I got the, I got the power!\nThe formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\nCohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother.\n\nThis means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..\n\na small p value indicates the results are surprising if the null hypothesis IS true\na large p value indicates the results are not very surprising if the null IS true."
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#gpower",
-    "href": "labs/Lab05/Lab05.html#gpower",
-    "title": "Lab05",
-    "section": "G*Power",
-    "text": "G*Power\nYou can download G*Power on this page. Under the heading “download” click on the appropriate version for whether you have a Windows or Mac computer.\nhttps://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#x2-factorial-anova-power-analysis",
-    "href": "labs/Lab05/Lab05.html#x2-factorial-anova-power-analysis",
-    "title": "Lab05",
-    "section": "2x2 factorial ANOVA Power analysis",
-    "text": "2x2 factorial ANOVA Power analysis\nIn a 2x2 design, there are three effects to compare:\n\nthe main effect of IV1,\nthe main effect of IV2,\nand the interaction between IV1 and IV2."
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#look-after-the-little-effect-first",
-    "href": "labs/Lab05/Lab05.html#look-after-the-little-effect-first",
-    "title": "Lab05",
-    "section": "Look after the little effect first",
-    "text": "Look after the little effect first\nThere are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered. This just means that your sample size will be sufficient to detect the weakest effect size of the three.\nYou might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.\nThis means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.\nif the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#writing-up",
-    "href": "labs/Lab05/Lab05.html#writing-up",
-    "title": "Lab05",
-    "section": "Writing up",
-    "text": "Writing up\n\n“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a insert type 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al. (2023).”"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
-    "href": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
-    "title": "Lab05",
-    "section": "1 - Fully Between Designs (any effect of interest)",
-    "text": "1 - Fully Between Designs (any effect of interest)"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#power-plot",
-    "href": "labs/Lab05/Lab05.html#power-plot",
-    "title": "Lab05",
-    "section": "Power plot",
-    "text": "Power plot"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-a-between-main-effect",
-    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-a-between-main-effect",
-    "title": "Lab05",
-    "section": "2 - Mixed design (looking at a between main effect)",
-    "text": "2 - Mixed design (looking at a between main effect)"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#graph",
-    "href": "labs/Lab05/Lab05.html#graph",
-    "title": "Lab05",
-    "section": "graph",
-    "text": "graph"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-within-main-effect",
-    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-within-main-effect",
-    "title": "Lab05",
-    "section": "3 - Mixed design (looking at within main effect)",
-    "text": "3 - Mixed design (looking at within main effect)"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#mixed-design-looking-at-interaction-effect",
-    "href": "labs/Lab05/Lab05.html#mixed-design-looking-at-interaction-effect",
-    "title": "Lab05",
-    "section": "4 - Mixed design (looking at interaction effect)",
-    "text": "4 - Mixed design (looking at interaction effect)"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#graph-1",
-    "href": "labs/Lab05/Lab05.html#graph-1",
-    "title": "Lab05",
-    "section": "graph",
-    "text": "graph"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#repeated-measures-anova-any-effect",
-    "href": "labs/Lab05/Lab05.html#repeated-measures-anova-any-effect",
-    "title": "Lab05",
-    "section": "5 - Repeated Measures ANOVA (any effect)",
-    "text": "5 - Repeated Measures ANOVA (any effect)"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#graph-2",
-    "href": "labs/Lab05/Lab05.html#graph-2",
-    "title": "Lab05",
-    "section": "Graph",
-    "text": "Graph\n\n\n\n\nPS52007D Research Methods VLE"
+    "section": "G*Power guide - Key info",
+    "text": "G*Power guide - Key info\nThe following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available."
   }
 ]

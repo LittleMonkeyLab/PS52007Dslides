@@ -339,10 +339,13 @@
 <blockquote>
 <p>Cohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother.</p>
 </blockquote>
+</section>
+<section id="what" class="slide level2">
+<h2>What?</h2>
 <p>This means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..</p>
 <ul>
-<li><p>a small p value indicates the results are surprising if the null hypothesis IS true</p></li>
-<li><p>a large p value indicates the results are not very surprising if the null IS true.</p></li>
+<li><p>a small p value indicates the results are surprising if the null hypothesis <u>IS</u> true</p></li>
+<li><p>a large p value indicates the results are not very surprising if the null <u>IS</u> true.</p></li>
 </ul>
 </section>
 <section id="gpower" class="slide level2">
@@ -361,16 +364,25 @@
 </section>
 <section id="look-after-the-little-effect-first" class="slide level2">
 <h2>Look after the little effect first</h2>
-<p>There are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered. This just means that your sample size will be sufficient to detect the weakest effect size of the three.</p>
+<p>There are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered by a single experimental design. This just means that your sample size will need to be sufficient to detect the <u>weakest</u> effect size of the three.</p>
 <p>You might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.</p>
 <p>This means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.</p>
 <p>if the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!</p>
 </section>
-<section id="writing-up" class="slide level2">
-<h2>Writing up</h2>
-<blockquote>
-<p>“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a <em>insert type</em> 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al.&nbsp;(2023).”</p>
-</blockquote>
+<section id="gpower-guide" class="slide level2">
+<h2>G*Power guide</h2>
+<p>If you are running a design with 2 between participant IVs, use Slide 1</p>
+<p>If you are running a mixed design, and want to explore the between Main effect - slide 2</p>
+<p>If you are running a mixed design, and want to explore the within Main effect - slide 3</p>
+<p>If you are running a mixed design, and want to explore the interaction effect - slide 4</p>
+<p>If you are running a design with 2 between participant IVs, use Slide 5</p>
+</section>
+<section id="gpower-guide---key-info" class="slide level2">
+<h2>G*Power guide - Key info</h2>
+<p>The following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.</p>
+<p>This is usually gleaned from your target paper (or other literature).</p>
+<p>You will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.</p>
+<p>If you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available.</p>
 </section>
 <section id="fully-between-designs-any-effect-of-interest" class="slide level2">
 <h2>1 - Fully Between Designs (any effect of interest)</h2>
@@ -407,10 +419,16 @@
 <img data-src="images/paste-82E34E49.png" class="r-stretch"></section>
 <section id="graph-2" class="slide level2">
 <h2>Graph</h2>
-<p><img data-src="images/paste-E8832479.png"></p>
 
-<p><img src="../images/RMIPHEX.png" class="slide-logo"></p>
-<div class="footer footer-default">
+<img data-src="images/paste-E8832479.png" class="r-stretch"></section>
+<section id="writing-up" class="slide level2">
+<h2>Writing up</h2>
+<blockquote>
+<p>“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a <em>insert type</em> 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al.&nbsp;(2023).”</p>
+</blockquote>
+
+
+<img src="../images/RMIPHEX.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>PS52007D Research Methods <a href="https://learn.gold.ac.uk/course/view.php?id=24472">VLE</a></p>
 </div>
 </section>

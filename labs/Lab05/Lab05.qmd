@@ -15,14 +15,16 @@ hypothesis is true (e.g. Cohen, 1994).
 > Cohen, J (1988). Statistical power analysis for the behavioral
 > sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn't bother.
 
+## What?
+
 This means, and assuming we have a crystal ball to know the 'truth' of
 whether there is an effect of our manipulation..
 
 -   a small p value indicates the results are surprising if the null
-    hypothesis IS true
+    hypothesis [IS]{.underline} true
 
 -   a large p value indicates the results are not very surprising if the
-    null IS true.
+    null [IS]{.underline} true.
 
 ## G\*Power
 
@@ -46,9 +48,10 @@ In a 2x2 design, there are three effects to compare:
 
 There are three comparisons to make here and it is unlikely you would
 expect the same effect size for all three comparisons, meaning you must
-ensure all three effects are sufficiently powered. This just means that
-your sample size will be sufficient to detect the weakest effect size of
-the three.
+ensure all three effects are sufficiently powered by a single
+experimental design. This just means that your sample size will need to
+be sufficient to detect the [weakest]{.underline} effect size of the
+three.
 
 You might expect the effect size (or difference) for IV1 to be a lot
 larger than the effect size (or difference) for IV2, for example.
@@ -60,13 +63,35 @@ sample size calculation.
 if the smallest effect is covered, by virtue of the fact power exists
 along a curve - then the larger effects would have sufficient power!
 
-## Writing up
+## G\*Power guide
 
-> "In order to detect an effect size of Cohen's d = 0.xx with 80% power
-> (alpha = .05, two-tailed), G\*Power analysis determines a sample size
-> of XX participants in a *insert type* 2x2 ANOVA". The smallest effect
-> size of interest was set to d= 0.xx based on the meta-analysis by
-> Dougal et al. (2023)."
+If you are running a design with 2 between participant IVs, use Slide 1
+
+If you are running a mixed design, and want to explore the between Main
+effect - slide 2
+
+If you are running a mixed design, and want to explore the within Main
+effect - slide 3
+
+If you are running a mixed design, and want to explore the interaction
+effect - slide 4
+
+If you are running a design with 2 between participant IVs, use Slide 5
+
+## G\*Power guide - Key info
+
+The following slides give you the specifics of what you need to include
+depending on the effect you are exploring. The only thing you need is
+the effect size of interest.
+
+This is usually gleaned from your target paper (or other literature).
+
+You will need to examine each of your effect sizes in your groups and
+cover the weakest with the the sample size, so the effect that requires
+the largest sample size will give the group sample size.
+
+If you cannot find an effect, you may use a 0.3 f effect size, but this
+is to be used only when no alternative is available.
 
 ## 1 - Fully Between Designs (any effect of interest)
 
@@ -105,3 +130,11 @@ along a curve - then the larger effects would have sufficient power!
 ## Graph
 
 ![](images/paste-E8832479.png)
+
+## Writing up
+
+> "In order to detect an effect size of Cohen's d = 0.xx with 80% power
+> (alpha = .05, two-tailed), G\*Power analysis determines a sample size
+> of XX participants in a *insert type* 2x2 ANOVA". The smallest effect
+> size of interest was set to d= 0.xx based on the meta-analysis by
+> Dougal et al. (2023)."
