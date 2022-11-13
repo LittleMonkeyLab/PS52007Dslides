@@ -203,6 +203,13 @@
     "text": "G*Power guide\nIf you are running a design with 2 between participant IVs, use Slide 1\nIf you are running a mixed design, and want to explore the between Main effect - slide 2\nIf you are running a mixed design, and want to explore the within Main effect - slide 3\nIf you are running a mixed design, and want to explore the interaction effect - slide 4\nIf you are running a design with 2 between participant IVs, use Slide 5"
   },
   {
+    "objectID": "labs/Lab05/Lab05.html#gpower-guide---key-info",
+    "href": "labs/Lab05/Lab05.html#gpower-guide---key-info",
+    "title": "Lab05",
+    "section": "G*Power guide - Key info",
+    "text": "G*Power guide - Key info\nThe following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available."
+  },
+  {
     "objectID": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
     "href": "labs/Lab05/Lab05.html#fully-between-designs-any-effect-of-interest",
     "title": "Lab05",
@@ -343,25 +350,46 @@
     "text": "Over to you!\n\n\n\nPS52007D Research Methods VLE"
   },
   {
+    "objectID": "labs/Lab06/Lab06.html#section",
+    "href": "labs/Lab06/Lab06.html#section",
+    "title": "Lab06",
+    "section": "1",
+    "text": "1\nhttps://learn.gold.ac.uk/course/view.php?id=24607#section-10"
+  },
+  {
+    "objectID": "labs/Lab06/Lab06.html#do-not-get-this-wrong",
+    "href": "labs/Lab06/Lab06.html#do-not-get-this-wrong",
+    "title": "Lab06",
+    "section": "Do not get this wrong",
+    "text": "Do not get this wrong"
+  },
+  {
+    "objectID": "labs/Lab06/Lab06.html#section-1",
+    "href": "labs/Lab06/Lab06.html#section-1",
+    "title": "Lab06",
+    "section": "3",
+    "text": "3\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
     "objectID": "labshub.html",
     "href": "labshub.html",
     "title": "Labs",
     "section": "",
-    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nLab02\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab03\n\n\nLiterature Search and CP Target Paper selection\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab04\n\n\nVariables, Design & Notation\n\n\n\n\n\nDr. Gordon Wright\n\n\nTuesday, October 25, 2022\n\n\n\n\n\n\n\nLab05\n\n\nPower Calculations\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab06\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab07\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab08\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab09\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab10\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nLab02\n\n\n\n\n1. Complete the Pulse 2. Finalise your groups (3 or 4 people, all from same Personal Tutorial group) - Submit a list of names to your Lab Tutor\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab03\n\n\nLiterature Search and CP Target Paper selection\n\n\n1. Complete the Pulse (2 topics - 5 mins Max) 2. Consider how to approach the Critical Proposal to best effect 3. Start identifying candidate papers 1. Use the tools suggested below (or share others!)\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab04\n\n\nVariables, Design & Notation\n\n\nMust conform to a 2x2 ANOVA with a single continuous DV\n\n\nDr. Gordon Wright\n\n\nTuesday, October 25, 2022\n\n\n\n\n\n\n\nLab05\n\n\nPower Calculations\n\n\nThe formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab06\n\n\nOnline and Offline Data Collection\n\n\nQualtrics for survey-type administration and simple-ish stimulus presentation\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab07\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab08\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab09\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nLab10\n\n\n\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "allmaterials.html",
     "href": "allmaterials.html",
     "title": "All materials by week",
     "section": "",
-    "text": "Type\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\nInduction Overview\n\n\n\n\n\n\n\n\n\n\n\nLab02\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab03\n\n\nLiterature Search and CP Target Paper selection\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab04\n\n\nVariables, Design & Notation\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab05\n\n\nPower Calculations\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab06\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab07\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab08\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab09\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab10\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLecture01\n\n\nModule Overview & What is Science?\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture02\n\n\nAsking good questions and gathering reliable evidence\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture03\n\n\nBeing critical and evaluating the work of others\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture04\n\n\nResearch, me-search & Inclusivity\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture05\n\n\nThe Open Science movement in Psychology\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 01\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 02\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Type\n\n\nTopic\n\n\nAuthor\n\n\n\n\n\n\n\n\nLab02\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab03\n\n\nLiterature Search and CP Target Paper selection\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab04\n\n\nVariables, Design & Notation\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab05\n\n\nPower Calculations\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab06\n\n\nOnline and Offline Data Collection\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab07\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab08\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab09\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLab10\n\n\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nLecture00\n\n\nInduction Week Intro\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture01\n\n\nModule Overview & What is Science?\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture02\n\n\nAsking good questions and gathering reliable evidence\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture03\n\n\nBeing critical and evaluating the work of others\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture04\n\n\nResearch, me-search & Inclusivity\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture05\n\n\nThe Open Science movement in Psychology\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecture06\n\n\nOperationalising variables and bringing concepts to life\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nDr Gordon Wright\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 01\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 02\n\n\nDr. Gordon Wright\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "preludeshub.html",
     "href": "preludeshub.html",
     "title": "Preludes",
     "section": "",
-    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 01\n\n\nDescription of content\n\n\nDr. Gordon Wright\n\n\nWednesday, March 22, 2023\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 02\n\n\nDescription of content\n\n\nDr. Gordon Wright\n\n\nSaturday, May 3, 2025\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 01\n\n\nDescription of content\n\n\nDr. Gordon Wright\n\n\nWednesday, March 22, 2023\n\n\n\n\n\n\n\nPrelude\n\n\nWeek 02\n\n\nDescription of content\n\n\nDr. Gordon Wright\n\n\nSaturday, May 3, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "oers.html",
@@ -382,7 +410,7 @@
     "href": "lectureshub.html",
     "title": "Lectures",
     "section": "",
-    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nInduction Overview\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture01\n\n\nModule Overview & What is Science?\n\n\n\n\n\nDr Gordon Wright\n\n\nMonday, October 3, 2022\n\n\n\n\n\n\n\nLecture02\n\n\nAsking good questions and gathering reliable evidence\n\n\n\n\n\nDr Gordon Wright\n\n\nMonday, October 10, 2022\n\n\n\n\n\n\n\nLecture03\n\n\nBeing critical and evaluating the work of others\n\n\n\n\n\nDr Gordon Wright\n\n\nMonday, October 17, 2022\n\n\n\n\n\n\n\nLecture04\n\n\nResearch, me-search & Inclusivity\n\n\n\n\n\nDr Gordon Wright\n\n\nMonday, October 24, 2022\n\n\n\n\n\n\n\nLecture05\n\n\nThe Open Science movement in Psychology\n\n\n\n\n\nDr Gordon Wright\n\n\nMonday, October 31, 2022\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nLecture 01 Powerpoint Lecture 01 PDF Lecture 01 Quarto-html Lecture 01 as .qmd"
+    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\nLecture00\n\n\nInduction Week Intro\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nTuesday, September 27, 2022\n\n\n\n\n\n\n\nLecture01\n\n\nModule Overview & What is Science?\n\n\n- Module structure and coursework i. Critical Proposal (15%) ii. Mini-Dissertation (70%) iii. Conceptual, Historical & Integrative Perspectives Log (CHIP Log) (15%) - Labs in general and the lab tomorrow - Materials, independent study, SUCCESS!\n\n\nDr Gordon Wright\n\n\nMonday, October 3, 2022\n\n\n\n\n\n\n\nLecture02\n\n\nAsking good questions and gathering reliable evidence\n\n\n- The week ahead - Some Induction Week Poll insights [in the lecture] - The research process you are beginning - A couple of CHIP topics to vote on - Lab preview - The process, time-management and teamwork\n\n\nDr Gordon Wright\n\n\nMonday, October 10, 2022\n\n\n\n\n\n\n\nLecture03\n\n\nBeing critical and evaluating the work of others\n\n\nThe week ahead\n\n\nDr Gordon Wright\n\n\nMonday, October 17, 2022\n\n\n\n\n\n\n\nLecture04\n\n\nResearch, me-search & Inclusivity\n\n\nThe week ahead (week 4)\n\n\nDr Gordon Wright\n\n\nMonday, October 24, 2022\n\n\n\n\n\n\n\nLecture05\n\n\nThe Open Science movement in Psychology\n\n\nThe week ahead (week 5)\n\n\nDr Gordon Wright\n\n\nMonday, October 31, 2022\n\n\n\n\n\n\n\nLecture06\n\n\nOperationalising variables and bringing concepts to life\n\n\nThe week ahead (week 6)\n\n\nDr Gordon Wright\n\n\nMonday, November 14, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\nLecturexx\n\n\nContent Pending\n\n\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\n\n\nDr Gordon Wright\n\n\nMonday, January 31, 2022\n\n\n\n\n\n\n\n\nNo matching items\n\n\nLecture 01 Powerpoint Lecture 01 PDF Lecture 01 Quarto-html Lecture 01 as .qmd"
   },
   {
     "objectID": "week1.html",
@@ -1155,109 +1183,1236 @@
     "text": "References\n\n\n\nVLE"
   },
   {
+    "objectID": "lectures/Lecture18/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture18/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture18/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture18/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture18/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture18/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#me",
+    "href": "lectures/Lecture18/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture18/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture18/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture18/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture18/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#coursework",
+    "href": "lectures/Lecture18/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture18/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#resources",
+    "href": "lectures/Lecture18/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture18/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture18/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture18/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture20/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture20/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture20/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture20/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture20/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#me",
+    "href": "lectures/Lecture20/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture20/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture20/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture20/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture20/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#coursework",
+    "href": "lectures/Lecture20/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture20/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#resources",
+    "href": "lectures/Lecture20/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture20/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture20/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture20/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture16/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture16/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture16/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture16/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture16/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#me",
+    "href": "lectures/Lecture16/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture16/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture16/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture16/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture16/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#coursework",
+    "href": "lectures/Lecture16/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture16/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#resources",
+    "href": "lectures/Lecture16/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture16/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture16/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture16/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture11/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture11/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture11/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture11/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture11/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#me",
+    "href": "lectures/Lecture11/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture11/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture11/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture11/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture11/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#coursework",
+    "href": "lectures/Lecture11/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture11/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#resources",
+    "href": "lectures/Lecture11/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture11/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture11/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture11/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture10/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture10/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture10/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture10/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture10/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#me",
+    "href": "lectures/Lecture10/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture10/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture10/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture10/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture10/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#coursework",
+    "href": "lectures/Lecture10/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture10/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#resources",
+    "href": "lectures/Lecture10/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture10/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture10/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture10/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture17/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture17/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture17/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture17/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture17/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#me",
+    "href": "lectures/Lecture17/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture17/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture17/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture17/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture17/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#coursework",
+    "href": "lectures/Lecture17/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture17/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#resources",
+    "href": "lectures/Lecture17/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture17/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture17/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture17/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture19/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture19/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture19/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture19/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture19/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#me",
+    "href": "lectures/Lecture19/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture19/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture19/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture19/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture19/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#coursework",
+    "href": "lectures/Lecture19/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture19/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#resources",
+    "href": "lectures/Lecture19/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture19/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture19/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture19/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
     "objectID": "lectures/Lecture00/Lecture00.html#welcome-back-and-welcome-to-research-methods",
     "href": "lectures/Lecture00/Lecture00.html#welcome-back-and-welcome-to-research-methods",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Welcome back and welcome to Research Methods!",
     "text": "Welcome back and welcome to Research Methods!"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#this-year-you-become-scientists",
     "href": "lectures/Lecture00/Lecture00.html#this-year-you-become-scientists",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "This year you become Scientists!",
     "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#a-full-overview-will-be-given-in-the-first-lecture",
     "href": "lectures/Lecture00/Lecture00.html#a-full-overview-will-be-given-in-the-first-lecture",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "A full overview will be given in the first lecture!",
     "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#a-warm-up-for-your-y3-dissertation",
     "href": "lectures/Lecture00/Lecture00.html#a-warm-up-for-your-y3-dissertation",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "A ‘warm up’ for your Y3 Dissertation",
     "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#support-and-guidance",
     "href": "lectures/Lecture00/Lecture00.html#support-and-guidance",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Support and guidance",
     "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#me",
     "href": "lectures/Lecture00/Lecture00.html#me",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "me",
     "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#module-weighting-and-assessment",
     "href": "lectures/Lecture00/Lecture00.html#module-weighting-and-assessment",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Module weighting and assessment",
     "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#a-friendly-warning",
     "href": "lectures/Lecture00/Lecture00.html#a-friendly-warning",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "A friendly warning",
     "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#module-structure",
     "href": "lectures/Lecture00/Lecture00.html#module-structure",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Module structure",
     "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#weekly-structure",
     "href": "lectures/Lecture00/Lecture00.html#weekly-structure",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Weekly Structure",
     "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#coursework",
     "href": "lectures/Lecture00/Lecture00.html#coursework",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Coursework",
     "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#time-management-and-teamwork",
     "href": "lectures/Lecture00/Lecture00.html#time-management-and-teamwork",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Time management and teamwork",
     "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#resources",
     "href": "lectures/Lecture00/Lecture00.html#resources",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Resources",
     "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#prelude-1",
     "href": "lectures/Lecture00/Lecture00.html#prelude-1",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Prelude 1",
     "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
   },
   {
     "objectID": "lectures/Lecture00/Lecture00.html#thank-you-for-your-time",
     "href": "lectures/Lecture00/Lecture00.html#thank-you-for-your-time",
-    "title": "Materials for PS52007D Research Methods in Psychology",
+    "title": "Lecture00",
     "section": "Thank you for your time",
     "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture07/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture07/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture07/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture07/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture07/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#me",
+    "href": "lectures/Lecture07/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture07/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture07/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture07/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture07/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#coursework",
+    "href": "lectures/Lecture07/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture07/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#resources",
+    "href": "lectures/Lecture07/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture07/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture07/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture07/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture09/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture09/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture09/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture09/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture09/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#me",
+    "href": "lectures/Lecture09/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture09/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture09/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture09/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture09/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#coursework",
+    "href": "lectures/Lecture09/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture09/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#resources",
+    "href": "lectures/Lecture09/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture09/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture09/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture09/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture08/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture08/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture08/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture08/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture08/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#me",
+    "href": "lectures/Lecture08/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture08/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture08/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture08/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture08/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#coursework",
+    "href": "lectures/Lecture08/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture08/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#resources",
+    "href": "lectures/Lecture08/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture08/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture08/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture08/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#key-topics-today",
+    "href": "lectures/Lecture06/Lecture06.html#key-topics-today",
+    "title": "Lecture06",
+    "section": "Key topics today",
+    "text": "Key topics today\nThe week ahead (week 6)\n\nPersonality & Individual Differences Essay Tutorial (Submission Fri, 25th Nov)\n\nHow and why does intelligence predict important life outcomes?\n\nRASA and EC deadline for Critical Proposal (Fri, 18th Nov)\nPsychSociety film number 2!\n\nTuesday (15/11/2022). You can find out more information and book here.\nThree Identical Strangers. It’s well worth a watch, especially if you are interested in ethics and genetics. \n\nLabs - Online (and Offline) Data collection"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#lets-think-about-your-forthcoming-personality-essay",
+    "href": "lectures/Lecture06/Lecture06.html#lets-think-about-your-forthcoming-personality-essay",
+    "title": "Lecture06",
+    "section": "Let’s think about your forthcoming Personality essay",
+    "text": "Let’s think about your forthcoming Personality essay\nTwo key concepts you’ll be thinking about and reading around…\n\nIntelligence\nimportant life outcomes"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#hopefully-you-will-ask-yourself",
+    "href": "lectures/Lecture06/Lecture06.html#hopefully-you-will-ask-yourself",
+    "title": "Lecture06",
+    "section": "Hopefully, you will ask yourself…",
+    "text": "Hopefully, you will ask yourself…\nHow are these important and very tricky concepts\n\nDefined\nMeasured"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#of-great-importance-that-you-reflect-on-this-for-your-md-too",
+    "href": "lectures/Lecture06/Lecture06.html#of-great-importance-that-you-reflect-on-this-for-your-md-too",
+    "title": "Lecture06",
+    "section": "Of great importance that you reflect on this for your MD too",
+    "text": "Of great importance that you reflect on this for your MD too\nHow have you defined your variables of interest?\n\nIVs and DVs\n\nHow have you measured or categorised your variables of interest?\n\ne.g. Social Media use\nGender\nFrequency or low/high extraversion"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#dani-navarro",
+    "href": "lectures/Lecture06/Lecture06.html#dani-navarro",
+    "title": "Lecture06",
+    "section": "Dani Navarro",
+    "text": "Dani Navarro\nA legend. Author of Learning Statistics with Jamovi/R"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#danis-example",
+    "href": "lectures/Lecture06/Lecture06.html#danis-example",
+    "title": "Lecture06",
+    "section": "Dani’s example:",
+    "text": "Dani’s example:\n• My age is 33 years.\n• I do not like anchovies.\n• My chromosomal gender is male.\n• My self-identified gender is male*\n*see footnote 2, page 14 Learning Statistics with Jamovi"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#median-splits",
+    "href": "lectures/Lecture06/Lecture06.html#median-splits",
+    "title": "Lecture06",
+    "section": "Median Splits",
+    "text": "Median Splits\n\n\n\n\n\n\nDangerzone!\n\n\nWe often suggest a median split to dichotomise a continuous variable, e.g. for the purposes of creating a 2 level IV.\nIt’s a useful exercise in calculating a ‘computed variable’ in SPSS or Jamovi\nIt\n\n\n\nIt is a key learning outcome that you are able to perform a standardised set of analysis, specifically, the 2x2 ANOVA with any necessary assumption checks and post-hocs + plots"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#so",
+    "href": "lectures/Lecture06/Lecture06.html#so",
+    "title": "Lecture06",
+    "section": "So…",
+    "text": "So…"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#summary",
+    "href": "lectures/Lecture06/Lecture06.html#summary",
+    "title": "Lecture06",
+    "section": "Summary",
+    "text": "Summary\nYou should now know:\n\nWhy scientists are concerned about the reliability of psychological studies\nSteps the scientific community are taking to overcome these worries\nNot everyone is convinced that the ‘crisis’ is as serious as it seems, or whether these changes will help solve psychology’s problems"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#lab-activities",
+    "href": "lectures/Lecture06/Lecture06.html#lab-activities",
+    "title": "Lecture06",
+    "section": "Lab activities",
+    "text": "Lab activities\nQualtrics (99% of you will use this!)\n10% of you will apply for the wrong type of account and be stuck for 2 weeks"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#references",
+    "href": "lectures/Lecture06/Lecture06.html#references",
+    "title": "Lecture06",
+    "section": "References",
+    "text": "References\n\n\n\nVLE"
   },
   {
     "objectID": "lectures/Lecture01/Lecture01.html#key-topics-today",
@@ -1533,6 +2688,426 @@
     "text": "On behalf of the whole teaching team\nHave a wonderful year!\nAny Questions?"
   },
   {
+    "objectID": "lectures/Lecture12/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture12/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture12/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture12/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture12/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture12/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#me",
+    "href": "lectures/Lecture12/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture12/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture12/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture12/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture12/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#coursework",
+    "href": "lectures/Lecture12/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture12/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#resources",
+    "href": "lectures/Lecture12/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture12/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture12/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture12/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture15/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture15/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture15/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture15/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture15/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#me",
+    "href": "lectures/Lecture15/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture15/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture15/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture15/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture15/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#coursework",
+    "href": "lectures/Lecture15/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture15/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#resources",
+    "href": "lectures/Lecture15/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture15/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture15/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture15/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture14/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture14/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture14/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture14/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture14/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#me",
+    "href": "lectures/Lecture14/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture14/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture14/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture14/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture14/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#coursework",
+    "href": "lectures/Lecture14/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture14/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#resources",
+    "href": "lectures/Lecture14/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture14/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture14/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture14/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "href": "lectures/Lecture13/Lecturexx.html#welcome-back-and-welcome-to-research-methods",
+    "title": "Lecturexx",
+    "section": "Welcome back and welcome to Research Methods!",
+    "text": "Welcome back and welcome to Research Methods!"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#this-year-you-become-scientists",
+    "href": "lectures/Lecture13/Lecturexx.html#this-year-you-become-scientists",
+    "title": "Lecturexx",
+    "section": "This year you become Scientists!",
+    "text": "This year you become Scientists!\nThis year, in Research Methods, you will perform your first piece of REAL psychological research\nIn groups, you will:\n\n\nIdentify an area of psychological research\nReview and critique the literature in this area\nDevelop a testable hypothesis\nDesign a 2x2 ANOVA experiment unique to you (within your group study)\nObtain Ethical Approval for your experiment\nCollect REAL data\nAnalyse these data\nWrite up the results in APA format"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "href": "lectures/Lecture13/Lecturexx.html#a-full-overview-will-be-given-in-the-first-lecture",
+    "title": "Lecturexx",
+    "section": "A full overview will be given in the first lecture!",
+    "text": "A full overview will be given in the first lecture!\nDo not worry! It’s going to be a great adventure!"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "href": "lectures/Lecture13/Lecturexx.html#a-warm-up-for-your-y3-dissertation",
+    "title": "Lecturexx",
+    "section": "A ‘warm up’ for your Y3 Dissertation",
+    "text": "A ‘warm up’ for your Y3 Dissertation\n\n\nThe same 20-week timeline\nThe same skills and techniques you will need\nCareful step-by-step guidance and support in the lab setting\nScaled-down experiments and write-ups\nThe security of working in a group\nTips and advice from world-class researchers\nOpportunity to think carefully about your final year Dissertation, and how to crush it!!"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#support-and-guidance",
+    "href": "lectures/Lecture13/Lecturexx.html#support-and-guidance",
+    "title": "Lecturexx",
+    "section": "Support and guidance",
+    "text": "Support and guidance\n\nGordon Wright (Module Coordinator and floating Enthusiast in Chief)\n7 gobsmackingly amazing Lab Tutors\nYour Personal Tutor and your PT group\nAND EACH OTHER!!\n\nThis is a team-sport"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#me",
+    "href": "lectures/Lecture13/Lecturexx.html#me",
+    "title": "Lecturexx",
+    "section": "me",
+    "text": "me\nI will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design & Analysis lecture. Yup! Me too!\nAvailable at g.wright@gold.ac.uk\nI genuinely could not imagine anything I would rather do that this. Please talk to me!"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#module-weighting-and-assessment",
+    "href": "lectures/Lecture13/Lecturexx.html#module-weighting-and-assessment",
+    "title": "Lecturexx",
+    "section": "Module weighting and assessment",
+    "text": "Module weighting and assessment\nResearch Methods is a core module with a 30 credit weighting\nThis means that in order to progress to Y3, you must pass all 3 assessment elements:\n\n\n\nCritical Proposal 1,800 words (15%)\nMini-Dissertation 2,500 words (70%)\nCHIP Learning Log 1,200 words (15%)"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#a-friendly-warning",
+    "href": "lectures/Lecture13/Lecturexx.html#a-friendly-warning",
+    "title": "Lecturexx",
+    "section": "A friendly warning",
+    "text": "A friendly warning\n\n\n\n\n\n\nWarning\n\n\nAll coursework is INDIVIDUAL and subject to normal plagiarism and collusion rules"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#module-structure",
+    "href": "lectures/Lecture13/Lecturexx.html#module-structure",
+    "title": "Lecturexx",
+    "section": "Module structure",
+    "text": "Module structure\n1 x 1 hr Lecture per week (Monday)\n1 x 2 hr Lab per week (Tuesday)\n4 x Personal Tutor meetings across the year"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#weekly-structure",
+    "href": "lectures/Lecture13/Lecturexx.html#weekly-structure",
+    "title": "Lecturexx",
+    "section": "Weekly Structure",
+    "text": "Weekly Structure\nEach week there will be a very brief ‘Prelude’ designed to introduce one of the main topics of the week\nLecture (slides and recording posted afterwards)\nLab Activity\n\n‘Pulse’ taken on entry - 2 minute quiz\nLab Notebook with brief ‘generative activities’ and opportunities for metacognitive reflection\nExtras provided around skills or applications or just interesting factoids\nLots can be achieved in the labs, but independent study and coordinated group work will be required\n\nNO EXAM"
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#coursework",
+    "href": "lectures/Lecture13/Lecturexx.html#coursework",
+    "title": "Lecturexx",
+    "section": "Coursework",
+    "text": "Coursework\nThe courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise."
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#time-management-and-teamwork",
+    "href": "lectures/Lecture13/Lecturexx.html#time-management-and-teamwork",
+    "title": "Lecturexx",
+    "section": "Time management and teamwork",
+    "text": "Time management and teamwork\n..will both be required.\nI ask you to see both as an opportunity to develop these important skills.\nYou will see we have some ideas to make this more relevant to careers and employability\nIt is easier to ‘keep up than to catch up’."
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#resources",
+    "href": "lectures/Lecture13/Lecturexx.html#resources",
+    "title": "Lecturexx",
+    "section": "Resources",
+    "text": "Resources\nWe will be releasing a series of valuable resources to help you through every step of the process\nThese will have value for your final year dissertation too.\nContribution to and comment on these is welcome and hoped for!\nOpen Educational Resources will be used extensively, and most core readings are available online via the library."
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#prelude-1",
+    "href": "lectures/Lecture13/Lecturexx.html#prelude-1",
+    "title": "Lecturexx",
+    "section": "Prelude 1",
+    "text": "Prelude 1\nWe are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally."
+  },
+  {
+    "objectID": "lectures/Lecture13/Lecturexx.html#thank-you-for-your-time",
+    "href": "lectures/Lecture13/Lecturexx.html#thank-you-for-your-time",
+    "title": "Lecturexx",
+    "section": "Thank you for your time",
+    "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\nPS52007D Research Methods VLE"
+  },
+  {
     "objectID": "preludes/prelude02.html",
     "href": "preludes/prelude02.html",
     "title": "Prelude",
@@ -1544,13 +3119,6 @@
     "href": "extrashub.html",
     "title": "Extras",
     "section": "",
-    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "labs/Lab05/Lab05.html#gpower-guide---key-info",
-    "href": "labs/Lab05/Lab05.html#gpower-guide---key-info",
-    "title": "Lab05",
-    "section": "G*Power guide - Key info",
-    "text": "G*Power guide - Key info\nThe following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available."
+    "text": "Type\n\n\nWeek\n\n\nTopic\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

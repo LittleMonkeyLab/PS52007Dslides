@@ -35,7 +35,7 @@ Two key concepts you'll be thinking about and reading around...
 
 -   important life outcomes
 
-## Hopefully, you will ask yourself... 
+## Hopefully, you will ask yourself...
 
 How are these important and very tricky concepts
 
@@ -65,7 +65,7 @@ A legend. Author of Learning Statistics with Jamovi/R
 
 ![](images/paste-4A09265F.png)
 
-## Dani's example: 
+## Dani's example:
 
 • My [age]{.underline} is [33]{.shout} years.
 
