@@ -1,0 +1,118 @@
+---
+title: 'Lecture06'
+subtitle: 'Operationalising variables and bringing concepts to life'
+author: "Dr Gordon Wright"
+date: "11/14/22"
+logo: "images/RMIPHEX.png"
+footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+chalkboard: true
+preview-links: true
+bibliography: references.bib
+---
+
+## Key topics today
+
+The week ahead (week 6)
+
+-   Personality & Individual Differences Essay Tutorial (Submission Fri, 25th Nov)
+    -   How and why does [intelligence]{.underline} predict [important life outcomes]{.underline}?
+-   RASA and EC deadline for Critical Proposal (Fri, 18th Nov)
+-   PsychSociety film number 2!
+    -   Tuesday (15/11/2022). You can find out more information and book [**here**](https://www.eventbrite.com/e/psychology-film-fest-tickets-459930523577?fbclid=PAAabR7OJ38LFeXWvs6oj8MN-Kq3z_8wdyrTYCnCOnpq7HVv6fpHpV1_1CPwY).
+
+    -   [Three Identical Strangers](https://en.wikipedia.org/wiki/Three_Identical_Strangers). It's well worth a watch, especially if you are interested in ethics and genetics. 
+-   Labs - Online (and Offline) Data collection
+
+# Any Questions?
+
+# 'Operationalisation' of variables
+
+## Let's think about your forthcoming Personality essay
+
+Two key concepts you'll be thinking about and reading around...
+
+-   Intelligence
+
+-   important life outcomes
+
+## Hopefully, you will ask yourself... 
+
+How are these important and very tricky concepts
+
+-   Defined
+
+-   Measured
+
+## Of great importance that you reflect on this for your MD too
+
+How have you [defined]{.underline} your variables of interest?
+
+-   IVs and DVs
+
+How have you [measured or categorised]{.underline} your variables of interest?
+
+-   e.g. Social Media use
+
+-   Gender
+
+-   Frequency or low/high extraversion
+
+## Dani Navarro
+
+A legend. Author of Learning Statistics with Jamovi/R
+
+# [learnstatswithjamovi.com](https://www.learnstatswithjamovi.com/#)
+
+![](images/paste-4A09265F.png)
+
+## Dani's example: 
+
+• My [age]{.underline} is [33]{.shout} years.
+
+• I [do not]{.shout} like [anchovies]{.underline}.
+
+• My [chromosomal gender]{.underline} is [male]{.shout}.
+
+• My [self-identified gender]{.underline} is [male]{.shout}\*
+
+\*see footnote 2, page 14 Learning Statistics with Jamovi
+
+## Median Splits
+
+::: callout-warning
+## Dangerzone!
+
+We often suggest a median split to dichotomise a continuous variable, e.g. for the purposes of creating a 2 level IV.
+
+It's a useful exercise in calculating a 'computed variable' in SPSS or Jamovi
+
+It
+:::
+
+It is a key learning outcome that you are able to perform a standardised set of analysis, specifically, the 2x2 ANOVA with any necessary assumption checks and post-hocs + plots
+
+## So...
+
+![](images/paste-E903404B.png){width="200"}
+
+## 
+
+## Summary
+
+You should now know:
+
+-   Why scientists are concerned about the reliability of psychological studies
+
+-   Steps the scientific community are taking to overcome these worries
+
+-   Not everyone is convinced that the 'crisis' is as serious as it seems, or whether these changes will help solve psychology's problems
+
+# Questions?
+
+## Lab activities
+
+Qualtrics (99% of you will use this!)
+
+10% of you will apply for the wrong type of account and be stuck for 2 weeks
+
+## References
