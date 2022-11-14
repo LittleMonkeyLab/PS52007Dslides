@@ -2,7 +2,7 @@
 title: 'Lecture06'
 subtitle: 'Operationalising variables and bringing concepts to life'
 author: "Dr Gordon Wright"
-date: "11/14/22"
+date: "14th November, 2022"
 logo: "images/RMIPHEX.png"
 footer: "[VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
 chalkboard: true
