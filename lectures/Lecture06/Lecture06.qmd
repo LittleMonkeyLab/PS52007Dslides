@@ -40,11 +40,23 @@ See Howitt and Cramer Chapter 3.3 (Box Research Example - Condon & Crano 1988)
 
 ![](images/paste-01E3BCC9.png)
 
-## Their DV
+## Their DV (consider pros and cons)
 
 This person would like(dislike) me
 
 This person would like(dislike) working with me in an experiment
+
+## The Student Room (question)
+
+![](images/paste-3C1317D6.png)
+
+## The Student Room (answer 1)
+
+![](images/paste-1F4878EE.png)
+
+## The Student Room (answer 2)
+
+![](images/paste-776290A0.png)
 
 ## Let's think about your forthcoming Personality essay
 
@@ -62,7 +74,7 @@ How are these important and very tricky concepts
 
 -   Measured
 
--   And brought to life!
+-   And brought to life in the lab!
 
 ## Of great importance that you reflect on this for your MD too
 
@@ -199,22 +211,22 @@ It is a key learning outcome that you are able to perform a standardised set of 
 
 You should think carefully about:
 
--   How you define your variables
+-   How you define your variables - this is probably a part of the introduction that students DON'T think about enough
 
--   How you measure or categorise your variables
+-   How you measure or categorise your variables (IVs and DVs) - this is probably the single thing I look at first when peer-reviewing research!
 
--   How well your manipulation does what it claims to
+-   How well your manipulation does what it claims to. Does you manipulation bring the thing it proposed to to life well?
 
 # Questions?
 
 ## Lab activities
 
-Qualtrics (99% of you will use this!)
+Qualtrics (99% of you will use this!)- Full Support in Tomorrow's labs (5mins)
 
 -   Log in to an account with your Goldsmiths ID!!
 
 -   10% of you will apply for the wrong type of account and be stuck for 2 weeks
 
-Consider the steps required to bring your study to life!
+Familiarise yourself with the Ethics Application process (10mins)
 
-Familiarise yourself with the Ethics Application process
+Consider the steps required to bring your study to life! (the rest)

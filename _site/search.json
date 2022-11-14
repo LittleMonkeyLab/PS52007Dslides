@@ -2356,7 +2356,7 @@
     "href": "lectures/Lecture06/Lecture06.html#hopefully-you-will-ask-yourself",
     "title": "Lecture06",
     "section": "Hopefully, you will ask yourself…",
-    "text": "Hopefully, you will ask yourself…\nHow are these important and very tricky concepts\n\nDefined\nMeasured\nAnd brought to life!"
+    "text": "Hopefully, you will ask yourself…\nHow are these important and very tricky concepts\n\nDefined\nMeasured\nAnd brought to life in the lab!"
   },
   {
     "objectID": "lectures/Lecture06/Lecture06.html#of-great-importance-that-you-reflect-on-this-for-your-md-too",
@@ -2398,14 +2398,14 @@
     "href": "lectures/Lecture06/Lecture06.html#summary",
     "title": "Lecture06",
     "section": "Summary",
-    "text": "Summary\nYou should think carefully about:\n\nHow you define your variables\nHow you measure or categorise your variables\nHow well your manipulation does what it claims to"
+    "text": "Summary\nYou should think carefully about:\n\nHow you define your variables - this is probably a part of the introduction that students DON’T think about enough\nHow you measure or categorise your variables (IVs and DVs) - this is probably the single thing I look at first when peer-reviewing research!\nHow well your manipulation does what it claims to. Does you manipulation bring the thing it proposed to to life well?"
   },
   {
     "objectID": "lectures/Lecture06/Lecture06.html#lab-activities",
     "href": "lectures/Lecture06/Lecture06.html#lab-activities",
     "title": "Lecture06",
     "section": "Lab activities",
-    "text": "Lab activities\nQualtrics (99% of you will use this!)\n\nLog in to an account with your Goldsmiths ID!!\n10% of you will apply for the wrong type of account and be stuck for 2 weeks\n\nConsider the steps required to bring your study to life!\nFamiliarise yourself with the Ethics Application process\n\n\n\nVLE"
+    "text": "Lab activities\nQualtrics (99% of you will use this!)- Full Support in Tomorrow’s labs (5mins)\n\nLog in to an account with your Goldsmiths ID!!\n10% of you will apply for the wrong type of account and be stuck for 2 weeks\n\nFamiliarise yourself with the Ethics Application process (10mins)\nConsider the steps required to bring your study to life! (the rest)\n\n\n\nVLE"
   },
   {
     "objectID": "lectures/Lecture06/Lecture06.html#references",
@@ -3197,5 +3197,33 @@
     "title": "Lecture06",
     "section": "Their DV",
     "text": "Their DV\nThis person would like(dislike) me\nThis person would like(dislike) working with me in an experiment"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#their-dv-consider-pros-and-cons",
+    "href": "lectures/Lecture06/Lecture06.html#their-dv-consider-pros-and-cons",
+    "title": "Lecture06",
+    "section": "Their DV (consider pros and cons)",
+    "text": "Their DV (consider pros and cons)\nThis person would like(dislike) me\nThis person would like(dislike) working with me in an experiment"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#the-student-room-question",
+    "href": "lectures/Lecture06/Lecture06.html#the-student-room-question",
+    "title": "Lecture06",
+    "section": "The Student Room (question)",
+    "text": "The Student Room (question)"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#the-student-room-answer-1",
+    "href": "lectures/Lecture06/Lecture06.html#the-student-room-answer-1",
+    "title": "Lecture06",
+    "section": "The Student Room (answer 1)",
+    "text": "The Student Room (answer 1)"
+  },
+  {
+    "objectID": "lectures/Lecture06/Lecture06.html#the-student-room-answer-2",
+    "href": "lectures/Lecture06/Lecture06.html#the-student-room-answer-2",
+    "title": "Lecture06",
+    "section": "The Student Room (answer 2)",
+    "text": "The Student Room (answer 2)"
   }
 ]
