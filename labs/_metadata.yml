@@ -12,6 +12,7 @@ from: markdown+raw_attribute+raw_tex
 # embed-resources: true
 # self-contained: true
 slide-level: 2
+date-format: "DD MMMM, YYYY"
 
 menu: true
 navigation-mode: linear

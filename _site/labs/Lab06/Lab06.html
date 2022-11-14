@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-  <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.215">
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.1.251">
+
   <meta name="author" content="Dr.&nbsp;Gordon Wright">
   <title>Materials for PS52007D Research Methods in Psychology - Lab06</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -12,20 +21,17 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto.css" id="theme">
-
-  <script src="../../site_libs/clipboard/clipboard.min.js"></script>
-  <script src="../../site_libs/quarto-html/tabby.min.js"></script>
-  <script src="../../site_libs/quarto-html/popper.min.js"></script>
-  <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-  <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="../../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet">
-  <link id="quarto-text-highlighting-styles" href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -41,7 +47,7 @@
   }
 
   .callout.callout-style-simple { 
-    padding: 0em 0.7em;
+    padding: 0em 0.5em;
     border-left: solid #acacac .3rem;
     border-right: solid 1px silver;
     border-top: solid 1px silver;
@@ -152,8 +158,7 @@
     display: none !important;
   }
 
-  .callout.callout-captioned .callout-body > :last-child,
-  .callout.callout-captioned .callout-body > div > :last-child {
+  .callout.callout-captioned .callout-body > .callout-content > :last-child {
     margin-bottom: 0.5rem;
   }
 
@@ -318,35 +323,167 @@
     }
   </style>
 </head>
-<body>
+<body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" data-background-color="#000080" class="center">
   <h1 class="title">Lab06</h1>
-  <p class="subtitle">Online and Offline Data Collection</p>
+  <p class="subtitle">Online, Offline Data Collection &amp; Ethics</p>
   <p class="author">Dr.&nbsp;Gordon Wright</p>
+  <p class="date">15 November, 2022</p>
 </section>
 
+<section class="slide level2">
+
+<h5 id="key-activities-today-guided-by-the-slides-below">3 key activities today, guided by the slides below:</h5>
+<p>1) Get yourself a Qualtrics account and follow the instructions to upload a template survey</p>
+<p>2) Read the Ethics Information (with a view to understanding what you will be required to do for an application</p>
+<p>3) Start to identify the pieces of your study, and start to think about how you propose to deliver them</p>
+</section>
 <section>
-<section id="qualtrics-gorilla-and-ethics" class="title-slide slide level1 center">
-<h1>Qualtrics, Gorilla and Ethics</h1>
-<p>Qualtrics for survey-type administration and simple-ish stimulus presentation</p>
-<p>e.g.&nbsp;vignette studies</p>
-<p>Gorilla for accurate stimulus presentation and participant data</p>
-<p>e.g.&nbsp;response times</p>
-<p>And you can collect data face to face</p>
-<p>open a Qualtrics account USING YOUR GOLDSMITHS LOGIN DETAILS at the specified URL. <a href="https://goldpsych.eu.qualtrics.com/" class="uri">https://goldpsych.eu.qualtrics.com/</a>&nbsp;</p>
+<section id="activity-1-5-mins---open-a-qualtrics-account" class="title-slide slide level1 center">
+<h1>Activity 1 (5 mins) - Open a Qualtrics Account</h1>
+
 </section>
-<section id="section" class="slide level2">
-<h2>1</h2>
+<section id="qualtrics" class="slide level2">
+<h2>Qualtrics</h2>
+<p>Qualtrics is a survey delivery platform. You will have used it lots as a participant. Time to get on the creative side.</p>
+<div class="callout callout-important callout-captioned callout-style-default">
+<div class="callout-body">
+<div class="callout-caption">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Important</strong></p>
+</div>
+<div class="callout-content">
+<p>Please go to this link: <a href="https://goldpsych.eu.qualtrics.com/" class="uri">https://goldpsych.eu.qualtrics.com/</a> and click on ‘Don’t have an account?’</p>
+<p>Please go only to this link: <a href="https://goldpsych.eu.qualtrics.com/" class="uri">https://goldpsych.eu.qualtrics.com/</a> and click on ‘Don’t have an account?’</p>
+</div>
+</div>
+</div>
+<p>Please use your college email address (jbond007@gold.ac.uk) - NO ACCESS CODE NEEDED</p>
+<p>To get the full functionality, you <span class="shout">MUST</span> use your college login.</p>
+</section>
+<section id="please-make-sure-it-looks-like-this" class="slide level2">
+<h2>Please make sure it looks like this…</h2>
+
+<img data-src="images/paste-9546ED10.png" class="r-stretch"></section></section>
+<section>
+<section id="qualtrics-use-cases" class="title-slide slide level1 center">
+<h1>Qualtrics use cases</h1>
+<p>If you are using questionnaires/surveys only, Qualtrics is for you.</p>
+<p>You can present images, video, audio and text. You can ask all sorts of types of questions.</p>
+<p>You can randomise blocks and questions within blocks.</p>
+<p>It’s also pretty darned easy to get up and running with.</p>
+</section>
+<section id="start-a-new-qualtrics-project-a-new-survey" class="slide level2">
+<h2>Start a new Qualtrics Project (a new survey)</h2>
+<p>Start your project with the following instructions though.</p>
+<div class="callout callout-tip callout-captioned callout-style-default">
+<div class="callout-body">
+<div class="callout-caption">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Load the Template Survey</strong></p>
+</div>
+<div class="callout-content">
+<p>Copy the target of this link to your downloads <a href="https://learn.gold.ac.uk/mod/resource/view.php?id=1224879">Download .qsf file</a></p>
+<p>It will NOT open on it’s own. You need to open your Qualtrics account and</p>
+<ol type="1">
+<li>Create New Project</li>
+<li>Click very top option “Survey”</li>
+<li>Click “Get started” in the bottom righthand corner</li>
+<li>Give your project a groovy but informative name</li>
+<li>When asked “How do you want to start your survey?” select “Import a QSF file”</li>
+<li>Click “choose file” and upload the template you downloaded above.&nbsp;</li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+<section id="qualtrics-support" class="slide level2">
+<h2>Qualtrics support</h2>
+<p>Qualtrics recently changed layout, so I haven’t had a chance to record a set of tutorials, but the channel listed on the next page is very good.</p>
+<p><a href="https://www.youtube.com/channel/UCg4v1FnvUdelgDJl2MckF5w" class="uri">https://www.youtube.com/channel/UCg4v1FnvUdelgDJl2MckF5w</a></p>
+<p>And the support pages are extensive and the help I use most.</p>
+<p><a href="https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/" class="uri">https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/</a></p>
 <p>https://learn.gold.ac.uk/course/view.php?id=24607#section-10</p>
+</section></section>
+<section>
+<section id="gorilla-experiment-platform" class="title-slide slide level1 center">
+<h1>Gorilla Experiment Platform</h1>
+
 </section>
-<section id="do-not-get-this-wrong" class="slide level2">
-<h2>Do not get this wrong</h2>
+<section id="www.gorilla.sc" class="slide level2">
+<h2>www.Gorilla.sc</h2>
+<p>Gorilla is the best way to run experiments where timing is critical to the millisecond level, or if you need to collect participant keypresses or mouse clicks, rather than text-based questions.</p>
+<p>You can obtain a free account using your Goldsmiths email account.</p>
+<p>You’ve already been given the link to Demos and Classic templates, but here it is again</p>
+<p><a href="https://app.gorilla.sc/support/samples" class="uri">https://app.gorilla.sc/support/samples</a></p>
+<p>The support videos and support team are excellent.</p>
+</section></section>
+<section>
+<section id="activity-2---ethics-preview-10-mins" class="title-slide slide level1 center">
+<h1>Activity 2 - Ethics preview (10 mins)</h1>
+<p>This is the link to the Ethics Committee page.</p>
+<p><a href="https://learn.gold.ac.uk/course/view.php?id=20338" class="uri">https://learn.gold.ac.uk/course/view.php?id=20338</a></p>
+<p>All Undergraduate projects apply through the Ethics Application Portal.</p>
+<div class="callout callout-note no-icon callout-captioned callout-style-simple">
+<div class="callout-body">
+<div class="callout-caption">
+<p><strong>Ethics Application page</strong></p>
+</div>
+<div class="callout-content">
+<p><a href="https://psy770.gold.ac.uk/student" class="uri">https://psy770.gold.ac.uk/student</a></p>
+<p>Username: student Password: goldpsy</p>
+</div>
+</div>
+</div>
 </section>
-<section id="section-1" class="slide level2">
-<h2>3</h2>
+<section id="detailed-guidance-on-filling-in-the-application" class="slide level2">
+<h2>Detailed guidance on filling in the application</h2>
+<p>Student Guide to filling in the Ethics Application</p>
+<p><a href="https://learn.gold.ac.uk/mod/resource/view.php?id=985014" class="uri">https://learn.gold.ac.uk/mod/resource/view.php?id=985014</a></p>
+</section>
+<section id="ethics-application-timings" class="slide level2">
+<h2>Ethics Application timings</h2>
+<p><span class="smaller">You can apply at any point from now on. But you should not apply any later than week 9.</span></p>
+<p><span class="smaller">Your application goes first to your Lab Tutor for approval, and you should communicate with them, so that they can act on it promptly, but they are able to take up to a week for unexpected applications.</span></p>
+<p><span class="smaller">You should expect feedback on your application (approval, request for additional information etc.) within 2 weeks from submission to the Ethics Committee (by your Lab Tutor), but Mini-Dissertations are prioritised and could/should be MUCH quicker (± 1 week).</span></p>
+<p><span class="smaller">If your application has ethical considerations (<u>it should NOT</u>), it will need to be reviewed by two Ethics committee members. You will receive approval status and any request for further information ONLY once both committee members reviewed the application.&nbsp;</span><br>
+</p>
+</section>
+<section id="face-to-face-studies" class="slide level2">
+<h2>Face to face studies</h2>
+<p>If your study is likely going to be face to face, please talk to your Lab Tutor about how to plan for this. It might be that you want to collect questionnaire responses on a laptop, or in advance, so that you don’t have to type in the responses yourself.</p>
+<p>For ethics, you need to supply a detailed description of the tools and methods you propose to use, and the paperwork that will be used. This should comprehensively cover the Information/Informed consent procedure, the task, the stimulus used, the procedure, and debrief materials.</p>
+<p>All recruitment materials need to be provided too.</p>
+<p>You need to use the templates below, all available (with examples) on the Ethics VLE page.</p>
+</section>
+<section id="participation-in-y2-minidissertation-projects" class="slide level2">
+<h2>Participation in Y2 MiniDissertation projects</h2>
+<p>You will be expected to take part in MiniDissertation projects consistently and effortfully. This will be monitored via the SONA system and we will preferentially support students in their data collection efforts who demonstrate a willingness to participate in studies run by others.</p>
+<p>It is an opportunity for you to experience the other types of studies your colleagues have created. It could be enough to give you the idea you were looking for for your final year dissertation!</p>
+</section>
+<section id="the-golden-rule" class="slide level2">
+<h2>The golden rule</h2>
+<p>Aim to provide all the necessary information in the Ethics submission to prevent the form being returned for further revision by your Lab Tutor or the Ethics Committee.&nbsp; Each re-submission of the form will take up to 2 weeks to process.</p>
+<p>Do it right, do it once. Work together, proof-read and try to implement all the guidance offered.</p>
+</section></section>
+<section>
+<section id="planning-the-next-5-weeks" class="title-slide slide level1 center">
+<h1>Planning the next 5 weeks</h1>
+
+</section>
+<section id="for-the-rest-of-the-lab" class="slide level2">
+<h2>For the rest of the lab</h2>
+<p>Please start to work together to determine what you need to do to get to the point where you are confident to submit a complete Ethics application.</p>
+<p>For ONLINE studies, you need to have built the data collection tool/task BEFORE you apply for ethics. It is reviewed as part of the application.</p>
+<p>You will likely need to find questionnaires, task materials such as Stimulus items. You will need to plan who is going to do what, and by when. Try to make sure everyone is familiar with all aspects of the study… Chances are you will need to write it up!</p>
+<p>Document your plan and ask your Lab Tutor for advice. Try to be productive.</p>
 
 
 <img src="../images/RMIPHEX.png" class="slide-logo r-stretch"><div class="footer footer-default">
@@ -358,7 +495,6 @@
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
   <script src="../../site_libs/revealjs/dist/reveal.js"></script>
-
   <!-- reveal.js plugins -->
   <script src="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
   <script src="../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
@@ -366,12 +502,13 @@
   <script src="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="../../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
   <script src="../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
   <script src="../../site_libs/revealjs/plugin/notes/notes.js"></script>
   <script src="../../site_libs/revealjs/plugin/search/search.js"></script>
   <script src="../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
   <script src="../../site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
-
 
   <script>
 
@@ -385,11 +522,10 @@
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
-
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
 'smaller': false,
-
+ 
         // Display controls in the bottom right corner
         controls: true,
 
@@ -569,8 +705,26 @@
         ]
       });
     </script>
-    <script type="application/javascript">
+    <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
       const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
       tabsets.forEach(function(tabset) {
         const tabby = new Tabby('#' + tabset.id);
@@ -587,7 +741,10 @@
         button.blur();
         // flash "checked"
         button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
         setTimeout(function() {
+          button.setAttribute("title", currentTitle);
           button.classList.remove('code-copy-button-checked');
         }, 1000);
         // clear code selection
@@ -616,7 +773,8 @@
       for (var i=0; i<noterefs.length; i++) {
         const ref = noterefs[i];
         tippyHover(ref, function() {
-          let href = ref.getAttribute('href');
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
