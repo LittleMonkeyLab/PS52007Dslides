@@ -10,6 +10,8 @@ preview-links: true
 bibliography: references.bib
 ---
 
+![](images/paste-D9231378.png)
+
 ## Key topics today
 
 The week ahead (week 6)
@@ -21,6 +23,7 @@ The week ahead (week 6)
     -   Tuesday (15/11/2022). You can find out more information and book [**here**](https://www.eventbrite.com/e/psychology-film-fest-tickets-459930523577?fbclid=PAAabR7OJ38LFeXWvs6oj8MN-Kq3z_8wdyrTYCnCOnpq7HVv6fpHpV1_1CPwY).
 
     -   [Three Identical Strangers](https://en.wikipedia.org/wiki/Three_Identical_Strangers). It's well worth a watch, especially if you are interested in ethics and genetics. 
+-   Strike days - 24th (Thu), 25th (Fri), 30th (Wed)
 -   Labs - Online (and Offline) Data collection
 
 # Any Questions?
