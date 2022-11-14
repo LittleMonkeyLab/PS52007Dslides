@@ -16,6 +16,7 @@
   {
     "listing": "/allmaterials.html",
     "items": [
+      "/lectures/Lecture00/Lecture00.html",
       "/labs/Lab02/Lab02.html",
       "/labs/Lab03/Lab03.html",
       "/labs/Lab04/Lab04.html",
@@ -25,7 +26,6 @@
       "/labs/Lab08/Lab08.html",
       "/labs/Lab09/Lab09.html",
       "/labs/Lab10/Lab10.html",
-      "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html",
       "/lectures/Lecture03/Lecture03.html",
