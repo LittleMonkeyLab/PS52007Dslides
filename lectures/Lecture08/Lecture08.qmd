@@ -1,0 +1,309 @@
+---
+title: 'Psychometrics - LIVE!'
+subtitle: 'I like to develop new measures (Strongly Agree - Strongly Disagree)'
+author: 'Dr Gordon Wright'
+logo: "images/RMIPHEX.png"
+footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+chalkboard: 
+  theme: whiteboard
+bibliography: refs.bib
+---
+
+# Overview
+
+## The week ahead
+
+The week ahead (week 8)
+
+-   PS52005C Design & Analysis Quiz 2 Due: 10am 16th December (week 10)
+-   W8 Personal Tutor session on feedback
+-   W9 Making the most of Goldsmiths Psych
+-   W10 Cognitive Essay Tutorial
+-   Strike day 3/3 - 30th (Wed)
+-   Labs - Ongoing task development and Ethics applications
+
+## Who'd like to do some free-style Psychometrics?
+
+Hands up for "Yes"
+
+(in which case I'll re-record the lecture)
+
+::: question
+[**Will involve participation**]{.question}
+:::
+
+We can run this in-class exercise and if you want, I'll apply for ethics
+to do the thing properly over the coming weeks. Could be publishable.
+
+## Here's an idea...
+
+A psychological measure of
+
+. . .
+
+X
+
+## If you are up for it, we can start the first two steps
+
+1.  [Articulate the construct and the context]{.takeaway}
+
+2.  [Assemble items and decide on response format]{.takeaway}
+
+3.  Data collection
+
+4.  Assess Psychometric properties
+
+## Or let's just do the lecture...
+
+Your call!
+
+## Psychometrics - Not as boring as you might think...
+
+Psychological 'constructs' are tricky to pin down
+
+May differ from 'naive' understanding
+
+-   Consider 'Intelligence' and 'Empathy'
+
+-   What about Personality?
+
+## Ten Item Personality Inventory (TIPI)
+
+@gosling2003b
+
+<https://gosling.psy.utexas.edu/scales-weve-developed/ten-item-personality-measure-tipi/>
+
+![](images/paste-6408725A.png)
+
+## TIPI Scoring
+
+![](images/paste-10BC4E44.png)
+
+## The **International Personality Item Pool (**IPIP)
+
+<https://ipip.ori.org/>
+
+![](images/paste-9D7CAB8A.png)
+
+## Go crazy!
+
+![](images/paste-419C03F5.png)
+
+## Two measures for ADHD (Span et al., 2002 & IPIP)
+
+::: columns
+::: column
+![](images/paste-28007C82.png)
+:::
+
+::: column
+![](images/paste-3A6409F5.png){width="400"}
+:::
+:::
+
+@span2002
+
+An incredibly valuable resource and a lovely way in to new topic areas!
+
+## The challenge of measurement
+
+::: incremental
+-   To do it requires a clear understanding of the concept in question
+-   You need technical skills and some friends
+-   You need to be creative and thoughtful
+-   It's research in itself, OR, a step required to do novel research!
+-   Fascinating concepts *when seen in practice!*
+:::
+
+## 4 key steps to scale construction
+
+::: incremental
+1.  Articulate the construct and the context
+
+2.  Assemble items and decide on response format
+
+3.  Data collection
+
+4.  Assess Psychometric properties
+:::
+
+## 1. Articulate the construct and the context
+
+What are we measuring and how do we conceptualise it?
+
+In what context is the construct displayed?
+
+Is it 'unitary' or 'multidimensional'?
+
+## 1.b Dimensionality (or Factors, Sub-scales, Facets)
+
+![](images/paste-D1544C5F.png)
+
+## 2a. Assemble items
+
+Either write items or 'find' items.
+
+::: incremental
+-   e.g. The lexical approach to personality
+
+-   or the Delphi Technique (Expert Opinions e.g. Clinicians)
+
+-   Previous scales or items (other research
+
+-   Talk to the target population/observation
+:::
+
+## 2b. Response format
+
+There are options
+
+::: incremental
+-   **Likert Scales** (To what extent do you agree with SD - NAND -SA)
+
+-   **Rating Scale** (On a scale of 1-7 how x are you?)
+
+-   **Forced Choice** (a - Modesty doesn't become me. b - I am
+    essentially a modest person)
+
+-   **Semantic differential** (Healthy ------ Unhealthy)
+:::
+
+## 2.c Response choices
+
+::: incremental
+-   **Options** (True False, 7 point)
+
+-   **Labels/anchors** (What is the midpoint?)
+
+-   **Mid-points** (4 item or 5, Don't know, N/A, No opinion)
+
+-   **Consistency of response across items**
+:::
+
+## Likert Scales (1) (Lick-ert) and Likert-type rating scales (2&3)
+
+## ![](images/paste-AEDC3AA8.png)There are other scale types!
+
+![](images/paste-84F98ECC.png)
+
+## **BRUSO Model of Writing Effective Questionnaire Items**
+
+An acronym that stands for "Brief," "Relevant," "Unambiguous,"
+"Specific," and "Objective,"
+
+![](images/paste-80B928CF.png){width="95%"}
+
+@peterson2000
+
+## Unsuccessful items
+
+![](images/paste-03A661E4.png)Adapted from Barker et al., 2016: pp.
+111-112; DeVellis, 2017: p. 101.
+
+## "Stress" Simple, huh?
+
+[The **Social Readjustment Rating Scale (**Holmes and Rahe, 1967) is a
+self-report questionnaire on which people identify stressful events that
+they have experienced in the past year and assigns points for each one
+depending on its severity. For example, a man who has been divorced (73
+points), changed jobs (36 points), and had a change in sleeping habits
+(16 points) in the past year would have a total score of 125.]{.smaller}
+
+. . .
+
+[The **Daily Hassles and Uplifts Scale** (Delongis et al., 1982)is
+similar but focuses on everyday stressors like misplacing things and
+being concerned about one's weight.]{.smaller}
+
+. . .
+
+[The **Perceived Stress Scale** (Cohen et al., 1994)is another
+self-report measure that focuses on people's feelings of stress (e.g.,
+"How often have you felt nervous and stressed?").]{.smaller}
+
+. . .
+
+[Researchers have also operationally defined stress in terms of several
+physiological variables including blood pressure and levels of the
+stress hormone cortisol.]{.smaller}
+
+[@cohen1994perceived; @delongis1982relationship; @holmes1967social]
+
+## Blirt - Blirtatiousness (Swann et al., 2001)
+
+<https://labs.la.utexas.edu/swann/the-blirt/>
+
+![](images/paste-306E9D99.png){width="100%"}
+
+## Factor Analysis
+
+![](images/paste-69CB1B2F.png)
+
+## Would you like to have a go?
+
+If you would like to, how about we develop a scale of our own.
+
+Everyone who wants to have a go, come to the front.
+
+## Glossary (Validity & Reliability) {.scrollable}
+
+**Discriminant validity**
+
+:   the relationship between some traits that should have weak or no
+    relationship
+
+**Face validity**
+
+:   Does the scale appear to be measuring the variable? to researcher
+    AND participant! e.g. Psychopathy at work scales. Cannot be TOO
+    'criminal' or 'deviant'
+
+**Content validity**
+
+:   Do the items on the scale represent the various (and full) aspects
+    of the variable being measured?
+
+**Construct validity**
+
+:   Does the scale actually measure the intended variable?
+
+**Concurrent validity**
+
+:   Does the scale relate to a relevant outcome or behavior that was
+    measured at the same time?
+
+**Predictive validity**
+
+:   Does the scale relate to a relevant outcome or behavior that occurs
+    in the future, after the scale is completed?
+
+**Convergent validity**
+
+:   the relationship between traits that are similar to (but not
+    identical to) the trait being measured
+
+**Criterion validity**
+
+:   the relationship between some measure and some real-world outcome
+
+**Discriminant validity**
+
+:   the relationship between some traits that should have weak or no
+    relationship
+
+**Inter-rater reliability**
+
+:   Inter-rater reliability agreement demonstrates consistent results
+    between different examiners.
+
+**Test-retest reliability**
+
+:   reliability between tests conducted over short periods of time.
+
+**Split-half reliability**
+
+:   the correlation between to halves of the same proposed measure.
+    Doing this for all the possible halves and averaging the result it
+    Cohen's Alpha!
+
+## References
