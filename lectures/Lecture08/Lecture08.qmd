@@ -1,5 +1,5 @@
 ---
-title: 'Psychometrics - LIVE!'
+title: 'Lecture08 Psychometrics - LIVE!'
 subtitle: 'I like to develop new measures (Strongly Agree - Strongly Disagree)'
 author: 'Dr Gordon Wright'
 logo: "images/RMIPHEX.png"
