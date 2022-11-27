@@ -16,6 +16,7 @@
   {
     "listing": "/allmaterials.html",
     "items": [
+      "/lectures/Lecture08/PS51009Week8.html",
       "/lectures/Lecture00/Lecture00.html",
       "/labs/Lab02/Lab02.html",
       "/labs/Lab03/Lab03.html",
@@ -41,13 +42,13 @@
       "/lectures/Lecture17/Lecturexx.html",
       "/lectures/Lecture19/Lecturexx.html",
       "/lectures/Lecture09/Lecturexx.html",
-      "/lectures/Lecture08/Lecturexx.html",
       "/lectures/Lecture12/Lecturexx.html",
       "/lectures/Lecture15/Lecturexx.html",
       "/lectures/Lecture14/Lecturexx.html",
       "/lectures/Lecture13/Lecturexx.html",
       "/preludes/prelude01.html",
-      "/preludes/prelude02.html"
+      "/preludes/prelude02.html",
+      "/lectures/Lecture08/Lecture08.html"
     ]
   },
   {
@@ -60,6 +61,7 @@
   {
     "listing": "/lectureshub.html",
     "items": [
+      "/lectures/Lecture08/PS51009Week8.html",
       "/lectures/Lecture00/Lecture00.html",
       "/lectures/Lecture01/Lecture01.html",
       "/lectures/Lecture02/Lecture02.html",
@@ -76,11 +78,11 @@
       "/lectures/Lecture17/Lecturexx.html",
       "/lectures/Lecture19/Lecturexx.html",
       "/lectures/Lecture09/Lecturexx.html",
-      "/lectures/Lecture08/Lecturexx.html",
       "/lectures/Lecture12/Lecturexx.html",
       "/lectures/Lecture15/Lecturexx.html",
       "/lectures/Lecture14/Lecturexx.html",
-      "/lectures/Lecture13/Lecturexx.html"
+      "/lectures/Lecture13/Lecturexx.html",
+      "/lectures/Lecture08/Lecture08.html"
     ]
   },
   {
