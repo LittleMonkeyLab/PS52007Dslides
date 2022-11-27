@@ -1,7 +1,7 @@
 ---
-title: 'Deviously seeking deception'
+title: 'Deviously seeking Duping Delight in the Darkness'
 subtitle: 'Welcome to the LittleMonkeyLab'
-author: 'Dr Gordon Wright'
+author: 'Dr Gordon Wright aka DrDeception'
 logo: "images/LMLLOGO.png"
 footer: "Practical Issues Week 8 [VLE](https://learn.gold.ac.uk/course/view.php?id=24463)"
 chalkboard: 
@@ -9,3 +9,19 @@ chalkboard:
 ---
 
 # Overview
+
+Y2 Mini Dissertation
+
+Little monkey Video
+
+## Video
+
+```{=html}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8c7NEf6qFlc" title="Monkey's Bluff | Clever Monkeys | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+## Some easy research!
+
+```{=html}
+<iframe width="1280" height="720" src="https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838" title="Horizon: The Honesty Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+## [BBC Horizon: The Honesty Experiment](https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838)
