@@ -1,5 +1,5 @@
 ---
-title: 'Deviously seeking Duping Delight in the Darkness'
+title: 'Deviously Seeking Duping Delight in the Darkness'
 subtitle: 'Welcome to the LittleMonkeyLab'
 author: 'Dr Gordon Wright aka DrDeception'
 logo: "images/LMLLOGO.png"
@@ -234,7 +234,7 @@ samples)
 In December of your final year you can apply for a 1+3 funded MSc & PhD
 position
 
-## Research opportunities available all the time. . . 
+## Research opportunities available all the time. . .
 
 . . .
 
@@ -548,5 +548,11 @@ hedonic value of being cruel.
 ------------------------------------------------------------------------
 
 ![](images/paste-119912CF.png)
+
+Some Quality References
+
+Deception and the Dark Triad
+
+@turi2022a
 
 ## References
