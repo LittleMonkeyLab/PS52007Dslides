@@ -6,23 +6,50 @@ logo: "images/LMLLOGO.png"
 footer: "Practical Issues Week 8 [VLE](https://learn.gold.ac.uk/course/view.php?id=24463)"
 chalkboard: 
   theme: whiteboard
+bibliography: references.bib
 ---
 
 # Overview
 
+. . .
+
+::: {.callout-important appearance="minimal"}
 Your research here at Goldsmiths and some opportunities that lie ahead
+:::
 
+. . .
+
+::: {.callout-tip appearance="minimal"}
 Share some tips and tricks
+:::
 
+. . .
+
+::: {.callout-caution appearance="minimal"}
 Start the Research Participation Scheme task for today
+:::
 
-BREAK - 10-15 mins
+. . .
 
+> BREAK - 10-15 mins
+
+. . .
+
+::: {.callout-important appearance="minimal"}
 A brief overview of my research
+:::
 
+. . .
+
+::: {.callout-tip appearance="minimal"}
 Today's Target Paper
+:::
 
-Questions
+. . .
+
+::: {.callout-caution appearance="minimal"}
+Questions *(of which I hear you usually have many!)*
+:::
 
 # *"MyPsychology"*
 
@@ -48,31 +75,290 @@ g.wright\@gold.ac.uk
 
 ## But who are you?
 
-::: incremental
--   What do I need to know?
--   Why did you choose to study at Goldsmiths?
--   Why Psychology?
--   What do you hope to do with your Psychology degree?
-:::
+. . .
+
+\
+What do I need to know?
+
+. . .
+
+\
+Why did you choose to study at Goldsmiths?
+
+. . .
+
+\
+Why Psychology?
+
+. . .
+
+\
+What do you hope to do with your Psychology degree?
 
 ## *MyPsychology*
 
+. . .
+
+\
 'MyPsychology' is an idea I introduce in Y2 Research Methods
 
+. . .
+
+\
 The idea that there is no 'one size fits all' psychology
 
-It's entirely as unique as you are
+. . .
 
+\
+It's as unique as you are
+
+. . .
+
+\
 Topics \| Methods \| Application \| Journey
 
-## Why does that matter now? 
+## Why does that matter this year?
 
-This module is designed to try to give you a glimpse of psychological
-research
+. . .
 
-Research Participation Scheme - what's the point there?
+\
+This module is designed to try to give you a glimpse of real
+psychological research
 
-PS51010C - Extended Essay
+. . .
+
+[***\
+[Research Participation Scheme]{.incremental}***]{.underline}
+
+. . .
+
+[***\
+[PS51010C - Extended Essay]{.incremental}***]{.underline}
+
+::: incremental
+-   [3000 words MAX]{.takeaway}
+
+-   [4 x Target Articles (Empirical from the last 3 years)]{.takeaway}
+
+-   [You choose your own topic!]{.takeaway}
+:::
+
+## Next year
+
+. . .
+
+\
+PS52007D Research Methods in Psychology (30 credits - 20 weeks)
+
+. . .
+
+\
+Mini-Dissertation - Groups of 3/4 from within your Personal Tutor Group
+
+. . .
+
+\
+A unique 2x2 design each - but a shared
+design/development/data-collection
+
+## An example
+
+```{=html}
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/liJFqGKlFNM" title="ACE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+## Details
+
+. . .
+
+2x2 Design (2 IVs, each with 2 levels, and a continuous dependent
+variable)
+
+. . .
+
+\
+IV1 - Adverse Childhood Experiences (High v Low)
+
+. . .
+
+IV2 - Emotional Self-Efficacy (High v Low)
+
+. . .
+
+\
+DVs - Various aspects of 'Resilience' in everyday life (one continuous
+DV each)
+
+. . .
+
+\
+4 separate questions that ask about likelihood of resilient response in
+different ecological situations
+
+## Another opportunity next year
+
+. . .
+
+\
+Summer Bursary Competition - 4 weeks of full time paid research
+experience
+
+. . .
+
+\
+The experiment you will be taking part in was a Summer Bursary project
+from 2019 - run entirely by a Second Year Student (Caitlin)
+
+## Final Year Dissertation
+
+. . .
+
+\
+45 Credit Module - Independent Research Project
+
+. . .
+
+\
+1:1 with a member of staff
+
+. . .
+
+\
+Whatever topic you can agree on (excluding children/clinical/forensic
+samples)
+
+## For the aspiring researcher
+
+. . .
+
+\
+In December of your final year you can apply for a 1+3 funded MSc & PhD
+position
+
+## Research opportunities available all the time. . . 
+
+. . .
+
+You are able to ask to join a lab or work with a member of staff at any
+time
+
+. . .
+
+\
+Some labs have regular meetings and are open to volunteers, some are
+more informal or even work on a 1:1 basis
+
+. . .
+
+\
+If you like the research somebody is doing, go and knock on their door!
+
+# Tips and Tricks
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Tip Number 1
+
+Start poking around in Academic Journals.
+
+My favourite way to do this is the app Browzine
+
+on your computer AND your phone
+
+[Browzine via the
+Library](https://browzine.com/libraries/1374/subjects/67/bookcases/169?sort=title)
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Tip Number 2
+
+Get to grips with the Library
+
+<https://libguides.gold.ac.uk/psychology>
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Tip Number 3
+
+Make Google Scholar your own
+
+![](images/paste-E9441F3F.png)
+
+![](images/paste-932C9782.png)
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Tip Number 4
+
+Strategic Searching & Literature Management
+
+[ResearchRabbit.ai](https://researchrabbitapp.com/home) and
+[Zotero](https://www.zotero.org/)
+:::
+
+------------------------------------------------------------------------
+
+::: callout-tip
+## Tip Number 5
+
+Use AI to your advantage!
+
+[Paper Digest](https://www.paper-digest.com/) Summarise Open Access
+Articles with AI
+
+[Semantic Scholar](https://www.semanticscholar.org/) One of the biggest
+research link hubs on the planet
+
+[Scite.ai](www.scite.ai) A groovy browser extension to help you find
+supporting and competing literature!
+
+[Elicit.org](Elicit.org) [Inciteful.xyz](https://inciteful.xyz/)
+[ConnectedPapers.com](https://www.connectedpapers.com/)
+:::
+
+# Let's get this show on the road
+
+I will share the link to the SONA participant pool with you in a second.
+
+. . .
+
+\
+But I wanted to watch the introductory video with you now, as it is
+slightly incorrect, but I wanted you to see it.
+
+. . .
+
+------------------------------------------------------------------------
+
+\
+The study you will be given access to is a much abbreviated version of
+the original\
+
+2 credits at time 1 (today?)
+
+> 2 short questionnaires and a diary entry
+
+1.5 credits at time 2 (at least 24 hours later - and hopefully on a
+different 'type' of day)
+
+> just a diary entry
+
+## Introductory Video
+
+```{=html}
+<iframe width="954" height="714" src="https://www.youtube.com/embed/xlApsrloom0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+## The study link
+
+<https://goldsmithsprpd.sona-systems.com/default.aspx?p_return_experiment_id=105>
+
+![](images/paste-ED3464C2.png)
 
 # LittleMonkeyLab
 
@@ -129,3 +415,136 @@ Zotero
 Research Rabbit
 
 Special Issues/Annual Reviews
+
+[@baughman2014d; @halevy2014a; @cantarero2018a; @jonason2014a;
+@levine2010d; @levine2010d; @markowitz2021a]
+
+![](images/paste-5B3C6341.png)
+
+![](images/paste-D0937F91.png)
+
+## It ain't that bad
+
+Deception frequency is significantly correlated to neocortical volume
+across species (Byrne & Corp, 2004)
+
+Evolution selects for more and more effective strategies of achieving
+social success (including deception, manipulation, alliance formation,
+exploitation of the expertise of others, etc.) And for ability to learn
+and use them.
+
+Social success translates into reproductive success
+
+## Monkey Business
+
+Observations of non-human behaviour of the type led scientists to
+suggest a positive relationship between brain size and social group
+size.
+
+A bigger brain seems to be found in more complex social environments.
+But bigger brains are costly.
+
+There has to be a benefit to carrying around this big brain.
+
+## The dynamic social environment
+
+The social world is very complex and the characters in this social world
+are difficult to predict.
+
+We usually operate within a status hierarchy which predetermines our
+opportunities. Think of our cheeky little monkey. What did HE want?
+
+-   Access to food
+-   Access to shelter
+-   Access to mates
+-   Safety and Security of self and offspring
+
+Navigating the hierarchy successfully requires cooperation and
+competition.
+
+The Machiavellian Intelligence Hypothesis
+
+The Machiavellian Intelligence Hypothesis posits that social demands
+have driven the evolution of the cognitive facilities humans employ to
+navigate their social domain.
+
+'Machiavellian' strategies, such as deception, interpersonal
+manipulation, cooperation, and alliance formation allow individuals to
+achieve higher social and reproductive success.
+
+Maybe it would help to be a bit more "Machiavellian"?
+
+## How could we measure 'Lie Frequency'?
+
+![](images/paste-5E12FEC5.png)
+
+Self-report
+
+Diary study (or similar)
+
+Some kind of app?
+
+Experimental research
+
+## Deception in the wild
+
+![](images/paste-ABF42C39.png)
+
+![](images/paste-6B93028F.png)
+
+Machiavellianism
+
+Sensitive to social context, and will switch quickly between cooperation
+and competition depending on utility
+
+Endorse emotional manipulation and use emotional skills to ingratiate
+
+Comprises a cynical view of human nature and interpersonal manipulation
+tactics (perception of the world and behaviour)
+
+Narcissism
+
+Vain, 'grandiose sense of self', with high levels of entitlement
+
+The Narcissist is unique and special
+
+Narcissists, as a result of being surrounded by 'mere mortals' may show
+reduced empathy for others and disregard their goals or status
+
+Narcissists maintain their grandiose sense of self by seeking out
+praise, adoration, adulation and avoiding realistic feedback
+
+Grandiose/Vulnerable types have been suggested.
+
+Psychopathy
+
+Manifest disregard for other people - Low empathy, disruptive behaviours
+verging on bullying or sadism, deception thought to be a central
+feature.
+
+Superficial charm and glibness. Erratic lifestyle factors and high
+impulsivity. Extreme reward appetite and low fear of loss or punishment.
+Often related to criminal activity.
+
+Boldness, Meanness, Disinhibition is the 3 Factor structure suggested by
+the Triarchic Model (Patrick 2010, onwards)
+
+## Bonus prize - Sadism
+
+As part of the Dark Tetrad, sadism is investigated in its subclinical
+manifestation---***everyday sadism***.
+
+When people enjoy watching violent movies or even playing violent games
+as a social escape to manifest their sadistic traits it is referred to
+as ***vicarious sadism***.
+
+There is sometimes an alternative aspect called ***direct sadism***, but
+it is actually far too rare to be useful in most studies.
+
+In turn, higher scores in everyday sadism are associated with injuring
+others verbally, physically, and/or psychologically, inspired by a
+hedonic value of being cruel.
+
+![](images/paste-119912CF.png)
+
+## References
