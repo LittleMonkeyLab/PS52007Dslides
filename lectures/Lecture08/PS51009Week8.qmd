@@ -492,7 +492,7 @@ Experimental research
 
 ![](images/paste-6B93028F.png)
 
-Machiavellianism
+## Machiavellianism
 
 Sensitive to social context, and will switch quickly between cooperation
 and competition depending on utility
@@ -502,7 +502,7 @@ Endorse emotional manipulation and use emotional skills to ingratiate
 Comprises a cynical view of human nature and interpersonal manipulation
 tactics (perception of the world and behaviour)
 
-Narcissism
+## Narcissism
 
 Vain, 'grandiose sense of self', with high levels of entitlement
 
@@ -516,7 +516,7 @@ praise, adoration, adulation and avoiding realistic feedback
 
 Grandiose/Vulnerable types have been suggested.
 
-Psychopathy
+## Psychopathy
 
 Manifest disregard for other people - Low empathy, disruptive behaviours
 verging on bullying or sadism, deception thought to be a central
@@ -544,6 +544,8 @@ it is actually far too rare to be useful in most studies.
 In turn, higher scores in everyday sadism are associated with injuring
 others verbally, physically, and/or psychologically, inspired by a
 hedonic value of being cruel.
+
+------------------------------------------------------------------------
 
 ![](images/paste-119912CF.png)
 
