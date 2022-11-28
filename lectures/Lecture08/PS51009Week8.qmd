@@ -10,7 +10,35 @@ chalkboard:
 
 # Overview
 
-Y2 Mini Dissertation
+Your research here at Goldsmiths
+
+Opportunities ahead of you
+
+Share some tips and tricks
+
+Start the credit task
+
+BREAK - 10-15 mins
+
+A brief overview of my research
+
+Today's Target Paper
+
+Questions
+
+# *"MyPsychology"*
+
+## A brief introduction
+
+::: columns
+::: column
+Dr. Gordon Wright - Lecturer in Psychology & Dougal
+:::
+
+::: column
+![](images/DougalMan.PNG){width="300"}
+:::
+:::
 
 Little monkey Video
 
