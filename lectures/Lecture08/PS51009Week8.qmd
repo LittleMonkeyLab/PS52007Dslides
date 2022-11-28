@@ -10,13 +10,11 @@ chalkboard:
 
 # Overview
 
-Your research here at Goldsmiths
-
-Opportunities ahead of you
+Your research here at Goldsmiths and some opportunities that lie ahead
 
 Share some tips and tricks
 
-Start the credit task
+Start the Research Participation Scheme task for today
 
 BREAK - 10-15 mins
 
@@ -28,11 +26,19 @@ Questions
 
 # *"MyPsychology"*
 
-## A brief introduction
+## A brief introduction to me
 
 ::: columns
 ::: column
-Dr. Gordon Wright - Lecturer in Psychology & Dougal
+Dr. Gordon Wright
+
+Lecturer in Psychology
+
+MC - Y2 Research Methods
+
+g.wright\@gold.ac.uk
+
+& Dougal (insta: DougalMania)
 :::
 
 ::: column
@@ -40,7 +46,35 @@ Dr. Gordon Wright - Lecturer in Psychology & Dougal
 :::
 :::
 
-Little monkey Video
+## But who are you?
+
+::: incremental
+-   What do I need to know?
+-   Why did you choose to study at Goldsmiths?
+-   Why Psychology?
+-   What do you hope to do with your Psychology degree?
+:::
+
+## *MyPsychology*
+
+'MyPsychology' is an idea I introduce in Y2 Research Methods
+
+The idea that there is no 'one size fits all' psychology
+
+It's entirely as unique as you are
+
+Topics \| Methods \| Application \| Journey
+
+## Why does that matter now? 
+
+This module is designed to try to give you a glimpse of psychological
+research
+
+Research Participation Scheme - what's the point there?
+
+PS51010C - Extended Essay
+
+# LittleMonkeyLab
 
 ## Video
 
@@ -56,7 +90,7 @@ Little monkey Video
 
 ## MyPsychology
 
-## Your aspirations?
+## 
 
 ## Your research 'career' ahead of you
 
