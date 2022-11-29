@@ -6,7 +6,7 @@ logo: "images/LMLLOGO.png"
 footer: "Practical Issues Week 8 [VLE](https://learn.gold.ac.uk/course/view.php?id=24463)"
 chalkboard: 
   theme: whiteboard
-bibliography: references.bib
+bibliography: "references.bib"
 ---
 
 # Overview
@@ -392,7 +392,7 @@ different 'type' of day)
 
 ![](images/paste-6B93028F.png)
 
-## So why do people lie?
+## So why do people lie? @levine2010d
 
 ![](images/paste-D0937F91.png)
 
@@ -411,13 +411,13 @@ exploitation of the expertise of others, etc.)
 
 And for the ability to learn and use such strategies.
 
-. . . .
+. . .
 
 Social success translates into reproductive success!
 
-## Monkey Business (see @shultz2022)
+## Monkey Business see @shultz2022
 
-...
+. . .
 
 \
 Observations of non-human behaviour of the type led scientists to
@@ -435,27 +435,20 @@ But bigger brains are costly.
 \
 There has to be a benefit to carrying around this big brain.
 
-## The dynamic social environment (see @whiten2018)
+## The dynamic social environment see @whiten2018
 
-. . .
-
-\
+. . .\
 The social world is very complex and the characters in this social world
 are difficult to predict.
 
-. . .
-
-\
+. . .\
 We usually operate within a status hierarchy which predetermines our
 opportunities. Think of our cheeky little monkey. What did he want?
 
-::: incremental
+::: {.incremental .smaller}
 -   Access to food
-
 -   Access to shelter
-
 -   Access to mates
-
 -   Safety and Security of self and offspring
 :::
 
@@ -472,13 +465,15 @@ navigate their social domain.
 manipulation, cooperation, and alliance formation allow individuals to
 achieve higher social and reproductive success.
 
-Maybe it would help to be a bit more "Machiavellian"?
+. . .\
+
+[Maybe it would help to be a bit more "Machiavellian"?]{.takeaway}
 
 ## But how can we possibly measure 'Lie Frequency'?
 
-![](images/paste-5E12FEC5.png)
-
-Self-report
+::: columns
+::: column
+Self- or other-report
 
 Diary study (or similar)
 
@@ -487,56 +482,100 @@ Some kind of app?
 Motion capture suits and TV cameras?
 
 Experimental, lab-based research
+:::
+
+::: column
+![](images/paste-5E12FEC5.png){width="30%"}
+:::
+:::
 
 ## Machiavellianism
+
+. . .
 
 Sensitive to social context, and will switch quickly between cooperation
 and competition depending on utility
 
+. . .
+
+\
 Endorse emotional manipulation and use emotional skills to ingratiate
 
+. . .
+
+\
 Comprises a cynical view of human nature and interpersonal manipulation
 tactics (perception of the world and behaviour)
 
 ## Narcissism
 
+. . .
+
 Vain, 'grandiose sense of self', with high levels of entitlement
 
+. . .
+
+\
 The Narcissist is unique and special
 
+. . .
+
+\
 Narcissists, as a result of being surrounded by 'mere mortals' may show
 reduced empathy for others and disregard their goals or status
 
+. . .
+
+\
 Narcissists maintain their grandiose sense of self by seeking out
 praise, adoration, adulation and avoiding realistic feedback
 
-Grandiose/Vulnerable types have been suggested.
+Grandiose/Vulnerable distinction is starting to get hold.
 
 ## Psychopathy
+
+. . .
 
 Manifest disregard for other people - Low empathy, disruptive behaviours
 verging on bullying or sadism, deception thought to be a central
 feature.
 
+. . .
+
+\
 Superficial charm and glibness. Erratic lifestyle factors and high
 impulsivity. Extreme reward appetite and low fear of loss or punishment.
 Often related to criminal activity.
 
+. . .
+
+\
 Boldness, Meanness, Disinhibition is the 3 Factor structure suggested by
 the Triarchic Model (Patrick 2010, onwards)
 
 ## Bonus prize - Sadism
 
+. . .
+
 As part of the Dark Tetrad, sadism is investigated in its subclinical
 manifestation---***everyday sadism***.
 
+. . .
+
+\
 When people enjoy watching violent movies or even playing violent games
 as a social escape to manifest their sadistic traits it is referred to
 as ***vicarious sadism***.
 
+. . .
+
+\
 There is sometimes an alternative aspect called ***direct sadism***, but
 it is actually far too rare to be useful in most studies.
 
+. . .
+
+\
 In turn, higher scores in everyday sadism are associated with injuring
 others verbally, physically, and/or psychologically, inspired by a
 hedonic value of being cruel.
@@ -555,10 +594,14 @@ hedonic value of being cruel.
 
 ![](images/paste-119912CF.png)
 
-Some Quality References
+## The Target Paper @gunderson2022
 
-Deception and the Dark Triad
+<https://hyp.is/L4vR9m9QEe2hne9nNT_AIg/link.springer.com/article/10.1007/s42761-022-00126-5>
 
-@turi2022a
+![](images/paste-12B4ABA9.png)
+
+------------------------------------------------------------------------
+
+[hypothesis](https://hyp.is/go?url=https%3A%2F%2Flink.springer.com%2Fcontent%2Fpdf%2F10.1007%2Fs42761-022-00126-5.pdf&group=EVe72YdR)
 
 ## References
