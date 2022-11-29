@@ -300,6 +300,13 @@ Strategic Searching & Literature Management
 
 [ResearchRabbit.ai](https://researchrabbitapp.com/home) and
 [Zotero](https://www.zotero.org/)
+
+Always keep your eyes open for
+
+[Annual Reviews of
+Psychology](https://www.annualreviews.org/journal/psych)
+
+Systematic Reviews and Meta-Analyses (Google Advanced Search!)
 :::
 
 ------------------------------------------------------------------------
@@ -322,7 +329,7 @@ supporting and competing literature!
 [ConnectedPapers.com](https://www.connectedpapers.com/)
 :::
 
-# Let's get this show on the road
+# Let's get going!
 
 I will share the link to the SONA participant pool with you in a second.
 
@@ -360,9 +367,11 @@ different 'type' of day)
 
 ![](images/paste-ED3464C2.png)
 
+# BREAK
+
 # LittleMonkeyLab
 
-## Video
+------------------------------------------------------------------------
 
 ```{=html}
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/8c7NEf6qFlc" title="Monkey's Bluff | Clever Monkeys | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -374,95 +383,86 @@ different 'type' of day)
 ```
 ## [BBC Horizon: The Honesty Experiment](https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838)
 
-## MyPsychology
+> [*'MyPsychology'*]{.underline} *-* Deception in the real, everyday
+> life
 
-## 
+![](images/paste-ABF42C39.png)
 
-## Your research 'career' ahead of you
+------------------------------------------------------------------------
 
-RPS
+![](images/paste-6B93028F.png)
 
-EE
-
-MD
-
-Summer Bursary
-
-Y3 Diss
-
-1+3
-
-(MSc)
-
-(PhD) or Doctorate.
-
-## Skills pay bills
-
-Research skills and data science skills
-
-Employability
-
-## Research interest
-
-Browzine
-
-IPIP scales
-
-## Lit review
-
-Zotero
-
-Research Rabbit
-
-Special Issues/Annual Reviews
-
-[@baughman2014d; @halevy2014a; @cantarero2018a; @jonason2014a;
-@levine2010d; @levine2010d; @markowitz2021a]
-
-![](images/paste-5B3C6341.png)
+## So why do people lie?
 
 ![](images/paste-D0937F91.png)
 
-## It ain't that bad
+## It ain't that bad really!
 
 Deception frequency is significantly correlated to neocortical volume
-across species (Byrne & Corp, 2004)
+across species @byrne2004a.
+
+. . .
 
 Evolution selects for more and more effective strategies of achieving
 social success (including deception, manipulation, alliance formation,
-exploitation of the expertise of others, etc.) And for ability to learn
-and use them.
+exploitation of the expertise of others, etc.)
 
-Social success translates into reproductive success
+. . .
 
-## Monkey Business
+And for the ability to learn and use such strategies.
 
+. . . .
+
+Social success translates into reproductive success!
+
+## Monkey Business (see @shultz2022)
+
+...
+
+\
 Observations of non-human behaviour of the type led scientists to
 suggest a positive relationship between brain size and social group
 size.
 
+. . .
+
+\
 A bigger brain seems to be found in more complex social environments.
 But bigger brains are costly.
 
+. . .
+
+\
 There has to be a benefit to carrying around this big brain.
 
-## The dynamic social environment
+## The dynamic social environment (see @whiten2018)
 
+. . .
+
+\
 The social world is very complex and the characters in this social world
 are difficult to predict.
 
+. . .
+
+\
 We usually operate within a status hierarchy which predetermines our
-opportunities. Think of our cheeky little monkey. What did HE want?
+opportunities. Think of our cheeky little monkey. What did he want?
 
+::: incremental
 -   Access to food
+
 -   Access to shelter
+
 -   Access to mates
+
 -   Safety and Security of self and offspring
+:::
 
-Navigating the hierarchy successfully requires cooperation and
-competition.
+[Navigating the hierarchy successfully requires cooperation and
+competition.]{.takeaway}
 
-The Machiavellian Intelligence Hypothesis
+## The Machiavellian Intelligence Hypothesis (@byrne2018)
 
 The Machiavellian Intelligence Hypothesis posits that social demands
 have driven the evolution of the cognitive facilities humans employ to
@@ -474,7 +474,7 @@ achieve higher social and reproductive success.
 
 Maybe it would help to be a bit more "Machiavellian"?
 
-## How could we measure 'Lie Frequency'?
+## But how can we possibly measure 'Lie Frequency'?
 
 ![](images/paste-5E12FEC5.png)
 
@@ -484,13 +484,9 @@ Diary study (or similar)
 
 Some kind of app?
 
-Experimental research
+Motion capture suits and TV cameras?
 
-## Deception in the wild
-
-![](images/paste-ABF42C39.png)
-
-![](images/paste-6B93028F.png)
+Experimental, lab-based research
 
 ## Machiavellianism
 
@@ -544,6 +540,16 @@ it is actually far too rare to be useful in most studies.
 In turn, higher scores in everyday sadism are associated with injuring
 others verbally, physically, and/or psychologically, inspired by a
 hedonic value of being cruel.
+
+## For a comprehensive overview
+
+@turi2022a
+
+@bonfa-araujo2022
+
+@levine2022d
+
+@denault2022d
 
 ------------------------------------------------------------------------
 
