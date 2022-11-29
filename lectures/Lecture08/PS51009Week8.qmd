@@ -4,9 +4,8 @@ subtitle: 'Welcome to the LittleMonkeyLab'
 author: 'Dr Gordon Wright aka DrDeception'
 logo: "images/LMLLOGO.png"
 footer: "Practical Issues Week 8 [VLE](https://learn.gold.ac.uk/course/view.php?id=24463)"
-chalkboard: 
-  theme: whiteboard
 bibliography: "references.bib"
+self-contained: true
 ---
 
 # Overview
