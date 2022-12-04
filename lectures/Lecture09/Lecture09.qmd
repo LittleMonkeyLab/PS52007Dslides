@@ -1,0 +1,130 @@
+---
+title: 'Lecture09'
+subtitle: 'Review of Mini-Dissertation and CHIP Learning Log'
+author: 'Dr Gordon Wright'
+date: "12/05/22"
+logo: "images/RMIPHEX.png"
+footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+chalkboard: 
+  theme: whiteboard
+bibliography: refs.bib
+---
+
+# Overview
+
+## The week ahead
+
+The week ahead (week 9)
+
+-   ::: incremental
+    -   W9 Personal Tutor session 'Checking in'
+
+        -   Any general concerns or queries
+        -   Mini-Dissertation Ethics status
+
+    -   W10 Cognitive Essay Tutorial
+
+    -   Psych Society Pub Quiz on Wednesday 7:30 (SU)
+
+    -   Labs - Ethics, Ethics, Ethics
+    :::
+
+## Welcome back and welcome to Research Methods!
+
+## Module weighting and assessment
+
+Research Methods is a core module with a 30 credit weighting
+
+This means that in order to progress to Y3, you must pass all 3
+assessment elements:
+
+-   ::: takeaway
+    -   Critical Proposal 1,800 words (15%)
+
+    -   Mini-Dissertation 2,500 words (70%)
+
+    -   CHIP Learning Log 1,200 words (15%)
+    :::
+
+## A friendly warning
+
+::: callout-warning
+## Warning
+
+All coursework is [INDIVIDUAL]{.shout} and subject to normal plagiarism
+and collusion rules
+:::
+
+## Module structure
+
+::: {.callout-tweet .icon}
+1 x 1 hr Lecture per week (Monday)
+
+stuff
+:::
+
+1 x 2 hr Lab per week (Tuesday)
+
+4 x Personal Tutor meetings across the year
+
+## Weekly Structure
+
+Each week there will be a very brief '**Prelude**' designed to introduce
+one of the main topics of the week
+
+**Lecture** (slides and recording posted afterwards)
+
+**Lab Activity**
+
+-   **'Pulse'** taken on entry - 2 minute quiz
+-   **Lab Notebook** with brief 'generative activities' and
+    opportunities for metacognitive reflection
+-   Extras provided around skills or applications or just interesting
+    factoids
+-   Lots can be achieved in the labs, but independent study and
+    coordinated group work will be required
+
+[NO EXAM]{.shout}
+
+## Coursework
+
+The courseworks ALL require critical reflection and metacognitive
+practice. This will be discussed in a number of lectures, but it
+contributes to effective learning and your integration of the skills and
+experience of doing this research exercise.
+
+## Time management and teamwork
+
+..will both be required.
+
+I ask you to see both as an opportunity to develop these important
+skills.
+
+You will see we have some ideas to make this more relevant to careers
+and employability
+
+It is easier to 'keep up than to catch up'.
+
+## Resources
+
+We will be releasing a series of valuable resources to help you through
+every step of the process
+
+These will have value for your final year dissertation too.
+
+Contribution to and comment on these is welcome and hoped for!
+
+Open Educational Resources will be used extensively, and most core
+readings are available online via the library.
+
+## Prelude 1
+
+We are starting off very easy. A short questionnaire to allow us to get
+to know you a little better, which we will use to develop the first
+lecture, and the course more generally.
+
+## Thank you for your time
+
+And have an amazing year!
+
+The Research Methods Team
