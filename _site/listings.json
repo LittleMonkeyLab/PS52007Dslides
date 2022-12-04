@@ -16,6 +16,8 @@
   {
     "listing": "/allmaterials.html",
     "items": [
+      "/chips/chip02.html",
+      "/chips/chip01.html",
       "/lectures/Lecture08/PS51009Week8.html",
       "/lectures/Lecture00/Lecture00.html",
       "/labs/Lab02/Lab02.html",
@@ -46,17 +48,12 @@
       "/lectures/Lecture12/Lecturexx.html",
       "/lectures/Lecture15/Lecturexx.html",
       "/lectures/Lecture14/Lecturexx.html",
-      "/lectures/Lecture13/Lecturexx.html",
-      "/preludes/prelude01.html",
-      "/preludes/prelude02.html"
+      "/lectures/Lecture13/Lecturexx.html"
     ]
   },
   {
     "listing": "/preludeshub.html",
-    "items": [
-      "/preludes/prelude01.html",
-      "/preludes/prelude02.html"
-    ]
+    "items": []
   },
   {
     "listing": "/lectureshub.html",
@@ -86,7 +83,10 @@
     ]
   },
   {
-    "listing": "/extrashub.html",
-    "items": []
+    "listing": "/chipshub.html",
+    "items": [
+      "/chips/chip02.html",
+      "/chips/chip01.html"
+    ]
   }
 ]

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.3.34">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -74,9 +74,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-description','listing-author','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -155,10 +155,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./extrashub.html" class="sidebar-item-text sidebar-link">Extras</a>
-  </div>
-</li>
+  extrashub.qmd
+  </li>
       </ul>
   </li>
     </ul>
@@ -183,6 +181,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -205,56 +204,11 @@ Week
 Topic
 </th>
 <th>
-Author
-</th>
-<th>
 Date
-</th>
-<th>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Preludes" data-listing-date-sort="1679443200000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="0.005" data-listing-title-sort="Prelude" data-listing-subtitle-sort="Week 01" data-listing-description-sort="Description of content" data-listing-image-sort="/preludes/images/slidehold.png">
-<td class="listing-title">
-<a href="./preludes/prelude01.html" class="title">Prelude</a>
-</td>
-<td class="listing-subtitle">
-<a href="./preludes/prelude01.html" class="subtitle">Week 01</a>
-</td>
-<td class="listing-description">
-<a href="./preludes/prelude01.html" class="description">Description of content</a>
-</td>
-<td class="listing-author">
-Dr.&nbsp;Gordon Wright
-</td>
-<td class="listing-date">
-Wednesday, March 22, 2023
-</td>
-<td class="listing-image">
-<a href="./preludes/prelude01.html" class="image"><img src="./preludes/images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="1" data-categories="Preludes" data-listing-date-sort="1746226800000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="0.005" data-listing-title-sort="Prelude" data-listing-subtitle-sort="Week 02" data-listing-description-sort="Description of content" data-listing-image-sort="/preludes/images/slidehold.png">
-<td class="listing-title">
-<a href="./preludes/prelude02.html" class="title">Prelude</a>
-</td>
-<td class="listing-subtitle">
-<a href="./preludes/prelude02.html" class="subtitle">Week 02</a>
-</td>
-<td class="listing-description">
-<a href="./preludes/prelude02.html" class="description">Description of content</a>
-</td>
-<td class="listing-author">
-Dr.&nbsp;Gordon Wright
-</td>
-<td class="listing-date">
-Saturday, May 3, 2025
-</td>
-<td class="listing-image">
-<a href="./preludes/prelude02.html" class="image"><img src="./preludes/images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
 </tbody>
 
 </table>
@@ -399,7 +353,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   // Switch to dark mode if need be
   if (hasAlternateSentinel()) {
     toggleColorMode(true);
-  } 
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -421,7 +377,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -457,24 +430,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

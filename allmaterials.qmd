@@ -1,25 +1,29 @@
 ---
 title: "All materials by week"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
-categories: [Preludes, Lectures, Labs, Extras]
+categories: [Lectures, Labs, Chips]
 listing:
   id: all-listings
   image-placeholder: "/images/slidehold.png"
   categories: false
-  contents: [preludes, lectures, labs, extras]
+  contents: [lectures, labs, chips]
   date-format: full
   sort-ui: false
   filter-ui: false
   type: table
-  fields: [title, subtitle, author, image]
+  fields: [title, subtitle, description, date]
   field-display-names:
     title: "Type"
     subtitle: "Topic"
-    reading-time: "Link"
 ---
 
-Below is a comprehensive list of preludes. 
+Below is a comprehensive list of preludes.
 
+::: {#lectures-listings}
+:::
 
-::: {#preludes-listings}
+::: {#labs-listings}
+:::
+
+::: {#chips-listings}
 :::

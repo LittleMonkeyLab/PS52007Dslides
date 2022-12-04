@@ -7,16 +7,16 @@ listing:
   image-placeholder: "/images/slidehold.png"
   categories: false
   contents: lectures
-  date-format: full
+  date-format: medium
   sort-ui: false
-  filter-ui: false
-  type: table
+  filter-ui: true
+  type: default
   field-links: 
     - title
     - subtitle
     - description
-    - image
-  fields: [title, subtitle, description, author, date, image]
+    # - image
+  fields: [title, subtitle, description,date]
   field-display-names:
     title: "Type"
     subtitle: "Week"

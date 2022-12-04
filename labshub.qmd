@@ -7,7 +7,7 @@ listing:
   image-placeholder: "/images/slidehold.png"
   categories: false
   contents: labs
-  date-format: full
+  date-format: medium
   sort-ui: false
   filter-ui: false
   type: table
@@ -15,16 +15,15 @@ listing:
     - title
     - subtitle
     - description
-    - image
-  fields: [title, subtitle, description, author, date, image]
+    # - image
+  fields: [title, subtitle, description, date]
   field-display-names:
     title: "Type"
     subtitle: "Week"
     description: "Topic"
 ---
 
-Below is a comprehensive list of labs. 
-
+Below is a comprehensive list of labs.
 
 ::: {#labs-listings}
 :::

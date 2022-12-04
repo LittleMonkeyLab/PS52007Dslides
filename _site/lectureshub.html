@@ -74,9 +74,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-description','listing-author','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -155,10 +155,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./extrashub.html" class="sidebar-item-text sidebar-link">Extras</a>
-  </div>
-</li>
+  extrashub.qmd
+  </li>
       </ul>
   </li>
     </ul>
@@ -191,469 +189,487 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>Below is a comprehensive list of lectures.</p>
-<div id="listing-lectures-listings" class="quarto-listing quarto-listing-container-table">
+<div id="listing-lectures-listings" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1669690450150" data-listing-reading-time-sort="6.355" data-listing-title-sort="Deviously Seeking Duping Delight in the Darkness" data-listing-subtitle-sort="Welcome to the LittleMonkeyLab" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture08/PS51009Week8.html">
+<h3 class="no-anchor listing-title">
+Deviously Seeking Duping Delight in the Darkness
+</h3>
+<div class="listing-subtitle">
+Welcome to the LittleMonkeyLab
+</div>
+<div class="listing-description">
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Type
-</th>
-<th>
-Week
-</th>
-<th>
-Topic
-</th>
-<th>
-Author
-</th>
-<th>
-Date
-</th>
-<th>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1669690450150" data-listing-reading-time-sort="6.355" data-listing-title-sort="Deviously Seeking Duping Delight in the Darkness" data-listing-subtitle-sort="Welcome to the LittleMonkeyLab" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture08/images/DougalMan.PNG">
-<td class="listing-title">
-<a href="./lectures/Lecture08/PS51009Week8.html" class="title">Deviously Seeking Duping Delight in the Darkness</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture08/PS51009Week8.html" class="subtitle">Welcome to the LittleMonkeyLab</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture08/PS51009Week8.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright aka DrDeception
-</td>
-<td class="listing-date">
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture08/PS51009Week8.html" class="image"><img src="./lectures/Lecture08/images/DougalMan.PNG" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.23" data-listing-title-sort="Induction Overview" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture00/Lecture00.html" class="title">Induction Overview</a>
-</td>
-<td class="listing-subtitle">
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture00/Lecture00.html" class="description"></a>
-</td>
-<td class="listing-author">
-</td>
-<td class="listing-date">
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture00/Lecture00.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1664751600000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="10.13" data-listing-title-sort="Lecture01" data-listing-subtitle-sort="Module Overview &amp; What is Science?" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture01/images/CityDog.jpg">
-<td class="listing-title">
-<a href="./lectures/Lecture01/Lecture01.html" class="title">Lecture01</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture01/Lecture01.html" class="subtitle">Module Overview &amp; What is Science?</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture01/Lecture01.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, October 3, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture01/Lecture01.html" class="image"><img src="./lectures/Lecture01/images/CityDog.jpg" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="3" data-listing-date-sort="1665356400000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.35" data-listing-title-sort="Lecture02" data-listing-subtitle-sort="Asking good questions and gathering reliable evidence" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture02/images/7a3ea58d-8420-4422-851b-cb8065d500b2.jpg">
-<td class="listing-title">
-<a href="./lectures/Lecture02/Lecture02.html" class="title">Lecture02</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture02/Lecture02.html" class="subtitle">Asking good questions and gathering reliable evidence</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture02/Lecture02.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, October 10, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture02/Lecture02.html" class="image"><img src="./lectures/Lecture02/images/7a3ea58d-8420-4422-851b-cb8065d500b2.jpg" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="4" data-listing-date-sort="1665961200000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.935" data-listing-title-sort="Lecture03" data-listing-subtitle-sort="Being critical and evaluating the work of others" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture03/images/paste-6F9D0DD1.png">
-<td class="listing-title">
-<a href="./lectures/Lecture03/Lecture03.html" class="title">Lecture03</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture03/Lecture03.html" class="subtitle">Being critical and evaluating the work of others</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture03/Lecture03.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, October 17, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture03/Lecture03.html" class="image"><img src="./lectures/Lecture03/images/paste-6F9D0DD1.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="5" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="4.075" data-listing-title-sort="Lecture04" data-listing-subtitle-sort="Research, me-search &amp; Inclusivity" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture04/images/cooltext421879728700980.png">
-<td class="listing-title">
-<a href="./lectures/Lecture04/Lecture04.html" class="title">Lecture04</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture04/Lecture04.html" class="subtitle">Research, me-search &amp; Inclusivity</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture04/Lecture04.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, October 24, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture04/Lecture04.html" class="image"><img src="./lectures/Lecture04/images/cooltext421879728700980.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="6" data-listing-date-sort="1667174400000" data-listing-file-modified-sort="1668421550000" data-listing-reading-time-sort="5.915" data-listing-title-sort="Lecture05" data-listing-subtitle-sort="The Open Science movement in Psychology" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture05/images/paste-E903404B.png">
-<td class="listing-title">
-<a href="./lectures/Lecture05/Lecture05.html" class="title">Lecture05</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture05/Lecture05.html" class="subtitle">The Open Science movement in Psychology</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture05/Lecture05.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, October 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture05/Lecture05.html" class="image"><img src="./lectures/Lecture05/images/paste-E903404B.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="7" data-listing-date-sort="1668384000000" data-listing-file-modified-sort="1668428618000" data-listing-reading-time-sort="3.55" data-listing-title-sort="Lecture06" data-listing-subtitle-sort="Operationalising variables and bringing concepts to life" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture06/images/paste-D9231378.png">
-<td class="listing-title">
-<a href="./lectures/Lecture06/Lecture06.html" class="title">Lecture06</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture06/Lecture06.html" class="subtitle">Operationalising variables and bringing concepts to life</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture06/Lecture06.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, November 14, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture06/Lecture06.html" class="image"><img src="./lectures/Lecture06/images/paste-D9231378.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="8" data-listing-date-sort="1668988800000" data-listing-file-modified-sort="1668956446022" data-listing-reading-time-sort="6.605" data-listing-title-sort="Lecture07" data-listing-subtitle-sort="How do we measure or assess psychological concepts and constructs?" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture07/images/paste-A2717D53.png">
-<td class="listing-title">
-<a href="./lectures/Lecture07/Lecture07.html" class="title">Lecture07</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture07/Lecture07.html" class="subtitle">How do we measure or assess psychological concepts and constructs?</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture07/Lecture07.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, November 21, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture07/Lecture07.html" class="image"><img src="./lectures/Lecture07/images/paste-A2717D53.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="9" data-listing-file-modified-sort="1669579764259" data-listing-reading-time-sort="4.805" data-listing-title-sort="Lecture08 Psychometrics - LIVE!" data-listing-subtitle-sort="I like to develop new measures (Strongly Agree - Strongly Disagree)" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture08/images/paste-6408725A.png">
-<td class="listing-title">
-<a href="./lectures/Lecture08/Lecture08.html" class="title">Lecture08 Psychometrics - LIVE!</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture08/Lecture08.html" class="subtitle">I like to develop new measures (Strongly Agree - Strongly Disagree)</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture08/Lecture08.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture08/Lecture08.html" class="image"><img src="./lectures/Lecture08/images/paste-6408725A.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="10" data-listing-date-sort="1670198400000" data-listing-file-modified-sort="1670181635889" data-listing-reading-time-sort="4.06" data-listing-title-sort="Lecture09" data-listing-subtitle-sort="Review of Mini-Dissertation and CHIP Learning Log" data-listing-description-sort="" data-listing-image-sort="/lectures/Lecture09/images/paste-0E6AE5C9.png">
-<td class="listing-title">
-<a href="./lectures/Lecture09/Lecture09.html" class="title">Lecture09</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture09/Lecture09.html" class="subtitle">Review of Mini-Dissertation and CHIP Learning Log</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture09/Lecture09.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, December 5, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture09/Lecture09.html" class="image"><img src="./lectures/Lecture09/images/paste-0E6AE5C9.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="11" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356253000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture18/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture18/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture18/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture18/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="12" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356269000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture20/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture20/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture20/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture20/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="13" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356237000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture16/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture16/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture16/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture16/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="14" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356193000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture11/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture11/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture11/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture11/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="15" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356180000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture10/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture10/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture10/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture10/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="16" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356245000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture17/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture17/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture17/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture17/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="17" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356261000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture19/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture19/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture19/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture19/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="18" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356200000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture12/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture12/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture12/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture12/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="19" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356228000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture15/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture15/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture15/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture15/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="20" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356220000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture14/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture14/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture14/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture14/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-<tr data-index="21" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356210000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
-<td class="listing-title">
-<a href="./lectures/Lecture13/Lecturexx.html" class="title">Lecturexx</a>
-</td>
-<td class="listing-subtitle">
-<a href="./lectures/Lecture13/Lecturexx.html" class="subtitle">Content Pending</a>
-</td>
-<td class="listing-description">
-<a href="./lectures/Lecture13/Lecturexx.html" class="description"></a>
-</td>
-<td class="listing-author">
-Dr Gordon Wright
-</td>
-<td class="listing-date">
-Monday, January 31, 2022
-</td>
-<td class="listing-image">
-<a href="./lectures/Lecture13/Lecturexx.html" class="image"><img src="./images/slidehold.png" style="height: 40px;"></a>
-</td>
-</tr>
-</tbody>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture08/PS51009Week8.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.23" data-listing-title-sort="Induction Overview" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture00/Lecture00.html">
+<h3 class="no-anchor listing-title">
+Induction Overview
+</h3>
+<div class="listing-subtitle">
 
-</table>
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture00/Lecture00.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1664751600000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="10.13" data-listing-title-sort="Lecture01" data-listing-subtitle-sort="Module Overview &amp; What is Science?" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture01/Lecture01.html">
+<h3 class="no-anchor listing-title">
+Lecture01
+</h3>
+<div class="listing-subtitle">
+Module Overview &amp; What is Science?
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture01/Lecture01.html">
+<div class="listing-date">
+Oct 3, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1665356400000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.35" data-listing-title-sort="Lecture02" data-listing-subtitle-sort="Asking good questions and gathering reliable evidence" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture02/Lecture02.html">
+<h3 class="no-anchor listing-title">
+Lecture02
+</h3>
+<div class="listing-subtitle">
+Asking good questions and gathering reliable evidence
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture02/Lecture02.html">
+<div class="listing-date">
+Oct 10, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1665961200000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="3.935" data-listing-title-sort="Lecture03" data-listing-subtitle-sort="Being critical and evaluating the work of others" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture03/Lecture03.html">
+<h3 class="no-anchor listing-title">
+Lecture03
+</h3>
+<div class="listing-subtitle">
+Being critical and evaluating the work of others
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture03/Lecture03.html">
+<div class="listing-date">
+Oct 17, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1666566000000" data-listing-file-modified-sort="1668354909000" data-listing-reading-time-sort="4.075" data-listing-title-sort="Lecture04" data-listing-subtitle-sort="Research, me-search &amp; Inclusivity" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture04/Lecture04.html">
+<h3 class="no-anchor listing-title">
+Lecture04
+</h3>
+<div class="listing-subtitle">
+Research, me-search &amp; Inclusivity
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture04/Lecture04.html">
+<div class="listing-date">
+Oct 24, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1667174400000" data-listing-file-modified-sort="1668421550000" data-listing-reading-time-sort="5.915" data-listing-title-sort="Lecture05" data-listing-subtitle-sort="The Open Science movement in Psychology" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture05/Lecture05.html">
+<h3 class="no-anchor listing-title">
+Lecture05
+</h3>
+<div class="listing-subtitle">
+The Open Science movement in Psychology
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture05/Lecture05.html">
+<div class="listing-date">
+Oct 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1668384000000" data-listing-file-modified-sort="1668428618000" data-listing-reading-time-sort="3.55" data-listing-title-sort="Lecture06" data-listing-subtitle-sort="Operationalising variables and bringing concepts to life" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture06/Lecture06.html">
+<h3 class="no-anchor listing-title">
+Lecture06
+</h3>
+<div class="listing-subtitle">
+Operationalising variables and bringing concepts to life
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture06/Lecture06.html">
+<div class="listing-date">
+Nov 14, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1668988800000" data-listing-file-modified-sort="1668956446022" data-listing-reading-time-sort="6.605" data-listing-title-sort="Lecture07" data-listing-subtitle-sort="How do we measure or assess psychological concepts and constructs?" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture07/Lecture07.html">
+<h3 class="no-anchor listing-title">
+Lecture07
+</h3>
+<div class="listing-subtitle">
+How do we measure or assess psychological concepts and constructs?
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture07/Lecture07.html">
+<div class="listing-date">
+Nov 21, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-file-modified-sort="1669579764259" data-listing-reading-time-sort="4.805" data-listing-title-sort="Lecture08 Psychometrics - LIVE!" data-listing-subtitle-sort="I like to develop new measures (Strongly Agree - Strongly Disagree)" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture08/Lecture08.html">
+<h3 class="no-anchor listing-title">
+Lecture08 Psychometrics - LIVE!
+</h3>
+<div class="listing-subtitle">
+I like to develop new measures (Strongly Agree - Strongly Disagree)
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture08/Lecture08.html"> </a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1670198400000" data-listing-file-modified-sort="1670181635889" data-listing-reading-time-sort="4.06" data-listing-title-sort="Lecture09" data-listing-subtitle-sort="Review of Mini-Dissertation and CHIP Learning Log" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture09/Lecture09.html">
+<h3 class="no-anchor listing-title">
+Lecture09
+</h3>
+<div class="listing-subtitle">
+Review of Mini-Dissertation and CHIP Learning Log
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture09/Lecture09.html">
+<div class="listing-date">
+Dec 5, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356253000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture18/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture18/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356269000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture20/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture20/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356237000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture16/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture16/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356193000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture11/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture11/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356180000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture10/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture10/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356245000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture17/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture17/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356261000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture19/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture19/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356200000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture12/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture12/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356228000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture15/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture15/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="20" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356220000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture14/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture14/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1668356210000" data-listing-reading-time-sort="3.235" data-listing-title-sort="Lecturexx" data-listing-subtitle-sort="Content Pending" data-listing-description-sort="">
+<div class="body">
+<a href="./lectures/Lecture13/Lecturexx.html">
+<h3 class="no-anchor listing-title">
+Lecturexx
+</h3>
+<div class="listing-subtitle">
+Content Pending
+</div>
+<div class="listing-description">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./lectures/Lecture13/Lecturexx.html">
+<div class="listing-date">
+Jan 31, 2022
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
