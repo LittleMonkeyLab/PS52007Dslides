@@ -1,0 +1,8 @@
+---
+title: "Lab10"
+author: "Dr. Gordon Wright"
+format: revealjs
+editor: visual
+---
+
+# Content pending

@@ -1,0 +1,256 @@
+---
+title: 'Lecture09'
+subtitle: 'Review of Mini-Dissertation and CHIP Learning Log'
+author: 'Dr Gordon Wright'
+date: "12/05/22"
+logo: "images/RMIPHEX.png"
+footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+indenting: yes
+incremental: true
+chalkboard: 
+  theme: whiteboard
+bibliography: refs.bib
+---
+
+# Overview
+
+## The week ahead
+
+The week ahead (week 9)
+
+::: incremental
+-   W9 Personal Tutor session 'Checking in'
+
+-   Any general concerns or queries
+
+-   Mini-Dissertation Ethics status
+
+-   W10 Cognitive Essay Tutorial
+
+-   Psych Society Pub Quiz on Wednesday 7:30 (SU)
+
+-   Labs - Ethics, Ethics, Ethics
+:::
+
+# Reflective Practice
+
+## Metacognition
+
+The process of thinking about ones own thinking
+
+. . .
+
+Most usually with reference to 'learning'
+
+## Critical Proposal
+
+. . .
+
+In the most part, the Critical Proposal showed a very high quality of
+work
+
+. . .
+
+Clear engagement with the process of research.
+
+. . .
+
+::: callout-important
+You were required to present a 'critical reflection'
+:::
+
+. . .
+
+![](images/paste-0E6AE5C9.png)
+
+## Critical Proposal Briefing
+
+![](images/paste-E8C1A4A5.png)
+
+## The example given
+
+![](images/paste-DD9FE39D.png)
+
+## Mini-Dissertation also requires a 'Reflective Account'
+
+An integral part of the assignment
+
+Worth valuable marks
+
+## While we are on the topic
+
+Your ultimate individually written up Mini-Dissertation project MUST
+conform to the following definitive rules:
+
+::: incremental
+2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
+single continuous DV
+
+-   You must obtain ethical approval and prove individual involvement in
+    the process of application
+
+-   You must make a sample size estimation / Power calculation
+
+-   You must collect real and individually contribute to group and
+    cohort data collection efforts
+:::
+
+------------------------------------------------------------------------
+
+![](images/paste-A1DA5E42.png)
+
+------------------------------------------------------------------------
+
+![](images/paste-F4C06B13.png)
+
+------------------------------------------------------------------------
+
+![](images/paste-3DF8E46C.png)
+
+------------------------------------------------------------------------
+
+![](images/Preregistration@2x.png)
+
+# CHIP Learning Log
+
+Designed to introduce you to
+
+Conceptual and Historical Issues in Psychology
+
+Big picture stuff!
+
+The topics of focus this year are:
+
+Science -- 2 lectures from Professor Joydeep Bhattacharya
+
+Inclusivity -- 2 lectures from Dr Tegan Penton
+
+Evolution -- 2 lectures from Professor Alice Gregory
+
+Consciousness -- 2 lectures from Professor Joydeep Bhattacharya
+
+All topics that cut across any individual area of psychology
+
+## Assignment
+
+Coursework piece designed to allow you to engage reflexively with the
+'big picture' of your degree
+
+Think about how these issues link into psychology as a discipline, and
+how they relate to your own thoughts about what psychology is or should
+be
+
+Two essays of max 700 words each
+
+Marks are awarded for reflection, evidence of learning and bring topics
+together. Please see marking criteria for both essays.
+
+Not looking for a restatement of the facts in the lectures etc.
+
+They are designed to be personal and reflective -- embrace this aspect!
+
+## Essay 1
+
+Essay 1 is based on the content of ONE of the FOUR topics and should
+adopt at least two of the following 6 'perspectives'.
+
+a\.     STU - Your interests or experience as a student of psychology
+
+b\.     TRN - Your role as a trainee psychologist
+
+c\.     RES - A planned research project in or after your degree
+
+d\.     HIS - The history of Psychology and related disciplines;
+
+e\.     BAK - The cultural background to Psychology;
+
+f\.      SCI - Assumptions about science and how it relates to
+psychology
+
+## Essay 1 tips
+
+Ask a specific question -- and answer it.
+
+Intro, body, conclusion structure.
+
+Reflect on the topic and give your own opinion as to the answer!
+
+Present a journey in your learning or appreciation of the topic
+
+Ensure your answer is argued using examples
+
+Use evidence in your argument from a range of sources, ideally do some
+strategic wider reading
+
+Present and reference it well
+
+## Essay 2
+
+Essay 2 should focus on at least one of the OTHER topics covered in the
+course.
+
+This answer should focus on a primary reading associated with the
+lectures and then any further reading you have done (strongly
+encouraged).
+
+You must identify that primary reading explicitly in the essay itself.
+
+You should not simply restate what the authors thought or found, but
+rather briefly summarise the point that stimulated your interest in the
+reading and use that as a springboard to discuss the topic or issue.
+
+Think about your perspective on the issues.
+
+What do you think about this debate or issue? We want to know!
+
+And what do you think are interesting directions for psychologists to
+take this debate or issue in the future?
+
+## Essay 2 tips
+
+Explicitly identify a single initial reading and build upon that.
+
+Discuss a debate or issue that you think is interesting or important
+
+Give your own opinion and how this has developed or changed as a result
+of the lecture, the course more widely, and/or the reading.
+
+Argue your opinion explicitly, own it and back it up with examples
+
+Use evidence in your argument from a range of sources, ideally do some
+strategic wider reading
+
+Present and reference it well
+
+## Overlapping content
+
+You can combine across different topics in Essay 2 (e.g., you could talk
+about Evolution and Consciousness, or Inclusivity and Science), and
+thinking about links between topics is strongly encouraged.
+
+However, the material covered in Essay 2 must be different from Essay 1.
+Students will be penalised for covering identical topics.
+
+## stuff
+
+Due about weeks after the end of term
+
+Both answers should be written in essay-style prose (e.g., with APA
+references where you refer to sources) put in a single document and
+submitted to the coursework submission page.
+
+Max 700 words per answer (references not included in word count)
+
+Remember that this only accounts for a smaller portion of the module
+grade (15%). Should hopefully be an enjoyable way to reflect on issues
+on the course you found interesting.
+
+## Essay 1
+
+![](images/paste-C91F8E8B.png)
+
+## Essay 2
+
+![](images/paste-25589467.png)
+
+# Have a great week!

@@ -1,0 +1,93 @@
+---
+title: "Lab04"
+subtitle: "Variables, Design & Notation"
+author: "Dr. Gordon Wright"
+date: "10/25/2022"
+chalkboard: true
+editor: visual
+---
+
+# Getting clarity on your variables
+
+## Individual mini-dissertations
+
+Must conform to a 2x2 ANOVA with a single continuous DV
+
+## Lab activities
+
+Formalise your individual design
+
+![](images/paste-9470E2C2.png)
+
+## More specific
+
+![](images/paste-D6830C87.png)
+
+## Notation
+
+We use a notation system to refer to these designs:
+
+[[2x2 = Two-way ANOVA]{.underline}. There are two IVS, the first IV has
+two levels, the second IV has 2 levels. There are a total of 4
+conditions, 2x2 = 4.]{.smaller}
+
+[[2x3 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+two levels, the second IV has three levels. There are a total of 6
+conditions, 2x3 = 6]{.smaller}
+
+[[4x4 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
+4 levels, the second IV has 4 levels. There are a total of 16 condition,
+4x4=16]{.smaller}
+
+[[**2x3x2 = Three-way ANOVA**]{.underline}.There are a total of three
+IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV
+has 2 levels. There are a total of 12 condition. 2x3x2 = 12.]{.smaller}
+
+## 3 'flavours' of 2x2 ANOVA
+
+**2bx2b** - Between-subjects/Factorial ANOVA
+
+**2wx2w** - Within-subject/Repeated Measures ANOVA
+
+**2bx2w** or **2wx2b** - Mixed ANOVA
+
+You will be using one of these (all supported by SPSS Exercise 1 and 2)
+
+JAMOVI is a reasonable alternative to SPSS (also supported in Exercise 1
+and 2)
+
+## The 3 effects possible in a 2x2 ANOVA
+
+Main effect of IV1
+
+Main effect of IV2
+
+Interaction of IV1\*IV2
+
+## therefore 8 possible 'outcomes' of a 2x2 ANOVA
+
+-   no IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, no interaction
+-   IV1 main effect, no IV2 main effect, interaction
+-   IV1 main effect, IV2 main effect, no interaction
+-   IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, IV2 main effect, no interaction
+-   no IV1 main effect, IV2 main effect, interaction
+-   no IV1 main effect, no IV2 main effect, interaction
+
+## graph key for following charts
+
+-   1 = there was a main effect for IV1.
+-   \~1 = there was **not** a main effect for IV1
+-   2 = there was a main effect for IV2
+-   \~2 = there was **not** a main effect of IV2
+-   1x2 = there was an interaction
+-   \~1x2 = there was **not** an interaction
+
+## Bar charts
+
+<https://crumplab.com/statistics/10-MixedANOVA.html#fig-10bar22>
+
+## Line plots
+
+<https://crumplab.com/statistics/10-MixedANOVA.html#fig-10lines22>

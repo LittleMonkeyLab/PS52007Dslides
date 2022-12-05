@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+CNAME
+PS52007Dslides.Rproj
+
+
+/.quarto/
+.Rdata
+.httr-oauth
+.DS_Store
+
+*.pdf

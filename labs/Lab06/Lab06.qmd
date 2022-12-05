@@ -1,0 +1,210 @@
+---
+title: "Lab06"
+subtitle: "Online, Offline Data Collection & Ethics"
+author: "Dr. Gordon Wright"
+date: "11/15/22"
+format: revealjs
+editor: visual
+---
+
+##### 3 key activities today, guided by the slides below:
+
+1\) Get yourself a Qualtrics account and follow the instructions to
+upload a template survey
+
+2\) Read the Ethics Information (with a view to understanding what you
+will be required to do for an application
+
+3\) Start to identify the pieces of your study, and start to think about
+how you propose to deliver them
+
+# Activity 1 (5 mins) - Open a Qualtrics Account
+
+## Qualtrics
+
+Qualtrics is a survey delivery platform. You will have used it lots as a
+participant. Time to get on the creative side.
+
+::: callout-important
+## Important
+
+Please go to this link: <https://goldpsych.eu.qualtrics.com/> and click
+on 'Don't have an account?'
+
+Please go only to this link: <https://goldpsych.eu.qualtrics.com/> and
+click on 'Don't have an account?'
+:::
+
+Please use your college email address (jbond007\@gold.ac.uk) - NO ACCESS
+CODE NEEDED
+
+To get the full functionality, you [MUST]{.shout} use your college
+login.
+
+## Please make sure it looks like this...
+
+![](images/paste-9546ED10.png)
+
+# Qualtrics use cases
+
+If you are using questionnaires/surveys only, Qualtrics is for you.
+
+You can present images, video, audio and text. You can ask all sorts of
+types of questions.
+
+You can randomise blocks and questions within blocks.
+
+It's also pretty darned easy to get up and running with.
+
+## Start a new Qualtrics Project (a new survey)
+
+Start your project with the following instructions though.
+
+::: callout-tip
+## Load the Template Survey
+
+Copy the target of this link to your downloads [Download .qsf
+file](https://learn.gold.ac.uk/mod/resource/view.php?id=1224879)
+
+It will NOT open on it's own. You need to open your Qualtrics account
+and
+
+1.  Create New Project
+2.  Click very top option "Survey"
+3.  Click "Get started" in the bottom righthand corner
+4.  Give your project a groovy but informative name
+5.  When asked "How do you want to start your survey?" select "Import a
+    QSF file"
+6.  Click "choose file" and upload the template you downloaded above. 
+:::
+
+## Qualtrics support
+
+Qualtrics recently changed layout, so I haven't had a chance to record a
+set of tutorials, but the channel listed on the next page is very good.
+
+<https://www.youtube.com/channel/UCg4v1FnvUdelgDJl2MckF5w>
+
+And the support pages are extensive and the help I use most.
+
+<https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/>
+
+https://learn.gold.ac.uk/course/view.php?id=24607#section-10
+
+# Gorilla Experiment Platform
+
+## www.Gorilla.sc
+
+Gorilla is the best way to run experiments where timing is critical to
+the millisecond level, or if you need to collect participant keypresses
+or mouse clicks, rather than text-based questions.
+
+You can obtain a free account using your Goldsmiths email account.
+
+You've already been given the link to Demos and Classic templates, but
+here it is again
+
+<https://app.gorilla.sc/support/samples>
+
+The support videos and support team are excellent.
+
+# Activity 2 - Ethics preview (10 mins)
+
+This is the link to the Ethics Committee page.
+
+<https://learn.gold.ac.uk/course/view.php?id=20338>
+
+All Undergraduate projects apply through the Ethics Application Portal.
+
+::: {.callout-note appearance="minimal" icon="false"}
+## Ethics Application page
+
+<https://psy770.gold.ac.uk/student>
+
+Username: student Password: goldpsy
+:::
+
+## Detailed guidance on filling in the application
+
+Student Guide to filling in the Ethics Application
+
+<https://learn.gold.ac.uk/mod/resource/view.php?id=985014>
+
+## Ethics Application timings
+
+[You can apply at any point from now on. But you should not apply any
+later than week 9.]{.smaller}
+
+[Your application goes first to your Lab Tutor for approval, and you
+should communicate with them, so that they can act on it promptly, but
+they are able to take up to a week for unexpected
+applications.]{.smaller}
+
+[You should expect feedback on your application (approval, request for
+additional information etc.) within 2 weeks from submission to the
+Ethics Committee (by your Lab Tutor), but Mini-Dissertations are
+prioritised and could/should be MUCH quicker (± 1 week).]{.smaller}
+
+[If your application has ethical considerations ([it should
+NOT]{.underline}), it will need to be reviewed by two Ethics committee
+members. You will receive approval status and any request for further
+information ONLY once both committee members reviewed the
+application. ]{.smaller}\
+
+## Face to face studies
+
+If your study is likely going to be face to face, please talk to your
+Lab Tutor about how to plan for this. It might be that you want to
+collect questionnaire responses on a laptop, or in advance, so that you
+don't have to type in the responses yourself.
+
+For ethics, you need to supply a detailed description of the tools and
+methods you propose to use, and the paperwork that will be used. This
+should comprehensively cover the Information/Informed consent procedure,
+the task, the stimulus used, the procedure, and debrief materials.
+
+All recruitment materials need to be provided too.
+
+You need to use the templates below, all available (with examples) on
+the Ethics VLE page.
+
+## Participation in Y2 MiniDissertation projects
+
+You will be expected to take part in MiniDissertation projects
+consistently and effortfully. This will be monitored via the SONA system
+and we will preferentially support students in their data collection
+efforts who demonstrate a willingness to participate in studies run by
+others.
+
+It is an opportunity for you to experience the other types of studies
+your colleagues have created. It could be enough to give you the idea
+you were looking for for your final year dissertation!
+
+## The golden rule
+
+Aim to provide all the necessary information in the Ethics submission to
+prevent the form being returned for further revision by your Lab Tutor
+or the Ethics Committee.  Each re-submission of the form will take up to
+2 weeks to process.
+
+Do it right, do it once. Work together, proof-read and try to implement
+all the guidance offered.
+
+# Planning the next 5 weeks
+
+## For the rest of the lab
+
+Please start to work together to determine what you need to do to get to
+the point where you are confident to submit a complete Ethics
+application.
+
+For ONLINE studies, you need to have built the data collection tool/task
+BEFORE you apply for ethics. It is reviewed as part of the application.
+
+You will likely need to find questionnaires, task materials such as
+Stimulus items. You will need to plan who is going to do what, and by
+when. Try to make sure everyone is familiar with all aspects of the
+study... Chances are you will need to write it up!
+
+Document your plan and ask your Lab Tutor for advice. Try to be
+productive.
