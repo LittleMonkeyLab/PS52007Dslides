@@ -1,9 +1,0 @@
----
-title: "Chip" #Item type
-subtitle: "Week 01" # Week number
-description: "Description of content" #Topic
-author: "Dr. Gordon Wright"
-date: "03/22/23" #as per monday
-image: images/slidehold.png
-categories: [Chips]
----

@@ -1,8 +1,0 @@
----
-title: "Lab07"
-author: "Dr. Gordon Wright"
-format: revealjs
-editor: visual
----
-
-# Content pending
