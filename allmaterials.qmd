@@ -22,10 +22,10 @@ Below is a comprehensive list of materials.
 <p><a href="references.bib" class="btn btn-success" role="button">{{< fa download >}}
 .bib file of all references</a></p>
 
-| Week | Day          | Topic                                                | *Howitt* | *OpenStats* lecture | *Crump* |                  Details                   |
+| Week | Day          | Topic                                                | *Howitt* | *OpenStats* lecture | *Crump* |                  Lecture  | Lab |
 |:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|:---------:|
-|  1   | 3rd October    | **Introduction to Bayesian thinking + {targets}**    |      1       |          1           |       1       | [{{< fa person-chalkboard >}}](/lectures/Lecture00/Lecture00.qmd) | [{{< fa laptop-code >}}](/labs/Lab00/Lab00.qmd) |
-|  2   | 10th October  | **Starting with Bayes rule, models, and regression** |     2--3     |          2           |     2--3      | [{{< fa person-chalkboard >}}](/lectures/Lecture01/Lecture01.qmd) | [{{< fa laptop-code >}}](/labs/Lab01/Lab01.qmd) |
+|  1   | 3rd October    | **Introduction to Bayesian thinking + {targets}**    |      1       |          1           |       1       | [{{< fa person-chalkboard >}}](/lectures/Lecture00/Lecture00.qmd) | no lab |
+|  2   | 10th October  | **Starting with Bayes rule, models, and regression** |     2--3     |          2           |     2--3      | [{{< fa person-chalkboard >}}](/lectures/Lecture01/Lecture01.qmd) | free for all |
 |  3   | 17th October  | **Regression, priors, and conjugates**               |     4--5     |         3--4         |     4--5      | [{{< fa person-chalkboard >}}](/lectures/Lecture02/Lecture02.qmd) | [{{< fa laptop-code >}}](/labs/Lab02/Lab02.qmd) |
 | ---  | 24th October | *(off)*                                              |     ---      |         ---          |      ---      |                    ---                     |
 |  4   | 31st October | **DAGs, confounders, and controls**                  |     5--6     |         5--6         |      ---      | [{{< fa person-chalkboard >}}](/lectures/Lecture03/Lecture03.qmd) | [{{< fa laptop-code >}}](/labs/Lab03/Lab03.qmd) |
@@ -51,7 +51,6 @@ Below is a comprehensive list of materials.
 
 
 
-: {tbl-colwidths="\[5,20,35,8,8,8,8,8\]"}
 
 ::: {#lectures-listings}
 :::

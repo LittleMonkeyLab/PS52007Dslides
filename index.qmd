@@ -6,5 +6,12 @@ categories: [Lectures, Labs, Preludes, Extras]
 
 Note that this schedule and relevant content will be updated as the
 semester progresses and the timeline of topics and assignments might be
-updated throughout the
-[semester](_site/lectures/Lecture01/Lecture01.pdf).
+updated throughout the year. This is just an experiment.
+
+::: callout-tip
+If you have found this, WELL DONE.
+
+I'm playing with this. What do you think?
+
+email me at g.wright\@gold.ac.uk
+:::
