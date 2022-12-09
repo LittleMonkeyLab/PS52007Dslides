@@ -33,6 +33,8 @@ website:
     right: |
       "This page is built with {{< fa brands r-project >}}, ☕,❤️and [Quarto](https://quarto.org/) <br>
       [View the source at {{< fa brands github >}} GitHub](https://github.com/littlemonkeylab/ps52007dslides.com)
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743)</span>
     left: |
       Content {{< fa brands creative-commons >}} 2022 by gordon wright. All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>

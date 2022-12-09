@@ -22,35 +22,44 @@ Below is a comprehensive list of materials.
 <p><a href="references.bib" class="btn btn-success" role="button">{{< fa download >}}
 .bib file of all references</a></p>
 
-| Week | Day          | Topic                                                | *Howitt* | *OpenStats* lecture | *Crump* |                  Lecture  | Lab |
-|:---------:|-----------|-----------|:---------:|:---------:|:---------:|:---------:|:---------:|
-|  1   | 3rd October    | **Introduction to Bayesian thinking + {targets}**    |      1       |          1           |       1       | [{{< fa person-chalkboard >}}](/lectures/Lecture00/Lecture00.qmd) | no lab |
-|  2   | 10th October  | **Starting with Bayes rule, models, and regression** |     2--3     |          2           |     2--3      | [{{< fa person-chalkboard >}}](/lectures/Lecture01/Lecture01.qmd) | free for all |
-|  3   | 17th October  | **Regression, priors, and conjugates**               |     4--5     |         3--4         |     4--5      | [{{< fa person-chalkboard >}}](/lectures/Lecture02/Lecture02.qmd) | [{{< fa laptop-code >}}](/labs/Lab02/Lab02.qmd) |
-| ---  | 24th October | *(off)*                                              |     ---      |         ---          |      ---      |                    ---                     |
-|  4   | 31st October | **DAGs, confounders, and controls**                  |     5--6     |         5--6         |      ---      | [{{< fa person-chalkboard >}}](/lectures/Lecture03/Lecture03.qmd) | [{{< fa laptop-code >}}](/labs/Lab03/Lab03.qmd) |
-|  5   | 7th November | **Markov chains and posteriors**                     |      9       |          8           |     6--8      | [{{< fa person-chalkboard >}}](/lectures/Lecture04/Lecture04.qmd) | [{{< fa laptop-code >}}](/labs/Lab04/Lab04.qmd) |
-|  6   | 14th November    | **Overfitting, evaluation, and diagnostics**         |      7       |          7           |     9--11     | [{{< fa person-chalkboard >}}](/lectures/Lecture05/Lecture05.qmd) | [{{< fa laptop-code >}}](/labs/Lab05/Lab05.qmd) |
-|  7   | 21st November   | **Logistic and Poisson regression**                  |    10--11    |        9--10         |    12--13     | [{{< fa person-chalkboard >}}](/lectures/Lecture06/Lecture06.qmd) | [{{< fa laptop-code >}}](/labs/Lab06/Lab06.qmd) |
-|  8   | 28th November   | **Ordered regression**                               |      12      |          11          |      ---      | [{{< fa person-chalkboard >}}](/lectures/Lecture07/Lecture07.qmd) | [{{< fa laptop-code >}}](/labs/Lab07/Lab07.qmd) |
-|  9   | 5th December   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) |
+| Week | Day           | Topic                                                | *Howitt* | *OpenStats* lecture | *Crump* |                              Lecture                              |                       Lab                       |
+|:-------:|---------|---------|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  0   | 3rd October   | **Introduction to Bayesian thinking + {targets}**    |    1     |          1          |    1    | [{{< fa person-chalkboard >}}](/lectures/Lecture00/Lecture00.qmd) |                     no lab                      |
+|  1   | 10th October  | **Starting with Bayes rule, models, and regression** |   2--3   |          2          |  2--3   | [{{< fa person-chalkboard >}}](/lectures/Lecture01/Lecture01.qmd) |                  free for all                   |
+|  2   | 17th October  | **Regression, priors, and conjugates**               |   4--5   |        3--4         |  4--5   | [{{< fa person-chalkboard >}}](/lectures/Lecture02/Lecture02.qmd) | [{{< fa laptop-code >}}](/labs/Lab02/Lab02.qmd) |
+|  3   | 24th October  | *(off)*                                              |   ---    |         ---         |   ---   |                                ---                                |                                                 |
+|  4   | 31st October  | **DAGs, confounders, and controls**                  |   5--6   |        5--6         |   ---   | [{{< fa person-chalkboard >}}](/lectures/Lecture03/Lecture03.qmd) | [{{< fa laptop-code >}}](/labs/Lab03/Lab03.qmd) |
+|  5   | 7th November  | **Markov chains and posteriors**                     |    9     |          8          |  6--8   | [{{< fa person-chalkboard >}}](/lectures/Lecture04/Lecture04.qmd) | [{{< fa laptop-code >}}](/labs/Lab04/Lab04.qmd) |
+|  6   | 14th November | **Overfitting, evaluation, and diagnostics**         |    7     |          7          |  9--11  | [{{< fa person-chalkboard >}}](/lectures/Lecture05/Lecture05.qmd) | [{{< fa laptop-code >}}](/labs/Lab05/Lab05.qmd) |
+|  7   | 21st November | **Logistic and Poisson regression**                  |  10--11  |        9--10        | 12--13  | [{{< fa person-chalkboard >}}](/lectures/Lecture06/Lecture06.qmd) | [{{< fa laptop-code >}}](/labs/Lab06/Lab06.qmd) |
+|  8   | 28th November | **Ordered regression**                               |    12    |         11          |   ---   | [{{< fa person-chalkboard >}}](/lectures/Lecture07/Lecture07.qmd) | [{{< fa laptop-code >}}](/labs/Lab07/Lab07.qmd) |
+|  9   | 5th December  | **Multilevel models I**                              |    13    |         12          | 15--17  | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) |
 
 <!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
-<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
 <!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
 
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
 
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
 
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
+
+<!-- |  9   | October 27   | **Multilevel models I**                              |      13      |          12          |    15--17     | [{{< fa person-chalkboard >}}](/lectures/Lecture08/Lecture08.qmd) | [{{< fa laptop-code >}}](/labs/Lab08/Lab08.qmd) | -->
 
 ::: {#lectures-listings}
 :::
