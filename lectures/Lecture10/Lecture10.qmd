@@ -1,0 +1,124 @@
+---
+title: 'Lecture10'
+subtitle: 'Looking ahead to Term 2'
+author: 'Dr Gordon Wright'
+date: "12/12/22"
+logo: "images/RMIPHEX.png"
+footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
+bibliography: references.bib
+---
+
+# Phase 2 Overview
+
+## The week ahead
+
+The week ahead (week 10)
+
+::: incremental
+-   Lab Priority
+    -   Mini-Dissertation Ethics status
+-   W10 Cognitive Essay Tutorial
+:::
+
+## Overview of the lab
+
+::: incremental
+Crack on with your projects!
+
+Despite a disrupted term, you've all made excellent progress.
+
+We want to catch up with [**everyone**]{.underline} in this final session.
+
+We need to make sure there are no researchers left behind.
+:::
+
+## Please help out and confirm status
+
+::: incremental
+Lab Tutors will do a quick tour to get a brief status update from each group.
+
+We will prioritise time with you all based on that.
+
+Please raise any concerns you have, so that we can help.
+
+OR if you need to drop-in online (Rail strikes)
+:::
+
+## Next term
+
+Next term is essentially split into two halves:
+
+::: incremental
+Weeks 10 -- 15 are geared towards data collection and data preparation
+
+Weeks 16 -- 20 are geared towards analysis, writing up, and preparing your submission 
+:::
+
+Each week, we will focus on a key skill or procedure, supplying useful resources and guidance, but leaving the rest of the lab session for independent work, advice and support from your Lab Tutor, or anything else you think would be helpful!
+
+## Weeks 10 -- 15 (alongside data collection)
+
+::: incremental
+-   In week 10 - Enrol everyone on the Study Swap system and start collecting data
+-   In week 11 - We begin the process of focussing on Writing & Analysis
+-   In week 12 - We will be focusing on 'Writing up your Method section'
+-   In week 13 - We will be talking about 'Planning your analysis'
+-   In week 14 -- A workshop on 'Data Screening & Cleaning'
+-   In week 15 -- We will be showcasing your work to the 1^st^ Years!
+:::
+
+## New on the VLE
+
+::: incremental
+An APA 7^th^ Edition Mini-Dissertation template word document
+
+-   An APA 7^th^ Edition Reference Cheat Sheet
+
+-   Extended Mini-Dissertation Marking Criteria
+
+-   2 x Example Mini-Dissertations
+:::
+
+. . .
+
+**You can find these all on the VLE in the**
+
+**'Mini-Dissertation resources' section of the VLE**
+
+## APA 7 Mini-Dissertation Template
+
+Your Mini-Dissertations must conform to the correct format.
+
+**We use APA 7^th^ Edition and in the style of a professional journal article manuscript submission.**
+
+::: incremental
+-   The word document template features all the major stylistic formatting you will need, with some helpful pointers throughout.
+
+-   When you write your Mini-Dissertation, you just need to delete all the tips and put in your wonderfully crafted prose and results!
+
+-   A common mistake is to deviate from the APA formatting. Please try not to do this!
+:::
+
+## **APA style will be the focus of Week 16.**
+
+APA 7 Reference Cheat Sheet
+
+::: incremental
+A key part of APA 7^th^ Edition is reference format. **We will also cover this briefly in week 16**. 
+
+We will share a number of other electronic resources that might help you ensure you follow the correct format, but in the first instance, this Cheat Sheet will be very handy.
+:::
+
+## Mini-Dissertation Extended Marking Criteria
+
+Another resource we've given you today is an **extended Mini-Dissertation Marking Criteria**.
+
+::: incremental
+These are the criteria used by the markers and moderators to calibrate marks and ensure accuracy and consistency.
+
+An abbreviated version will be attached to the feedback that you receive.
+
+You will see that there are numerous categories, but each requires some consideration. Have a look over this when you get some time.
+
+A screencast will be provided discussing this in more detail, overviewing submission requirements, and highlighting common pitfalls, and tips for the top!
+:::

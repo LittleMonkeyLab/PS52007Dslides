@@ -113,7 +113,21 @@ h3 {
 
 .reveal .slide .footerbox {
   border: 2px solid #000000;
+  text-align: left;
   padding: 0.5em;
+  background: 	#D3D3D3;
+  position: absolute;
+  bottom: 0%;
+  left: 5%;
+  width: 90%;
+  color: #0F1620;
+  font-size: 0.8em;
+}
+.reveal .slide .refbox {
+  border: 2px solid #000000;
+  text-align: left;
+  padding-left: 36px;
+  text-indent: -32px;
   background: 	#D3D3D3;
   position: absolute;
   bottom: 0%;
@@ -122,6 +136,8 @@ h3 {
   color: #0F1620;
   font-size: 0.5em;
 }
+
+
 .sectioncounter {
   color: $presentation-heading-color;
   font-family: $presentation-heading-font;
