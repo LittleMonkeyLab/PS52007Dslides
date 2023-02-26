@@ -246,11 +246,12 @@ img {
 }
 
 ul {
-  font-size: 125%;
+  font-size: 85%;
+  line-height: 20px;
   list-style-type: none;
   text-align: left;
   font-weight: 500;
-  padding-top: 40px;
+  padding-top: 5px;
 }
 
 ul li {
@@ -261,7 +262,7 @@ ol {
   counter-reset: my-counter;
   list-style: none;
   padding-left: 40px;
-  font-size: 125%;
+  font-size: 85%;
   font-weight: bold;
   text-align: left;
 }
