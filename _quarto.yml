@@ -34,7 +34,7 @@ website:
       "This page is built with {{< fa brands r-project >}}, ☕,❤️and [Quarto](https://quarto.org/) <br>
       [View the source at {{< fa brands github >}} GitHub](https://github.com/littlemonkeylab/ps52007dslides.com)
     left: |
-      Content {{< fa brands creative-commons >}} 2022 by gordon wright {{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743). All content licensed under a {{< fa brands creative-commons >}}
+      Content {{< fa brands creative-commons >}} 2023 by gordon wright {{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743). All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>
       [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     background: "#000080"
@@ -94,4 +94,4 @@ format:
 editor: visual
 
 execute:
-  freeze: true
+  freeze: auto

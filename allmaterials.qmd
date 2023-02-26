@@ -23,7 +23,7 @@ Below is a comprehensive list of materials.
 .bib file of all references</a></p>
 
 | Week | Day           | Topic                                                | *Howitt* | *OpenStats* lecture | *Crump* |                              Lecture                              |                       Lab                       |
-|:-------:|---------|---------|:-------:|:-------:|:-------:|:-------:|:-------:|
+|:----:|---------------|------------------------------------------------------|:--------:|:-------------------:|:-------:|:-----------------------------------------------------------------:|:-----------------------------------------------:|
 |  0   | 3rd October   | **Introduction to Bayesian thinking + {targets}**    |    1     |          1          |    1    | [{{< fa person-chalkboard >}}](/lectures/Lecture00/Lecture00.qmd) |                     no lab                      |
 |  1   | 10th October  | **Starting with Bayes rule, models, and regression** |   2--3   |          2          |  2--3   | [{{< fa person-chalkboard >}}](/lectures/Lecture01/Lecture01.qmd) |                  free for all                   |
 |  2   | 17th October  | **Regression, priors, and conjugates**               |   4--5   |        3--4         |  4--5   | [{{< fa person-chalkboard >}}](/lectures/Lecture02/Lecture02.qmd) | [{{< fa laptop-code >}}](/labs/Lab02/Lab02.qmd) |
