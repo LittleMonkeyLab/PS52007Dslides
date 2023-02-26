@@ -29,6 +29,70 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -341,151 +405,202 @@ Dr Gordon Wright
 <section>
 <section id="overview-of-the-chip-learning-log" class="title-slide slide level1 center">
 <h1>Overview of the CHIP Learning Log</h1>
-<div class="columns">
-<div class="column" style="width:60%;">
-<p>CHIP stands for Conceptual, Historical and Integrative Perspectives.</p>
-</div><div class="column" style="width:40%;">
-<p>Bigger picture topics</p>
-</div>
-</div>
+
 </section>
-<section id="welcome-back-and-welcome-to-research-methods" class="slide level2">
-<h2>Welcome back and welcome to Research Methods!</h2>
-</section>
-<section id="this-year-you-become-scientists" class="slide level2">
-<h2>This year you become Scientists!</h2>
-<p>violets are <span color="blue">blue</span>.</p>
-<p>This year, in Research Methods, you will perform your first piece of REAL psychological research</p>
-<p>In groups, you will:</p>
-<div class="small">
-<ul>
-<li>Identify an area of psychological research</li>
-<li>Review and critique the literature in this area</li>
-<li>Develop a testable hypothesis</li>
-<li>Design a 2x2 ANOVA experiment unique to you (within your group study)</li>
-<li>Obtain Ethical Approval for your experiment</li>
-<li>Collect REAL data</li>
-<li>Analyse these data</li>
-<li>Write up the results in APA format</li>
-</ul>
-</div>
-</section>
-<section id="a-full-overview-will-be-given-in-the-first-lecture" class="slide level2">
-<h2>A full overview will be given in the first lecture!</h2>
-<p>Do not worry! It’s going to be a great adventure!</p>
-</section>
-<section id="a-warm-up-for-your-y3-dissertation" class="slide level2">
-<h2>A ‘warm up’ for your Y3 Dissertation</h2>
-<div class="small">
-<ul>
-<li>The same 20-week timeline</li>
-<li>The same skills and techniques you will need</li>
-<li>Careful step-by-step guidance and support in the lab setting</li>
-<li>Scaled-down experiments and write-ups</li>
-<li>The security of working in a group</li>
-<li>Tips and advice from world-class researchers</li>
-<li>Opportunity to think carefully about your final year Dissertation, and how to crush it!!</li>
-</ul>
-</div>
-</section>
-<section id="support-and-guidance" class="slide level2">
-<h2>Support and guidance</h2>
-<ul>
-<li>Gordon Wright (Module Coordinator and floating Enthusiast in Chief)</li>
-<li>7 gobsmackingly amazing Lab Tutors</li>
-<li>Your Personal Tutor a nd your PT group</li>
-<li>AND EACH OTHER!!</li>
-</ul>
-<p>This is a team-sport</p>
-<p><a href="https://learn.gold.ac.uk/pluginfile.php/1945481/mod_page/content/1/CHIP%20Learning%20Log%20Rubric.pdf">A detailed rubric can be found here</a></p>
-</section>
-<section id="me" class="slide level2">
-<h2>me</h2>
-<p>I will be in every Research Methods lecture and I have a Student Hour from 3-4 every Monday, before we all go to the Design &amp; Analysis lecture. Yup! Me too!</p>
-<p>Available at g.wright@gold.ac.uk</p>
-<p>I genuinely could not imagine anything I would rather do that this. Please talk to me!</p>
-</section>
-<section id="module-weighting-and-assessment" class="slide level2">
-<h2>Module weighting and assessment</h2>
-<p>Research Methods is a core module with a 30 credit weighting</p>
-<p>This means that in order to progress to Y3, you must pass all 3 assessment elements:</p>
-<ul>
-<li><div class="takeaway">
-<ul>
-<li><p>Critical Proposal 1,800 words (15%)</p></li>
-<li><p>Mini-Dissertation 2,500 words (70%)</p></li>
-<li><p>CHIP Learning Log 1,200 words (15%)</p></li>
-</ul>
-</div></li>
-</ul>
-</section>
-<section id="a-friendly-warning" class="slide level2">
-<h2>A friendly warning</h2>
-<div class="callout callout-warning callout-captioned callout-style-default">
+<section id="chip-learning-log---whats-it-all-about" class="slide level2">
+<h2>CHIP Learning Log - What’s it all about?</h2>
+<div class="callout callout-none no-icon callout-style-simple">
 <div class="callout-body">
-<div class="callout-caption">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Warning</strong></p>
-</div>
 <div class="callout-content">
-<p>All coursework is <span class="shout">INDIVIDUAL</span> and subject to normal plagiarism and collusion rules</p>
+<p>CHIP stands for Conceptual, Historical and Integrative Perspectives.</p>
 </div>
 </div>
+</div>
+<div class="fragment">
+<p>As you become active psychological researchers - and over half way through your undergraduate training in psychology - it is important to consider the wider context of what you are doing.</p>
 </div>
 </section>
-<section id="module-structure" class="slide level2">
-<h2>Module structure</h2>
-<p>1 x 1 hr Lecture per week (Monday)</p>
-<p>1 x 2 hr Lab per week (Tuesday)</p>
-<p>4 x Personal Tutor meetings across the year</p>
+<section id="learning-log-huh" class="slide level2">
+<h2>Learning log? huh?</h2>
+<div class="callout callout-none no-icon callout-style-simple">
+<div class="callout-body">
+<div class="callout-content">
+<p>A Learning Log is a reflective account of your learning journey. It requires reflection and meta-cognitive practice.</p>
+</div>
+</div>
+</div>
+<div class="fragment">
+<p>By thinking about your personal learning journey, you take an objective ‘outside’ perspective on this important process. By doing so, it aids meta-learning - or the process of ‘learning to learn’.</p>
+</div>
+<div class="fragment">
+<blockquote>
+<p>Whether you end up being a ‘psychologist’ or not, your degree is an important opportunity to demonstrate your ability to learn (knowledge AND skills)</p>
+</blockquote>
+</div>
 </section>
-<section id="weekly-structure" class="slide level2">
-<h2>Weekly Structure</h2>
-<p>Each week there will be a very brief ‘<strong>Prelude</strong>’ designed to introduce one of the main topics of the week</p>
-<p><strong>Lecture</strong> (slides and recording posted afterwards)</p>
-<p><strong>Lab Activity</strong></p>
+<section id="the-topics-already-introduced-this-year-are" class="slide level2">
+<h2>The topics already introduced this year are:</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="incremental{.smaller}">
 <ul>
-<li><strong>‘Pulse’</strong> taken on entry - 2 minute quiz</li>
-<li><strong>Lab Notebook</strong> with brief ‘generative activities’ and opportunities for metacognitive reflection</li>
-<li>Extras provided around skills or applications or just interesting factoids</li>
-<li>Lots can be achieved in the labs, but independent study and coordinated group work will be required</li>
+<li>What is Science?</li>
+<li>Artificial Intelligence</li>
+<li>Open Science</li>
+<li>Qualitative Research</li>
+<li>Inclusivity</li>
 </ul>
-<p><span class="shout">NO EXAM</span></p>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="incremental{.smaller}">
+<ul>
+<li>What is Science?</li>
+<li>Artificial Intelligence</li>
+<li>Open Science</li>
+<li>Qualitative Research</li>
+<li>Inclusivity</li>
+</ul>
+</div>
+</div>
+</div>
 </section>
-<section id="coursework" class="slide level2">
-<h2>Coursework</h2>
-<p>The courseworks ALL require critical reflection and metacognitive practice. This will be discussed in a number of lectures, but it contributes to effective learning and your integration of the skills and experience of doing this research exercise.</p>
+<section id="the-topics-approaching-this-year-are" class="slide level2">
+<h2>The topics approaching this year are:</h2>
+<p>Meta-cognition and Meta-learning ## But you are welcome to choose more broadly</p>
+<p>::: incremental {.tight} - What is Science? - Artificial Intelligence - Open Science - Qualitative Research - Inclusivity :::</p>
 </section>
-<section id="time-management-and-teamwork" class="slide level2">
-<h2>Time management and teamwork</h2>
-<p>..will both be required.</p>
-<p>I ask you to see both as an opportunity to develop these important skills.</p>
-<p>You will see we have some ideas to make this more relevant to careers and employability</p>
-<p>It is easier to ‘keep up than to catch up’.</p>
+<section id="assessment" class="slide level2">
+<h2>Assessment</h2>
+<p>Coursework designed to allow you to engage reflexively with the ‘big picture’ of your degree</p>
+<p>Think about how these issues link into psychology as a discipline, and how they relate to your own thoughts about what psychology is or should be</p>
+<p>Two essays of <strong>max</strong> 700 words each</p>
+<p>Marks are awarded for reflection, evidence of learning and bring topics together. Please see marking criteria for both essays.</p>
+<p>Not looking for a restatement of the facts in the lectures etc.</p>
+<p>They are designed to be personal and reflective – embrace this aspect!</p>
 </section>
-<section id="resources" class="slide level2">
-<h2>Resources</h2>
-<p>We will be releasing a series of valuable resources to help you through every step of the process</p>
-<p>These will have value for your final year dissertation too.</p>
-<p>Contribution to and comment on these is welcome and hoped for!</p>
-<p>Open Educational Resources will be used extensively, and most core readings are available online via the library.</p>
+<section id="essay-1" class="slide level2">
+<h2>Essay 1</h2>
+<p>Essay 1 is based on the content of ONE of the FOUR topics and should adopt at least two of the following 6 ‘perspectives’.</p>
+<p>STU - Your interests or experience as a student of psychology</p>
+<p>TRN - Your role as a trainee psychologist</p>
+<p>RES - A planned research project in or after your degree</p>
+<p>HIS - The history of Psychology and related disciplines;</p>
+<p>PRA - Reporting on the Practice or Culture of Psychology;</p>
+<p>SCI - Assumptions about science and how it relates to psychology</p>
 </section>
-<section id="prelude-1" class="slide level2">
-<h2>Prelude 1</h2>
-<p>We are starting off very easy. A short questionnaire to allow us to get to know you a little better, which we will use to develop the first lecture, and the course more generally.</p>
+<section id="essay-1-tips" class="slide level2">
+<h2>Essay 1 tips</h2>
+<p>Ask a specific question – and answer it.</p>
+<p>Intro, body, conclusion structure.</p>
+<p>Reflect on the topic and give your own opinion as to the answer!</p>
+<p>Present a journey in your learning or appreciation of the topic</p>
+<p>Ensure your answer is argued using examples</p>
+<p>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</p>
+<p>Present and reference it well</p>
 </section>
-<section id="thank-you-for-your-time" class="slide level2">
-<h2>Thank you for your time</h2>
-<p>And have an amazing year!</p>
-<p>The Research Methods Team</p>
+<section id="essay-2" class="slide level2 smaller">
+<h2>Essay 2</h2>
+<p>Essay 2 should focus on at least one of the OTHER topics covered in the course.</p>
+<p>This answer should focus on a primary reading associated with the lectures and then any further reading you have done (strongly encouraged).</p>
+<p>You must identify that primary reading explicitly in the essay itself.</p>
+<p>You should not simply restate what the authors thought or found, but rather briefly summarise the point that stimulated your interest in the reading and use that as a springboard to discuss the topic or issue.</p>
+<p>Think about your perspective on the issues.</p>
+<p>What do you think about this debate or issue? We want to know!</p>
+<p>And what do you think are interesting directions for psychologists to take this debate or issue in the future?</p>
+</section>
+<section id="essay-2-tips" class="slide level2">
+<h2>Essay 2 tips</h2>
+<p>Explicitly identify a single initial reading and build upon that.</p>
+<p>Discuss a debate or issue that you think is interesting or important</p>
+<p>Give your own opinion and how this has developed or changed as a result of the lecture, the course more widely, and/or the reading.</p>
+<p>Argue your opinion explicitly, own it and back it up with examples</p>
+<p>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</p>
+<p>Present and reference it well</p>
+</section>
+<section id="overlapping-content" class="slide level2">
+<h2>Overlapping content</h2>
+<p>You can combine across different topics in Essay 2 (e.g., you could talk about Evolution and Consciousness, or Inclusivity and Meta Learning), and thinking about links between topics is strongly encouraged.</p>
+<p>However, the material covered in Essay 2 must be different from Essay 1. Students will be penalised for covering identical topics.</p>
+</section>
+<section id="submission" class="slide level2">
+<h2>Submission</h2>
+<p>Deadline is 10am Friday 21st April – ±3 weeks after the end of term</p>
+<p>Both answers should be written in essay-style prose (e.g., with APA references where you refer to sources) put in a single document and submitted to the coursework submission page.</p>
+<p>Max 700 words per answer (references not included in word count)</p>
+<p>Remember that this only accounts for a smaller portion of the module grade (15%). Should hopefully be an enjoyable way to reflect on issues on the course you found interesting.</p>
+</section>
+<section class="slide level2">
 
 
-<img src="images/RMIPHEX.png" class="slide-logo r-stretch"><div class="footer footer-default">
+<img data-src="images/image-438781598.png" class="r-stretch"></section>
+<section class="slide level2">
+
+
+<img data-src="images/image-886653608.png" class="r-stretch"></section>
+<section id="incremental-content" class="slide level2">
+<h2>Incremental content</h2>
+<p><em>Hi!</em></p>
+<div class="fragment">
+<p>Use <code>. . .</code> to separate content as an incremental slide!</p>
+</div>
+</section>
+<section id="numbers" class="slide level2">
+<h2>Numbers</h2>
+<ol type="1">
+<li><strong>thing 1 bold</strong></li>
+<li><em>thing 2 ital</em></li>
+<li><del>thing 3 strikeout</del></li>
+<li><u>underlined</u></li>
+<li>normal</li>
+</ol>
+</section>
+<section id="incremental-list" class="slide level2">
+<h2>Incremental list</h2>
+<ul>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+</ul>
+</section>
+<section id="print" class="slide level2">
+<h2>Print</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>pagedown<span class="sc">::</span><span class="fu">chrome_print</span>(<span class="st">"path-to-file.html"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section></section>
+<section id="another-section" class="title-slide slide level1 center">
+<h1>another section</h1>
+<div class="fragment">
+<p>Fade in</p>
+</div>
+<div class="fragment highlight-current-black">
+<p>Highlight firtst</p>
+</div>
+<div class="fragment highlight-current-black">
+<p>Highlight second</p>
+</div>
+
+<div class="fragment highlight-current-black">
+<p>Highlight third</p>
+</div>
+<div class="fragment fade-out">
+<p>Fade out</p>
+</div>
+<div class="fragment highlight-current-black">
+<p>Highlight red</p>
+</div>
+<div class="fragment fade-in-then-out">
+<p>Fade in, then out</p>
+</div>
+<div class="fragment fade-up">
+<p>Slide up while fading in</p>
+</div>
+
+<p><img src="images/RMIPHEX.png" class="slide-logo"></p>
+<div class="footer footer-default">
 <p>PS52007D Research Methods <a href="https://learn.gold.ac.uk/course/view.php?id=24472">VLE</a></p>
 </div>
-</section></section>
+<aside><div>
+<p>Additional commentary.</p>
+</div></aside></section>
     </div>
   </div>
 

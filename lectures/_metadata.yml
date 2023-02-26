@@ -30,7 +30,7 @@ csl: apa7.csl
 # output format options - change these as required
 format:
   revealjs:
-    theme: _resources/templates/Lectures_RM.scss
+    theme: _resources/templates/Lectures_RM2.scss
     mainfont: Atkinson Hyperlegible
     logo: "images/RMIPHEX.png"
     footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.php?id=24472)"
@@ -42,8 +42,9 @@ format:
     show-slide-number: all
     title-slide-attributes:
       data-background-color: "#000080"
+
     preview-links: true
-    # standalone: false
+    standalone: true
     # embed-resources: true
     margin: 0.2
     smaller: false
@@ -55,19 +56,19 @@ format:
   pptx:
     reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
     output-ext: pptx
-  pdf:
-    pdf-engine: lualatex
-    theme: _resources/templates/pdf.scss
-    template: _resources/templates/latex.tex
-  #   # template: _resources/templates/latex-colour.tex
-
-      #   fontsize: 12pt # 10, 11, or 12pt
-    mainfont: Atkinson Hyperlegible # font used for main text throughout document
-    sansfont: Atkinson Hyperlegible
-    classoption: landscape
-    papersize: a4
-  #   pagestyle: empty
-  #   cosmiclatte: false # set true to turn on an off-white page background colour
+  # pdf:
+  #   pdf-engine: lualatex
+  #   theme: _resources/templates/pdf.scss
+  #   template: _resources/templates/latex.tex
+  # #   # template: _resources/templates/latex-colour.tex
+  #
+  #     #   fontsize: 12pt # 10, 11, or 12pt
+  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
+  #   sansfont: Atkinson Hyperlegible
+  #   classoption: landscape
+  #   papersize: a4
+  # #   pagestyle: empty
+  # #   cosmiclatte: false # set true to turn on an off-white page background colour
   html:
     theme: litera
     output-ext: htm

@@ -1,7 +1,6 @@
 ---
 title: 'Lecture16'
 subtitle: 'CHIP Overview'
-format: revealjs  
 author: 'Dr Gordon Wright'
 date: "02/27/23"
 date-format: "DD MMMM, YYYY"
@@ -11,169 +10,254 @@ footer: "PS52007D Research Methods [VLE](https://learn.gold.ac.uk/course/view.ph
 
 # Overview of the CHIP Learning Log
 
-::: columns
-::: {.column width="60%"}
+## CHIP Learning Log - What's it all about?
+
+::: callout
 CHIP stands for Conceptual, Historical and Integrative Perspectives.
 :::
 
-::: {.column width="40%"}
-Bigger picture topics
+. . .
+
+As you become active psychological researchers - and over half way
+through your undergraduate training in psychology - it is important to
+consider the wider context of what you are doing.
+
+## Learning log? huh?
+
+::: callout
+A Learning Log is a reflective account of your learning journey. It
+requires reflection and meta-cognitive practice.
+:::
+
+. . .
+
+By thinking about your personal learning journey, you take an objective
+'outside' perspective on this important process. By doing so, it aids
+meta-learning - or the process of 'learning to learn'.
+
+. . .
+
+> Whether you end up being a 'psychologist' or not, your degree is an
+> important opportunity to demonstrate your ability to learn (knowledge
+> AND skills)
+
+## The topics already introduced this year are:
+
+::: columns
+::: {.column width="50%"}
+::: incremental
+-   What is Science?
+-   Artificial Intelligence
+-   Open Science
+-   Qualitative Research
+-   Inclusivity
 :::
 :::
 
-## Welcome back and welcome to Research Methods!
-
-## This year you become Scientists!
-
-violets are [blue]{color="blue"}.
-
-This year, in Research Methods, you will perform your first piece of
-REAL psychological research
-
-In groups, you will:
-
-::: small
--   Identify an area of psychological research
--   Review and critique the literature in this area
--   Develop a testable hypothesis
--   Design a 2x2 ANOVA experiment unique to you (within your group
-    study)
--   Obtain Ethical Approval for your experiment
--   Collect REAL data
--   Analyse these data
--   Write up the results in APA format
+::: {.column width="50%"}
+::: incremental
+-   What is Science?
+-   Artificial Intelligence
+-   Open Science
+-   Qualitative Research
+-   Inclusivity
+:::
+:::
 :::
 
-## A full overview will be given in the first lecture!
+## The topics approaching this year are:
 
-Do not worry! It's going to be a great adventure!
+Meta-cognition and Meta-learning \## But you are welcome to choose more
+broadly
 
-## A 'warm up' for your Y3 Dissertation
+::: incremental {.tight} - What is Science? - Artificial Intelligence -
+Open Science - Qualitative Research - Inclusivity :::
 
-::: small
--   The same 20-week timeline
--   The same skills and techniques you will need
--   Careful step-by-step guidance and support in the lab setting
--   Scaled-down experiments and write-ups
--   The security of working in a group
--   Tips and advice from world-class researchers
--   Opportunity to think carefully about your final year Dissertation,
-    and how to crush it!!
+## Assessment
+
+Coursework designed to allow you to engage reflexively with the 'big
+picture' of your degree
+
+Think about how these issues link into psychology as a discipline, and
+how they relate to your own thoughts about what psychology is or should
+be
+
+Two essays of **max** 700 words each
+
+Marks are awarded for reflection, evidence of learning and bring topics
+together. Please see marking criteria for both essays.
+
+Not looking for a restatement of the facts in the lectures etc.
+
+They are designed to be personal and reflective -- embrace this aspect!
+
+## Essay 1
+
+Essay 1 is based on the content of ONE of the FOUR topics and should
+adopt at least two of the following 6 'perspectives'.
+
+STU - Your interests or experience as a student of psychology
+
+TRN - Your role as a trainee psychologist
+
+RES - A planned research project in or after your degree
+
+HIS - The history of Psychology and related disciplines;
+
+PRA - Reporting on the Practice or Culture of Psychology;
+
+SCI - Assumptions about science and how it relates to psychology
+
+## Essay 1 tips
+
+Ask a specific question -- and answer it.
+
+Intro, body, conclusion structure.
+
+Reflect on the topic and give your own opinion as to the answer!
+
+Present a journey in your learning or appreciation of the topic
+
+Ensure your answer is argued using examples
+
+Use evidence in your argument from a range of sources, ideally do some
+strategic wider reading
+
+Present and reference it well
+
+## Essay 2 {.smaller}
+
+Essay 2 should focus on at least one of the OTHER topics covered in the
+course.
+
+This answer should focus on a primary reading associated with the
+lectures and then any further reading you have done (strongly
+encouraged).
+
+You must identify that primary reading explicitly in the essay itself.
+
+You should not simply restate what the authors thought or found, but
+rather briefly summarise the point that stimulated your interest in the
+reading and use that as a springboard to discuss the topic or issue.
+
+Think about your perspective on the issues.
+
+What do you think about this debate or issue? We want to know!
+
+And what do you think are interesting directions for psychologists to
+take this debate or issue in the future?
+
+## Essay 2 tips
+
+Explicitly identify a single initial reading and build upon that.
+
+Discuss a debate or issue that you think is interesting or important
+
+Give your own opinion and how this has developed or changed as a result
+of the lecture, the course more widely, and/or the reading.
+
+Argue your opinion explicitly, own it and back it up with examples
+
+Use evidence in your argument from a range of sources, ideally do some
+strategic wider reading
+
+Present and reference it well
+
+## Overlapping content
+
+You can combine across different topics in Essay 2 (e.g., you could talk
+about Evolution and Consciousness, or Inclusivity and Meta Learning),
+and thinking about links between topics is strongly encouraged.
+
+However, the material covered in Essay 2 must be different from Essay 1.
+Students will be penalised for covering identical topics.
+
+## Submission
+
+Deadline is 10am Friday 21st April -- ±3 weeks after the end of term
+
+Both answers should be written in essay-style prose (e.g., with APA
+references where you refer to sources) put in a single document and
+submitted to the coursework submission page.
+
+Max 700 words per answer (references not included in word count)
+
+Remember that this only accounts for a smaller portion of the module
+grade (15%). Should hopefully be an enjoyable way to reflect on issues
+on the course you found interesting.
+
+------------------------------------------------------------------------
+
+![](images/image-438781598.png)
+
+------------------------------------------------------------------------
+
+![](images/image-886653608.png)
+
+## Incremental content
+
+*Hi!*
+
+. . .
+
+Use `. . .` to separate content as an incremental slide!
+
+. . .
+
+## Numbers
+
+1.  **thing 1 bold**
+2.  *thing 2 ital*
+3.  ~~thing 3 strikeout~~
+4.  [underlined]{.underline}
+5.  normal
+
+## Incremental list
+
+-   one
+-   two
+-   three
+
+## Print
+
+``` r
+pagedown::chrome_print("path-to-file.html")
+```
+
+# another section
+
+::: fragment
+Fade in
 :::
 
-## Support and guidance
-
--   Gordon Wright (Module Coordinator and floating Enthusiast in Chief)
--   7 gobsmackingly amazing Lab Tutors
--   Your Personal Tutor a nd your PT group
--   AND EACH OTHER!!
-
-This is a team-sport
-
-[A detailed rubric can be found
-here](https://learn.gold.ac.uk/pluginfile.php/1945481/mod_page/content/1/CHIP%20Learning%20Log%20Rubric.pdf)
-
-## me
-
-I will be in every Research Methods lecture and I have a Student Hour
-from 3-4 every Monday, before we all go to the Design & Analysis
-lecture. Yup! Me too!
-
-Available at g.wright\@gold.ac.uk
-
-I genuinely could not imagine anything I would rather do that this.
-Please talk to me!
-
-## Module weighting and assessment
-
-Research Methods is a core module with a 30 credit weighting
-
-This means that in order to progress to Y3, you must pass all 3
-assessment elements:
-
--   ::: takeaway
-    -   Critical Proposal 1,800 words (15%)
-
-    -   Mini-Dissertation 2,500 words (70%)
-
-    -   CHIP Learning Log 1,200 words (15%)
-    :::
-
-## A friendly warning
-
-::: callout-warning
-## Warning
-
-All coursework is [INDIVIDUAL]{.shout} and subject to normal plagiarism
-and collusion rules
+::: {.fragment .highlight-current-black}
+Highlight firtst
 :::
 
-## Module structure
+::: {.fragment .highlight-current-black}
+Highlight second
+:::
 
-1 x 1 hr Lecture per week (Monday)
+::: aside
+Additional commentary.
+:::
 
-1 x 2 hr Lab per week (Tuesday)
+::: {.fragment .highlight-current-black}
+Highlight third
+:::
 
-4 x Personal Tutor meetings across the year
+::: {.fragment .fade-out}
+Fade out
+:::
 
-## Weekly Structure
+::: {.fragment .highlight-current-black}
+Highlight red
+:::
 
-Each week there will be a very brief '**Prelude**' designed to introduce
-one of the main topics of the week
+::: {.fragment .fade-in-then-out}
+Fade in, then out
+:::
 
-**Lecture** (slides and recording posted afterwards)
-
-**Lab Activity**
-
--   **'Pulse'** taken on entry - 2 minute quiz
--   **Lab Notebook** with brief 'generative activities' and
-    opportunities for metacognitive reflection
--   Extras provided around skills or applications or just interesting
-    factoids
--   Lots can be achieved in the labs, but independent study and
-    coordinated group work will be required
-
-[NO EXAM]{.shout}
-
-## Coursework
-
-The courseworks ALL require critical reflection and metacognitive
-practice. This will be discussed in a number of lectures, but it
-contributes to effective learning and your integration of the skills and
-experience of doing this research exercise.
-
-## Time management and teamwork
-
-..will both be required.
-
-I ask you to see both as an opportunity to develop these important
-skills.
-
-You will see we have some ideas to make this more relevant to careers
-and employability
-
-It is easier to 'keep up than to catch up'.
-
-## Resources
-
-We will be releasing a series of valuable resources to help you through
-every step of the process
-
-These will have value for your final year dissertation too.
-
-Contribution to and comment on these is welcome and hoped for!
-
-Open Educational Resources will be used extensively, and most core
-readings are available online via the library.
-
-## Prelude 1
-
-We are starting off very easy. A short questionnaire to allow us to get
-to know you a little better, which we will use to develop the first
-lecture, and the course more generally.
-
-## Thank you for your time
-
-And have an amazing year!
-
-The Research Methods Team
+::: {.fragment .fade-up}
+Slide up while fading in
+:::
