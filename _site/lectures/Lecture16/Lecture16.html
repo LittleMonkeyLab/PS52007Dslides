@@ -29,70 +29,6 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
-    pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-    pre > code.sourceCode > span:empty { height: 1.2em; }
-    .sourceCode { overflow: visible; }
-    code.sourceCode > span { color: inherit; text-decoration: inherit; }
-    div.sourceCode { margin: 1em 0; }
-    pre.sourceCode { margin: 0; }
-    @media screen {
-    div.sourceCode { overflow: auto; }
-    }
-    @media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-    }
-    pre.numberSource code
-      { counter-reset: source-line 0; }
-    pre.numberSource code > span
-      { position: relative; left: -4em; counter-increment: source-line; }
-    pre.numberSource code > span > a:first-child::before
-      { content: counter(source-line);
-        position: relative; left: -1em; text-align: right; vertical-align: baseline;
-        border: none; display: inline-block;
-        -webkit-touch-callout: none; -webkit-user-select: none;
-        -khtml-user-select: none; -moz-user-select: none;
-        -ms-user-select: none; user-select: none;
-        padding: 0 4px; width: 4em;
-        color: #aaaaaa;
-      }
-    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-    div.sourceCode
-      { color: #003b4f; background-color: #f1f3f5; }
-    @media screen {
-    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-    }
-    code span { color: #003b4f; } /* Normal */
-    code span.al { color: #ad0000; } /* Alert */
-    code span.an { color: #5e5e5e; } /* Annotation */
-    code span.at { color: #657422; } /* Attribute */
-    code span.bn { color: #ad0000; } /* BaseN */
-    code span.bu { } /* BuiltIn */
-    code span.cf { color: #003b4f; } /* ControlFlow */
-    code span.ch { color: #20794d; } /* Char */
-    code span.cn { color: #8f5902; } /* Constant */
-    code span.co { color: #5e5e5e; } /* Comment */
-    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
-    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
-    code span.dt { color: #ad0000; } /* DataType */
-    code span.dv { color: #ad0000; } /* DecVal */
-    code span.er { color: #ad0000; } /* Error */
-    code span.ex { } /* Extension */
-    code span.fl { color: #ad0000; } /* Float */
-    code span.fu { color: #4758ab; } /* Function */
-    code span.im { color: #00769e; } /* Import */
-    code span.in { color: #5e5e5e; } /* Information */
-    code span.kw { color: #003b4f; } /* Keyword */
-    code span.op { color: #5e5e5e; } /* Operator */
-    code span.ot { color: #003b4f; } /* Other */
-    code span.pp { color: #ad0000; } /* Preprocessor */
-    code span.sc { color: #5e5e5e; } /* SpecialChar */
-    code span.ss { color: #20794d; } /* SpecialString */
-    code span.st { color: #20794d; } /* String */
-    code span.va { color: #111111; } /* Variable */
-    code span.vs { color: #20794d; } /* VerbatimString */
-    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -390,7 +326,7 @@
 
 <section id="title-slide" data-background-color="#000080" class="quarto-title-block center">
   <h1 class="title">Lecture16</h1>
-  <p class="subtitle">CHIP Overview</p>
+  <p class="subtitle">CHIP Assessment Overview</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -438,27 +374,29 @@ Dr Gordon Wright
 </blockquote>
 </div>
 </section>
-<section id="the-topics-already-introduced-this-year-are" class="slide level2">
-<h2>The topics already introduced this year are:</h2>
+<section id="the-topics-already-introduced-this-year-include" class="slide level2">
+<h2>The topics already introduced this year include:</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <div>
 <ul>
 <li class="fragment">What is Science?</li>
 <li class="fragment">Artificial Intelligence</li>
-<li class="fragment">Open Science</li>
-<li class="fragment">Qualitative Research</li>
+<li class="fragment">Open Science &amp; Open Practices</li>
+<li class="fragment">Qualitative &amp;/Versus Quantitative Research</li>
+<li class="fragment">MeSearch</li>
 <li class="fragment">Inclusivity</li>
 </ul>
 </div>
 </div><div class="column" style="width:50%;">
 <div>
 <ul>
-<li class="fragment">What is Science?</li>
-<li class="fragment">Artificial Intelligence</li>
-<li class="fragment">Open Science</li>
-<li class="fragment">Qualitative Research</li>
-<li class="fragment">Inclusivity</li>
+<li class="fragment">“MyPsychology”</li>
+<li class="fragment">Ethics</li>
+<li class="fragment">Psychometrics and scale development</li>
+<li class="fragment">Bias in research</li>
+<li class="fragment">Replication Crisis (&amp; Theory Crisis)</li>
+<li class="fragment">Meta-cognition &amp; Reflective practice</li>
 </ul>
 </div>
 </div>
@@ -466,40 +404,72 @@ Dr Gordon Wright
 </section>
 <section id="the-topics-approaching-this-year-are" class="slide level2">
 <h2>The topics approaching this year are:</h2>
-<p>Meta-cognition and Meta-learning ## But you are welcome to choose more broadly</p>
-<p>::: incremental {.tight} - What is Science? - Artificial Intelligence - Open Science - Qualitative Research - Inclusivity :::</p>
+<div>
+<ul>
+<li class="fragment">Psychology and science (available now)</li>
+<li class="fragment">Evolution and Evolutionary Psychology</li>
+<li class="fragment">Cultural Evolutionary Psychology</li>
+<li class="fragment">Philosophy of Science</li>
+<li class="fragment">Statistics and their dark history</li>
+</ul>
+</div>
+</section>
+<section id="but-you-are-welcome-to-choose-more-broadly" class="slide level2">
+<h2>But you are welcome to choose more broadly:</h2>
+<ul>
+<li><p>If you can argue that your choice of topic meets the brief</p></li>
+<li><p>AND you deal with the topic in line with the rubric</p></li>
+<li><p>You are welcome to email me and confirm suitability</p></li>
+</ul>
 </section>
 <section id="assessment" class="slide level2">
 <h2>Assessment</h2>
-<p>Coursework designed to allow you to engage reflexively with the ‘big picture’ of your degree</p>
+<div class="smaller">
+<p>Coursework is designed to allow you to engage with the ‘big picture’ of your degree</p>
 <p>Think about how these issues link into psychology as a discipline, and how they relate to your own thoughts about what psychology is or should be</p>
 <p>Two essays of <strong>max</strong> 700 words each</p>
 <p>Marks are awarded for reflection, evidence of learning and bring topics together. Please see marking criteria for both essays.</p>
-<p>Not looking for a restatement of the facts in the lectures etc.</p>
+<p>Not a regurgitation of facts.</p>
 <p>They are designed to be personal and reflective – embrace this aspect!</p>
+</div>
 </section>
 <section id="essay-1" class="slide level2">
 <h2>Essay 1</h2>
 <p>Essay 1 is based on the content of ONE of the FOUR topics and should adopt at least two of the following 6 ‘perspectives’.</p>
-<p>STU - Your interests or experience as a student of psychology</p>
-<p>TRN - Your role as a trainee psychologist</p>
-<p>RES - A planned research project in or after your degree</p>
+<div class="fragment">
+<p>STU - Your interests or experience as a student of psychology;</p>
+</div>
+<div class="fragment">
+<p>TRN - Your role as a trainee psychologist;</p>
+</div>
+<div class="fragment">
+<p>RES - A planned research project in or after your degree;</p>
+</div>
+<div class="fragment">
 <p>HIS - The history of Psychology and related disciplines;</p>
+</div>
+<div class="fragment">
 <p>PRA - Reporting on the Practice or Culture of Psychology;</p>
+</div>
+<div class="fragment">
 <p>SCI - Assumptions about science and how it relates to psychology</p>
+</div>
 </section>
 <section id="essay-1-tips" class="slide level2">
 <h2>Essay 1 tips</h2>
-<p>Ask a specific question – and answer it.</p>
-<p>Intro, body, conclusion structure.</p>
-<p>Reflect on the topic and give your own opinion as to the answer!</p>
-<p>Present a journey in your learning or appreciation of the topic</p>
-<p>Ensure your answer is argued using examples</p>
-<p>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</p>
-<p>Present and reference it well</p>
+<ul>
+<li>Ask a specific question – and answer it.</li>
+<li>Intro, body, conclusion structure.</li>
+<li>Reflect on the topic and give your own opinion as to the answer!</li>
+<li>Present a journey in your learning or appreciation of the topic</li>
+<li>Ensure your answer is argued using examples</li>
+<li>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</li>
+<li>Present and reference it well</li>
+</ul>
 </section>
 <section id="essay-2" class="slide level2 smaller">
 <h2>Essay 2</h2>
+<div class="smaller">
 <p>Essay 2 should focus on at least one of the OTHER topics covered in the course.</p>
 <p>This answer should focus on a primary reading associated with the lectures and then any further reading you have done (strongly encouraged).</p>
 <p>You must identify that primary reading explicitly in the essay itself.</p>
@@ -507,15 +477,18 @@ Dr Gordon Wright
 <p>Think about your perspective on the issues.</p>
 <p>What do you think about this debate or issue? We want to know!</p>
 <p>And what do you think are interesting directions for psychologists to take this debate or issue in the future?</p>
+</div>
 </section>
 <section id="essay-2-tips" class="slide level2">
 <h2>Essay 2 tips</h2>
-<p>Explicitly identify a single initial reading and build upon that.</p>
-<p>Discuss a debate or issue that you think is interesting or important</p>
-<p>Give your own opinion and how this has developed or changed as a result of the lecture, the course more widely, and/or the reading.</p>
-<p>Argue your opinion explicitly, own it and back it up with examples</p>
-<p>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</p>
-<p>Present and reference it well</p>
+<ul>
+<li>Explicitly identify a single initial reading and build upon that.</li>
+<li>Discuss a debate or issue that you think is interesting or important</li>
+<li>Give your own opinion and how this has developed or changed as a result of the lecture, the course more widely, and/or the reading.</li>
+<li>Argue your opinion explicitly, own it and back it up with examples</li>
+<li>Use evidence in your argument from a range of sources, ideally do some strategic wider reading</li>
+<li>Present and reference it well</li>
+</ul>
 </section>
 <section id="overlapping-content" class="slide level2">
 <h2>Overlapping content</h2>
@@ -524,10 +497,19 @@ Dr Gordon Wright
 </section>
 <section id="submission" class="slide level2">
 <h2>Submission</h2>
+<div class="takeaway">
 <p>Deadline is 10am Friday 21st April – ±3 weeks after the end of term</p>
+</div>
 <p>Both answers should be written in essay-style prose (e.g., with APA references where you refer to sources) put in a single document and submitted to the coursework submission page.</p>
-<p>Max 700 words per answer (references not included in word count)</p>
+<p><u>Max 700 words per answer (references not included in word count)</u></p>
 <p>Remember that this only accounts for a smaller portion of the module grade (15%). Should hopefully be an enjoyable way to reflect on issues on the course you found interesting.</p>
+</section>
+<section id="mini-dissertation-reflective-account" class="slide level2">
+<h2>Mini-Dissertation Reflective Account</h2>
+<p>Just a quick reminder about the <u>compulsory</u> reflective account at the end of the Mini-Dissertation.</p>
+<p>If you do not supply this, your Mini-Dissertation is not complete and this impacts the mark.</p>
+<p>It is NOT an opportunity to gripe about group work, or to try to obtain favourable marks.</p>
+<p>It’s another opportunity to reflect on your learning journey.</p>
 </section>
 <section class="slide level2">
 
@@ -537,70 +519,14 @@ Dr Gordon Wright
 
 
 <img data-src="images/image-886653608.png" class="r-stretch"></section>
-<section id="incremental-content" class="slide level2">
-<h2>Incremental content</h2>
-<p><em>Hi!</em></p>
-<div class="fragment">
-<p>Use <code>. . .</code> to separate content as an incremental slide!</p>
-</div>
-</section>
-<section id="numbers" class="slide level2">
-<h2>Numbers</h2>
-<ol type="1">
-<li><strong>thing 1 bold</strong></li>
-<li><em>thing 2 ital</em></li>
-<li><del>thing 3 strikeout</del></li>
-<li><u>underlined</u></li>
-<li>normal</li>
-</ol>
-</section>
-<section id="incremental-list" class="slide level2">
-<h2>Incremental list</h2>
-<ul>
-<li>one</li>
-<li>two</li>
-<li>three</li>
-</ul>
-</section>
-<section id="print" class="slide level2">
-<h2>Print</h2>
-<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>pagedown<span class="sc">::</span><span class="fu">chrome_print</span>(<span class="st">"path-to-file.html"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section></section>
-<section id="another-section" class="title-slide slide level1 center">
-<h1>another section</h1>
-<div class="fragment">
-<p>Fade in</p>
-</div>
-<div class="fragment highlight-current-black">
-<p>Highlight firtst</p>
-</div>
-<div class="fragment highlight-current-black">
-<p>Highlight second</p>
-</div>
+<section id="looking-forward-to-seeing-you-in-labs-tomorrow" class="slide level2">
+<h2>Looking forward to seeing you in Labs tomorrow</h2>
 
-<div class="fragment highlight-current-black">
-<p>Highlight third</p>
-</div>
-<div class="fragment fade-out">
-<p>Fade out</p>
-</div>
-<div class="fragment highlight-current-black">
-<p>Highlight red</p>
-</div>
-<div class="fragment fade-in-then-out">
-<p>Fade in, then out</p>
-</div>
-<div class="fragment fade-up">
-<p>Slide up while fading in</p>
-</div>
 
-<p><img src="images/RMIPHEX.png" class="slide-logo"></p>
-<div class="footer footer-default">
+<img src="images/RMIPHEX.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>PS52007D Research Methods <a href="https://learn.gold.ac.uk/course/view.php?id=24472">VLE</a></p>
 </div>
-<aside><div>
-<p>Additional commentary.</p>
-</div></aside></section>
+</section></section>
     </div>
   </div>
 

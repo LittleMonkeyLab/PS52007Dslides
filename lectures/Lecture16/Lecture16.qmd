@@ -1,6 +1,6 @@
 ---
 title: 'Lecture16'
-subtitle: 'CHIP Overview'
+subtitle: 'CHIP Assessment Overview'
 author: 'Dr Gordon Wright'
 date: "02/27/23"
 date-format: "DD MMMM, YYYY"
@@ -41,42 +41,55 @@ meta-learning - or the process of 'learning to learn'.
 > important opportunity to demonstrate your ability to learn (knowledge
 > AND skills)
 
-## The topics already introduced this year are:
+## The topics already introduced this year include:
 
 ::: columns
 ::: {.column width="50%"}
 ::: incremental
 -   What is Science?
 -   Artificial Intelligence
--   Open Science
--   Qualitative Research
+-   Open Science & Open Practices
+-   Qualitative &/Versus Quantitative Research
+-   MeSearch
 -   Inclusivity
 :::
 :::
 
 ::: {.column width="50%"}
 ::: incremental
--   What is Science?
--   Artificial Intelligence
--   Open Science
--   Qualitative Research
--   Inclusivity
+-   "MyPsychology"
+-   Ethics
+-   Psychometrics and scale development
+-   Bias in research
+-   Replication Crisis (& Theory Crisis)
+-   Meta-cognition & Reflective practice
 :::
 :::
 :::
 
 ## The topics approaching this year are:
 
-Meta-cognition and Meta-learning \## But you are welcome to choose more
-broadly
+::: incremental
+-   Psychology and science (available now)
+-   Evolution and Evolutionary Psychology
+-   Cultural Evolutionary Psychology
+-   Philosophy of Science
+-   Statistics and their dark history
+:::
 
-::: incremental {.tight} - What is Science? - Artificial Intelligence -
-Open Science - Qualitative Research - Inclusivity :::
+## But you are welcome to choose more broadly:
+
+-   If you can argue that your choice of topic meets the brief
+
+-   AND you deal with the topic in line with the rubric
+
+-   You are welcome to email me and confirm suitability
 
 ## Assessment
 
-Coursework designed to allow you to engage reflexively with the 'big
-picture' of your degree
+::: smaller
+Coursework is designed to allow you to engage with the 'big picture' of
+your degree
 
 Think about how these issues link into psychology as a discipline, and
 how they relate to your own thoughts about what psychology is or should
@@ -87,46 +100,54 @@ Two essays of **max** 700 words each
 Marks are awarded for reflection, evidence of learning and bring topics
 together. Please see marking criteria for both essays.
 
-Not looking for a restatement of the facts in the lectures etc.
+Not a regurgitation of facts.
 
 They are designed to be personal and reflective -- embrace this aspect!
+:::
 
 ## Essay 1
 
 Essay 1 is based on the content of ONE of the FOUR topics and should
 adopt at least two of the following 6 'perspectives'.
 
-STU - Your interests or experience as a student of psychology
+::: fragment
+STU - Your interests or experience as a student of psychology;
+:::
 
-TRN - Your role as a trainee psychologist
+::: fragment
+TRN - Your role as a trainee psychologist;
+:::
 
-RES - A planned research project in or after your degree
+::: fragment
+RES - A planned research project in or after your degree;
+:::
 
+::: fragment
 HIS - The history of Psychology and related disciplines;
+:::
 
+::: fragment
 PRA - Reporting on the Practice or Culture of Psychology;
+:::
 
+::: fragment
 SCI - Assumptions about science and how it relates to psychology
+:::
 
 ## Essay 1 tips
 
-Ask a specific question -- and answer it.
-
-Intro, body, conclusion structure.
-
-Reflect on the topic and give your own opinion as to the answer!
-
-Present a journey in your learning or appreciation of the topic
-
-Ensure your answer is argued using examples
-
-Use evidence in your argument from a range of sources, ideally do some
-strategic wider reading
-
-Present and reference it well
+-   Ask a specific question -- and answer it.
+-   Intro, body, conclusion structure.
+-   Reflect on the topic and give your own opinion as to the answer!
+-   Present a journey in your learning or appreciation of the topic
+-   Ensure your answer is argued using examples
+-   Use evidence in your argument from a range of sources, ideally do
+    some strategic wider reading
+-   Present and reference it well
 
 ## Essay 2 {.smaller}
 
+::: smaller
 Essay 2 should focus on at least one of the OTHER topics covered in the
 course.
 
@@ -146,22 +167,18 @@ What do you think about this debate or issue? We want to know!
 
 And what do you think are interesting directions for psychologists to
 take this debate or issue in the future?
+:::
 
 ## Essay 2 tips
 
-Explicitly identify a single initial reading and build upon that.
-
-Discuss a debate or issue that you think is interesting or important
-
-Give your own opinion and how this has developed or changed as a result
-of the lecture, the course more widely, and/or the reading.
-
-Argue your opinion explicitly, own it and back it up with examples
-
-Use evidence in your argument from a range of sources, ideally do some
-strategic wider reading
-
-Present and reference it well
+-   Explicitly identify a single initial reading and build upon that.
+-   Discuss a debate or issue that you think is interesting or important
+-   Give your own opinion and how this has developed or changed as a
+    result of the lecture, the course more widely, and/or the reading.
+-   Argue your opinion explicitly, own it and back it up with examples
+-   Use evidence in your argument from a range of sources, ideally do
+    some strategic wider reading
+-   Present and reference it well
 
 ## Overlapping content
 
@@ -174,17 +191,33 @@ Students will be penalised for covering identical topics.
 
 ## Submission
 
+::: takeaway
 Deadline is 10am Friday 21st April -- ±3 weeks after the end of term
+:::
 
 Both answers should be written in essay-style prose (e.g., with APA
 references where you refer to sources) put in a single document and
 submitted to the coursework submission page.
 
-Max 700 words per answer (references not included in word count)
+[Max 700 words per answer (references not included in word
+count)]{.underline}
 
 Remember that this only accounts for a smaller portion of the module
 grade (15%). Should hopefully be an enjoyable way to reflect on issues
 on the course you found interesting.
+
+## Mini-Dissertation Reflective Account
+
+Just a quick reminder about the [compulsory]{.underline} reflective
+account at the end of the Mini-Dissertation.
+
+If you do not supply this, your Mini-Dissertation is not complete and
+this impacts the mark.
+
+It is NOT an opportunity to gripe about group work, or to try to obtain
+favourable marks.
+
+It's another opportunity to reflect on your learning journey.
 
 ------------------------------------------------------------------------
 
@@ -194,70 +227,4 @@ on the course you found interesting.
 
 ![](images/image-886653608.png)
 
-## Incremental content
-
-*Hi!*
-
-. . .
-
-Use `. . .` to separate content as an incremental slide!
-
-. . .
-
-## Numbers
-
-1.  **thing 1 bold**
-2.  *thing 2 ital*
-3.  ~~thing 3 strikeout~~
-4.  [underlined]{.underline}
-5.  normal
-
-## Incremental list
-
--   one
--   two
--   three
-
-## Print
-
-``` r
-pagedown::chrome_print("path-to-file.html")
-```
-
-# another section
-
-::: fragment
-Fade in
-:::
-
-::: {.fragment .highlight-current-black}
-Highlight firtst
-:::
-
-::: {.fragment .highlight-current-black}
-Highlight second
-:::
-
-::: aside
-Additional commentary.
-:::
-
-::: {.fragment .highlight-current-black}
-Highlight third
-:::
-
-::: {.fragment .fade-out}
-Fade out
-:::
-
-::: {.fragment .highlight-current-black}
-Highlight red
-:::
-
-::: {.fragment .fade-in-then-out}
-Fade in, then out
-:::
-
-::: {.fragment .fade-up}
-Slide up while fading in
-:::
+## Looking forward to seeing you in Labs tomorrow
