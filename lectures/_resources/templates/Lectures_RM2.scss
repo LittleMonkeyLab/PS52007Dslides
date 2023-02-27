@@ -268,67 +268,67 @@ ol {
 }
 
 .fragment:not(.current-fragment) {
+  color: $dark-grey;
+}
+
+section.has-dark-background .fragment:not(.current-fragment) {
   color: $light-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) {
-  color: $dark-grey;
-}
-
-section.has-dark-background .fragment:not(.current-fragment) {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 section.has-dark-background .current-fragment {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) strong {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) em {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) a, a > code  {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) code {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 section.has-dark-background .fragment:not(.current-fragment) del {
-  color: $dark-grey;
+  color: $light-grey;
 }
 
 .fragment:not(.current-fragment) code {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 .fragment:not(.current-fragment)::before {
-  background-color: lighten($light-grey, 3%);
+  background-color: lighten($light-grey, 50%);
 }
 
 section.has-dark-background .fragment:not(.current-fragment)::before {
-  background-color: lighten($dark-grey, 3%);
+  background-color: lighten($dark-grey, 50%);
 }
 
 .fragment:not(.current-fragment) strong {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 .fragment:not(.current-fragment) em {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 .fragment:not(.current-fragment) del {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 .fragment:not(.current-fragment) a {
-  color: $light-grey;
+  color: $dark-grey;
 }
 
 .current-fragment {
