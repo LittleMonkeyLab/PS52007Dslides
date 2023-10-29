@@ -3,7 +3,7 @@ title: 'Deviously Seeking Duping Delight in the Darkness'
 subtitle: 'Welcome to the LittleMonkeyLab'
 author: 'Dr Gordon Wright aka DrDeception'
 logo: "images/LMLLOGO.png"
-footer: "Practical Issues Week 8 [VLE](https://learn.gold.ac.uk/course/view.php?id=24463)"
+footer: "Practical Issues Week 5 [VLE](https://learn.gold.ac.uk/course/view.php?id=27554)"
 bibliography: "references.bib"
 ---
 
@@ -12,19 +12,14 @@ bibliography: "references.bib"
 . . .
 
 ::: {.callout-important appearance="minimal"}
-Your research here at Goldsmiths and some opportunities that lie ahead
-:::
-
-. . .
-
-::: {.callout-tip appearance="minimal"}
-Share some tips and tricks
+As Module Coordinator of Y2 Research Methods - give some forward-looking
+guidance!
 :::
 
 . . .
 
 ::: {.callout-caution appearance="minimal"}
-Start the Research Participation Scheme task for today
+Do the 'Lie of the Land' survey - tap your deception expertise!
 :::
 
 . . .
@@ -49,9 +44,9 @@ Today's Target Paper
 Questions *(of which I hear you usually have many!)*
 :::
 
-# *"MyPsychology"*
+# *From one Researcher to another... I mean YOU!*
 
-## A brief introduction to me
+## A brief introduction
 
 ::: columns
 ::: column
@@ -62,12 +57,6 @@ Lecturer in Psychology
 MC - Y2 Research Methods
 
 g.wright\@gold.ac.uk
-
-& Dougal (insta: DougalMania)
-:::
-
-::: column
-![](images/DougalMan.PNG){width="300"}
 :::
 :::
 
@@ -88,45 +77,13 @@ Why did you choose to study at Goldsmiths?
 \
 Why Psychology?
 
-. . .
-
-\
-What do you hope to do with your Psychology degree?
-
-## *MyPsychology*
-
-. . .
-
-\
-'MyPsychology' is an idea I introduce in Y2 Research Methods
-
-. . .
-
-\
-The idea that there is no 'one size fits all' psychology
-
-. . .
-
-\
-It's as unique as you are
-
-. . .
-
-\
-Topics \| Methods \| Application \| Journey
-
 ## Why does that matter this year?
 
 . . .
 
 \
 This module is designed to try to give you a glimpse of real
-psychological research
-
-. . .
-
-[***\
-[Research Participation Scheme]{.incremental}***]{.underline}
+psychological research - and introduce some of the real challenges
 
 . . .
 
@@ -139,6 +96,9 @@ psychological research
 -   [4 x Target Articles (Empirical from the last 3 years)]{.takeaway}
 
 -   [You choose your own topic!]{.takeaway}
+
+-   Make sure to really delve into the **Methods** employed! Really
+    scrutinise the tasks!
 :::
 
 ## Next year
@@ -164,47 +124,15 @@ design/development/data-collection
 ```{=html}
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/liJFqGKlFNM" title="ACE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-## Details
+## More opportunities next year
 
 . . .
 
-2x2 Design (2 IVs, each with 2 levels, and a continuous dependent
-variable)
-
-. . .
-
-\
-IV1 - Adverse Childhood Experiences (High v Low)
-
-. . .
-
-IV2 - Emotional Self-Efficacy (High v Low)
-
-. . .
-
-\
-DVs - Various aspects of 'Resilience' in everyday life (one continuous
-DV each)
-
-. . .
-
-\
-4 separate questions that ask about likelihood of resilient response in
-different ecological situations
-
-## Another opportunity next year
-
-. . .
-
-\
-Summer Bursary Competition - 4 weeks of full time paid research
+Once you've started your Research Journey\
+Summer Bursary Competition - a number of weeks of paid research
 experience
 
 . . .
-
-\
-The experiment you will be taking part in was a Summer Bursary project
-from 2019 - run entirely by a Second Year Student (Caitlin)
 
 ## Final Year Dissertation
 
@@ -309,84 +237,28 @@ Systematic Reviews and Meta-Analyses (Google Advanced Search!)
 
 ------------------------------------------------------------------------
 
-::: callout-tip
-## Tip Number 5
-
-Use AI to your advantage!
-
-[Paper Digest](https://www.paper-digest.com/) Summarise Open Access
-Articles with AI
-
-[Semantic Scholar](https://www.semanticscholar.org/) One of the biggest
-research link hubs on the planet
-
-[Scite.ai](www.scite.ai) A groovy browser extension to help you find
-supporting and competing literature!
-
-[Elicit.org](Elicit.org) [Inciteful.xyz](https://inciteful.xyz/)
-[ConnectedPapers.com](https://www.connectedpapers.com/)
-:::
-
 # Let's get going!
 
-I will share the link to the SONA participant pool with you in a second.
-
-. . .
-
-\
-But I wanted to watch the introductory video with you now, as it is
-slightly incorrect, but I wanted you to see it.
-
-. . .
+The link to our study for today is available on the VLE. It's called the
+'Lie of the Land' study
 
 ------------------------------------------------------------------------
 
-\
-The study you will be given access to is a much abbreviated version of
-the original\
+2.5 Credits available today/this week
 
-2 credits at time 1 (today?)
-
-> 2 short questionnaires and a diary entry
-
-1.5 credits at time 2 (at least 24 hours later - and hopefully on a
-different 'type' of day)
-
-> just a diary entry
-
-## Introductory Video
-
-```{=html}
-<iframe width="954" height="714" src="https://www.youtube.com/embed/xlApsrloom0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 ## The study link
 
-<https://goldsmithsprpd.sona-systems.com/default.aspx?p_return_experiment_id=105>
-
-![](images/paste-ED3464C2.png)
+<https://goldpsych.eu.qualtrics.com/jfe/form/SV_ebMllxwNTfXHXRX>
 
 # BREAK
 
 # LittleMonkeyLab
 
-------------------------------------------------------------------------
-
-```{=html}
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/8c7NEf6qFlc" title="Monkey's Bluff | Clever Monkeys | BBC Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-## Some easy research!
-
-```{=html}
-<iframe width="1280" height="720" src="https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838" title="Horizon: The Honesty Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-## [BBC Horizon: The Honesty Experiment](https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838)
-
-> [*'MyPsychology'*]{.underline} *-* Deception in the real, everyday
-> life
-
-![](images/paste-ABF42C39.png)
-
-------------------------------------------------------------------------
+|                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:-----------------------------------------------------------------------|
+| \## Some easy research!                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| `{=html} <iframe width="1280" height="720" src="https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838" title="Horizon: The Honesty Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>` \## [BBC Horizon: The Honesty Experiment](https://learningonscreen.ac.uk/ondemand/embed/prog/11ED256E?bcast=127465838) |
+| ![](images/paste-ABF42C39.png)                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ![](images/paste-6B93028F.png)
 
@@ -600,6 +472,31 @@ hedonic value of being cruel.
 
 ------------------------------------------------------------------------
 
-[hypothesis](https://hyp.is/go?url=https%3A%2F%2Flink.springer.com%2Fcontent%2Fpdf%2F10.1007%2Fs42761-022-00126-5.pdf&group=EVe72YdR)
+## Hypothes.is
+
+hint: Sign up for a Hypothesis account (FREE)
+
+Log in.
+
+Then access the paper here:
+<https://hyp.is/hvUM3m-KEe26bBOBEKqwUQ/link.springer.com/article/10.1007/s42761-022-00126-5>
+
+![Hypothes.is](images/Hypothesis@2x.png)
+
+## So let's briefly think about the study
+
+They 'operationalised' deception in the following way:
+
+![](images/Gunderson.png)
+
+## They measured 'duping delight'...
+
+![](images/PANAS@2x.png)
+
+## Does that satisfy you? 
+
+Is that a good way to measure an emotional reaction?
+
+![](images/Polygraph@2x.png)
 
 ## References
