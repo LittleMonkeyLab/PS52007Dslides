@@ -16,14 +16,15 @@ website:
 
   sidebar:
     background: "#000080"
+    foreground: "white"
     style: "docked"
     collapse-level: 3
     search: true
     contents:
-      - section: "Weekly Materials"
+      - section: "Navigation"
         contents:
-          - allmaterials.qmd
-          # - lectureshub.qmd
+          - week1.qmd
+          - week2.qmd
           # - labshub.qmd
           # - extrashub.qmd
 
@@ -41,9 +42,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, style/light.scss]
-      dark: [cosmo, style/light.scss, style/dark.scss]
+    theme: cosmo
     linkcolor: "#325b74" # Pantone Midnight - Fall 2022
     mainfont: "Atkinson Hyperlegible"
     comments:

@@ -1,5 +1,5 @@
 ---
-title: "PS52007D - Research Methods in Psychology 2022/3"
+title: "PS52007D - Research Methods in Psychology 2024/5"
 subtitle: "Module Coordinator - Dr. Gordon Wright"
 categories: [Lectures, Labs, Preludes, Extras]
 ---
