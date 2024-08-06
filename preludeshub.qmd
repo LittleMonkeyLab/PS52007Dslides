@@ -25,5 +25,5 @@ listing:
 
 Below is a comprehensive list of preludes.
 
-::: {#preludes-listings}
+::: {#lectures-listings}
 :::
