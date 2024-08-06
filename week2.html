@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -43,11 +63,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -95,29 +115,49 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked fullcontent">
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Materials for PS52007D Research Methods in Psychology</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./week1.html">Navigation</a></li><li class="breadcrumb-item"><a href="./week2.html">Week 2 Title</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
+        <a class="flex-grow-1 no-decor" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Week 2 Title</h1>
+        </a>     
     </div>
   </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./week1.html">Navigation</a></li><li class="breadcrumb-item"><a href="./week2.html">Week 2 Title</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Week 2 Title</h1>
+    <div class="quarto-title column-page-right">
+      <h1 class="title d-none d-lg-block">Week 2 Title</h1>
             <p class="subtitle lead">Module Coordinator - Dr.&nbsp;Gordon Wright</p>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Week 2</div>
@@ -126,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-right">
 
       <div>
       <div class="quarto-title-meta-heading">Author</div>
@@ -147,49 +187,35 @@ ul.task-list li input[type="checkbox"] {
     
   <div>
     <div class="abstract">
-      <div class="block-title">Abstract</div>
+      <div class="block-title">Exec Summary</div>
       Abstract
     </div>
   </div>
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Materials for PS52007D Research Methods in Psychology</a> 
-    </div>
-      </div>
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-        </div>
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Navigation</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Home</span></a>
+  </div>
+</li>
+        <li class="px-0"><hr class="sidebar-divider hi "></li>
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./week1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 1 Title</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./week2.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 2 Title</span></a>
   </div>
 </li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -197,17 +223,30 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-right" id="quarto-document-content">
 
 
 
 
 
-<p>Thisy pag<a href="https://github.com/LittleMonkeyLab/PS52007DWeb/blob/58b7f96a7391d6c29da5c94bd5966b72b22e53a5/docs/slides/Lecture01/Lecture01.pdf">e GGFINAL TEST PRE LUNCH</a>cjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the <a href="docs/slides/Lecture01/Lecture01.pdf">semester</a>.</p>
+<p>Thisy pag<a href="https://github.com/LittleMonkeyLab/PS52007DWeb/blob/58b7f96a7391d6c29da5c94bd5966b72b22e53a5/docs/slides/Lecture01/Lecture01.pdf">e GGFINAL TEST PRE LUNCH</a>cjiiontains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the term according to <span class="citation" data-cites="akers2006">Akers &amp; Jensen (<a href="#ref-akers2006" role="doc-biblioref">2006</a>)</span>.</p>
+<p>What a big bag of nonsense <span class="citation" data-cites="berman2022">(<a href="#ref-berman2022" role="doc-biblioref">Berman &amp; Silver, 2022</a>)</span></p>
+<p>Another big bag of rubbish <span class="citation" data-cites="wright2012">(<a href="#ref-wright2012" role="doc-biblioref">Wright et al., 2012</a>)</span></p>
 
 
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-akers2006" class="csl-entry" role="listitem">
+Akers, R. L., &amp; Jensen, G. F. (2006). The empirical status of social learning theory of crime and deviance: The past, present, and future. <em>Taking Stock: The Status of Criminological Theory.</em>, 37–76. <a href="http://ovidsp.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=reference&amp;D=psyc5&amp;NEWS=N&amp;AN=2006-22890-001">http://ovidsp.ovid.com/ovidweb.cgi?T=JS&amp;PAGE=reference&amp;D=psyc5&amp;NEWS=N&amp;AN=2006-22890-001</a>
+</div>
+<div id="ref-berman2022" class="csl-entry" role="listitem">
+Berman, J. Z., &amp; Silver, I. (2022). Prosocial behavior and reputation: When does doing good lead to looking good. <em>Current Opinion in Psychology</em>, <em>43</em>, 102–107. <a href="https://doi.org/10.1016/j.copsyc.2021.06.021">https://doi.org/10.1016/j.copsyc.2021.06.021</a>
+</div>
+<div id="ref-wright2012" class="csl-entry" role="listitem">
+Wright, G. R. T., Berry, C. J., &amp; Bird, G. (2012). <span>“</span>You can<span>’</span>t kid a kidder<span>”</span>: association between production and detection of deception in an interactive deception task. <em>Frontiers in Human Neuroscience</em>, <em>6</em>, 87. <a href="https://doi.org/10.3389/fnhum.2012.00087">https://doi.org/10.3389/fnhum.2012.00087</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -621,7 +660,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Content <i class="fa-brands fa-creative-commons" aria-hidden="true"></i> 2023 by gordon wright <i class="fa-brands fa-orcid" aria-hidden="true"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0001-9424-5743">0000-0001-9424-5743</a>. All content licensed under a <i class="fa-brands fa-creative-commons" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-by" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-nc" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-sa" aria-hidden="true"></i><br> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)</a></p>
+<p>Content <i class="fa-brands fa-creative-commons" aria-hidden="true"></i> 2024 by gordon wright <i class="fa-brands fa-orcid" aria-hidden="true"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0001-9424-5743">0000-0001-9424-5743</a>. All content licensed under a <i class="fa-brands fa-creative-commons" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-by" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-nc" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-sa" aria-hidden="true"></i><br> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
