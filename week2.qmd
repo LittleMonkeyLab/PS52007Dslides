@@ -6,6 +6,9 @@ author: "Dr. Gordon Wright"
 categories: "Week 2"
 abstract: "Abstract"
 order: 1
+title-block-banner: true
+title-block-banner-color: "green"
+title-block-categories: true
 ---
 
 Thisy pag[e GGFINAL TEST PRE
