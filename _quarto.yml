@@ -2,40 +2,50 @@ project:
   type: website
 
   # bibliography: references.bib
-  # csl: apa7.csl
+csl: apa7.csl
 # keep-tex: true
 date-format: "DD MMMM, YYYY"
 website:
   title: "Materials for PS52007D Research Methods in Psychology"
   description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
   site-url: "https://ps52007dslides.littlemonkeylab.com"
-
+  bread-crumbs: false
 
   repo-url: https://github.com/LittleMonkeyLab/PS52007Dslides/
   repo-actions: [edit, issue]
 
-  sidebar:
-    # background: "beige"
-    # foreground: "black"
-    style: "docked"
-    collapse-level: 3
+  navbar:
+    background: primary
     search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+
+
+  sidebar:
+    style: floating
+    collapse-level: 3
+    search: false
     contents:
-      - section: "Navigation"
-        contents:
-          - week1.qmd
-          - week2.qmd
-          # - labshub.qmd
-          # - extrashub.qmd
-
-
+      - text: "Home"
+        href: index.qmd
+      - text: "---"
+      - week1.qmd
+      - week2.qmd
+  # - id: weeks
+  #   contents:
+  #     - week1.qmd
+  #     - week2.qmd
+  # - id: lectures
+  #   contents:
+  #     - week1.qmd
 
   page-footer:
     right: |
       "This page is built with {{< fa brands r-project >}}, ☕,❤️and [Quarto](https://quarto.org/) <br>
       [View the source at {{< fa brands github >}} GitHub](https://github.com/littlemonkeylab/ps52007dslides.com)
     left: |
-      Content {{< fa brands creative-commons >}} 2023 by gordon wright {{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743). All content licensed under a {{< fa brands creative-commons >}}
+      Content {{< fa brands creative-commons >}} 2024 by gordon wright {{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743). All content licensed under a {{< fa brands creative-commons >}}
       {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>
       [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
