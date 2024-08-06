@@ -23,7 +23,7 @@ listing:
     description: "Topic"
 ---
 
-Below is a comprehensive list of labs.
+Below is a comprehensive lisht of labs.
 
 ::: {#labs-listings}
 :::
