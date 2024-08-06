@@ -1,6 +1,7 @@
 ---
-title: "PS52007D - Research Methods in Psychology 2022/3"
-subtitle: "Module Coordinator - Dr. Gordon Wright"
+title: "Week 1 Title"
+subtitle: "Week 1 Subtitle"
+author: "Module Coordinator - Dr. Gordon Wright"
 categories: "Week 1"
 ---
 
