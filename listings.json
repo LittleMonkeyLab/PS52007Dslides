@@ -1,23 +1,5 @@
 [
   {
-    "listing": "/preludeshub.html",
-    "items": []
-  },
-  {
-    "listing": "/labshub.html",
-    "items": [
-      "/labs/Lab02/Lab02.html",
-      "/labs/Lab03/Lab03.html",
-      "/labs/Lab04/Lab04.html",
-      "/labs/Lab05/Lab05.html",
-      "/labs/Lab06/Lab06.html",
-      "/labs/Lab07/Lab07.html",
-      "/labs/Lab08/Lab08.html",
-      "/labs/Lab09/Lab09.html",
-      "/labs/Lab10/Lab10.html"
-    ]
-  },
-  {
     "listing": "/allmaterials.html",
     "items": [
       "/chips/chip02.html",
@@ -44,15 +26,36 @@
       "/lectures/Lecture09/Lecture09.htm",
       "/lectures/Lecture10/Lecture10.htm",
       "/lectures/Lecture16/Lecture16.htm",
-      "/lectures/Lecture18/Lecturexx.htm",
       "/lectures/Lecture20/Lecturexx.htm",
-      "/lectures/Lecture11/Lecturexx.htm",
-      "/lectures/Lecture17/Lecturexx.htm",
-      "/lectures/Lecture19/Lecturexx.htm",
       "/lectures/Lecture12/Lecturexx.htm",
-      "/lectures/Lecture15/Lecturexx.htm",
       "/lectures/Lecture14/Lecturexx.htm",
-      "/lectures/Lecture13/Lecturexx.htm"
+      "/lectures/Lecture13/Lecturexx.htm",
+      "/lectures/Lecture19/Lecturexx.htm",
+      "/lectures/Lecture17/Lecturexx.htm",
+      "/lectures/Lecture11/Lecturexx.htm",
+      "/lectures/Lecture18/Lecturexx.htm",
+      "/lectures/Lecture15/Lecturexx.htm"
+    ]
+  },
+  {
+    "listing": "/chipshub.html",
+    "items": [
+      "/chips/chip02.html",
+      "/chips/chip01.html"
+    ]
+  },
+  {
+    "listing": "/labshub.html",
+    "items": [
+      "/labs/Lab02/Lab02.html",
+      "/labs/Lab03/Lab03.html",
+      "/labs/Lab04/Lab04.html",
+      "/labs/Lab05/Lab05.html",
+      "/labs/Lab06/Lab06.html",
+      "/labs/Lab07/Lab07.html",
+      "/labs/Lab08/Lab08.html",
+      "/labs/Lab09/Lab09.html",
+      "/labs/Lab10/Lab10.html"
     ]
   },
   {
@@ -71,22 +74,15 @@
       "/lectures/Lecture09/Lecture09.htm",
       "/lectures/Lecture10/Lecture10.htm",
       "/lectures/Lecture16/Lecture16.htm",
-      "/lectures/Lecture18/Lecturexx.htm",
       "/lectures/Lecture20/Lecturexx.htm",
-      "/lectures/Lecture11/Lecturexx.htm",
-      "/lectures/Lecture17/Lecturexx.htm",
-      "/lectures/Lecture19/Lecturexx.htm",
       "/lectures/Lecture12/Lecturexx.htm",
-      "/lectures/Lecture15/Lecturexx.htm",
       "/lectures/Lecture14/Lecturexx.htm",
-      "/lectures/Lecture13/Lecturexx.htm"
-    ]
-  },
-  {
-    "listing": "/chipshub.html",
-    "items": [
-      "/chips/chip02.html",
-      "/chips/chip01.html"
+      "/lectures/Lecture13/Lecturexx.htm",
+      "/lectures/Lecture19/Lecturexx.htm",
+      "/lectures/Lecture17/Lecturexx.htm",
+      "/lectures/Lecture11/Lecturexx.htm",
+      "/lectures/Lecture18/Lecturexx.htm",
+      "/lectures/Lecture15/Lecturexx.htm"
     ]
   }
 ]
