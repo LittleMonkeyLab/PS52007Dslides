@@ -1,0 +1,66 @@
+---
+title: "Lecture 19: STUFF"
+subtitle: "STUFF"
+date: "10/09/2023"
+categories: 
+  - "Lecture"
+  - "Week 19"
+params:
+  class: "lec19"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+
+date-format: "ddd DD MMM, YYYY"
+logo: "../images/LMLLOGO.png"
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+
+
+format: 
+  revealjs: 
+    title-slide-attributes: 
+      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+    header: "Research Methods Lecture 19" # Replace it
+    hide-from-titleSlide: "text"
+  # pdf: default
+  # pptx: default
+  # html: default
+  # docx: default  
+execute:
+ echo: false
+ freeze: auto
+---
+
+## Template
+
+I apologise for my unexpected absence at the end of last term.
+
+It was unavoidable, but I shall endeavour to repay your patience this
+year.
+
+## Template
+
+-   An overview of the CHIP Learning Log coursework
+
+-   Lab activity this term - Data collection, data preparation, analysis
+    and writing up.
+
+# Template Section
+
+## Template
+
+::: incremental
+Template
+
+-   Template
+-   Template
+-   Template
+:::
+
+# Any Questions?
+
+## References

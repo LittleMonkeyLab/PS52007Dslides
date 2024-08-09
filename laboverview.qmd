@@ -1,0 +1,14 @@
+---
+title: "Lab overview"
+listing:
+ contents: 
+   - "week**/lab*.qmd"
+ type: table
+ date-format: medium
+ categories: true
+ fields: [image, date, title, subtitle]
+ field-display-names:
+    title: "Lab No:"
+    # author: "Lecturer"
+    subtitle: "Topic"
+---
