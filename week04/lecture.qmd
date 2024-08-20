@@ -24,7 +24,7 @@ format:
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
-    header: "Research Methods Lecture 04 - MeSearch or Research" # Replace it
+    header: "Research Methods Lecture 04 - Being Curious" # Replace it
     hide-from-titleSlide: "text"
   # pdf: default
   # pptx: default

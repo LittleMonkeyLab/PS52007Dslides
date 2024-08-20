@@ -1,6 +1,6 @@
 ---
 title: "Lecture 01: Let's start at the beginning!"
-subtitle: "MeSearch or Research?"
+subtitle: "Lifelong Skills"
 date: "10/09/2023"
 categories: 
   - "Lecture"
@@ -35,12 +35,6 @@ execute:
  freeze: auto
   # Title page populated by content above
 ---
-
-```{r, echo=FALSE}
-path_slides <- file.path(params$class, "index.html")
-path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
-path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
-```
 
 # Attendance QR Code HERE
 

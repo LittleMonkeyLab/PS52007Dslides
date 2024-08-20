@@ -11,5 +11,6 @@ PS52007Dslides.Rproj
 .httr-oauth
 .DS_Store
 
-*.pdf
+
 _site
+_staging
