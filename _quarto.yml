@@ -32,7 +32,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "---"
-      - week1.qmd
+      - week00/lecture.qmd
       - week2.qmd
       - text: "Week 3"
         href: week03/hub.qmd
