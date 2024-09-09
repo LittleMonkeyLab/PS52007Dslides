@@ -36,10 +36,7 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-```{r, echo=FALSE}
-path_slides <- file.path(params$class, "index.html")
-path_pdf <- file.path(params$class, paste0(params$class, ".pdf"))
-path_notes <- file.path(params$class, paste0(params$class, ".pptx"))
+```{}
 ```
 
 # Overview of Lab 02
