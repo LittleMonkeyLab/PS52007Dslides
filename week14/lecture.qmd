@@ -23,7 +23,7 @@ citations-hover: true
 format: 
   revealjs: 
     title-slide-attributes: 
-      data-background-color: "#BE3455" # Viva Magenta 2023 Color of the year
+      data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 14 - Employability" # Replace it
     hide-from-titleSlide: "text"
   # pdf: default
