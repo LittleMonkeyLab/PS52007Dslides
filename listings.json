@@ -1,60 +1,9 @@
 [
   {
-    "listing": "/lectures.html",
-    "items": [
-      "/week00/lecture.slides.html.slides.html",
-      "/week01/lecture.slides.html.slides.html",
-      "/week02/lecture.slides.html.slides.html",
-      "/week03/lecture.slides.html.slides.html",
-      "/week04/lecture.slides.html.slides.html",
-      "/week05/lecture.slides.html.slides.html",
-      "/week06/lecture.slides.html.slides.html",
-      "/week07/lecture.slides.html.slides.html",
-      "/week08/lecture.slides.html.slides.html",
-      "/week09/lecture.slides.html.slides.html",
-      "/week10/lecture.slides.html.slides.html",
-      "/week11/lecture.slides.html.slides.html",
-      "/week12/lecture.slides.html.slides.html",
-      "/week13/lecture.slides.html.slides.html",
-      "/week14/lecture.slides.html.slides.html",
-      "/week15/lecture.slides.html.slides.html",
-      "/week16/lecture.slides.html.slides.html",
-      "/week17/lecture.slides.html.slides.html",
-      "/week18/lecture.slides.html.slides.html",
-      "/week19/lecture.slides.html.slides.html",
-      "/week20/lecture.slides.html.slides.html"
-    ]
-  },
-  {
     "listing": "/week03/hub.html",
     "items": [
       "/week03/lab.html",
       "/week03/lecture.slides.html.slides.html"
-    ]
-  },
-  {
-    "listing": "/laboverview.html",
-    "items": [
-      "/week01/lab.html",
-      "/week02/lab.html",
-      "/week03/lab.html",
-      "/week05/lab.html",
-      "/week04/lab.html",
-      "/week06/lab.slides.html.slides.html",
-      "/week07/lab.slides.html.slides.html",
-      "/week08/lab.slides.html.slides.html",
-      "/week09/lab.html",
-      "/week10/lab.html",
-      "/week11/lab.slides.html.slides.html",
-      "/week12/lab.slides.html.slides.html",
-      "/week13/lab.slides.html.slides.html",
-      "/week14/lab.slides.html.slides.html",
-      "/week15/lab.slides.html.slides.html",
-      "/week16/lab.slides.html.slides.html",
-      "/week17/lab.slides.html.slides.html",
-      "/week18/lab.slides.html.slides.html",
-      "/week19/lab.slides.html.slides.html",
-      "/week20/lab.slides.html.slides.html"
     ]
   }
 ]
