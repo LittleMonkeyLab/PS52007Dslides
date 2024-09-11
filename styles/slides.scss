@@ -15,6 +15,8 @@ $url-blue: #01BAEF;
 $body-bg: $cream;
 $body-color: $charcoal;
 $link-color: $url_blue;
+$presentation-h1-font-size: 2.5em !default;
+$presentation-h2-font-size: 1.6em !default;
 
 /*-- scss:rules --*/
 
@@ -31,7 +33,10 @@ $link-color: $url_blue;
 }
 
 .logo img {
-   width: 100%;
+   width: 50%;
    height: auto;
    display: block;
 }
+
+
+
