@@ -122,6 +122,7 @@ format:
 
 
 editor: visual
+engine: knitr
 
 # execute:
 #   freeze: auto
