@@ -11,19 +11,41 @@ jobs:
         contents: write
       steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Install and activate renv
-        run: |
-          install.packages("renv")
-          renv::activate()
-          renv::restore()
-        shell: Rscript {0}
+      - name: "Setup pandoc"
+        uses: r-lib/actions/setup-pandoc@v2
 
-      - name: Set up Quarto
+      - name: "Setup R"
+        uses: r-lib/actions/setup-r@v2
+
+      # Pinned shinylive dependency
+      - name: "Setup R dependencies for Quarto's knitr engine"
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages:
+            cran::shinylive@0.1.1
+            any::knitr
+            any::rmarkdown
+            any::downlit
+            any::xml2
+
+      # Setup Quarto
+      - name: "Set up Quarto"
         uses: quarto-dev/quarto-actions/setup@v2
           with:
             version: 1.4.554
+
+      # Install quarto extensions
+      - name: "Install quarto extension for shinylive and quarto-webr"
+        shell: bash
+        run: |
+          quarto add --no-prompt quarto-ext/shinylive
+          quarto add --no-prompt coatless/quarto-webr@0.4.2
+
+      # Render the Quarto file
+      - name: "Render working directory"
+        uses: quarto-dev/quarto-actions/render@v2
 
         - name: Publish to GitHub Pages (and render)
           uses: quarto-dev/quarto-actions/publish@v2
