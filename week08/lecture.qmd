@@ -14,7 +14,7 @@ author:
     email: g.wright@gold.ac.uk
 
 date-format: "ddd DD MMM, YYYY"
-# logo: "../images/rmmonkey.png"
+logo: "../images/rmmonkey.png"
 license: "CC BY-NC-SA"
 # footer: 
 citations-hover: true

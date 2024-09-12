@@ -82,7 +82,7 @@ format:
   #   # template: /templates/eisvogel.tex
   revealjs:
     theme: styles/slides.scss
-    header-logo: "../images/rmmonkey.png"
+    # header-logo: "../images/rmmonkey.png"
     menu: true
     controls: true
     navigation-mode: linear
