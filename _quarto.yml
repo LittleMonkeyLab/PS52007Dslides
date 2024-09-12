@@ -1,0 +1,128 @@
+project:
+  type: website
+  output-dir: _site
+
+  # bibliography: references.bib
+csl: apa7.csl
+# keep-tex: true
+date-format: "DD MMMM, YYYY"
+website:
+  title: "Materials for PS52007D Research Methods in Psychology"
+  description: "Materials for PS52007D Research Methods in Psychology at Goldsmiths, University of London"
+  site-url: "https://ps52007dslides.littlemonkeylab.com"
+  bread-crumbs: false
+
+
+  repo-url: https://github.com/LittleMonkeyLab/PS52007Dslides/
+  repo-actions: [edit, issue]
+
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+
+
+  sidebar:
+    logo: "images/rmmonkey.png"
+    style: floating
+    collapse-level: 3
+    search: false
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "---"
+      - week00/lecture.qmd
+      - week2.qmd
+      - text: "Week 3"
+        href: week03/hub.qmd
+  # - id: weeks
+  #   contents:
+  #     - week1.qmd
+  #     - week2.qmd
+  # - id: lectures
+  #   contents:
+  #     - week1.qmd
+
+  page-footer:
+    right: |
+      "This page is built with {{< fa brands r-project >}}, ☕,❤️and [Quarto](https://quarto.org/) <br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/littlemonkeylab/ps52007dslides.com)
+    left: |
+      Content {{< fa brands creative-commons >}} 2024 by gordon wright {{< fa brands orcid >}} <strong>ORCID</strong> [0000-0001-9424-5743](https://orcid.org/0000-0001-9424-5743). All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}}<br>
+      [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+format:
+  html:
+    theme: cosmo
+    linkcolor: "#325b74" # Pantone Midnight - Fall 2022
+    mainfont: "Atkinson Hyperlegible"
+    comments:
+      hypothesis: true
+
+  # pdf:
+  #   # template: templates/eisvogel.tex
+  #   geometry:
+  #     - top=30mm
+  #     - left=30mm
+  # docx: default
+  #
+  #   # toc: true
+  #   # toc-depth: 3
+  #   # mainfont: "Atkinson Hyperlegible"
+  #   # sansfont: "Atkinson Hyperlegible"
+  #   # linkcolor: blue
+  #   # links-as-notes: true
+  #   # papersize: a4
+  #   # reference-links: true
+  #   # template: /templates/eisvogel.tex
+  revealjs:
+    theme: styles/slides.scss
+    # header-logo: "../images/rmmonkey.png"
+    menu: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: edges
+    show-slide-number: all
+    slide-number: c/t
+    mainfont: Atkinson Hyperlegible
+    embed-resources: true
+    incremental: false
+    margin: 0.1
+    smaller: false
+    pdf-page-height-offset: -2
+    max-width: 90%
+    max-scale: 2.0
+    pdf-max-pages-per-slide: 1
+    output-ext: slides.html
+    filters:
+      - fontawesome
+      - reveal-header
+
+  # pdf:
+  #   template: _resources/templates/latex.tex
+  #   # template: _resources/templates/latex-colour.tex
+    # pdfengine: lualatex
+    # fontsize: 12pt # 10, 11, or 12pt
+    # mainfont: Atkinson Hyperlegible # font used for main text throughout document
+    # sansfont: Atkinson Hyperlegible
+    # classoption: landscape
+    # papersize: a4
+    # pagestyle: empty
+    # cosmiclatte: false # set true to turn on an off-white page background colour
+    # html:
+    #   template: _resources/templates/test.html
+  #
+  # pptx:
+  #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+
+
+editor: visual
+engine: knitr
+
+# execute:
+#   freeze: auto
