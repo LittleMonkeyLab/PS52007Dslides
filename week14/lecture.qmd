@@ -1,7 +1,7 @@
 ---
 title: "Lecture 14: Research Methods & Employability"
 subtitle: "Thinking ahead"
-date: "10/09/2023"
+date: "02/03/2025"
 categories: 
   - "Lecture"
   - "Week 14"

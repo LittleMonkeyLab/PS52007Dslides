@@ -1,7 +1,7 @@
 ---
 title: "Lecture 11: Kickoff Term 2"
 subtitle: "To a researcher with a hammer..."
-date: "10/09/2023"
+date: "01/13/2025"
 categories: 
   - "Lecture"
   - "Week 11"

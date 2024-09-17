@@ -1,7 +1,7 @@
 ---
 title: "Lecture 13: CHIP: Philosophy of Science"
 subtitle: "A Paradigm Shift!"
-date: "10/09/2023"
+date: "01/27/2025"
 categories: 
   - "Lecture"
   - "Week 13"
