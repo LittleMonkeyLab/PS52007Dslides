@@ -1,7 +1,7 @@
 ---
 title: "Lecture 09: STUFF"
 subtitle: "STUFF"
-date: "10/09/2023"
+date: "12/02/2024"
 categories: 
   - "Lecture"
   - "Week 09"

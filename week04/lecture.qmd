@@ -1,7 +1,7 @@
 ---
 title: "Lecture 04: Finding your Psychology"
 subtitle: "MeSearch or Research?"
-date: "10/09/2023"
+date: "10/21/2024"
 categories: 
   - "Lecture"
   - "Week 04"
