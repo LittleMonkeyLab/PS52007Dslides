@@ -30,20 +30,6 @@ website:
     collapse-level: 3
     search: false
     contents: auto
-      # - text: "Home"
-      #   href: index.qmd
-      # - text: "---"
-      # - week00/lecture.qmd
-      # - week2.qmd
-      # - text: "Week 3"
-      #   href: week03/hub.qmd
-  # - id: weeks
-  #   contents:
-  #     - week1.qmd
-  #     - week2.qmd
-  # - id: lectures
-  #   contents:
-  #     - week1.qmd
 
   page-footer:
     right: |
