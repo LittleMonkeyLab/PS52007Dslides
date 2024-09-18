@@ -22,11 +22,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-
-
+        
   sidebar:
     logo: "images/rmmonkey.png"
-    style: floating
+    style: docked
     collapse-level: 3
     search: false
     contents: auto
