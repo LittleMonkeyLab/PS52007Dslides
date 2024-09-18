@@ -22,28 +22,13 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-
-
+        
   sidebar:
     logo: "images/rmmonkey.png"
-    style: floating
+    style: docked
     collapse-level: 3
     search: false
-    contents:
-      - text: "Home"
-        href: index.qmd
-      - text: "---"
-      - week00/lecture.qmd
-      - week2.qmd
-      - text: "Week 3"
-        href: week03/hub.qmd
-  # - id: weeks
-  #   contents:
-  #     - week1.qmd
-  #     - week2.qmd
-  # - id: lectures
-  #   contents:
-  #     - week1.qmd
+    contents: auto
 
   page-footer:
     right: |
@@ -104,25 +89,25 @@ format:
       - reveal-header
 
   # pdf:
-  #   template: _resources/templates/latex.tex
+  #   # template: _resources/templates/latex.tex
   #   # template: _resources/templates/latex-colour.tex
-    # pdfengine: lualatex
-    # fontsize: 12pt # 10, 11, or 12pt
-    # mainfont: Atkinson Hyperlegible # font used for main text throughout document
-    # sansfont: Atkinson Hyperlegible
-    # classoption: landscape
-    # papersize: a4
-    # pagestyle: empty
-    # cosmiclatte: false # set true to turn on an off-white page background colour
-    # html:
-    #   template: _resources/templates/test.html
-  #
-  # pptx:
-  #   reference-doc: _resources/templates/pptx/RMLecturepptxTemplate.pptx
+  #   # pdfengine: lualatex
+  #   fontsize: 12pt # 10, 11, or 12pt
+  #   mainfont: Atkinson Hyperlegible # font used for main text throughout document
+  #   sansfont: Atkinson Hyperlegible
+  #   classoption: landscape
+  #   papersize: a4
+  #   pagestyle: empty
+  #     # cosmiclatte: false # set true to turn on an off-white page background colour
+  #     # html:
+  #   #   template: _resources/templates/test.html
+  # #
+  pptx:
+    reference-doc: _resources/templates/pptx/PS52007D.pptx
 
 
 editor: visual
 engine: knitr
 
-# execute:
-#   freeze: auto
+execute:
+  freeze: auto

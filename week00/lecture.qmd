@@ -27,9 +27,9 @@ format:
     header: "Research Methods Lecture 00 - Module Induction" # Replace it
     hide-from-titleSlide: "text"
   # pdf: default
-  # pptx: default
+  pptx: default
   # html: default
-  # docx: default  
+  docx: default  
 execute:
  echo: false
  freeze: auto
