@@ -22,7 +22,6 @@ citations-hover: true
 
 format: 
   revealjs: 
-    pdf: default
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 00 - Module Induction" # Replace it
