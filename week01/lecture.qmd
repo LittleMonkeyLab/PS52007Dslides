@@ -26,8 +26,9 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 01 - Module Overview & coursework" # Replace it
     hide-from-titleSlide: "text"
+    incremental: true
   # pdf: default
-  # pptx: default
+  pptx: default
   # html: default
   # docx: default  
 execute:
@@ -50,7 +51,7 @@ execute:
 
 ## A bit about me...
 
-::: {.incremental .smaller}
+::: tiny
 -   Formerly worked in the advertising industry for top London agencies
 -   Impulsively started a Psych degree in 2006 (age 30+)
 -   My research interests are interpersonal deception, antagonistic
@@ -66,14 +67,15 @@ execute:
 
 ## But first
 
-::: incremental
+::: {.incremental .small}
 -   The importance of your 'participation'
 -   If you don't engage, it is difficult to respond to your needs
--   I want you to find **"MyPsychology"**
+-   I want you to find **Your Psychology - NOT MINE!**
 -   Easier to keep up than catch-up
 -   We have numerous safeguards in place to protect you this year, but
     be your own best friend
--   The only thing that should be worried this year is Shoddy Science!
+-   The only thing that should be worried this year becoming a
+    Psychology bore!
 :::
 
 # Module Overview
@@ -87,7 +89,7 @@ essay that might not even count towards your grade.
 
 To pass, you must pass all 3 assessment elements:
 
-::: takeaway
+::: callout-note
 Critical Proposal 1,800 words (15%)
 
 Mini-Dissertation 2,500 words (70%)
@@ -95,58 +97,9 @@ Mini-Dissertation 2,500 words (70%)
 CHIP Learning Log 1,200 words (15%)
 :::
 
-## Gannt Chart
+## Indicative Critical Proposal Support
 
-![Deadlines](images/Gantt%20of%20deadlines.png)
-
-# So what's the point?
-
-[APA Skillful Psychology
-Student](https://www.apa.org/ed/precollege/psn/2019/02/skillful-student)
-
-![](images/paste-51D3847E.png){fig-align="center" width="307"}
-
-::: footerbox
-Naufel, K. Z., Appleby, D. C., Young, J., Van Kirk, J. F., Spencer, S.
-M., Rudmann, J., ...Richmond, A. S. (2018).The skillful psychology
-student: Prepared for success in the 21st century workplace. Retrieved
-from:
-<https://www.apa.org/careers/resources/guides/transferable-skills.pdf>
-:::
-
-## Cognitive Skills
-
-![](images/paste-B0779020.png){.bottomgap}
-
-## Communication Skills
-
-![](images/paste-B710C4C4.png){.bottomgap}
-
-## Personal Skills
-
-![](images/paste-839343D0.png){.bottomgap}
-
-## Social Skills
-
-![](images/paste-245BC02C.png){.bottomgap}
-
-## Technological Skills
-
-![](images/paste-2BE97958.png){.bottomgap}
-
-## These are valuable skills
-
-I'm going to try to 'connect the dots' for you along the way
-
-::: incremental
--   Cognitive (e.g., creativity and information management).
--   Communication (e.g., active listening and public speaking).
--   Personal (e.g., conscientiousness and integrity).
--   Social (e.g., collaboration and leadership abilities).
--   Technological (e.g., flexibility and familiarity with hardware and
-    software).
--   No actual mention of the 'content' - **Psychology** or **Research**
-:::
+![](images/CPsupport.png)
 
 ## You aren't spectators any more, you're Scientists!
 
@@ -186,7 +139,7 @@ In small groups of 3 or 4 people, you will:
 
 ::: incremental
 -   Gordon (Module Coordinator and [Enthusiast in Chief]{.shout})
--   6 gobsmackingly amazing Lab Tutors
+-   3 gobsmackingly amazing Lab Tutors
 -   Your Mini-Dissertation group (3 or 4)
 -   Your Personal Tutor
 -   Your PT group
@@ -197,10 +150,10 @@ This is a team-sport
 
 ## Access to me
 
-I will be in every Research Methods lecture and I have a Student Hour
-from 1-2 (TBC) every Monday.
+I will be in every Research Methods lecture and i visit **EVERY LAB,
+EVERY WEEK!**
 
-**Available at g.wright\@gold.ac.uk and my office is WB200/1**
+**Available at g.wright\@gold.ac.uk and my office is WB200/2**
 
 I genuinely could not imagine anything I would rather do that this. So
 please talk to me and help me get to know you!
@@ -238,48 +191,17 @@ Each week there will be a very brief '**Overview to set out the main
 topics and to give you a set of milestones or preparatory activities**'
 designed to keep you on track.
 
-**Lecture** (slides available as a Reveal Slideshow via Quarto and as
-pdf, docx, and if you wish for anything else, please just ask.)
+**Lecture** (slides available in advance from week 03 onwards!)
 
 **Lab**
 
-![Lab structure](images/LabSession.drawio.png)
-
--   **Lab Notebook** - find a solution that works for you, but make sure
+-   **Lab Notes** - find a solution that works for you, but make sure
     that you have it every week, so a cloud-based system would be best.
     You will be expected to show notes of your progress to your Lab
-    Tutor
+    Tutor and show specifics when asking questions
 -   Lots can be achieved in the labs, but independent study and
     coordinated group work will be required. We will be asking about
     this aspect of the process regularly.
-
-## DangerZone
-
-::: columns
-::: {.column width="50%"}
-![All hail the Kenny!](images/Kenny.jpeg)
-:::
-
-::: {.column width="50%"}
-You'll never say hello to you,\
-Until you get it on the red line overload.\
-You'll never know what you can do,\
-Until you get it up as high as you can go!
-:::
-
-::: columns
-Most weeks, there will be Extras - called the DangerZone \[in honour of
-the best movie ever made (Top Gun) and the Yacht-Rock and fashion icon
-legend Kenny Loggins\]. These are opportunities to consider aspects of
-Research procedure beyond the level expected for this year, but 'on the
-table' for next year and any future research endeavours. They are
-research-based in a loose sense - they will include programming,
-literature search and management, academic and knowledge management
-tools, tips and hacks that might (or might not) be of interest or
-useful. If the term is going well, they might even be fun. All ideas
-welcome.
-:::
-:::
 
 ## Coursework
 
@@ -318,22 +240,6 @@ Add an email signature to your college email, including your student
 number, programme, lab tutor, and personal tutor. It will speed up
 responses to any emails you send to staff.
 
-## Lectures Term One
-
-![](images/Term1%20Lectures.png)
-
-## Lectures Term Two
-
-![](images/Term2%20Lectures.png)
-
-## Labs Term One
-
-![](images/Term1%20Labs.png)
-
-## Labs Term Two
-
-![](images/Term2%20labs.png)
-
 ## Mini-Dissertation structure
 
 Your individual Mini-Dissertation project **MUST** conform to the
@@ -342,6 +248,7 @@ following definitive rules:
 ::: nonincremental
 -   **2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
     single continuous DV**
+-   MORE ON THIS NEXT WEEK!
 -   **You must obtain ethical approval and show individual involvement
     in the process of application**
 -   **You must make a sample size estimation / Power calculation**
@@ -415,22 +322,15 @@ Self-Handicapping**]{.takeaway} 
         opportunities?
 :::
 
-# Experimental Design Schematic
-
-## You will be asked to keep and update the following image in draw.io
-
-![](images/Thisismydesign.drawio.png)
-
 ## Lab 01
 
 ::: incremental
--   Scan your attendance, find a place to sit.
--   Verify access to IT systems (e.g. the critically important OneDrive)
-    and add a signature to your emails to assist College answering any
-    questions you have.
+-   Scan your attendance, sit in your Personal Tutor groups to start
+-   Very serious and academically important first activity
 -   Start brainstorming ideas for research topics for your
     Mini-Dissertation.
--   Consider 'how' you want to work this year
+-   Consider 'how' you want to work this year, and who you want to work
+    with
 -   Detailed information in Lab 01 worksheet, but allow the Lab Tutor to
     guide you and try to get involved!
 :::
@@ -453,15 +353,30 @@ lifestyle, behaviour, attitude, life history etc contribute to it? And
 how on earth do you measure Academic Success?
 :::
 
+## Please don't get hung up on 'Stats-Panic' or fear of failing
+
+::: callout-warning
+Trying to ignore 'stats' is silly. Stats takes up about 3/4 of the lab
+in week 16. Seriously.
+
+And don't be afraid of failing. You can only fail if you don't attend
+and don't submit all 3 coursework elements.
+
+I thought I might have magical properties, like a troll. The people who
+pass are names I associate with faces. The people who fail tend to just
+be names on a list. Am I magic?
+:::
+
 ## Advance warning
 
 ::: callout-important
 You will confirm your group members (3 or 4), a group name (puns
 encouraged), and maybe a topic area in the first half hour of Lab 02.
-There will be no more time available. But that will have allowed you
-over a week to work it out. Leave this week's lab either with a pretty
-good idea of who you want to work with, ot a list of the people still
-un-grouped in your PT group. And then sort it out.
+
+**There will be no more time available.**
+
+That gives you over a week to sort it out! This is your first
+independent study task!
 :::
 
 ## Some things to consider
@@ -475,7 +390,7 @@ un-grouped in your PT group. And then sort it out.
 -   We will try to make sure things remain manageable, we are not trying
     to 'restrict' you
 
--   You will not be able to do research
+-   You will not be able to do research (I think understandably)...
 
     ::: incremental
     -   on Children
@@ -487,22 +402,8 @@ un-grouped in your PT group. And then sort it out.
     :::
 :::
 
-## Data Carpentry suggests the following for their labs
-
--   Use welcoming and inclusive language
--   Be respectful of different viewpoints and experiences
--   Gracefully accept constructive criticism
--   Focus on what is best for the community
--   Show courtesy and respect towards other community members
-
-## Recurse Center 'Social Rules'
-
-![](images/paste-753EB69B.png){fig-align="center"}
-
 ## On behalf of the whole teaching team
 
 Have a wonderful year!
 
 ### Any Questions?
-
-## References
