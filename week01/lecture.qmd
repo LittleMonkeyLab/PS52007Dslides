@@ -99,7 +99,7 @@ CHIP Learning Log 1,200 words (15%)
 
 ## Indicative Critical Proposal Support
 
-![](images/000060.png)
+![](images/CPsupport.png)
 
 ## You aren't spectators any more, you're Scientists!
 
