@@ -68,7 +68,7 @@ embed-resources: true
 
 This should be familiar to you now. Any questions?
 
-![](images/LabSession.drawio-01.png)
+
 
 ## Goals for today/this week
 
