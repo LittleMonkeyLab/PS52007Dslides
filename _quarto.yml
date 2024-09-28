@@ -22,7 +22,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-        
+
   sidebar:
     logo: "images/rmmonkey.png"
     style: docked

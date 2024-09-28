@@ -68,8 +68,6 @@ embed-resources: true
 
 This should be familiar to you now. Any questions?
 
-
-
 ## Goals for today/this week
 
 The immediate goals for this session, and for this week (including your
