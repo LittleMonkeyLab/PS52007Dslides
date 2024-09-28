@@ -27,7 +27,7 @@ format:
     header: "Research Methods Lecture 10" # Replace it
     hide-from-titleSlide: "text"
   # pdf: default
-  # pptx: default
+  pptx: default
   # html: default
   # docx: default  
 execute:
@@ -76,14 +76,7 @@ phase of the MD
 
 # Being critical and evaluating the work of others
 
-## This is a topic and skill you've already been shown
-
-![](images/paste-6F9D0DD1.png)
-
-![](images/paste-1DF339DB.png)
-
-Review these materials and consider your performance of the assessment,
-and any feedback
+## This is a topic and skill you've already been shownReview these materials and consider your performance of the assessment, and any feedback
 
 ## This year Critical Analysis has a 'point'
 
@@ -100,15 +93,7 @@ dissertation!
 
 ## Reading list items (Barber 2002; 2004)
 
-![](images/paste-414A92CC.png)
-
-## ![](images/paste-D67024A1.png){width="714"}
-
-## Let's look at the example from last week
-
-![](images/paste-18F30242.png)
-
-## How do I do it? \[one approach\]
+## Let's look at the example from last weekHow do I do it? \[one approach\]
 
 Review literature on a key part of your 'puzzle' (an IV, a 'tool', the
 DV etc)
@@ -134,17 +119,9 @@ beneficial part of your study]{.incremental}
 
 ## Critical Proposal Support
 
-![![](images/paste-9E5296DE.png)](images/paste-24D6E4F6.png)
-
 ## Briefing
 
-![](images/paste-502C4F9E.png)
-
-## Please follow these
-
-![](images/paste-7EC89469.png)
-
-## More tips
+## Please follow theseMore tips
 
 -   Please review the "SUGGESTED ESSAY OUTLINE" in the coursework
     briefing
