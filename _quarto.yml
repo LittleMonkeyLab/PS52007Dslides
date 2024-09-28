@@ -22,7 +22,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-        
+
   sidebar:
     logo: "images/rmmonkey.png"
     style: docked
@@ -83,7 +83,7 @@ format:
     max-width: 90%
     max-scale: 2.0
     pdf-max-pages-per-slide: 1
-    output-ext: slides.html
+
     filters:
       - fontawesome
       - reveal-header
