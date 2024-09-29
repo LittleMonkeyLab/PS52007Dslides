@@ -28,7 +28,26 @@ website:
     style: docked
     collapse-level: 3
     search: false
-    contents: auto
+    contents:
+      - text: "Introduction"
+        href: index.qmd
+      - section: "Coursework"
+        href: index.qmd
+        contents:
+          - index.qmd
+          - index.qmd
+          - index.qmd
+      - section: "Weeks"
+        contents:
+          - week01/*.qmd
+          - week02/*.qmd
+          - layout-jupyter.qmd
+      - section: index.qmd
+        contents:
+          - index.qmd
+          - index.qmd
+      - download.qmd
+
 
   page-footer:
     right: |
@@ -75,7 +94,7 @@ format:
     show-slide-number: all
     slide-number: c/t
     mainfont: Atkinson Hyperlegible
-    embed-resources: true
+    embed-resources: false
     incremental: false
     margin: 0.1
     smaller: false

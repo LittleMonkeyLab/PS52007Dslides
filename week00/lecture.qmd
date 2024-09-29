@@ -26,6 +26,7 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 00 - Module Induction" # Replace it
     hide-from-titleSlide: "text"
+    embed-resources: true
   # pdf: default
   pptx: default
   # html: default
