@@ -49,4 +49,8 @@ content
 
 Here is content and a picture
 
-![](images/2x2grid.jpg)
+![](images/2x2grid.jpg){fig-align="center" width="400"}
+
+## 2x2 Design
+
+![](images/2x2grid.jpg){fig-align="center" width="400"}
