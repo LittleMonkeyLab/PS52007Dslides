@@ -113,6 +113,7 @@ But of course, we need more than Teemu, don't we?
 #| standalone: true
 
 library(shiny)
+library(shinylive)
 library(ggplot2)
 
 ui <- fluidPage(
