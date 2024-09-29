@@ -27,6 +27,7 @@ format:
     header: "Research Methods Lab 01 - Brainstorming" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
+    embed-resources: true
 filters:
   - reveal-header
 execute:

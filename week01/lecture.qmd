@@ -27,6 +27,7 @@ format:
     header: "Research Methods Lecture 01 - Module Overview & coursework" # Replace it
     hide-from-titleSlide: "text"
     incremental: true
+    embed-resources: true
   # pdf: default
   pptx: default
   # html: default
