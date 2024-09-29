@@ -23,9 +23,6 @@ jobs:
           with:
             r-version: '4.2.0'
 
-        - name: Install curl Package
-          run: R -e "install.packages('curl')"
-
         - name: Install shinylive Package
           run: R -e "install.packages('shinylive')"
 
