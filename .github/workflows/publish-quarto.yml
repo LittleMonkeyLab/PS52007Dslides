@@ -23,8 +23,8 @@ jobs:
           with:
             r-version: '4.2.0'
 
-        - name: Install curl Package
-          run: R -e "install.packages('curl')"
+        - name: Install system dependencies
+          run: sudo apt-get install -y libarchive-dev
 
         - name: Install shinylive Package
           run: R -e "install.packages('shinylive')"
