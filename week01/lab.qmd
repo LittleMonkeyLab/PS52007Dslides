@@ -13,27 +13,17 @@ citations-hover: true
 categories: 
   - "Lab"
   - "Week 1"
-params:
-  class: "lab01"
 format: 
-  # pdf: default
-  pptx: default
-  html: default
-  docx: default
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#FFE5B4" # PEACH # Very Peri 2022 Color of the year
-    header-logo: "/images/rmmonkey.png"
     header: "Research Methods Lab 01 - Brainstorming" # Replace it
-    hide-from-titleSlide: "text"
-    slide-number: c/t
-    embed-resources: true
-filters:
-  - reveal-header
+  pptx: default  
+
 execute:
  echo: false
  freeze: auto
-embed-resources: true
+
   # Title page populated by content above
 ---
 
