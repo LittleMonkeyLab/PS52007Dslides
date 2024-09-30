@@ -92,7 +92,8 @@ format:
   #   # template: /templates/eisvogel.tex
   revealjs:
     theme: styles/slides.scss
-    # header-logo: "../images/rmmonkey.png"
+    logo: "/images/LMLLOGO.png"
+    header-logo: "/images/rmmonkey.png"
     menu: true
     controls: true
     navigation-mode: linear
@@ -100,7 +101,6 @@ format:
     show-slide-number: all
     slide-number: c/t
     mainfont: Atkinson Hyperlegible
-    embed-resources: false
     incremental: false
     margin: 0.1
     smaller: false
@@ -109,6 +109,8 @@ format:
     max-scale: 2.0
     pdf-max-pages-per-slide: 1
     output-ext: slides.html
+    hide-from-titleSlide: "text"
+    embed-resources: true
     filters:
       - fontawesome
       - reveal-header

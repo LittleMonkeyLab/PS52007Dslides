@@ -14,7 +14,6 @@ author:
     email: g.wright@gold.ac.uk
 
 date-format: "ddd DD MMM, YYYY"
-logo: "../images/LMLLOGO.png"
 license: "CC BY-NC-SA"
 # footer: 
 citations-hover: true
@@ -25,13 +24,10 @@ format:
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 01 - Module Overview & coursework" # Replace it
-    hide-from-titleSlide: "text"
-    incremental: true
-    embed-resources: true
-  # pdf: default
+
+
   pptx: default
-  # html: default
-  # docx: default  
+
 execute:
  echo: false
  freeze: auto
