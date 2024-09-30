@@ -27,18 +27,22 @@ execute:
   # Title page populated by content above
 ---
 
-```         
-```
-
 # Welcome to the Research Methods Labs
 
-## My role as Lab Tutor
+## Introduction from Lab Tutor
+
+There are 3 Lab Tutors (George, Teemu & Gordon)
+
+Your Lab Tutor is...
+
+## Our role as Lab Tutor
 
 -   To help you every step of the way
 -   Your first point of contact for questions or queries on Research
     Methods
--   To share my passion for research and the experience I have gained
--   To show how I have learned to find answers and solve problems
+-   To share our passion for research and the experiences we have gained
+    along the way
+-   To show how we have learned to find answers and solve problems
 -   To challenge you to achieve your best this year and next
 
 ## Not
@@ -51,36 +55,59 @@ execute:
 ## 100% of our focus in the lab
 
 -   We are here to be your guide and mentor in the lab
--   Outside of lab hours, your point of contact is Gordon
+-   Outside of lab hours, your point of contact is Gordon (Module
+    Coordinator)
 -   If you have an emergency, your Personal Tutor or Gordon are your
     primary contacts
+-   It's not because we don't want to help, it's just the way it is.
 
 ## Lab structure
 
-This should be familiar to you now. Any questions?
+-   We have a general structure for the labs, and it is tried and
+    tested.
+-   You have to help us help you, and keep us updated with your
+    progress.
+-   Time spent chasing for updates is time we could use to help people.
+-   We need to allocate our efforts equally and not disadvantage any
+    group by being unavailable or distracted by problems.
+-   If a problem is too time-consuming, it will have to be resolved
+    outside of lab time by Gordon.
 
-## Goals for today/this week
+## A description of the usual lab
+
+![](images/Lab Structure.png)
+
+## Goals for today
 
 The immediate goals for this session, and for this week (including your
 independent study time)
 
--   Identify potential group members and have this confirmed by the
-    start of Lab 2
--   Identify potential research topics and methodologies you might use
+-   Identify potential group members and have this confirmed **by the
+    start of Lab 2 - no later!**
+-   Identify potential research topics and methodologies you might use -
+    a list is fine.
 -   Clarify any questions that may persist
 -   After today, we move on and start doing work. Any more time spent on
     these tasks is wasted time.
--   You should be almost sorted by the end of the session today, at
-    least with a short-list of topics, methods, or potential team-mates,
-    and prepared to use independent study time to finalise your group
-    (for sure) or to continue thinking about topics & methods.
--   Next week will be Literature search support for this module and the
-    Personality Essay (Double Whammy!) and discussing Effect Sizes and
-    how to calculate and convert them. A requirement for the week 3
-    Essay Submission! (Triple Whammy?)
 
-## The rules of the Mini-Dissertation game
+## Goals for this week
 
+-   By next week, we advise you to do the following:
+
+    -   Ensure you have read the coursework guidance for Research
+        Methods (Critical Proposal Primarily)
+
+    -   Ensure you have read the Personality Essay guidance.
+
+    -   Next week's lab will be Literature Search support for this
+        module [and]{.underline} the Personality Essay (Double Whammy!)
+        and discussing Effect Sizes and how to calculate and convert
+        them. A requirement for the week 3 Essay Submission! (Triple
+        Whammy?)
+
+## The rules of the Mini-Dissertation game - part 1
+
+::: tiny
 -   Your ultimate individual Mini-Dissertation project MUST conform to
     the following definitive rules:
 -   2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
@@ -90,13 +117,21 @@ independent study time)
 -   You must make a sample size estimation / Power calculation
 -   You must individually and collaboratively contribute to group data
     collection efforts
--   Your Mini-Dissertation final submission must comprise:
-    -   a 2500 word APA7 empirical paper with a critical reflection and
-        complete reference list
-    -   a single, cleaned, clearly-labelled data set in Excel format (or
-        similar) - Open Data
-    -   a complete, replication-ready materials document detailing
-        materials relevant to your submission - Open Materials
+:::
+
+## The rules of the Mini-Dissertation game - part 2
+
+Your Mini-Dissertation final submission must comprise:
+
+-   a 2500 word APA7 empirical paper with a critical reflection and
+    complete reference list
+-   a single, cleaned, clearly-labelled data set in Excel format (or
+    similar) - Open Data
+-   a complete, replication-ready materials document detailing materials
+    relevant to your submission - Open Materials
+
+If you miss anything you limit the marks available. And the quality and
+precision of the whole submission is assessed.
 
 ## Critical Proposal
 
@@ -110,7 +145,7 @@ in due course.
 ## Activities for today.
 
 These labs are driven by you. The only things that will EVER be
-compulsory are short administrative tasks on a roughly fortnightly basis
+compulsory are short administrative tasks on a roughly weekly basis
 (group progress update) and the next activity. Otherwise you can use the
 time as you see fit either alone or in your group, but we know that
 there is wisdom in the crowd for coming up with topic ideas, identifying
@@ -118,27 +153,32 @@ cool research ideas and setting the tone for the year ahead.
 
 ## Let's get going.
 
--   Lab Challenge! \[15 mins\]
--   Research Skill Audit
--   Topic Speed Dating
--   Methods Matching
--   Goal Alignment and Group Ethos
+-   Lab Challenge! \[20 mins\]
+
+-   Your Lab Tutor will show you the Lab Miro Board. Please at least
+    identify your group status by end of lab.
+
+-   Topic Brainstorming
+
+-   Methods Discussion
+
+-   Group 'calibration' and working approach
+
+    The Topics, Methods, and Group activities have supporting materials
+    in a Miro board which you can access once you have selected the
+    appropriate Lab that you belong to on the VLE. Please choose the
+    correct one.
 
 ## Lab Challenge
 
 To be introduced by the Lab Tutor. hehe!
 
-## Research Skill Audit
+## Topic Brainstorming
 
-By assessing your current confidence level, you will be able to think
-strategically about the 20 weeks ahead.
-
-## Topic Speed Dating
-
-The worksheet will provide some tips and ideas for finding a topic to
+The Miro Board will provide some tips and ideas for finding a topic to
 research. Even if you think you've nailed it, let's discuss it.
 
-## Methods Matching
+## Methods Brainstorming
 
 It is easy to only think about online questionnaires. It may be some of
 the only research you've done, but frankly, it would be a shame to not
@@ -159,4 +199,4 @@ Please do take the time to do this. Being able to point to a set of
 principles (for your group or for the whole lab) may smooth the process
 or be of help in resolving difficulties.
 
-## References
+## 
