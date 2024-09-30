@@ -63,15 +63,21 @@ Your Lab Tutor is...
 
 ## Lab structure
 
+::: small
 -   We have a general structure for the labs, and it is tried and
     tested.
+
 -   You have to help us help you, and keep us updated with your
     progress.
+
 -   Time spent chasing for updates is time we could use to help people.
+
 -   We need to allocate our efforts equally and not disadvantage any
     group by being unavailable or distracted by problems.
+
 -   If a problem is too time-consuming, it will have to be resolved
     outside of lab time by Gordon.
+:::
 
 ## A description of the usual lab
 
@@ -199,4 +205,4 @@ Please do take the time to do this. Being able to point to a set of
 principles (for your group or for the whole lab) may smooth the process
 or be of help in resolving difficulties.
 
-## 
+# Get stuck in!
