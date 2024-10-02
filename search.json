@@ -2904,7 +2904,7 @@
     "href": "week02/lecture.slides.html#key-topics-today",
     "title": "Lecture 02: Asking good questions and gathering evidence",
     "section": "Key topics today",
-    "text": "Key topics today\n\nThe week ahead\nThe research process you are beginning\nEffect sizes\nLab preview - Literature, and making it your friend"
+    "text": "Key topics today\n\nA tour of the VLE\nA quick overview of the 3 Coursework Elements (very brief)\nThe research process you are beginning\nEffect sizes\nLab preview - Literature, and making it your friend"
   },
   {
     "objectID": "week02/lecture.slides.html#the-week-ahead",
@@ -2928,18 +2928,18 @@
     "text": "An amazing opportunity to consider this critical question while you do your Mini-Dissertation\nHere is a thought-provoking initial overview - Open Educational Resource\nDiener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds), Noba textbook series: Psychology. Champaign, IL: DEF publishers. http://noba.to/qu4abpzy"
   },
   {
-    "objectID": "week02/lecture.slides.html#last-year-this-was-a-fairly-philosophical-question",
-    "href": "week02/lecture.slides.html#last-year-this-was-a-fairly-philosophical-question",
+    "objectID": "week02/lecture.slides.html#until-recently-this-was-a-fairly-philosophical-question",
+    "href": "week02/lecture.slides.html#until-recently-this-was-a-fairly-philosophical-question",
     "title": "Lecture 02: Asking good questions and gathering evidence",
-    "section": "Last year, this was a fairly philosophical question",
-    "text": "Last year, this was a fairly philosophical question\nThis year, you are probably using AI on a daily or weekly basis. I don’t need to give you 1980’s movie references to show you how we thought computers were going to take over the world and enslave the human race, we can just look out the window!"
+    "section": "Until recently, this was a fairly philosophical question",
+    "text": "Until recently, this was a fairly philosophical question\nThis year, you are probably using AI on a daily or weekly basis. I don’t need to give you 1980’s movie references to show you how we thought computers were going to take over the world and enslave the human race, we can just look out the window!"
   },
   {
     "objectID": "week02/lecture.slides.html#chip-topic-approval-process",
     "href": "week02/lecture.slides.html#chip-topic-approval-process",
     "title": "Lecture 02: Asking good questions and gathering evidence",
     "section": "CHIP topic approval process",
-    "text": "CHIP topic approval process\nLectures identified with CHIP in the title e.g. weeks 16-20 [They change yearly!]\nI am open to other topics, but they must fit the following brief, and be agreed in the Forum.\n\n\nA concept or debate within Psychology\nA historical issue or controversy\nA methodology or approach and its promises or limitations\nA distinctive or divisive topic\nA modern innovation or applied challenge\n\n\nhttps://www2.open.ac.uk/openlearn/CHIPs/"
+    "text": "CHIP topic approval process\nLectures identified with CHIP in the title e.g. weeks 16-20 [They change yearly!]\nI am open to other topics, but they must fit the following brief, and you are welcome to check in the Forum.\n\n\nA concept or debate within Psychology\nA historical issue or controversy\nA methodology or approach and its promises or limitations\nA distinctive or divisive topic\nA modern innovation or applied challenge\n\n\nhttps://www2.open.ac.uk/openlearn/CHIPs/"
   },
   {
     "objectID": "week02/lecture.slides.html#a-psychologist-a-scientist",
@@ -3093,7 +3093,7 @@
     "href": "week02/lecture.slides.html#lets-imagine-the-simplest-example-possible",
     "title": "Lecture 02: Asking good questions and gathering evidence",
     "section": "Let’s imagine the simplest example possible",
-    "text": "Let’s imagine the simplest example possible\nAn independent t-test. Working Memory Capacity.\nI have a magic pill to increase working memory capacity.\n7 ± 2 is the Miller Law. Let’s read this as normal mean working memory capacity for a group of humans is mean 7 units with a standard deviation of 2 units.\nLet’s say my pill was tried on a group of humans, and when we measured their mean working memory capacity it was 11 units with a standard deviation of 2 units. Wowsers!\nThat’s an effect size of d=2. Simply put, Cohen’s d is always presented in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than 7.\nCalculating Effect Sizes (shinyapps.io)\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 02 - Being Scientific"
+    "text": "Let’s imagine the simplest example possible\nAn independent t-test. Working Memory Capacity.\nI have a magic pill to increase working memory capacity.\n7 ± 2 is the Miller Law. Let’s read this as normal mean working memory capacity for a group of humans is mean 7 units with a standard deviation of 2 units.\nLet’s say my pill was tried on a group of humans, and when we measured their mean working memory capacity it was 11 units with a standard deviation of 2 units. Wowsers!\nThat’s an effect size of d=2. Simply put, Cohen’s d is always presented in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than 7.\nCalculating Effect Sizes (shinyapps.io)\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 02 - Formulating Research Questions & Hypotheses"
   },
   {
     "objectID": "week10/lecture.slides.html#key-topics-today-20000",
