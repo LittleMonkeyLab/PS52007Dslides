@@ -18,13 +18,14 @@ logo: "../images/LMLLOGO.png"
 license: "CC BY-NC-SA"
 # footer: 
 citations-hover: true
+preview-links: true
 
 
 format: 
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
-    header: "Research Methods Lecture 02 - Being Scientific" # Replace it
+    header: "Research Methods Lecture 02 - Formulating Research Questions & Hypotheses" # Replace it
     hide-from-titleSlide: "text"
     output-ext: slides.html
   # pdf: default
@@ -44,7 +45,8 @@ execute:
 
 ## Key topics today
 
--   The week ahead
+-   A tour of the VLE
+-   A quick overview of the 3 Coursework Elements (very brief)
 -   The research process you are beginning
 -   Effect sizes
 -   Lab preview - Literature, and making it your friend
@@ -63,39 +65,29 @@ This week (week 2) you have your Personality Essay Tutorial
 
 ## Perennial CHIP topics
 
-I want to briefly draw your attention to the third (final) piece of
-coursework for this module, the so-called 'CHIP Learning Log'
+I want to briefly draw your attention to the third (final) piece of coursework for this module, the so-called 'CHIP Learning Log'
 
-The earlier we flag topics and introduce little glimmers of content, the
-easier that will be.
+The earlier we flag topics and introduce little glimmers of content, the easier that will be.
 
 # 1 - What is Science?
 
 ## An amazing opportunity to consider this critical question [while]{.underline} you do your Mini-Dissertation
 
-Here is a thought-provoking initial overview - [**Open Educational
-Resource**]{.underline}
+Here is a thought-provoking initial overview - [**Open Educational Resource**]{.underline}
 
-Diener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds),
-*Noba textbook series: Psychology.* Champaign, IL: DEF publishers.
-<http://noba.to/qu4abpzy>
+Diener, E. (2022). Why science?. In R. Biswas-Diener & E. Diener (Eds), *Noba textbook series: Psychology.* Champaign, IL: DEF publishers. <http://noba.to/qu4abpzy>
 
 # 2 - Artificial Intelligence - Promise or Peril?
 
-## Last year, this was a fairly philosophical question
+## Until recently, this was a fairly philosophical question
 
-This year, you are probably using AI on a daily or weekly basis. I don't
-need to give you 1980's movie references to show you how we thought
-computers were going to take over the world and enslave the human race,
-we can just look out the window!
+This year, you are probably using AI on a daily or weekly basis. I don't need to give you 1980's movie references to show you how we thought computers were going to take over the world and enslave the human race, we can just look out the window!
 
 ## CHIP topic approval process
 
-Lectures identified with `CHIP` in the title e.g. weeks 16-20 \[They
-change yearly!\]
+Lectures identified with `CHIP` in the title e.g. weeks 16-20 \[They change yearly!\]
 
-I am open to other topics, but they must fit the following brief, and be
-agreed in the Forum.
+I am open to other topics, but they must fit the following brief, and you are welcome to check in the Forum.
 
 ::: incremental
 -   A concept or debate within Psychology
@@ -113,8 +105,7 @@ agreed in the Forum.
 
 ![](images/paste-DE336E79.png)
 
-In this instance, Sherlock is talking about the need for data prior to
-solving a case. You can't do science without data.
+In this instance, Sherlock is talking about the need for data prior to solving a case. You can't do science without data.
 
 ## Scientists base their 'claims' on EVIDENCE
 
@@ -164,9 +155,7 @@ solving a case. You can't do science without data.
 
 you hear of 'confounds' or ['confounding variables']{.shout}
 
-A confounding variable is an extraneous variable that [systematically
-varies]{.underline} with one of your independent variables. These are
-rare, but nothing can save the experiment.
+A confounding variable is an extraneous variable that [systematically varies]{.underline} with one of your independent variables. These are rare, but nothing can save the experiment.
 
 ![](images/paste-B5DC6F1B.png)
 
@@ -188,24 +177,15 @@ rare, but nothing can save the experiment.
 
 ## Reading along
 
-I highly recommend reading along with the general topics we cover in the
-first few weeks.
+I highly recommend reading along with the general topics we cover in the first few weeks.
 
-Research Methods in Psychology by Dennis Howitt and Duncan Cramer is
-excellent. Chapter 2 in that book (right at the top of the module
-reading list and
-[here](https://www.vlebooks.com/Product/Index/896220?page=0)) deals with
-Hypotheses and aims of research, essentially what we cover this week,
-and Chapter 1 deals with the basics and golden rules of research design
-and designing good experiments.
+Research Methods in Psychology by Dennis Howitt and Duncan Cramer is excellent. Chapter 2 in that book (right at the top of the module reading list and [here](https://www.vlebooks.com/Product/Index/896220?page=0)) deals with Hypotheses and aims of research, essentially what we cover this week, and Chapter 1 deals with the basics and golden rules of research design and designing good experiments.
 
 # Another interpretation of "I can't make bricks without clay!"
 
 ## Garbage in, Garbage out
 
-Last year someone selected a 'target paper' for their Critical Proposal
-\[next week's lecture topic\] from a Sociology Journal - it presented a
-'thought experiment'.
+Last year someone selected a 'target paper' for their Critical Proposal \[next week's lecture topic\] from a Sociology Journal - it presented a 'thought experiment'.
 
 No data, no methodology, no participants, no actual experiment.
 
@@ -226,14 +206,11 @@ How do you think they did?
 
 ## A measure of the Effect (MOTE)
 
-Effect sizes represent the magnitude of a relationship between
-variables, for example between a Manipulation and the Dependent
-Variable.
+Effect sizes represent the magnitude of a relationship between variables, for example between a Manipulation and the Dependent Variable.
 
 It's like the 'strength' of your pill, or intervention, or manipulation.
 
-Do not run an experiment that is designed to fail - you must believe a
-manipulation will have an 'Effect'
+Do not run an experiment that is designed to fail - you must believe a manipulation will have an 'Effect'
 
 If the manipulation works, then there will be an Effect
 
@@ -245,17 +222,10 @@ An independent t-test. Working Memory Capacity.
 
 I have a magic pill to increase working memory capacity.
 
-7 ± 2 is the Miller Law. Let's read this as normal mean working memory
-capacity for a group of humans is mean 7 units with a standard deviation
-of 2 units.
+7 ± 2 is the Miller Law. Let's read this as normal mean working memory capacity for a group of humans is mean 7 units with a standard deviation of 2 units.
 
-Let's say my pill was tried on a group of humans, and when we measured
-their mean working memory capacity it was 11 units with a standard
-deviation of 2 units. Wowsers!
+Let's say my pill was tried on a group of humans, and when we measured their mean working memory capacity it was 11 units with a standard deviation of 2 units. Wowsers!
 
-That's an effect size of d=2. Simply put, Cohen's d is always presented
-in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than
-7.
+That's an effect size of d=2. Simply put, Cohen's d is always presented in units equivalent to 1 standard deviation. So 11 is 2 SDs higher than 7.
 
-[Calculating Effect Sizes
-(shinyapps.io)](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
+[Calculating Effect Sizes (shinyapps.io)](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
