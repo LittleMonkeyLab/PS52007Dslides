@@ -26,6 +26,7 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 03" # Replace it
     hide-from-titleSlide: "text"
+    incremental: true
     embed-resources: true
   # pdf: default
   # pptx: default
@@ -40,14 +41,14 @@ execute:
 
 The week ahead
 
--   Personal Tutor Meeting about MD this week
+-   Personal Tutor Meeting about MD next week (wk4)
 -   also Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)
 -   Critical Proposal overview and tips
 -   Lab preview - Your Critical Proposal Target Paper
 
-## Personal Tutor Meeting Week 3
+## Personal Tutor Meeting Week 4
 
-This week (week 3) you have 50 minutes with your Personal Tutor to
+Next week (week 4) you have 50 minutes with your Personal Tutor to
 discuss the Mini-Dissertation.
 
 ::: callout-tip
@@ -71,13 +72,15 @@ preparation
 Week 17 - Result interpretation, and any concerns arising in the final
 phase of the MD
 
-## Please fill in a group on your Lab Miro Board.
+## Please complete the Form about your Group and your CP paper
 
-Even just your names... Help us to help you. Please.
-
-![](images/Miro.png){fig-align="center"}
+This is compulsory.
 
 # Any Questions?
+
+## Quick recap of Golf and TeemuBall!
+
+see .pdf in The Document Repository.
 
 # Being critical and evaluating the work of others
 
@@ -158,11 +161,11 @@ beneficial part of your study]{.incremental}
 
 ## Briefing and Rubric
 
-![](images/Lec03Courseworkinfo.png){fig-align="center"}
+## ![](images/clipboard-3103162102.png){width="500"}
 
 ## Briefing
 
-![](images/Lec03CritPropBrief1-01.png){fig-align="center"}
+![](images/clipboard-1663963003.png)
 
 ## Rubric
 
@@ -170,11 +173,7 @@ beneficial part of your study]{.incremental}
 
 ## Please follow the suggested outline
 
-![](images/Lec03Summaryoutline.png){fig-align="center"}
-
-## Design information
-
-![](images/Thisismydesign.drawio-01.png)
+![](images/Lec03Summaryoutline.png){fig-align="center" width="600"}
 
 ## More tips
 
@@ -217,11 +216,13 @@ Note your references, note your main points, be organised
 
 Talking about Variables and the 3 'flavours' of ANOVA in week 4
 
-Week 5 is 'power calculations' and opportunity to discuss CP
+Week 5 is 'power calculations' and opportunity to discuss CP before
+submission
 
 But we will be moving on and the CP will be part of your independent
 study
 
-Same opportunities for RASA submissions/summer deferrals & resubmissions
+Same opportunities for RASA submissions/summer deferrals &
+re-submissions
 
 # Questions?
