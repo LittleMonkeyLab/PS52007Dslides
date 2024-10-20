@@ -2,7 +2,7 @@
 title: "Experimental Design"
 author: "Dr. Gordon Wright & Professor Matt Crump"
 format: 
-  pdf: default
+  # pdf: default
   html: default
 ---
 
@@ -885,10 +885,10 @@ Dependent Variable (DV):
 ## Data Structure
 
 | Participant | Booing, Win (%) | Booing, Lose (%) | Cheering, Win (%) | Cheering, Lose (%) |
-|-------------|-----------------|------------------|-------------------|--------------------|
-| 1           | 75              | 70               | 85                | 80                 |
-| 2           | 80              | 75               | 90                | 85                 |
-| ...         | ...             | ...              | ...               | ...                |
+|---------------|---------------|---------------|---------------|---------------|
+| 1 | 75 | 70 | 85 | 80 |
+| 2 | 80 | 75 | 90 | 85 |
+| ... | ... | ... | ... | ... |
 
 ## Analysis
 

@@ -1,6 +1,6 @@
 ---
 title: "Lecture 03: Experimental Design <br> & Critical Proposal"
-subtitle: "STUFF"
+
 date: "10/14/2024"
 categories: 
   - "Lecture"
@@ -29,7 +29,7 @@ format:
     incremental: true
     embed-resources: true
   # pdf: default
-  # pptx: default
+  pptx: default
   # html: default
   # docx: default  
 execute:

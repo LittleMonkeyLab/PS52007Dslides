@@ -1,6 +1,6 @@
 ---
-title: "Lecture 04: Finding your Psychology"
-subtitle: "MeSearch or Research?"
+title: "Lecture 04: Selecting tools and methods"
+subtitle: "Start building the toolbox"
 date: "10/21/2024"
 categories: 
   - "Lecture"
@@ -27,7 +27,7 @@ format:
     header: "Research Methods Lecture 04 - Being Curious" # Replace it
     hide-from-titleSlide: "text"
   # pdf: default
-  # pptx: default
+  pptx: default
   # html: default
   # docx: default  
 execute:
@@ -40,12 +40,9 @@ execute:
 
 The week ahead (week 4)
 
--   Personal Tutor Meeting about Mini-Dissertations - ooops
+-   Personal Tutor Meeting about Mini-Dissertations
 -   Critical Proposal due next week (week 5)
 -   Design & Analysis Quiz due next week (week 5)
--   Research as a human enterprise
--   Lab preview - Keep pressing on with Critical Proposal (due week 5)
-    -   Try to nail down your variables and your design ON THE PAGE!
 
 ## Personal Tutor Meeting Week 4
 
@@ -60,123 +57,52 @@ college
 
 # Any Questions?
 
-# Let your freak flag fly! {.background "red"}
+# Critical Proposal
 
-## Whaaa?
+There is an example of a previous first class submission, with
+annotations, available on the VLE in the Critical Proposal Coursework
+section of the VLE. Please read it carefully and attend to the comments.
 
-You can have a sepremely individual 'take' on Psychology?
+# A quick word on the MD Research Topic & Designs
 
-The Psychology you need or want for the future?
+Your individual Mini-Dissertation project **MUST** conform to the
+following definitive rules:
 
-A career path with hundreds of different routes?
+::: nonincremental
+-   **2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a
+    single continuous DV**
+-   MORE ON THIS NEXT WEEK!
+-   **You must obtain ethical approval and show individual involvement
+    in the process of application**
+-   **You must make a sample size estimation / Power calculation**
+-   **You must contribute to group recruitment and data collection
+    efforts either online or in-person**
+:::
 
-[or is it more personal than that?]{.shout}
+## Mini-Dissertation Submission
 
-## Do you need a 'passion' in Psychology?
+**Your Mini-Dissertation final submission must comprise ALL of the
+following COMPULSORY elements:**
 
-We (staff) talk about this sometimes.
+::: nonincremental
+-   a 2,500 word APA7 empirical paper with a complete reference list and
+    appendices
+-   Open Data - a single, cleaned, clearly-labelled data set
+-   Open Materials - a complete, replication-ready materials package
+    detailing materials relevant to your individual write-up
+-   A reflective account covering the Mini-Dissertation (not a moan
+    about your group or strikes or having to do research)
+:::
 
-Is it critical that you find a topic of interest to you?
+## Recap of 2x2
 
-Does it help? Does it hinder?
+### 3 'flavours' of 2x2 ANOVA
 
-Is it possible to be a Psychologist without a personal stake?
+**2bx2b** - Between-subjects/Factorial ANOVA
 
-# It's not all about what you do. <br>I want you to think about HOW you do it.
+**2wx2w** - Within-subject/Repeated Measures ANOVA
 
-## Around us a crisis is unfolding
-
-![](images/paste-91273085.png)
-
-## Psychology is grossly misunderstood
-
-![](images/paste-20A00E59.png)
-
-## Next week
-
-The Replication Crisis and our ongoing response - Open Science
-
-The practice of Psychology we encourage in you!
-
-## Research & me-search
-
-![](images/paste-099457BD.png)
-
-[@altenmuller2021]
-
-## Reflexivity
-
-Reflexivity and the psychologist
-
-Reflexivity generally refers to the examination of one's own beliefs,
-judgments and practices during the research process and how these may
-have influenced the research.
-
-An integral part of the Qualitative 'tradition'
-
-[@morawski2005]
-
-## Inclusive Research
-
-Inclusive research is a term that was coined in the early twenty-first
-century to embrace participatory and emancipatory approaches to research
-with people with learning/intellectual disabilities [@walmsley2001]
-
-Inclusive research embraces [participatory]{.underline} and
-[emancipatory]{.underline} approaches to research.
-
-Its characteristics are that it:\
-· Is owned (not necessarily initiated) by lay people\
-· Furthers the interests of lay people, researchers are on their side\
-· Is collaborative\
-· Enables lay people to exercise control over process and outcomes\
-· Produces outputs that are accessible.\
-
-## context
-
-Research situated within the wider rights movement.
-
-#### "Nothing about us without us" (Aspis, 2000).
-
-a slogan of the disabled people's movement, has been applied to research
-as well as other areas.
-
-"exclusivity not only touches but also contorts and diminishes all
-aspects of psychological science" (Ledgerwood et al., 2022, p.2).
-
-@ledgerwood2022
-
-## OSF (Open Science Foundation)
-
-[OSF \| When Research is Mesearch: How Researchers' Motivation to Pursue
-a Topic Affects Laypeople's Trust in Science](https://osf.io/phfq3/)
-[https://osf.io/phfq3/](http://127.0.0.1:26677/#0 "https://osf.io/phfq3/")
-
-![](images/paste-B91D98B6.png)
-
-## Open Data and Open Materials
-
-![](images/paste-CD2465BA.png)
-
-## Open Data
-
-![](images/paste-4D9E8FC8.png)
-
-## Open Materials
-
-![](images/paste-037992D4.png)
-
-## Psyarxiv
-
-@conry-murray2022
-
-![](images/paste-1C2D781F.png)
-
-# Questions?
-
-## Lab activities
-
-Keep working!
+**2bx2w** or **2wx2b** - Mixed ANOVA
 
 Formalise your individual design
 
@@ -186,90 +112,505 @@ Formalise your individual design
 
 ![](images/paste-96A3FF92.png)
 
-## This is my design
+## How you blend 2x2 designs as a group
 
-![](images/Thisismydesign.drawio.png){fig-align="center" width="800"}
+Let's say your group was interested in Academic Self-Handicapping and
+features of personality and academic background contributing to this
+phenomenon.
 
-## Notation
+It makes sense that the bulk of the efforts of your group go in to
+measuring Academic Self-Handicapping.
 
-We use a notation system to refer to these designs:
+## Individual 2x2
 
-[[2x2 = Two-way ANOVA]{.underline}. There are two IVS, the first IV has
-two levels, the second IV has 2 levels. There are a total of 4
-conditions, 2x2 = 4.]{.smaller}
+**The effect of Conscientiousness and Self-Efficacy on Academic
+Self-Handicapping**
 
-[[2x3 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
-two levels, the second IV has three levels. There are a total of 6
-conditions, 2x3 = 6]{.smaller}
+::: incremental
+-   *The effect of Independent Variable A and Independent Variable B on
+    a continuous Dependent Variable* 
+-   Conscientiousness IV(A1) Low or IV(A2) high - Independent Variable
+    IV(A)
+-   Self-Efficacy IV(B1) Low or IV(B2) high - Independent Variable IV(B)
+-   Academic Self-Handicapping (ASH score, 'continuous' Dependent
+    Variable DV)
+-   What about the other 2 people in the group?
+:::
 
-[[4x4 = Two-way ANOVA.]{.underline} There are two IVs, the first IV has
-4 levels, the second IV has 4 levels. There are a total of 16
-conditions, 4x4=16]{.smaller}
+## Rest of the group:
 
-[[**2x3x2 = Three-way ANOVA**]{.underline}.There are a total of three
-IVs. The first IV has 2 levels. The second IV has 3 levels. The third IV
-has 2 levels. There are a total of 12 conditions. 2x3x2 = 12.]{.smaller}
+**The effect of IV(A) and IV(B) on Academic Self-Handicapping** 
 
-## Review
+::: incremental
+1.  Other Personality Traits (e.g. Procrastination, Neuroticism)
 
-[Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering
-Questions with Data (Textbook): Introductory Statistics for Psychology
-Students.
-https://doi.org/10.17605/OSF.IO/JZE52](https://crumplab.github.io/statistics/)
+2.  Other attributes (e.g. A-Level Psychology, Maths Anxiety, Academic
+    Role Model)
 
-CC BY SA 4.0
+-   Not too complicated, right?
+-   Can you see the economies of effort and implicit support
+    opportunities?
+:::
 
-<https://crumplab.com/statistics/07-ANOVA.html>
+## Overall data collection
 
-<https://crumplab.com/statistics/10-MixedANOVA.html#x2-designs>
+-   IV(A) Conscientiousness Questionnaire
+-   IV(B) Self-Efficacy Measure
+-   \(DV\) Academic Self-Handicapping Test
+-   (+) Procrastination as IV(B) (Person 2 complete)
+-   (\~) Person 3 Procrastination - IV(A)/Self-Efficacy - IV(B) & ASH
+    (Person 3 done)
 
-## 3 'flavours' of 2x2 ANOVA
+## If you develop a more elaborate 'task'
 
-**2bx2b** - Between-subjects/Factorial ANOVA
+such as a memory test, with easy and difficult stimuli sets
 
-**2wx2w** - Within-subject/Repeated Measures ANOVA
+-   This is a 2-level IV already (let's call it IV(B)
+-   Group members could either
+    -   Swap in different personality measures or attributes as IV(B)
+    -   OR look at different DVs (Accuracy, Error, Confidence, Speed,
+        reported difficulty)
+    -   OR you could overlay another IV - to introduce practice (but
+        this may slightly separate datasets meaning more data would be
+        required (could be conceived as a poorer or better planned
+        design!)
 
-**2bx2w** or **2wx2b** - Mixed ANOVA
+## Do not expect yourself to be able to solve this now
 
-You will be using one of these (all supported by SPSS Exercises 1 & 2)
+-   Once we come back after reading week, and we start building, you
+    will know more about your chosen topic.
+-   You will have an idea of preferred methods
+-   Your PT and LT will be able to refine and discuss ideas
+-   The Build and Ethics Submission are both points which we can be
+    utterly certain your design works and is achievable
+-   This is why you need to talk, keep notes, and should be strategic
+    with the Critical Proposal
 
-JAMOVI is a reasonable alternative to SPSS (R is even better - much more
-value as a skill)
+# It's almost time to get practical
 
-## The 3 effects possible in a 2x2 ANOVA
+## 'Operationalisation' of variables
 
-Main effect of IV1
+Operationalisation of variables requires a consideration of the
+reliability and validity of the method of operationalisation.
 
-Main effect of IV2
+Operationalisation of variables also requires specification of the scale
+of measurement: nominal, ordinal, interval, or ratio.
 
-Interaction of IV1\*IV2
+Finally, operationalisation of variables can also specify details of the
+measurement procedure.
 
-## therefore 8 possible 'outcomes' of a 2x2 ANOVA
+See Howitt and Cramer Chapter 3.3 (Box Research Example - Condon & Crano
+1988)
 
--   no IV1 main effect, no IV2 main effect, no interaction
--   IV1 main effect, no IV2 main effect, no interaction
--   IV1 main effect, no IV2 main effect, interaction
--   IV1 main effect, IV2 main effect, no interaction
--   IV1 main effect, IV2 main effect, interaction
--   no IV1 main effect, IV2 main effect, no interaction
--   no IV1 main effect, IV2 main effect, interaction
--   no IV1 main effect, no IV2 main effect, interaction
+## Attitude similarity and interpersonal attraction
 
-## graph key
+![](images/paste-01E3BCC9.png)
 
--   1 = there was a main effect for IV1.
--   \~1 = there was **not** a main effect for IV1
--   2 = there was a main effect for IV2
--   \~2 = there was **not** a main effect of IV2
--   1x2 = there was an interaction
--   \~1x2 = there was **not** an interaction
+## Their DV (consider pros and cons)
 
-## Bar charts
+This person would like (dislike) me
 
-![](images/paste-F1923E23.png)
+This person would like (dislike) working with me in an experiment
 
-## Line plots
+## The Student Room (question)
 
-![](images/paste-CEDD217D.png)
+![](images/paste-3C1317D6.png)
 
-## References
+## The Student Room (answer 1)
+
+![](images/paste-1F4878EE.png)
+
+## The Student Room (answer 2)
+
+![](images/paste-776290A0.png)
+
+## Of great importance that you reflect on this for your MD too
+
+How have you [defined]{.underline} your variables of interest?
+
+-   IVs and DVs
+
+How have you [measured or categorised]{.underline} your variables of
+interest?
+
+-   e.g. Social Media use
+
+-   Gender
+
+-   Frequency or low/high extraversion
+
+## **The research process**
+
+::: {.callout-note icon="false"}
+-   Develop research aims 
+-   Specify research questions/hypotheses related to these aims
+-   Identify relevant constructs and concepts 
+-   Translate constructs and concepts into variables (i.e., a logical
+    set of characteristics/features)
+-   Translate variables into measurements (i.e., the quantification of
+    characteristics/features)
+:::
+
+## Quantitative Research
+
+A systematic examination of relationships between variables
+
+. . .
+
+'Variables' are 'translated' from concepts, constructs or phenomena
+
+. . .
+
+Could be critiqued as 'reductionist'
+
+## Types of Variable
+
+Independent Variable
+
+-   Experimental - The variable [I]{.shout} manipulate
+
+-   Non-Experimental / Quasi-Experimental - Comparison between
+    pre-existing groups
+
+Dependent Variable
+
+-   The variable you measure, that you propose to be influenced by a
+    manpulation of the IVs
+-   The \[D\]ata{.shout}
+
+## Types of Measurement
+
+Nominal/Categorical
+
+-   Male/Female/...
+
+-   Vegan / Vegetarian
+
+-   Smoker/Non-Smoker
+
+## Types of Measurement
+
+Ordinal
+
+Numbers representing a rank position in a group
+
+Not representative of an actual definite number/score/value - without
+information about the 'gap' between numbers
+
+-   First, second, third
+
+-   Tallest/Shortest
+
+## Types of Measurement
+
+Interval
+
+Numbers represent equal units giving information about the 'gap' between
+numbers
+
+-   Temperature
+
+-   Psychological Scales
+
+## Types of Measurement
+
+Ratio
+
+Interval measurements with an absolute zero, of equal units,
+
+-   Weight
+
+-   Length
+
+-   Time/Reaction time\*
+
+## Median Splits
+
+'Cutting' a distribution in half at the mid-point - with 50% on each
+side of the cut
+
+## Median Splits can be considered problematic
+
+::: callout-warning
+## Beware!
+
+We often suggest a median split to dichotomise a continuous variable,
+e.g. for the purposes of creating a 2 level IV.
+
+It's a useful exercise in calculating a 'computed variable' in SPSS or
+Jamovi
+
+It is NOT best-practice usually. Why not?
+:::
+
+It is a key learning outcome that you are able to perform a standardised
+analysis, specifically, the 2x2 ANOVA with any necessary assumption
+checks and post-hocs + plots
+
+## Think about this
+
+![](images/paste-EAC3C58C.png)
+
+## Operationalisation, measurement and definitions impact...
+
+![](images/paste-E903404B.png){width="200"}
+
+## Summary
+
+You should think carefully about:
+
+-   How you define your variables - this is probably a part of the
+    introduction that students DON'T think about enough
+
+-   How you measure or categorise your variables (IVs and DVs) - this is
+    probably the single thing I look at first when peer-reviewing
+    research!
+
+-   How well your manipulation does what it claims to. Does you
+    manipulation bring the thing it proposed to to life well?
+
+# Running Experiments online or face to face
+
+## Comparing Experiment Modalities
+
+-   Online Surveys and Experiments
+    -   Qualtrics - For surveys, stimulus presentation that don't
+        require accurate timing
+    -   Gorilla.sc - For 'experimental' tasks with complex stimulus \>
+        presentation or that require response time measures or
+        push-button \> responses etc.
+-   Face-to-Face Experiments
+
+------------------------------------------------------------------------
+
+## Online Surveys and Experiments with Qualtrics
+
+### Overview
+
+-   A powerful tool for creating and distributing online surveys
+-   Widely used in psychological research
+-   We have an institutional licence and so it is FREE
+-   No specialist support - has excellent online support
+
+------------------------------------------------------------------------
+
+## Pros of Qualtrics (or online surveys)
+
+### Accessibility
+
+-   Reach a wide, diverse audience (if necessary)
+-   Accessible by anyone with a phone or laptop etc
+
+### Cost-Effective
+
+-   Low 'cost' compared to face-to-face
+
+### Data Management
+
+-   Automated data collection, scoring and storage
+-   Relatively easy to analyze and export data - but not always simple
+
+### Customization
+
+-   Highly customizable surveys and experiments (video, photos, audio,
+    vignettes)
+-   Supports various question types and logic
+
+------------------------------------------------------------------------
+
+## Cons of Qualtrics
+
+### Limited Human Interaction
+
+-   Lack of personal interaction can affect responses
+-   You put a huge amount of trust in the participant
+-   Not always easy to manage ethical challenges properly
+
+### Technical Issues
+
+-   Dependence on internet connectivity and user tech skills
+-   An error in the build and you are in trouble \####
+
+## Cons of Qualtrics (continued)
+
+### Response Authenticity
+
+-   Higher risk of dishonest or inattentive responses (maybe?)\
+
+#### Sampling Bias
+
+-   Potential for non-representative samples
+
+------------------------------------------------------------------------
+
+## Introduction to experiments using Gorilla.sc
+
+### Gorilla.sc: highly controlled online Psychological Research
+
+-   A comprehensive online tool for behavioral research
+-   Facilitates creation, deployment, and analysis of experiments
+
+------------------------------------------------------------------------
+
+## Core Features of Gorilla.sc
+
+### User-Friendly Interface
+
+-   Intuitive design for researchers of all levels
+-   Drag-and-drop experiment builder
+
+### Requires 'tokens' to run
+
+-   You will need to apply for 'tokens' to apply for ethics, and to run
+    the study.
+-   There is usually a limited supply as there is a cost associated with
+    this.
+
+### Versatile Experiment Design
+
+-   Supports a wide range of experimental paradigms
+-   Customizable to suit various research needs
+
+------------------------------------------------------------------------
+
+## Experiment Creation with Gorilla.sc
+
+### Building Blocks
+
+-   Use 'widgets' and 'tasks' to construct experiments
+-   Easily integrate surveys, quizzes, and cognitive tasks
+
+### Advanced Customization
+
+-   Incorporate complex experimental logic
+-   Customize with CSS and JavaScript for unique requirements
+
+------------------------------------------------------------------------
+
+## Data Collection and Analysis
+
+### Real-Time Data Collection
+
+-   Gather data securely and efficiently
+-   Access participant responses in real-time
+
+### Analytical Tools
+
+-   Built-in tools for basic data analysis
+-   Export data for advanced analysis in other software e.g. SPSS
+
+------------------------------------------------------------------------
+
+## Collaboration and Sharing
+
+### Team Collaboration
+
+-   Share experiments and data with team members
+-   Collaborate on experiment design and analysis
+
+### Participant Recruitment
+
+-   Still needs to be managed via sources outside of Gorilla
+
+------------------------------------------------------------------------
+
+## Gorilla.sc in Psychological Research
+
+### Broad Application
+
+-   Suitable for cognitive, social, and clinical psychology
+-   Ideal for remote and large-scale studies
+
+### Impact on Mini-Dissertations
+
+-   Increases the reach of psychological studies requiring complex
+    stimulus or timing
+-   Not easy to get up and running with this tool
+-   No specialist support - has excellent templates and online support
+
+------------------------------------------------------------------------
+
+## Face-to-Face Experiments
+
+### Overview
+
+-   Traditional method of conducting experiments
+-   Involves direct interaction with participants
+
+------------------------------------------------------------------------
+
+## Pros of Face-to-Face Experiments
+
+### Enhanced Interaction
+
+-   Direct human interaction enriches data quality
+
+### Controlled Environment
+
+-   Better control over experimental conditions
+
+### Immediate Feedback
+
+-   Opportunity for immediate clarification and feedback
+
+### Participant Authenticity
+
+-   Lower risk of false responses (maybe?)
+
+------------------------------------------------------------------------
+
+## Cons of Face-to-Face Experiments
+
+### Higher Costs
+
+-   Greater resource and time investment (maybe?)
+
+### Limited Reach
+
+-   Restricted to participants' geographical location
+
+### Time-Consuming
+
+-   Scheduling and conducting sessions takes time
+
+### Potential Biases
+
+-   Risk of experimenter or social desirability biases
+
+------------------------------------------------------------------------
+
+## Conclusion
+
+### Choosing the Right Method
+
+-   Depends on research goals, resources, and target population
+-   Both methods offer unique advantages and challenges
+
+### Tailoring to Research Needs
+
+-   Consider the nature of your study and participant accessibility
+-   Balance between quality, 'cost', and reach
+
+------------------------------------------------------------------------
+
+# Lab Activities
+
+## Critical Proposal Target Paper 'approval'
+
+Ask you Lab Tutor for 'thumbs up/down'
+
+## Prepare for Personal Tutor Meeting
+
+Get ready to present your initial group membership, area of interest and
+CP papers to your Personal Tutor
+
+If you PT comes before the lab... Better think about that ASAP!
+
+## See if you can start identifying candidate methods
+
+Talk amongst your group and discuss the merits of particular methods and
+discuss this with your LT and PT
+
+# Questions?
+
+## 

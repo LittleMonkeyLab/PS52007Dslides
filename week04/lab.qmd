@@ -1,6 +1,6 @@
 ---
-title: "Lab 04: Open Science Practices"
-subtitle: "XX"
+title: "Lab 04: Critical Proposal 2 & PT Prep"
+subtitle: "Keep on trucking!"
 image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -45,18 +45,17 @@ embed-resources: true
 -   Have a look at the sample Critical Proposal in the Coursework
     Information section of the VLE.
 -   It got a first, but there was plenty of room for improvement.
--   Last year the Effect Size information and Design Schematic were not
-    required. This year, they ARE COMPULSORY.
 
-## If you are happy with your Critical Proposal
+## If you are happy with your Critical Proposal Target Paper
 
 -   You can use the lab time to continue refining your research ideas.
 
 -   Start identifying and documenting your IVs and DVs. Maybe even your
     design!
 
-## Your Design
+## Preparing for your Personal Tutor meeting
 
-How much of the Design of your study is known at this point?
+Try to assemble information for your Personal Tutor.
 
-![](images/Thisismydesign.drawio.png){fig-align="center" width="800"}
+If they are going to help you over the coming weeks, make it easy for
+them.
