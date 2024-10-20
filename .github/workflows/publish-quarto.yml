@@ -31,6 +31,11 @@ jobs:
           with:
             cache-version: 1
 
+        - name: Install TinyTeX
+          run: |
+            R -e "tinytex::install_tinytex()"
+            sudo apt-get install -y libxml2-dev
+
         - name: Publish to GitHub Pages (and render)
           uses: quarto-dev/quarto-actions/publish@v2
           with:
