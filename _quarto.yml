@@ -31,28 +31,22 @@ website:
     contents:
       - text: "Introduction"
         href: index.qmd
-      - section: "Coursework"
-        href: index.qmd
-        contents:
-          - index.qmd
-          - index.qmd
-          - index.qmd
       - section: "Lectures"
         contents:
           - text: "Week 01 Lecture"
-            href: week01/lecture.qmd
+            href: https://ps52007dslides.littlemonkeylab.com/week01/lecture.slides.html
           - text: "Week 02 Lecture"
-            href: week02/lecture.qmd
+            href: https://ps52007dslides.littlemonkeylab.com/week03/lecture.slides.html
           - text: "Week 03 Lecture"
-            href: week03/lecture.qmd
+            href: https://ps52007dslides.littlemonkeylab.com/week03/lecture.slides.html
       - section: "Labs"
         contents:
           - text: "Week 01 Lab"
-            href: week01/lab.qmd
-          - text: "Week 02 Lecture"
-            href: week02/lab.qmd
-          - text: "Week 03 Lecture"
-            href: week03/lab.qmd
+            href: https://ps52007dslides.littlemonkeylab.com/week01/lab.slides.html
+          - text: "Week 02 Lab"
+            href: https://ps52007dslides.littlemonkeylab.com/week02/lab.slides.html
+          - text: "Week 03 Lab"
+            href: https://ps52007dslides.littlemonkeylab.com/week03/lab.slides.html
 
 
   page-footer:
