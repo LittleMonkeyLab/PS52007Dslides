@@ -861,270 +861,487 @@
     "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 17"
   },
   {
-    "objectID": "week06/lecture.slides.html#week-6-lets-go",
-    "href": "week06/lecture.slides.html#week-6-lets-go",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Week 6, Let’s go!",
-    "text": "Week 6, Let’s go!\n\nSocial Psychology Essay Tutorial this week\nHave you done your reading and prepared?\nA word on attendance and independent study"
+    "objectID": "week06/lecture.html#but-what-does-that-mean",
+    "href": "week06/lecture.html#but-what-does-that-mean",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "But what does that mean?",
+    "text": "But what does that mean?"
   },
   {
-    "objectID": "week06/lecture.slides.html#the-weeks-ahead",
-    "href": "week06/lecture.slides.html#the-weeks-ahead",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "The Weeks ahead",
-    "text": "The Weeks ahead\nEvery group needs to apply for (and receive) ethical approval prior to the Winter Break. - Review the Ethics Page on the VLE - The same process you will use next year - 1 application per group - pre-approved by Lab Tutors - Planning is required and turnaround is 1 week - We deep dive ethics next week (week 7) - but review the materials in advance"
+    "objectID": "week06/lecture.html#opensciencecollaboration2015",
+    "href": "week06/lecture.html#opensciencecollaboration2015",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "@opensciencecollaboration2015",
+    "text": "@opensciencecollaboration2015\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), 943–943. http://www.jstor.org/stable/24749235"
   },
   {
-    "objectID": "week06/lecture.slides.html#operationalisation-of-variables",
-    "href": "week06/lecture.slides.html#operationalisation-of-variables",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "‘Operationalisation’ of variables",
-    "text": "‘Operationalisation’ of variables\nOperationalisation of variables requires a consideration of the reliability and validity of the method of operationalisation.\nOperationalisation of variables also requires specification of the scale of measurement: nominal, ordinal, interval, or ratio.\nFinally, operationalisation of variables can also specify details of the measurement procedure.\nSee Howitt and Cramer Chapter 3.3 (Box Research Example - Condon & Crano 1988)"
+    "objectID": "week06/lecture.html#the-replication-crisis",
+    "href": "week06/lecture.html#the-replication-crisis",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The replication crisis",
+    "text": "The replication crisis\n\nThe Open Science Collaboration (2015) (c.f. Brian Nosek) conducted 100 replications of psychology studies published in three psychology journals\nWhile 97 of previous studies reported significant results, only 36 were significant in the replication attempt. And effects were smaller than originally reported…"
   },
   {
-    "objectID": "week06/lecture.slides.html#attitude-similarity-and-interpersonal-attraction",
-    "href": "week06/lecture.slides.html#attitude-similarity-and-interpersonal-attraction",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Attitude similarity and interpersonal attraction",
-    "text": "Attitude similarity and interpersonal attraction"
+    "objectID": "week06/lecture.html#violin-plots",
+    "href": "week06/lecture.html#violin-plots",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Violin plots",
+    "text": "Violin plots\n\n\n\nViolin Plots of Replication Results"
   },
   {
-    "objectID": "week06/lecture.slides.html#their-dv-consider-pros-and-cons",
-    "href": "week06/lecture.slides.html#their-dv-consider-pros-and-cons",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Their DV (consider pros and cons)",
-    "text": "Their DV (consider pros and cons)\nThis person would like (dislike) me\nThis person would like (dislike) working with me in an experiment"
+    "objectID": "week06/lecture.html#raincloud-plots",
+    "href": "week06/lecture.html#raincloud-plots",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Raincloud plots",
+    "text": "Raincloud plots\n\n\n\nRaincloud Plots of Replication Results"
   },
   {
-    "objectID": "week06/lecture.slides.html#the-student-room-question",
-    "href": "week06/lecture.slides.html#the-student-room-question",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "The Student Room (question)",
-    "text": "The Student Room (question)"
+    "objectID": "week06/lecture.html#why-arent-we-replicating",
+    "href": "week06/lecture.html#why-arent-we-replicating",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Why aren’t we replicating?",
+    "text": "Why aren’t we replicating?\n\nSome point the finger at scientific fraud (i.e. bad scientists making up their data)\nHowever, others point to more systematic problems\nLow statistical power\nQuestionable research practices (QRPs)\nPublication bias"
   },
   {
-    "objectID": "week06/lecture.slides.html#the-student-room-answer-1",
-    "href": "week06/lecture.slides.html#the-student-room-answer-1",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "The Student Room (answer 1)",
-    "text": "The Student Room (answer 1)"
+    "objectID": "week06/lecture.html#statistical-power",
+    "href": "week06/lecture.html#statistical-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Statistical power",
+    "text": "Statistical power\n\nSince 1960s, sample sizes in standard psychology studies have remained too small – giving them low power\nLow power is normally a problem because it means that you don’t find significant effects\nAn underappreciated downside of low power is that if you do find effect, it is probably spuriously exaggerated\nThis will mean that when you try to replicate it, it will be smaller (not significant)"
   },
   {
-    "objectID": "week06/lecture.slides.html#the-student-room-answer-2",
-    "href": "week06/lecture.slides.html#the-student-room-answer-2",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "The Student Room (answer 2)",
-    "text": "The Student Room (answer 2)"
+    "objectID": "week06/lecture.html#we-are-training-you-in-best-practice",
+    "href": "week06/lecture.html#we-are-training-you-in-best-practice",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "We are training you in best practice",
+    "text": "We are training you in best practice\nIf you have had trouble finding an effect size in your Personality Essay or Critical Proposal…\nThis is either because the new best practice hasn’t been adopted, or the research team dropped the ball."
   },
   {
-    "objectID": "week06/lecture.slides.html#of-great-importance-that-you-reflect-on-this-for-your-md-too",
-    "href": "week06/lecture.slides.html#of-great-importance-that-you-reflect-on-this-for-your-md-too",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Of great importance that you reflect on this for your MD too",
-    "text": "Of great importance that you reflect on this for your MD too\nHow have you defined your variables of interest?\n\nIVs and DVs\n\nHow have you measured or categorised your variables of interest?\n\ne.g. Social Media use\nGender\nFrequency or low/high extraversion"
+    "objectID": "week06/lecture.html#power-plot",
+    "href": "week06/lecture.html#power-plot",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Power plot",
+    "text": "Power plot\n\nSmaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3(9), 160384. https://doi.org/10.1098/rsos.160384"
   },
   {
-    "objectID": "week06/lecture.slides.html#the-research-process",
-    "href": "week06/lecture.slides.html#the-research-process",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "The research process",
-    "text": "The research process\n\n\n\nNote\n\n\n\nDevelop research aims \nSpecify research questions/hypotheses related to these aims\nIdentify relevant constructs and concepts \nTranslate constructs and concepts into variables (i.e., a logical set of characteristics/features)\nTranslate variables into measurements (i.e., the quantification of characteristics/features)"
+    "objectID": "week06/lecture.html#what-is-power",
+    "href": "week06/lecture.html#what-is-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "What is power?",
+    "text": "What is power?\n\nPower is the probability of rejecting the null hypothesis when it is false.\nPower depends on the significance level, sample size, and effect size of a test.\nPower is important for planning and evaluating studies."
   },
   {
-    "objectID": "week06/lecture.slides.html#quantitative-research",
-    "href": "week06/lecture.slides.html#quantitative-research",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Quantitative Research",
-    "text": "Quantitative Research\nA systematic examination of relationships between variables\n\n‘Variables’ are ‘translated’ from concepts, constructs or phenomena\n\n\nCould be critiqued as ‘reductionist’"
+    "objectID": "week06/lecture.html#how-to-calculate-power",
+    "href": "week06/lecture.html#how-to-calculate-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "How to calculate power?",
+    "text": "How to calculate power?\n\nUse online tools or statistical software like G*Power.\nSpecify the type of test, the alpha level, the effect size, and the desired power or sample size.\nFor complex research designs, you may need to calculate a number of potential effect sizes"
   },
   {
-    "objectID": "week06/lecture.slides.html#types-of-variable",
-    "href": "week06/lecture.slides.html#types-of-variable",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Types of Variable",
-    "text": "Types of Variable\nIndependent Variable\n\nExperimental - The variable I manipulate\nNon-Experimental / Quasi-Experimental - Comparison between pre-existing groups\n\nDependent Variable\n\nThe variable you measure, that you propose to be influenced by a manpulation of the IVs\nThe [D]ata{.shout}"
+    "objectID": "week06/lecture.html#why-is-power-low-in-psychology",
+    "href": "week06/lecture.html#why-is-power-low-in-psychology",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Why is power low in psychology?",
+    "text": "Why is power low in psychology?\n\nSmall sample sizes are common in psychological research.\nEffect sizes are often unknown or overestimated.\nResearchers may not use power analysis or understand its meaning."
   },
   {
-    "objectID": "week06/lecture.slides.html#types-of-measurement",
-    "href": "week06/lecture.slides.html#types-of-measurement",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Types of Measurement",
-    "text": "Types of Measurement\nNominal/Categorical\n\nMale/Female/…\nVegan / Vegetarian\nSmoker/Non-Smoker"
+    "objectID": "week06/lecture.html#how-to-improve-power-in-psychology",
+    "href": "week06/lecture.html#how-to-improve-power-in-psychology",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "How to improve power in psychology?",
+    "text": "How to improve power in psychology?\n\nIncrease sample size or use more sensitive measures.\nUse meta-analysis or replication to estimate effect sizes.\nEducate researchers and reviewers about power and its implications."
   },
   {
-    "objectID": "week06/lecture.slides.html#types-of-measurement-1",
-    "href": "week06/lecture.slides.html#types-of-measurement-1",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Types of Measurement",
-    "text": "Types of Measurement\nOrdinal\nNumbers representing a rank position in a group\nNot representative of an actual definite number/score/value - without information about the ‘gap’ between numbers\n\nFirst, second, third\nTallest/Shortest"
+    "objectID": "week06/lecture.html#questionable-research-practices-qrps",
+    "href": "week06/lecture.html#questionable-research-practices-qrps",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Questionable Research Practices (QRPs)",
+    "text": "Questionable Research Practices (QRPs)\nSelective reporting of participants\nE.g., excluding data from some participants\n. . .\nSelective reporting of manipulations or variables\nE.g., measuring many different variables in a study, but only writing up the variables that ‘worked’ (were significant)\n. . .\nOptional stopping rules\nE.g., continuing to add participants to a sample until it is just significant (p&lt;.05)"
   },
   {
-    "objectID": "week06/lecture.slides.html#types-of-measurement-2",
-    "href": "week06/lecture.slides.html#types-of-measurement-2",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Types of Measurement",
-    "text": "Types of Measurement\nInterval\nNumbers represent equal units giving information about the ‘gap’ between numbers\n\nTemperature\nPsychological Scales"
+    "objectID": "week06/lecture.html#qrps-continued",
+    "href": "week06/lecture.html#qrps-continued",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "QRPs Continued",
+    "text": "QRPs Continued\nFlexible data analysis\nE.g., Adding covariates (without good reason) to ‘improve’ statistical results\n. . .\nHARKing (Hypothesising After Results are Known)\nRunning a study, and then generating a hypothesis that fits the results (even if they were not what you originally predicted)\n. . .\nWhat these practices all have in common is they involve capitalising on chance to create a significant result (which may not be reliable)"
   },
   {
-    "objectID": "week06/lecture.slides.html#types-of-measurement-3",
-    "href": "week06/lecture.slides.html#types-of-measurement-3",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Types of Measurement",
-    "text": "Types of Measurement\nRatio\nInterval measurements with an absolute zero, of equal units,\n\nWeight\nLength\nTime/Reaction time*"
+    "objectID": "week06/lecture.html#novelty-and-glamour",
+    "href": "week06/lecture.html#novelty-and-glamour",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Novelty and glamour",
+    "text": "Novelty and glamour\n\n\nScientists want to communicate their science, but they also want successful careers\nAn important metric for success in science is publishing in ‘top journals’ (e.g., Nature, Science)\nGetting published in these journals gets your science out to a wide audience (because lots of people read them) but also carries prestige – you get jobs, grants, funding and prizes from publishing regularly in these journals\nBut top journals want to publish novel or surprising results.\nWhy do you think that could be a problem?"
   },
   {
-    "objectID": "week06/lecture.slides.html#median-splits",
-    "href": "week06/lecture.slides.html#median-splits",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Median Splits",
-    "text": "Median Splits\n‘Cutting’ a distribution in half at the mid-point - with 50% on each side of the cut"
+    "objectID": "week06/lecture.html#lust-for-impact-factors",
+    "href": "week06/lecture.html#lust-for-impact-factors",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Lust for Impact Factors!",
+    "text": "Lust for Impact Factors!\n\nPaulus, F. M., Rademacher, L., Schäfer, T. A., Müller-Pinzler, L., & Krach, S. (2015). Journal Impact Factor Shapes Scientists’ Reward Signal in the Prospect of Publication. PloS one, 10(11), e0142537. https://doi.org/10.1371/journal.pone.0142537"
   },
   {
-    "objectID": "week06/lecture.slides.html#median-splits-can-be-considered-problematic",
-    "href": "week06/lecture.slides.html#median-splits-can-be-considered-problematic",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Median Splits can be considered problematic",
-    "text": "Median Splits can be considered problematic\n\n\n\n\n\n\nBeware!\n\n\nWe often suggest a median split to dichotomise a continuous variable, e.g. for the purposes of creating a 2 level IV.\nIt’s a useful exercise in calculating a ‘computed variable’ in SPSS or Jamovi\nIt is NOT best-practice usually. Why not?\n\n\n\nIt is a key learning outcome that you are able to perform a standardised analysis, specifically, the 2x2 ANOVA with any necessary assumption checks and post-hocs + plots"
+    "objectID": "week06/lecture.html#biases-in-journals-file-drawer-problem",
+    "href": "week06/lecture.html#biases-in-journals-file-drawer-problem",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Biases in journals: File drawer problem",
+    "text": "Biases in journals: File drawer problem\n\nEven beyond ‘prestige’ journals, journals are biased to publish positive (i.e. significant) findings\nBecause it is much easier to publish positive results, rather than nonsignificant results or failed replications, science has a ‘file drawer problem’\nScientists don’t try to publish their null results, and/or journals make it hard to publish them\nThis means the published literature is biased to contain significant results (that come from a distribution where there is no true effect)"
   },
   {
-    "objectID": "week06/lecture.slides.html#think-about-this",
-    "href": "week06/lecture.slides.html#think-about-this",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Think about this",
-    "text": "Think about this"
+    "objectID": "week06/lecture.html#lets-work-the-probabilities",
+    "href": "week06/lecture.html#lets-work-the-probabilities",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Let’s work the probabilities",
+    "text": "Let’s work the probabilities\nWith an alpha level of p=.05, if we have 40 scientists testing any hypothesis we would expect one to find a significant result in one direction, and another to find a significant result in another direction just by random chance"
   },
   {
-    "objectID": "week06/lecture.slides.html#operationalisation-measurement-and-definitions-impact",
-    "href": "week06/lecture.slides.html#operationalisation-measurement-and-definitions-impact",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Operationalisation, measurement and definitions impact…",
-    "text": "Operationalisation, measurement and definitions impact…"
+    "objectID": "week06/lecture.html#the-credibility-revolution",
+    "href": "week06/lecture.html#the-credibility-revolution",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The credibility revolution?",
+    "text": "The credibility revolution?\nRecent years have seen several changes to how psychological science is conducted to overcome concerns about reliability – dubbed the ‘credibility revolution’"
   },
   {
-    "objectID": "week06/lecture.slides.html#summary-of-part-1",
-    "href": "week06/lecture.slides.html#summary-of-part-1",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Summary of part 1",
-    "text": "Summary of part 1\nYou should think carefully about:\n\nHow you define your variables - this is probably a part of the introduction that students DON’T think about enough\nHow you measure or categorise your variables (IVs and DVs) - this is probably the single thing I look at first when peer-reviewing research!\nHow well your manipulation does what it claims to. Does you manipulation bring the thing it proposed to to life well?"
+    "objectID": "week06/lecture.html#recommendations-and-changes",
+    "href": "week06/lecture.html#recommendations-and-changes",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Recommendations and changes",
+    "text": "Recommendations and changes\nLow statistical power? Report power analyses and justify sample sizes\n\n(Taken from guidance to authors at journal Psychological Science)"
   },
   {
-    "objectID": "week06/lecture.slides.html#comparing-experiment-modalities",
-    "href": "week06/lecture.slides.html#comparing-experiment-modalities",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Comparing Experiment Modalities",
-    "text": "Comparing Experiment Modalities\n\nOnline Surveys and Experiments\n\nQualtrics - For surveys, stimulus presentation that don’t require accurate timing\nGorilla.sc - For ‘experimental’ tasks with complex stimulus &gt; presentation or that require response time measures or push-button &gt; responses etc.\n\nFace-to-Face Experiments"
+    "objectID": "week06/lecture.html#familiar",
+    "href": "week06/lecture.html#familiar",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Familiar?",
+    "text": "Familiar?"
   },
   {
-    "objectID": "week06/lecture.slides.html#online-surveys-and-experiments-with-qualtrics",
-    "href": "week06/lecture.slides.html#online-surveys-and-experiments-with-qualtrics",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Online Surveys and Experiments with Qualtrics",
-    "text": "Online Surveys and Experiments with Qualtrics\nOverview\n\nA powerful tool for creating and distributing online surveys\nWidely used in psychological research\nWe have an institutional licence and so it is FREE\nNo specialist support - has excellent online support"
+    "objectID": "week06/lecture.html#the-goal",
+    "href": "week06/lecture.html#the-goal",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The goal",
+    "text": "The goal"
   },
   {
-    "objectID": "week06/lecture.slides.html#pros-of-qualtrics",
-    "href": "week06/lecture.slides.html#pros-of-qualtrics",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Pros of Qualtrics",
-    "text": "Pros of Qualtrics\nAccessibility\n\nReach a wide, diverse audience (if necessary)\nAccessible by anyone with a phone or laptop etc\n\nCost-Effective\n\nLow ‘cost’ compared to face-to-face\n\nData Management\n\nAutomated data collection, scoring and storage\nRelatively easy to analyze and export data - but not always simple\n\nCustomization\n\nHighly customizable surveys and experiments (video, photos, audio, vignettes)\nSupports various question types and logic"
+    "objectID": "week06/lecture.html#the-normal-process",
+    "href": "week06/lecture.html#the-normal-process",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The ‘normal’ process",
+    "text": "The ‘normal’ process"
   },
   {
-    "objectID": "week06/lecture.slides.html#cons-of-qualtrics",
-    "href": "week06/lecture.slides.html#cons-of-qualtrics",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Cons of Qualtrics",
-    "text": "Cons of Qualtrics\nLimited Human Interaction\n\nLack of personal interaction can affect responses\nYou put a huge amount of trust in the participant\nNot always easy to manage ethical challenges properly\n\nTechnical Issues\n\nDependence on internet connectivity and user tech skills\nAn error in the build and you are in trouble ####"
+    "objectID": "week06/lecture.html#a-better-solution",
+    "href": "week06/lecture.html#a-better-solution",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "A better solution?",
+    "text": "A better solution?"
   },
   {
-    "objectID": "week06/lecture.slides.html#cons-of-qualtrics-continued",
-    "href": "week06/lecture.slides.html#cons-of-qualtrics-continued",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Cons of Qualtrics (continued)",
-    "text": "Cons of Qualtrics (continued)\nResponse Authenticity\n\nHigher risk of dishonest or inattentive responses (maybe?)\n\n\nSampling Bias\n\nPotential for non-representative samples"
+    "objectID": "week06/lecture.html#do-scientists-already-know-which-results-to-trust",
+    "href": "week06/lecture.html#do-scientists-already-know-which-results-to-trust",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Do scientists already ‘know’ which results to trust?",
+    "text": "Do scientists already ‘know’ which results to trust?\n\nThe unnerving thing about the ‘replication crisis’ seems to be that psychological theories are built on foundations of sand. But is this true?\nCamerer and colleagues attempted to replicate 21 social science studies (including psychology) and found around 13 replicated.\nHowever, the study also ran a prediction market where scientists (PhD or PhD student) had to bet on which studies would replicate and which wouldn’t\nWe should want our journal to publish things that are robust – but if scientists have a good sense of what is reliable, is this really a ‘crisis’?"
   },
   {
-    "objectID": "week06/lecture.slides.html#introduction-to-experiments-using-gorilla.sc",
-    "href": "week06/lecture.slides.html#introduction-to-experiments-using-gorilla.sc",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Introduction to experiments using Gorilla.sc",
-    "text": "Introduction to experiments using Gorilla.sc\nGorilla.sc: highly controlled online Psychological Research\n\nA comprehensive online tool for behavioral research\nFacilitates creation, deployment, and analysis of experiments"
+    "objectID": "week06/lecture.html#camerer-et-al.-2018",
+    "href": "week06/lecture.html#camerer-et-al.-2018",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Camerer et al. (2018)",
+    "text": "Camerer et al. (2018)"
   },
   {
-    "objectID": "week06/lecture.slides.html#core-features-of-gorilla.sc",
-    "href": "week06/lecture.slides.html#core-features-of-gorilla.sc",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Core Features of Gorilla.sc",
-    "text": "Core Features of Gorilla.sc\nUser-Friendly Interface\n\nIntuitive design for researchers of all levels\nDrag-and-drop experiment builder\n\nRequires ‘tokens’ to run\n\nYou will need to apply for ‘tokens’ to apply for ethics, and to run the study.\nThere is usually a limited supply as there is a cost associated with this.\n\nVersatile Experiment Design\n\nSupports a wide range of experimental paradigms\nCustomizable to suit various research needs"
+    "objectID": "week06/lecture.html#findings",
+    "href": "week06/lecture.html#findings",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Findings",
+    "text": "Findings"
   },
   {
-    "objectID": "week06/lecture.slides.html#experiment-creation-with-gorilla.sc",
-    "href": "week06/lecture.slides.html#experiment-creation-with-gorilla.sc",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Experiment Creation with Gorilla.sc",
-    "text": "Experiment Creation with Gorilla.sc\nBuilding Blocks\n\nUse ‘widgets’ and ‘tasks’ to construct experiments\nEasily integrate surveys, quizzes, and cognitive tasks\n\nAdvanced Customization\n\nIncorporate complex experimental logic\nCustomize with CSS and JavaScript for unique requirements"
+    "objectID": "week06/lecture.html#dubious-efforts-to-replicate",
+    "href": "week06/lecture.html#dubious-efforts-to-replicate",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Dubious efforts to replicate",
+    "text": "Dubious efforts to replicate\nResearchers who do replication studies also have flexibility in their design and analysis choices.\nThere may be a bias to not replicate certain findings (e.g., because you are sceptical of the result in the first place)"
   },
   {
-    "objectID": "week06/lecture.slides.html#data-collection-and-analysis",
-    "href": "week06/lecture.slides.html#data-collection-and-analysis",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Data Collection and Analysis",
-    "text": "Data Collection and Analysis\nReal-Time Data Collection\n\nGather data securely and efficiently\nAccess participant responses in real-time\n\nAnalytical Tools\n\nBuilt-in tools for basic data analysis\nExport data for advanced analysis in other software e.g. SPSS"
+    "objectID": "week06/lecture.html#no-reason-to-worry",
+    "href": "week06/lecture.html#no-reason-to-worry",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "No reason to worry",
+    "text": "No reason to worry\nSome have suggested that low replication rates are not necessarily a sign of bad research\nAlexander Bird (philosopher of science) suggests worries about replication reflect base rate fallacy\nMost hypotheses are wrong so we wouldn’t expect them to replicate in future studies\nWhat do you think?"
   },
   {
-    "objectID": "week06/lecture.slides.html#collaboration-and-sharing",
-    "href": "week06/lecture.slides.html#collaboration-and-sharing",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Collaboration and Sharing",
-    "text": "Collaboration and Sharing\nTeam Collaboration\n\nShare experiments and data with team members\nCollaborate on experiment design and analysis\n\nParticipant Recruitment\n\nStill needs to be managed via sources outside of Gorilla"
+    "objectID": "week06/lecture.html#alexander-bird-2018",
+    "href": "week06/lecture.html#alexander-bird-2018",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Alexander Bird (2018)",
+    "text": "Alexander Bird (2018)"
   },
   {
-    "objectID": "week06/lecture.slides.html#gorilla.sc-in-psychological-research",
-    "href": "week06/lecture.slides.html#gorilla.sc-in-psychological-research",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Gorilla.sc in Psychological Research",
-    "text": "Gorilla.sc in Psychological Research\nBroad Application\n\nSuitable for cognitive, social, and clinical psychology\nIdeal for remote and large-scale studies\n\nImpact on Mini-Dissertations\n\nIncreases the reach of psychological studies requiring complex stimulus or timing\nNot easy to get up and running with this tool\nNo specialist support - has excellent templates and online support"
+    "objectID": "week06/lecture.html#are-we-worry-about-the-wrong-thing",
+    "href": "week06/lecture.html#are-we-worry-about-the-wrong-thing",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Are we worry about the wrong thing?",
+    "text": "Are we worry about the wrong thing?\n\nOther psychologists have argued that focus on replicability, statistical robustness etc. is misguided\nThe real problem psychology has is the absence of strong theories\nThis “theory crisis” cannot be solved with more and more attention to statistics\nTheory is the thing we should be caring about? Not specific effects in specific studies\nNo statistics can help us to test a theory that is poorly thought out"
   },
   {
-    "objectID": "week06/lecture.slides.html#face-to-face-experiments",
-    "href": "week06/lecture.slides.html#face-to-face-experiments",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Face-to-Face Experiments",
-    "text": "Face-to-Face Experiments\nOverview\n\nTraditional method of conducting experiments\nInvolves direct interaction with participants"
+    "objectID": "week06/lecture.html#summary",
+    "href": "week06/lecture.html#summary",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Summary",
+    "text": "Summary\nYou should now know:\n\nWhy scientists are concerned about the reliability of psychological studies\nSteps the scientific community are taking to overcome these worries\nNot everyone is convinced that the ‘crisis’ is as serious as it seems, or whether these changes will help solve psychology’s problems"
   },
   {
-    "objectID": "week06/lecture.slides.html#pros-of-face-to-face-experiments",
-    "href": "week06/lecture.slides.html#pros-of-face-to-face-experiments",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Pros of Face-to-Face Experiments",
-    "text": "Pros of Face-to-Face Experiments\nEnhanced Interaction\n\nDirect human interaction enriches data quality\n\nControlled Environment\n\nBetter control over experimental conditions\n\nImmediate Feedback\n\nOpportunity for immediate clarification and feedback\n\nParticipant Authenticity\n\nLower risk of false responses (maybe?)"
+    "objectID": "week06/lecture.html#references",
+    "href": "week06/lecture.html#references",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "References",
+    "text": "References"
   },
   {
-    "objectID": "week06/lecture.slides.html#cons-of-face-to-face-experiments",
-    "href": "week06/lecture.slides.html#cons-of-face-to-face-experiments",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Cons of Face-to-Face Experiments",
-    "text": "Cons of Face-to-Face Experiments\nHigher Costs\n\nGreater resource and time investment (maybe?)\n\nLimited Reach\n\nRestricted to participants’ geographical location\n\nTime-Consuming\n\nScheduling and conducting sessions takes time\n\nPotential Biases\n\nRisk of experimenter or social desirability biases"
+    "objectID": "week06/lecture.slides.html#open-science",
+    "href": "week06/lecture.slides.html#open-science",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Open Science",
+    "text": "Open Science"
   },
   {
-    "objectID": "week06/lecture.slides.html#conclusion",
-    "href": "week06/lecture.slides.html#conclusion",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Conclusion",
-    "text": "Conclusion\nChoosing the Right Method\n\nDepends on research goals, resources, and target population\nBoth methods offer unique advantages and challenges\n\nTailoring to Research Needs\n\nConsider the nature of your study and participant accessibility\nBalance between quality, ‘cost’, and reach"
+    "objectID": "week06/lecture.slides.html#but-what-does-that-mean",
+    "href": "week06/lecture.slides.html#but-what-does-that-mean",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "But what does that mean?",
+    "text": "But what does that mean?"
   },
   {
-    "objectID": "week06/lecture.slides.html#lab-activities",
-    "href": "week06/lecture.slides.html#lab-activities",
-    "title": "Lecture 06: Online and face-to-face testing",
-    "section": "Lab activities",
-    "text": "Lab activities\nQualtrics (Many of you will use this!)\n\nLog in to an account with your Goldsmiths ID!!\n10% of you will apply for the wrong type of account and be stuck for 2 weeks\n\nFamiliarise yourself with the Ethics Application process\nConsider the steps required to bring your study to life!"
+    "objectID": "week06/lecture.slides.html#opensciencecollaboration2015",
+    "href": "week06/lecture.slides.html#opensciencecollaboration2015",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "@opensciencecollaboration2015",
+    "text": "@opensciencecollaboration2015\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), 943–943. http://www.jstor.org/stable/24749235"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#the-replication-crisis",
+    "href": "week06/lecture.slides.html#the-replication-crisis",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The replication crisis",
+    "text": "The replication crisis\n\nThe Open Science Collaboration (2015) (c.f. Brian Nosek) conducted 100 replications of psychology studies published in three psychology journals\nWhile 97 of previous studies reported significant results, only 36 were significant in the replication attempt. And effects were smaller than originally reported…"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#violin-plots",
+    "href": "week06/lecture.slides.html#violin-plots",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Violin plots",
+    "text": "Violin plots\n\nViolin Plots of Replication Results"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#raincloud-plots",
+    "href": "week06/lecture.slides.html#raincloud-plots",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Raincloud plots",
+    "text": "Raincloud plots\n\nRaincloud Plots of Replication Results"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#why-arent-we-replicating",
+    "href": "week06/lecture.slides.html#why-arent-we-replicating",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Why aren’t we replicating?",
+    "text": "Why aren’t we replicating?\n\nSome point the finger at scientific fraud (i.e. bad scientists making up their data)\nHowever, others point to more systematic problems\nLow statistical power\nQuestionable research practices (QRPs)\nPublication bias"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#statistical-power",
+    "href": "week06/lecture.slides.html#statistical-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Statistical power",
+    "text": "Statistical power\n\nSince 1960s, sample sizes in standard psychology studies have remained too small – giving them low power\nLow power is normally a problem because it means that you don’t find significant effects\nAn underappreciated downside of low power is that if you do find effect, it is probably spuriously exaggerated\nThis will mean that when you try to replicate it, it will be smaller (not significant)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#we-are-training-you-in-best-practice",
+    "href": "week06/lecture.slides.html#we-are-training-you-in-best-practice",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "We are training you in best practice",
+    "text": "We are training you in best practice\nIf you have had trouble finding an effect size in your Personality Essay or Critical Proposal…\nThis is either because the new best practice hasn’t been adopted, or the research team dropped the ball."
+  },
+  {
+    "objectID": "week06/lecture.slides.html#power-plot",
+    "href": "week06/lecture.slides.html#power-plot",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Power plot",
+    "text": "Power plot\n\nSmaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3(9), 160384. https://doi.org/10.1098/rsos.160384"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#what-is-power",
+    "href": "week06/lecture.slides.html#what-is-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "What is power?",
+    "text": "What is power?\n\nPower is the probability of rejecting the null hypothesis when it is false.\nPower depends on the significance level, sample size, and effect size of a test.\nPower is important for planning and evaluating studies."
+  },
+  {
+    "objectID": "week06/lecture.slides.html#how-to-calculate-power",
+    "href": "week06/lecture.slides.html#how-to-calculate-power",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "How to calculate power?",
+    "text": "How to calculate power?\n\nUse online tools or statistical software like G*Power.\nSpecify the type of test, the alpha level, the effect size, and the desired power or sample size.\nFor complex research designs, you may need to calculate a number of potential effect sizes"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#why-is-power-low-in-psychology",
+    "href": "week06/lecture.slides.html#why-is-power-low-in-psychology",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Why is power low in psychology?",
+    "text": "Why is power low in psychology?\n\nSmall sample sizes are common in psychological research.\nEffect sizes are often unknown or overestimated.\nResearchers may not use power analysis or understand its meaning."
+  },
+  {
+    "objectID": "week06/lecture.slides.html#how-to-improve-power-in-psychology",
+    "href": "week06/lecture.slides.html#how-to-improve-power-in-psychology",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "How to improve power in psychology?",
+    "text": "How to improve power in psychology?\n\nIncrease sample size or use more sensitive measures.\nUse meta-analysis or replication to estimate effect sizes.\nEducate researchers and reviewers about power and its implications."
+  },
+  {
+    "objectID": "week06/lecture.slides.html#questionable-research-practices-qrps",
+    "href": "week06/lecture.slides.html#questionable-research-practices-qrps",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Questionable Research Practices (QRPs)",
+    "text": "Questionable Research Practices (QRPs)\nSelective reporting of participants\nE.g., excluding data from some participants\n\nSelective reporting of manipulations or variables\nE.g., measuring many different variables in a study, but only writing up the variables that ‘worked’ (were significant)\n\n\nOptional stopping rules\nE.g., continuing to add participants to a sample until it is just significant (p&lt;.05)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#qrps-continued",
+    "href": "week06/lecture.slides.html#qrps-continued",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "QRPs Continued",
+    "text": "QRPs Continued\nFlexible data analysis\nE.g., Adding covariates (without good reason) to ‘improve’ statistical results\n\nHARKing (Hypothesising After Results are Known)\nRunning a study, and then generating a hypothesis that fits the results (even if they were not what you originally predicted)\n\n\nWhat these practices all have in common is they involve capitalising on chance to create a significant result (which may not be reliable)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#novelty-and-glamour",
+    "href": "week06/lecture.slides.html#novelty-and-glamour",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Novelty and glamour",
+    "text": "Novelty and glamour\n\n\nScientists want to communicate their science, but they also want successful careers\nAn important metric for success in science is publishing in ‘top journals’ (e.g., Nature, Science)\nGetting published in these journals gets your science out to a wide audience (because lots of people read them) but also carries prestige – you get jobs, grants, funding and prizes from publishing regularly in these journals\nBut top journals want to publish novel or surprising results.\nWhy do you think that could be a problem?"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#lust-for-impact-factors",
+    "href": "week06/lecture.slides.html#lust-for-impact-factors",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Lust for Impact Factors!",
+    "text": "Lust for Impact Factors!\n\nPaulus, F. M., Rademacher, L., Schäfer, T. A., Müller-Pinzler, L., & Krach, S. (2015). Journal Impact Factor Shapes Scientists’ Reward Signal in the Prospect of Publication. PloS one, 10(11), e0142537. https://doi.org/10.1371/journal.pone.0142537"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#biases-in-journals-file-drawer-problem",
+    "href": "week06/lecture.slides.html#biases-in-journals-file-drawer-problem",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Biases in journals: File drawer problem",
+    "text": "Biases in journals: File drawer problem\n\nEven beyond ‘prestige’ journals, journals are biased to publish positive (i.e. significant) findings\nBecause it is much easier to publish positive results, rather than nonsignificant results or failed replications, science has a ‘file drawer problem’\nScientists don’t try to publish their null results, and/or journals make it hard to publish them\nThis means the published literature is biased to contain significant results (that come from a distribution where there is no true effect)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#lets-work-the-probabilities",
+    "href": "week06/lecture.slides.html#lets-work-the-probabilities",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Let’s work the probabilities",
+    "text": "Let’s work the probabilities\nWith an alpha level of p=.05, if we have 40 scientists testing any hypothesis we would expect one to find a significant result in one direction, and another to find a significant result in another direction just by random chance"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#the-credibility-revolution",
+    "href": "week06/lecture.slides.html#the-credibility-revolution",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The credibility revolution?",
+    "text": "The credibility revolution?\nRecent years have seen several changes to how psychological science is conducted to overcome concerns about reliability – dubbed the ‘credibility revolution’"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#recommendations-and-changes",
+    "href": "week06/lecture.slides.html#recommendations-and-changes",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Recommendations and changes",
+    "text": "Recommendations and changes\nLow statistical power? Report power analyses and justify sample sizes\n\n(Taken from guidance to authors at journal Psychological Science)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#familiar",
+    "href": "week06/lecture.slides.html#familiar",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Familiar?",
+    "text": "Familiar?"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#the-goal",
+    "href": "week06/lecture.slides.html#the-goal",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The goal",
+    "text": "The goal"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#the-normal-process",
+    "href": "week06/lecture.slides.html#the-normal-process",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "The ‘normal’ process",
+    "text": "The ‘normal’ process"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#a-better-solution",
+    "href": "week06/lecture.slides.html#a-better-solution",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "A better solution?",
+    "text": "A better solution?"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#do-scientists-already-know-which-results-to-trust",
+    "href": "week06/lecture.slides.html#do-scientists-already-know-which-results-to-trust",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Do scientists already ‘know’ which results to trust?",
+    "text": "Do scientists already ‘know’ which results to trust?\n\nThe unnerving thing about the ‘replication crisis’ seems to be that psychological theories are built on foundations of sand. But is this true?\nCamerer and colleagues attempted to replicate 21 social science studies (including psychology) and found around 13 replicated.\nHowever, the study also ran a prediction market where scientists (PhD or PhD student) had to bet on which studies would replicate and which wouldn’t\nWe should want our journal to publish things that are robust – but if scientists have a good sense of what is reliable, is this really a ‘crisis’?"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#camerer-et-al.-2018",
+    "href": "week06/lecture.slides.html#camerer-et-al.-2018",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Camerer et al. (2018)",
+    "text": "Camerer et al. (2018)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#findings",
+    "href": "week06/lecture.slides.html#findings",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Findings",
+    "text": "Findings"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#dubious-efforts-to-replicate",
+    "href": "week06/lecture.slides.html#dubious-efforts-to-replicate",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Dubious efforts to replicate",
+    "text": "Dubious efforts to replicate\nResearchers who do replication studies also have flexibility in their design and analysis choices.\nThere may be a bias to not replicate certain findings (e.g., because you are sceptical of the result in the first place)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#no-reason-to-worry",
+    "href": "week06/lecture.slides.html#no-reason-to-worry",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "No reason to worry",
+    "text": "No reason to worry\nSome have suggested that low replication rates are not necessarily a sign of bad research\nAlexander Bird (philosopher of science) suggests worries about replication reflect base rate fallacy\nMost hypotheses are wrong so we wouldn’t expect them to replicate in future studies\nWhat do you think?"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#alexander-bird-2018",
+    "href": "week06/lecture.slides.html#alexander-bird-2018",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Alexander Bird (2018)",
+    "text": "Alexander Bird (2018)"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#are-we-worry-about-the-wrong-thing",
+    "href": "week06/lecture.slides.html#are-we-worry-about-the-wrong-thing",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Are we worry about the wrong thing?",
+    "text": "Are we worry about the wrong thing?\n\nOther psychologists have argued that focus on replicability, statistical robustness etc. is misguided\nThe real problem psychology has is the absence of strong theories\nThis “theory crisis” cannot be solved with more and more attention to statistics\nTheory is the thing we should be caring about? Not specific effects in specific studies\nNo statistics can help us to test a theory that is poorly thought out"
+  },
+  {
+    "objectID": "week06/lecture.slides.html#summary",
+    "href": "week06/lecture.slides.html#summary",
+    "title": "Lecture 06: The Open Science movement in Psychology",
+    "section": "Summary",
+    "text": "Summary\nYou should now know:\n\nWhy scientists are concerned about the reliability of psychological studies\nSteps the scientific community are taking to overcome these worries\nNot everyone is convinced that the ‘crisis’ is as serious as it seems, or whether these changes will help solve psychology’s problems"
   },
   {
     "objectID": "week06/lecture.slides.html#references",
     "href": "week06/lecture.slides.html#references",
-    "title": "Lecture 06: Online and face-to-face testing",
+    "title": "Lecture 06: The Open Science movement in Psychology",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 06 - Online and face-to-face testing"
+    "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 06 - Doing Better"
   },
   {
     "objectID": "week09/lecture.slides.html#key-topics-today-20000",
@@ -2961,39 +3178,200 @@
     "text": "Complete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
   },
   {
-    "objectID": "week06/lab.slides.html#exciting-progress-so-far",
-    "href": "week06/lab.slides.html#exciting-progress-so-far",
-    "title": "Lab 06: Online or Face-to-face?",
-    "section": "Exciting progress so far!",
-    "text": "Exciting progress so far!\nYou’ve identified an exciting area of research and critically evaluated a relevant paper.\nTime to put all that hard work and careful thought into practice.\nBetween now and the end of term, you will build and obtain ethical approval for your studies.\nWe are all in the process of marking Critical Proposals, and we are seeing some wonderful application of the topics and concepts raised in the module so far.\nSome of you are making impressive claims about what you are going to do. Fantastic!"
+    "objectID": "week06/lab.slides.html#power",
+    "href": "week06/lab.slides.html#power",
+    "title": "Lab 06: Power Calculations",
+    "section": "Power",
+    "text": "Power\nIn the following slides AND IN THE HANDOUT, you can find step by step guidance on using G*Power to calculate your Power - and therefore the number of participants you would be required to test.\nRemember, it’s not life and death if you don’t meet sample size this year, but it would be next year.\nYou will have potential access to the RPS next year.\nYou will be asked to take part in all available Mini-Dissertation studies this year in weeks 11-15"
   },
   {
-    "objectID": "week06/lab.slides.html#dont-push-too-hard-yet",
-    "href": "week06/lab.slides.html#dont-push-too-hard-yet",
-    "title": "Lab 06: Online or Face-to-face?",
-    "section": "Don’t push too hard, yet!",
-    "text": "Don’t push too hard, yet!\nPlease remember, this is supposed to be a modest size project, with focus on following the steps from initial idea, critique, development, Ethics, data collection and preparation, analysis and write-up.\nWe don’t want any single step to be too daunting or labour-intensive. We want you to enjoy the process as much as possible, and think carefully about each step."
+    "objectID": "week06/lab.slides.html#i-got-the-i-got-the-power",
+    "href": "week06/lab.slides.html#i-got-the-i-got-the-power",
+    "title": "Lab 06: Power Calculations",
+    "section": "I got the, I got the power!",
+    "text": "I got the, I got the power!\nThe formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\nCohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother."
   },
   {
-    "objectID": "week06/lab.slides.html#the-mini-dissertation-rules",
-    "href": "week06/lab.slides.html#the-mini-dissertation-rules",
-    "title": "Lab 06: Online or Face-to-face?",
-    "section": "The Mini-Dissertation ‘rules’",
-    "text": "The Mini-Dissertation ‘rules’\n\nYour ultimate individually written up Mini-Dissertation project MUST conform to the following definitive rules:\n2x2 ANOVA design with 2 categorical IVs (each with 2 levels) and a single continuous DV\nYou must obtain ethical approval and prove individual involvement in the process of application\nYou must make a sample size estimation / Power calculation\nYou must collect data online and individually contribute to group data collection efforts"
+    "objectID": "week06/lab.slides.html#what",
+    "href": "week06/lab.slides.html#what",
+    "title": "Lab 06: Power Calculations",
+    "section": "What?",
+    "text": "What?\nThis means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..\n\na small p value indicates the results are surprising if the null hypothesis IS true\na large p value indicates the results are not very surprising if the null IS true."
   },
   {
-    "objectID": "week06/lab.slides.html#your-mini-dissertation-final-submission-must-comprise",
-    "href": "week06/lab.slides.html#your-mini-dissertation-final-submission-must-comprise",
-    "title": "Lab 06: Online or Face-to-face?",
-    "section": "Your Mini-Dissertation final submission must comprise:",
-    "text": "Your Mini-Dissertation final submission must comprise:\nSubmission Requirements\n\na 2500 word APA7 empirical paper with a critical reflection and complete reference list\nOpen Data - a single, cleaned, clearly-labelled data set in Excel format\nOpen Materials - a complete, replication-ready materials document detailing materials relevant to your submission"
+    "objectID": "week06/lab.slides.html#gpower",
+    "href": "week06/lab.slides.html#gpower",
+    "title": "Lab 06: Power Calculations",
+    "section": "G*Power",
+    "text": "G*Power\nYou can download G*Power on this page. Under the heading “download” click on the appropriate version for whether you have a Windows or Mac computer.\nhttps://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower"
   },
   {
-    "objectID": "week06/lab.slides.html#see-todays-worksheet-on-the-vle",
-    "href": "week06/lab.slides.html#see-todays-worksheet-on-the-vle",
-    "title": "Lab 06: Online or Face-to-face?",
-    "section": "See today’s worksheet on the VLE",
-    "text": "See today’s worksheet on the VLE\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 06 - Let’s get building"
+    "objectID": "week06/lab.slides.html#x2-factorial-anova-power-analysis",
+    "href": "week06/lab.slides.html#x2-factorial-anova-power-analysis",
+    "title": "Lab 06: Power Calculations",
+    "section": "2x2 factorial ANOVA Power analysis",
+    "text": "2x2 factorial ANOVA Power analysis\nIn a 2x2 design, there are three effects to compare:\n\nthe main effect of IV1,\nthe main effect of IV2,\nand the interaction between IV1 and IV2."
+  },
+  {
+    "objectID": "week06/lab.slides.html#look-after-the-little-effect-first",
+    "href": "week06/lab.slides.html#look-after-the-little-effect-first",
+    "title": "Lab 06: Power Calculations",
+    "section": "Look after the little effect first",
+    "text": "Look after the little effect first\nThere are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered by a single experimental design. This just means that your sample size will need to be sufficient to detect the weakest effect size of the three.\nYou might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.\nThis means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.\nif the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!"
+  },
+  {
+    "objectID": "week06/lab.slides.html#gpower-guide",
+    "href": "week06/lab.slides.html#gpower-guide",
+    "title": "Lab 06: Power Calculations",
+    "section": "G*Power guide",
+    "text": "G*Power guide\nIf you are running a design with 2 between participant IVs, use Slide 1\nIf you are running a mixed design, and want to explore the between Main effect - slide 2\nIf you are running a mixed design, and want to explore the within Main effect - slide 3\nIf you are running a mixed design, and want to explore the interaction effect - slide 4\nIf you are running a design with 2 between participant IVs, use Slide 5"
+  },
+  {
+    "objectID": "week06/lab.slides.html#gpower-guide---key-info",
+    "href": "week06/lab.slides.html#gpower-guide---key-info",
+    "title": "Lab 06: Power Calculations",
+    "section": "G*Power guide - Key info",
+    "text": "G*Power guide - Key info\nThe following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available."
+  },
+  {
+    "objectID": "week06/lab.slides.html#fully-between-designs-any-effect-of-interest",
+    "href": "week06/lab.slides.html#fully-between-designs-any-effect-of-interest",
+    "title": "Lab 06: Power Calculations",
+    "section": "1 - Fully Between Designs (any effect of interest)",
+    "text": "1 - Fully Between Designs (any effect of interest)"
+  },
+  {
+    "objectID": "week06/lab.slides.html#power-plot",
+    "href": "week06/lab.slides.html#power-plot",
+    "title": "Lab 06: Power Calculations",
+    "section": "Power plot",
+    "text": "Power plot"
+  },
+  {
+    "objectID": "week06/lab.slides.html#mixed-design-looking-at-a-between-main-effect",
+    "href": "week06/lab.slides.html#mixed-design-looking-at-a-between-main-effect",
+    "title": "Lab 06: Power Calculations",
+    "section": "2 - Mixed design (looking at a between main effect)",
+    "text": "2 - Mixed design (looking at a between main effect)"
+  },
+  {
+    "objectID": "week06/lab.slides.html#graph",
+    "href": "week06/lab.slides.html#graph",
+    "title": "Lab 06: Power Calculations",
+    "section": "graph",
+    "text": "graph"
+  },
+  {
+    "objectID": "week06/lab.slides.html#mixed-design-looking-at-within-main-effect",
+    "href": "week06/lab.slides.html#mixed-design-looking-at-within-main-effect",
+    "title": "Lab 06: Power Calculations",
+    "section": "3 - Mixed design (looking at within main effect)",
+    "text": "3 - Mixed design (looking at within main effect)"
+  },
+  {
+    "objectID": "week06/lab.slides.html#mixed-design-looking-at-interaction-effect",
+    "href": "week06/lab.slides.html#mixed-design-looking-at-interaction-effect",
+    "title": "Lab 06: Power Calculations",
+    "section": "4 - Mixed design (looking at interaction effect)",
+    "text": "4 - Mixed design (looking at interaction effect)"
+  },
+  {
+    "objectID": "week06/lab.slides.html#graph-1",
+    "href": "week06/lab.slides.html#graph-1",
+    "title": "Lab 06: Power Calculations",
+    "section": "graph",
+    "text": "graph"
+  },
+  {
+    "objectID": "week06/lab.slides.html#repeated-measures-anova-any-effect",
+    "href": "week06/lab.slides.html#repeated-measures-anova-any-effect",
+    "title": "Lab 06: Power Calculations",
+    "section": "5 - Repeated Measures ANOVA (any effect)",
+    "text": "5 - Repeated Measures ANOVA (any effect)"
+  },
+  {
+    "objectID": "week06/lab.slides.html#graph-2",
+    "href": "week06/lab.slides.html#graph-2",
+    "title": "Lab 06: Power Calculations",
+    "section": "Graph",
+    "text": "Graph"
+  },
+  {
+    "objectID": "week06/lab.slides.html#writing-up",
+    "href": "week06/lab.slides.html#writing-up",
+    "title": "Lab 06: Power Calculations",
+    "section": "Writing up",
+    "text": "Writing up\n\n“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a insert type 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al. (2023).”\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 06 - Power"
+  },
+  {
+    "objectID": "week06/lab.html",
+    "href": "week06/lab.html",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "In the following slides AND IN THE HANDOUT, you can find step by step guidance on using G*Power to calculate your Power - and therefore the number of participants you would be required to test.\nRemember, it’s not life and death if you don’t meet sample size this year, but it would be next year.\nYou will have potential access to the RPS next year.\nYou will be asked to take part in all available Mini-Dissertation studies this year in weeks 11-15\n\n\n\nThe formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\nCohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother.\n\n\n\n\nThis means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..\n\na small p value indicates the results are surprising if the null hypothesis IS true\na large p value indicates the results are not very surprising if the null IS true.\n\n\n\n\nYou can download G*Power on this page. Under the heading “download” click on the appropriate version for whether you have a Windows or Mac computer.\nhttps://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower\n\n\n\nIn a 2x2 design, there are three effects to compare:\n\nthe main effect of IV1,\nthe main effect of IV2,\nand the interaction between IV1 and IV2.\n\n\n\n\nThere are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered by a single experimental design. This just means that your sample size will need to be sufficient to detect the weakest effect size of the three.\nYou might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.\nThis means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.\nif the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!\n\n\n\nIf you are running a design with 2 between participant IVs, use Slide 1\nIf you are running a mixed design, and want to explore the between Main effect - slide 2\nIf you are running a mixed design, and want to explore the within Main effect - slide 3\nIf you are running a mixed design, and want to explore the interaction effect - slide 4\nIf you are running a design with 2 between participant IVs, use Slide 5\n\n\n\nThe following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a insert type 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al. (2023).”"
+  },
+  {
+    "objectID": "week06/lab.html#power",
+    "href": "week06/lab.html#power",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "In the following slides AND IN THE HANDOUT, you can find step by step guidance on using G*Power to calculate your Power - and therefore the number of participants you would be required to test.\nRemember, it’s not life and death if you don’t meet sample size this year, but it would be next year.\nYou will have potential access to the RPS next year.\nYou will be asked to take part in all available Mini-Dissertation studies this year in weeks 11-15"
+  },
+  {
+    "objectID": "week06/lab.html#i-got-the-i-got-the-power",
+    "href": "week06/lab.html#i-got-the-i-got-the-power",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "The formal definition of a p value is the probability of observing a result at least as extreme as the one observed, assuming the null hypothesis is true (e.g. Cohen, 1994).\n\nCohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates. I wouldn’t bother."
+  },
+  {
+    "objectID": "week06/lab.html#what",
+    "href": "week06/lab.html#what",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "This means, and assuming we have a crystal ball to know the ‘truth’ of whether there is an effect of our manipulation..\n\na small p value indicates the results are surprising if the null hypothesis IS true\na large p value indicates the results are not very surprising if the null IS true."
+  },
+  {
+    "objectID": "week06/lab.html#gpower",
+    "href": "week06/lab.html#gpower",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "You can download G*Power on this page. Under the heading “download” click on the appropriate version for whether you have a Windows or Mac computer.\nhttps://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower"
+  },
+  {
+    "objectID": "week06/lab.html#x2-factorial-anova-power-analysis",
+    "href": "week06/lab.html#x2-factorial-anova-power-analysis",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "In a 2x2 design, there are three effects to compare:\n\nthe main effect of IV1,\nthe main effect of IV2,\nand the interaction between IV1 and IV2."
+  },
+  {
+    "objectID": "week06/lab.html#look-after-the-little-effect-first",
+    "href": "week06/lab.html#look-after-the-little-effect-first",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "There are three comparisons to make here and it is unlikely you would expect the same effect size for all three comparisons, meaning you must ensure all three effects are sufficiently powered by a single experimental design. This just means that your sample size will need to be sufficient to detect the weakest effect size of the three.\nYou might expect the effect size (or difference) for IV1 to be a lot larger than the effect size (or difference) for IV2, for example.\nThis means you would have to ensure the smallest effect is sufficiently powered, in the above example, the IV2 effect size would drive the sample size calculation.\nif the smallest effect is covered, by virtue of the fact power exists along a curve - then the larger effects would have sufficient power!"
+  },
+  {
+    "objectID": "week06/lab.html#gpower-guide",
+    "href": "week06/lab.html#gpower-guide",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "If you are running a design with 2 between participant IVs, use Slide 1\nIf you are running a mixed design, and want to explore the between Main effect - slide 2\nIf you are running a mixed design, and want to explore the within Main effect - slide 3\nIf you are running a mixed design, and want to explore the interaction effect - slide 4\nIf you are running a design with 2 between participant IVs, use Slide 5"
+  },
+  {
+    "objectID": "week06/lab.html#gpower-guide---key-info",
+    "href": "week06/lab.html#gpower-guide---key-info",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "The following slides give you the specifics of what you need to include depending on the effect you are exploring. The only thing you need is the effect size of interest.\nThis is usually gleaned from your target paper (or other literature).\nYou will need to examine each of your effect sizes in your groups and cover the weakest with the the sample size, so the effect that requires the largest sample size will give the group sample size.\nIf you cannot find an effect, you may use a 0.3 f effect size, but this is to be used only when no alternative is available."
+  },
+  {
+    "objectID": "week06/lab.html#writing-up",
+    "href": "week06/lab.html#writing-up",
+    "title": "Lab 06: Power Calculations",
+    "section": "",
+    "text": "“In order to detect an effect size of Cohen’s d = 0.xx with 80% power (alpha = .05, two-tailed), G*Power analysis determines a sample size of XX participants in a insert type 2x2 ANOVA”. The smallest effect size of interest was set to d= 0.xx based on the meta-analysis by Dougal et al. (2023).”"
   },
   {
     "objectID": "week17/lab.slides.html#stuff",
