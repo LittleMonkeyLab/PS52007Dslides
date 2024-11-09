@@ -1,476 +1,358 @@
 ---
-title: "Lecture 06: Online and face-to-face testing"
-subtitle: "Running good studies"
-date: "11/11/2024"
-categories: 
-  - "Lecture"
-  - "Week 06"
-params:
-  class: "lec06"
+title: "Lecture 06: The Open Science movement in Psychology"
+subtitle: "Doing better"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-
-date-format: "ddd DD MMM, YYYY"
-logo: "../images/LMLLOGO.png"
+date: "11/11/2024"
+date-format: long
 license: "CC BY-NC-SA"
 # footer: 
 citations-hover: true
-
-
+categories: 
+  - "Lecture"
+  - "Week 06"
+params:
+  class: "lec06"
 format: 
+  pdf: default
+  pptx: default
+  html: default
+  docx: default
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
-    header: "Research Methods Lecture 06 - Online and face-to-face testing" # Replace it
+    header-logo: "/images/rmmonkey.png"
+    header: "Research Methods Lecture 06 - Doing Better" # Replace it
     hide-from-titleSlide: "text"
-  # pdf: default
-  # pptx: default
-  # html: default
-  # docx: default  
+    slide-number: c/t
+filters:
+  - reveal-header
 execute:
  echo: false
  freeze: auto
+embed-resources: true
+  # Title page populated by content above
 ---
 
-## Week 6, Let's go!
+## Open Science
 
--   Social Psychology Essay Tutorial this week
--   Have you done your reading and prepared?
--   A word on attendance and independent study
+## But what does that mean?
 
-# Any Questions?
+## @opensciencecollaboration2015
 
-## The Weeks ahead
+![](images/paste-A60F7281.png)
 
-Every group needs to apply for (and receive) ethical approval prior to
-the Winter Break. - Review the Ethics Page on the VLE - The same process
-you will use next year - 1 application per group - pre-approved by Lab
-Tutors - Planning is required and turnaround is 1 week - We deep dive
-ethics next week (week 7) - but review the materials in advance
+[Open Science Collaboration. (2015). Estimating the reproducibility of
+psychological science. *Science*, *349*(6251), 943--943.
+http://www.jstor.org/stable/24749235](https://www-jstor-org.gold.idm.oclc.org/stable/24749235?sid=primo#metadata_info_tab_contents)
 
-# It's time to get practical
+## The replication crisis
 
-## 'Operationalisation' of variables
+-   The Open Science Collaboration (2015) (c.f. Brian Nosek) conducted
+    100 replications of psychology studies published in three psychology
+    journals
 
-Operationalisation of variables requires a consideration of the
-reliability and validity of the method of operationalisation.
+-   While 97 of previous studies reported significant results, only 36
+    were significant in the replication attempt. And effects were
+    smaller than originally reported...
 
-Operationalisation of variables also requires specification of the scale
-of measurement: nominal, ordinal, interval, or ratio.
+## Violin plots
 
-Finally, operationalisation of variables can also specify details of the
-measurement procedure.
+![Violin Plots of Replication Results](images/paste-3443FDA7.png)
 
-See Howitt and Cramer Chapter 3.3 (Box Research Example - Condon & Crano
-1988)
+## Raincloud plots
 
-## Attitude similarity and interpersonal attraction
+![Raincloud Plots of Replication Results](images/paste-BF2CE1A8.png)
 
-![](images/paste-01E3BCC9.png)
+## Why aren't we replicating?
 
-## Their DV (consider pros and cons)
+-   Some point the finger at scientific fraud (i.e. bad scientists
+    making up their data)
 
-This person would like (dislike) me
+-   However, others point to more systematic problems
 
-This person would like (dislike) working with me in an experiment
+-   Low statistical power
 
-## The Student Room (question)
+-   Questionable research practices (QRPs)
 
-![](images/paste-3C1317D6.png)
+-   Publication bias
 
-## The Student Room (answer 1)
+## Statistical power
 
-![](images/paste-1F4878EE.png)
+-   Since 1960s, sample sizes in standard psychology studies have
+    remained too small -- giving them low power
 
-## The Student Room (answer 2)
+-   Low power is normally a problem because it means that you don't find
+    significant effects
 
-![](images/paste-776290A0.png)
+-   An underappreciated downside of low power is that if you do find
+    effect, it is probably spuriously exaggerated
 
-## Of great importance that you reflect on this for your MD too
+-   This will mean that when you try to replicate it, it will be smaller
+    (not significant)
 
-How have you [defined]{.underline} your variables of interest?
+## We are training you in best practice
 
--   IVs and DVs
+If you have had trouble finding an effect size in your Personality Essay
+or Critical Proposal...
 
-How have you [measured or categorised]{.underline} your variables of
-interest?
+This is either because the new best practice hasn't been adopted, or the
+research team dropped the ball.
 
--   e.g. Social Media use
+## Power plot
 
--   Gender
+![](images/paste-C20C3B09.png)
 
--   Frequency or low/high extraversion
+Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad
+science. *Royal Society Open Science*, *3*(9), 160384.
+<https://doi.org/10.1098/rsos.160384>
 
-## **The research process**
+# Power and Power Calculations in Psychology
 
-::: {.callout-note icon="false"}
--   Develop research aims 
--   Specify research questions/hypotheses related to these aims
--   Identify relevant constructs and concepts 
--   Translate constructs and concepts into variables (i.e., a logical
-    set of characteristics/features)
--   Translate variables into measurements (i.e., the quantification of
-    characteristics/features)
-:::
+## **What is power?**
 
-## Quantitative Research
+-   Power is the probability of rejecting the null hypothesis when it is
+    false.
+-   Power depends on the significance level, sample size, and effect
+    size of a test.
+-   Power is important for planning and evaluating studies.
 
-A systematic examination of relationships between variables
+## **How to calculate power?**
+
+-   Use online tools or statistical software like G\*Power.
+-   Specify the type of test, the alpha level, the effect size, and the
+    desired power or sample size.
+-   For complex research designs, you may need to calculate a number of
+    potential effect sizes
+
+## **Why is power low in psychology?**
+
+-   Small sample sizes are common in psychological research.
+-   Effect sizes are often unknown or overestimated.
+-   Researchers may not use power analysis or understand its meaning.
+
+## **How to improve power in psychology?**
+
+-   Increase sample size or use more sensitive measures.
+-   Use meta-analysis or replication to estimate effect sizes.
+-   Educate researchers and reviewers about power and its implications.
+
+## Questionable Research Practices (QRPs)
+
+**Selective reporting of participants**
+
+E.g., excluding data from some participants
 
 . . .
 
-'Variables' are 'translated' from concepts, constructs or phenomena
+**Selective reporting of manipulations or variables**
+
+E.g., measuring many different variables in a study, but only writing up
+the variables that 'worked' (were significant)
 
 . . .
 
-Could be critiqued as 'reductionist'
+**Optional stopping rules**
 
-## Types of Variable
+E.g., continuing to add participants to a sample until it is just
+significant (p\<.05)
 
-Independent Variable
+## QRPs Continued
 
--   Experimental - The variable [I]{.shout} manipulate
+**Flexible data analysis**
 
--   Non-Experimental / Quasi-Experimental - Comparison between
-    pre-existing groups
+E.g., Adding covariates (without good reason) to 'improve' statistical
+results
 
-Dependent Variable
+. . .
 
--   The variable you measure, that you propose to be influenced by a
-    manpulation of the IVs
--   The \[D\]ata{.shout}
+**HARKing (Hypothesising After Results are Known)**
 
-## Types of Measurement
+Running a study, and then generating a hypothesis that fits the results
+(even if they were not what you originally predicted)
 
-Nominal/Categorical
+. . .
 
--   Male/Female/...
+[What these practices all have in common is they involve capitalising on
+chance to create a significant result (which may not be
+reliable)]{.shout}
 
--   Vegan / Vegetarian
+## Novelty and glamour
 
--   Smoker/Non-Smoker
-
-## Types of Measurement
-
-Ordinal
-
-Numbers representing a rank position in a group
-
-Not representative of an actual definite number/score/value - without
-information about the 'gap' between numbers
-
--   First, second, third
-
--   Tallest/Shortest
-
-## Types of Measurement
-
-Interval
-
-Numbers represent equal units giving information about the 'gap' between
-numbers
-
--   Temperature
-
--   Psychological Scales
-
-## Types of Measurement
-
-Ratio
-
-Interval measurements with an absolute zero, of equal units,
-
--   Weight
-
--   Length
-
--   Time/Reaction time\*
-
-## Median Splits
-
-'Cutting' a distribution in half at the mid-point - with 50% on each
-side of the cut
-
-## Median Splits can be considered problematic
-
-::: callout-warning
-## Beware!
-
-We often suggest a median split to dichotomise a continuous variable,
-e.g. for the purposes of creating a 2 level IV.
-
-It's a useful exercise in calculating a 'computed variable' in SPSS or
-Jamovi
-
-It is NOT best-practice usually. Why not?
+::: incremental
+-   Scientists want to communicate their science, but they also want
+    successful careers
+-   An important metric for success in science is publishing in 'top
+    journals' (e.g., Nature, Science)
+-   Getting published in these journals gets your science out to a wide
+    audience (because lots of people read them) but also carries
+    prestige -- you get jobs, grants, funding and prizes from publishing
+    regularly in these journals
+-   But top journals want to publish novel or surprising results.
+-   Why do you think that could be a problem?
 :::
 
-It is a key learning outcome that you are able to perform a standardised
-analysis, specifically, the 2x2 ANOVA with any necessary assumption
-checks and post-hocs + plots
+## Lust for Impact Factors!
 
-## Think about this
+![](images/paste-896344AF.png)
 
-![](images/paste-EAC3C58C.png)
+[Paulus, F. M., Rademacher, L., Schäfer, T. A., Müller-Pinzler, L., &
+Krach, S. (2015). Journal Impact Factor Shapes Scientists' Reward Signal
+in the Prospect of Publication. *PloS one*, *10*(11), e0142537.
+https://doi.org/10.1371/journal.pone.0142537](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640843/)
 
-## Operationalisation, measurement and definitions impact...
+## Biases in journals: File drawer problem
 
-![](images/paste-E903404B.png){width="200"}
+-   Even beyond 'prestige' journals, journals are biased to publish
+    positive (i.e. significant) findings
 
-## Summary of part 1
+-   Because it is much easier to publish positive results, rather than
+    nonsignificant results or failed replications, science has a 'file
+    drawer problem'
 
-You should think carefully about:
+-   Scientists don't try to publish their null results, and/or journals
+    make it hard to publish them
 
--   How you define your variables - this is probably a part of the
-    introduction that students DON'T think about enough
+-   This means the published literature is biased to contain significant
+    results (that come from a distribution where there is no true
+    effect)
 
--   How you measure or categorise your variables (IVs and DVs) - this is
-    probably the single thing I look at first when peer-reviewing
-    research!
+## Let's work the probabilities
 
--   How well your manipulation does what it claims to. Does you
-    manipulation bring the thing it proposed to to life well?
+With an alpha level of p=.05, if we have 40 scientists testing any
+hypothesis we would expect one to find a significant result in one
+direction, and another to find a significant result in another direction
+just by random chance
 
-# Running Experiments online or face to face
+![](images/paste-43AFCEF9.png)
 
-## Comparing Experiment Modalities
+## The credibility revolution?
 
--   Online Surveys and Experiments
-    -   Qualtrics - For surveys, stimulus presentation that don't
-        require accurate timing
-    -   Gorilla.sc - For 'experimental' tasks with complex stimulus \>
-        presentation or that require response time measures or
-        push-button \> responses etc.
--   Face-to-Face Experiments
+Recent years have seen several changes to how psychological science is
+conducted to overcome concerns about reliability -- dubbed the
+'credibility revolution'
 
-------------------------------------------------------------------------
+![](images/paste-22D4632E.png)
 
-## Online Surveys and Experiments with Qualtrics
+## Recommendations and changes
 
-### Overview
+Low statistical power? Report power analyses and justify sample sizes
 
--   A powerful tool for creating and distributing online surveys
--   Widely used in psychological research
--   We have an institutional licence and so it is FREE
--   No specialist support - has excellent online support
+![](images/paste-FF37A851.png)
 
-------------------------------------------------------------------------
+(Taken from guidance to authors at journal Psychological Science)
 
-## Pros of Qualtrics
+## Familiar?
 
-### Accessibility
+![](images/paste-4E86DEB0.png)
 
--   Reach a wide, diverse audience (if necessary)
--   Accessible by anyone with a phone or laptop etc
+## The goal
 
-### Cost-Effective
+![](images/paste-4567CC43.png)
 
--   Low 'cost' compared to face-to-face
+## The 'normal' process
 
-### Data Management
+![](images/paste-5DD37D8B.png)
 
--   Automated data collection, scoring and storage
--   Relatively easy to analyze and export data - but not always simple
+## A better solution?
 
-### Customization
+![](images/paste-138DDF10.png)
 
--   Highly customizable surveys and experiments (video, photos, audio,
-    vignettes)
--   Supports various question types and logic
+## Do scientists already 'know' which results to trust?
 
-------------------------------------------------------------------------
+-   The unnerving thing about the 'replication crisis' seems to be that
+    psychological theories are built on foundations of sand. But is this
+    true?
 
-## Cons of Qualtrics
+-   Camerer and colleagues attempted to replicate 21 social science
+    studies (including psychology) and found around 13 replicated.
 
-### Limited Human Interaction
+-   However, the study also ran a prediction market where scientists
+    (PhD or PhD student) had to bet on which studies would replicate and
+    which wouldn't
 
--   Lack of personal interaction can affect responses
--   You put a huge amount of trust in the participant
--   Not always easy to manage ethical challenges properly
+-   We should want our journal to publish things that are robust -- but
+    if scientists have a good sense of what is reliable, is this really
+    a 'crisis'?
 
-### Technical Issues
+## Camerer et al. (2018)
 
--   Dependence on internet connectivity and user tech skills
--   An error in the build and you are in trouble \####
+![](images/paste-DD465B40.png)
 
-## Cons of Qualtrics (continued)
+## Findings
 
-### Response Authenticity
+![](images/paste-EE5BC296.png)
 
--   Higher risk of dishonest or inattentive responses (maybe?)\
+## Dubious efforts to replicate
 
-#### Sampling Bias
+Researchers who do replication studies also have flexibility in their
+design and analysis choices.
 
--   Potential for non-representative samples
+There may be a bias to not replicate certain findings (e.g., because you
+are sceptical of the result in the first place)
 
-------------------------------------------------------------------------
+![](images/paste-D5100BB5.png)
 
-## Introduction to experiments using Gorilla.sc
+## No reason to worry
 
-### Gorilla.sc: highly controlled online Psychological Research
+Some have suggested that low replication rates are not necessarily a
+sign of bad research
 
--   A comprehensive online tool for behavioral research
--   Facilitates creation, deployment, and analysis of experiments
+Alexander Bird (philosopher of science) suggests worries about
+replication reflect base rate fallacy
 
-------------------------------------------------------------------------
+Most hypotheses are wrong so we wouldn't expect them to replicate in
+future studies
 
-## Core Features of Gorilla.sc
+What do you think?
 
-### User-Friendly Interface
+## Alexander Bird (2018)
 
--   Intuitive design for researchers of all levels
--   Drag-and-drop experiment builder
+![](images/paste-9C1EB228.png)
 
-### Requires 'tokens' to run
+## Are we worry about the wrong thing?
 
--   You will need to apply for 'tokens' to apply for ethics, and to run
-    the study.
--   There is usually a limited supply as there is a cost associated with
-    this.
+-   Other psychologists have argued that focus on replicability,
+    statistical robustness etc. is misguided
 
-### Versatile Experiment Design
+-   The real problem psychology has is the absence of strong theories
 
--   Supports a wide range of experimental paradigms
--   Customizable to suit various research needs
+-   This "theory crisis" cannot be solved with more and more attention
+    to statistics
 
-------------------------------------------------------------------------
+-   Theory is the thing we should be caring about? Not specific effects
+    in specific studies
 
-## Experiment Creation with Gorilla.sc
+-   No statistics can help us to test a theory that is poorly thought
+    out
 
-### Building Blocks
+## Summary
 
--   Use 'widgets' and 'tasks' to construct experiments
--   Easily integrate surveys, quizzes, and cognitive tasks
+You should now know:
 
-### Advanced Customization
+-   Why scientists are concerned about the reliability of psychological
+    studies
 
--   Incorporate complex experimental logic
--   Customize with CSS and JavaScript for unique requirements
+-   Steps the scientific community are taking to overcome these worries
 
-------------------------------------------------------------------------
-
-## Data Collection and Analysis
-
-### Real-Time Data Collection
-
--   Gather data securely and efficiently
--   Access participant responses in real-time
-
-### Analytical Tools
-
--   Built-in tools for basic data analysis
--   Export data for advanced analysis in other software e.g. SPSS
-
-------------------------------------------------------------------------
-
-## Collaboration and Sharing
-
-### Team Collaboration
-
--   Share experiments and data with team members
--   Collaborate on experiment design and analysis
-
-### Participant Recruitment
-
--   Still needs to be managed via sources outside of Gorilla
-
-------------------------------------------------------------------------
-
-## Gorilla.sc in Psychological Research
-
-### Broad Application
-
--   Suitable for cognitive, social, and clinical psychology
--   Ideal for remote and large-scale studies
-
-### Impact on Mini-Dissertations
-
--   Increases the reach of psychological studies requiring complex
-    stimulus or timing
--   Not easy to get up and running with this tool
--   No specialist support - has excellent templates and online support
-
-------------------------------------------------------------------------
-
-## Face-to-Face Experiments
-
-### Overview
-
--   Traditional method of conducting experiments
--   Involves direct interaction with participants
-
-------------------------------------------------------------------------
-
-## Pros of Face-to-Face Experiments
-
-### Enhanced Interaction
-
--   Direct human interaction enriches data quality
-
-### Controlled Environment
-
--   Better control over experimental conditions
-
-### Immediate Feedback
-
--   Opportunity for immediate clarification and feedback
-
-### Participant Authenticity
-
--   Lower risk of false responses (maybe?)
-
-------------------------------------------------------------------------
-
-## Cons of Face-to-Face Experiments
-
-### Higher Costs
-
--   Greater resource and time investment (maybe?)
-
-### Limited Reach
-
--   Restricted to participants' geographical location
-
-### Time-Consuming
-
--   Scheduling and conducting sessions takes time
-
-### Potential Biases
-
--   Risk of experimenter or social desirability biases
-
-------------------------------------------------------------------------
-
-## Conclusion
-
-### Choosing the Right Method
-
--   Depends on research goals, resources, and target population
--   Both methods offer unique advantages and challenges
-
-### Tailoring to Research Needs
-
--   Consider the nature of your study and participant accessibility
--   Balance between quality, 'cost', and reach
-
-------------------------------------------------------------------------
+-   Not everyone is convinced that the 'crisis' is as serious as it
+    seems, or whether these changes will help solve psychology's
+    problems
 
 # Questions?
 
+::: {.callout-important icon="false"}
 ## Lab activities
 
-Qualtrics (Many of you will use this!)
+Power Calculations in preparation for your Ethics Applications
 
--   Log in to an account with your Goldsmiths ID!!
+Pay close attention to the lab slides - Step by Step guidance for EVERY
+ANOVA flavour
 
--   10% of you will apply for the wrong type of account and be stuck for
-    2 weeks
-
-Familiarise yourself with the Ethics Application process
-
-Consider the steps required to bring your study to life!
+Access to detailed Ethics VLE page and resources (Please Review)
+:::
 
 ## References
