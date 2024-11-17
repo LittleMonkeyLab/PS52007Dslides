@@ -26,6 +26,7 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 07 - Psychometrics" # Replace it
     hide-from-titleSlide: "text"
+    scrollable: true
   # pdf: default
   # pptx: default
   # html: default
@@ -46,7 +47,7 @@ execute:
 -   Critically analyze the strengths and limitations of psychological
     measurement
 
-# How do we measure or assess psychological concepts and constructs?
+## How do we measure or assess psychological concepts and constructs?
 
 ## Psychometrics; the science of psychological assessment.
 
@@ -59,7 +60,7 @@ via reading list free online)
 
 ## Myers-Briggs...
 
--- Based on Jung's non-scientific ideas about personality
+-- Based on Jung's ideas about personality
 
 -- The four dimensions are binary. But most characteristics are normally
 distributed
