@@ -85,7 +85,7 @@ in terms of time, data quality, and confidence!
 2.  Use your college email address and password. To get the full
     functionality, you MUST use your college login.
 
-    ![](images/Screenshot - Microsoft Word-10-11-000232.png)
+    ![](images/Screenshot%20-%20Microsoft%20Word-10-11-000232.png)
 
 3.  If you accidentally set up a trial account, or use a different
     email, it can take 3 weeks to change. Follow these instructions on
@@ -107,13 +107,13 @@ in terms of time, data quality, and confidence!
 3.  To use the template, on the Homepage, click on 'Create a new
     project', select 'Survey', and 'Get started'.
 
-    ![](images/Screenshot - Microsoft Word-10-11-000234.png)
+    ![](images/Screenshot%20-%20Microsoft%20Word-10-11-000234.png)
 
 4.  Give your project a preliminary name (this can be changed later) and
     choose 'Import a QSF file' from the 'How you want to start'
     dropdown.
 
-    ![](images/Screenshot - Microsoft Word-10-11-000238.png)
+    ![](images/Screenshot%20-%20Microsoft%20Word-10-11-000238.png)
 
 5.  Find the .qsf file you downloaded earlier using the 'Choose file'
     finder and then click 'Create project'.
@@ -122,7 +122,7 @@ in terms of time, data quality, and confidence!
     Builder. It takes two minutes and shows you how to change settings
     and to edit questions.
 
-    ![](images/Screenshot - Microsoft Word-10-11-000240.png)
+    ![](images/Screenshot%20-%20Microsoft%20Word-10-11-000240.png)
 
 ## The Template
 
@@ -205,7 +205,7 @@ the survey and add a randomizer, that randomly delivers a selection of
 blocks. Block 1 and 2 are identical in the template, but will be
 presented in random order for each new participant.
 
-![](images/Screenshot - Microsoft Word-10-11-000242.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000242.png)
 
 ## Recoding and Scoring (Massive time savers!)
 
@@ -220,7 +220,7 @@ easier to use.
 -   [Recode Values in
     Qualtrics](https://www.qualtrics.com/support/survey-platform/survey-module/question-options/recode-values/)
 
-![](images/Screenshot - Microsoft Word-10-11-000244.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000244.png)
 
 ### Scoring questionnaires
 
@@ -234,7 +234,7 @@ preparation.
 -   [Scoring in
     Qualtrics](https://www.qualtrics.com/support/survey-platform/survey-module/survey-tools/scoring/#Introduction)
 
-![](images/Screenshot - Microsoft Word-10-11-000246.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000246.png)
 
 ## Previewing your survey
 
@@ -242,7 +242,7 @@ If you want to see how a question (or entire survey) looks, use the
 preview functionality. It will allow you to see what the participant
 will see -- both on a computer and on a mobile device.
 
-![](images/Screenshot - Microsoft Word-10-11-000248.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000248.png)
 
 ## Data Export
 
@@ -254,7 +254,7 @@ do the following.
 Click Publish and label the versions 'Data Test' and click 'Publish'
 again.
 
-![](images/Screenshot - Microsoft Word-10-11-000250.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000250.png)
 
 Under 'Distributions' select 'Anonymous link' (which is how you will
 share your study with participants usually. You can of course produce a
@@ -263,11 +263,11 @@ Think about the best way to recruit for your study.
 
 Copy the link to your browser and run through the study.
 
-![](images/Screenshot - Microsoft Word-10-11-000252.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000252.png)
 
 Export Data from this menu to a range of useful formats.
 
-![![](images/Screenshot - Microsoft Word-10-11-000256.png)](images/Screenshot - Microsoft Word-10-11-000254.png)
+![![](images/Screenshot%20-%20Microsoft%20Word-10-11-000256.png)](images/Screenshot%20-%20Microsoft%20Word-10-11-000254.png)
 
 In Term 2 we will be looking at the data and how to clean it. The most
 important thing I would advise you to do is to name your blocks and
@@ -285,7 +285,7 @@ You can find this in the 'Tools' menu and you will need to use your
 colleagues' Goldsmiths email addresses AND they will need to have a
 Goldsmiths Qualtrics account too.
 
-![](images/Screenshot - Microsoft Word-10-11-000258.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000258.png)
 
 For More Information the Qualtrics website includes comprehensive and
 easy-to-follow help documentation as mentioned above. Tutorials,
@@ -321,7 +321,7 @@ finish, you should find a box called + My institution already has a
 subscription. Please click on this box (please see an image below for
 ease) and enter the enrolment code: **PsychGold**
 
-![](images/Screenshot - Microsoft Word-10-11-000260.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000260.png)
 
 ## **Support pages and other guides to get you started**
 
@@ -334,7 +334,7 @@ With a 'Getting Started Guide'
 
 And onboarding videos <https://support.gorilla.sc/support/getstarted>
 
-![](images/Screenshot - Microsoft Word-10-11-000262.png)
+![](images/Screenshot%20-%20Microsoft%20Word-10-11-000262.png)
 
 **Gordon's Top Tip: Time spent preparing your materials really pays off
 -- in terms of time, data quality and confidence!**
