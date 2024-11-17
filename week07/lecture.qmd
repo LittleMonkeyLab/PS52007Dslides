@@ -35,16 +35,16 @@ execute:
  freeze: auto
 ---
 
-## This week
+## Learning Objectives 
 
--   Social Psychology submission due
--   2 parts to the lab
-    -   Ethics II - the Goldsmiths Portal
-    -   Reliability and Validity recap materials
-
-# Any Questions?
-
-## Key topics today
+-   By the end of this section, you will be able to:
+-   Define psychometrics and its role in psychological assessment
+-   Evaluate the key properties of psychological tests (reliability and
+    validity)
+-   Distinguish between different types of psychometric tests
+-   Apply psychometric concepts to real-world scenarios
+-   Critically analyze the strengths and limitations of psychological
+    measurement
 
 # How do we measure or assess psychological concepts and constructs?
 
@@ -330,9 +330,5 @@ Most human traits approximate to normal curve
 ## Intelligence
 
 ![](images/paste-71B4D7CF.png)
-
-## Next week...
-
-We might go about developing our own Psychometric Test.. if you want.
 
 ## References
