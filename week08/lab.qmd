@@ -1,6 +1,6 @@
 ---
-title: "Lab 08: XX"
-subtitle: "XX"
+title: "Lab 08: ETHICS"
+subtitle: "Last submissions in week 10"
 image: "lab08.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -36,17 +36,35 @@ format:
   # Title page populated by content above
 ---
 
-## Today's activities 20000000
+## By the end of the session, you will have:
 
-::: incremental
-1.  Complete the Pulse (2 topics - 5 mins Max)
-2.  Consider how to approach the Critical Proposal to best effect
-3.  Start identifying candidate papers
-    1.  Use the tools suggested below (or share others!)
+This week is focused solely on Ethics
 
-    2.  Show it to LTs and/or Gordon - get specific!
+Please feel free to review the detailed worksheet from last week (week07).
+
+::: callout
+-   Time to submit a successful Ethics Application
 :::
 
-# Literature searching
+## Two main parts of the lab this week
+
+::: {.callout-important icon="false"}
+## Activities for this week
+
+-   [ ] Ethics 'over-the-shoulder' in labs.
+-   [ ] Lab Tutors are going to be asking for progress updates.
+:::
+
+## Ethics II
+
+Familiarise yourself with the important Ethics resources available on the VLE. These include general Research guidelines, but some specific to online research too (should you plan to work online only).
+
+Successfully logging in to the Goldsmiths Research Ethics portal and reviewing all the information you will be required to submit in support of your ethics application. By being aware of this, you can offset any problems.
+
+::: callout-warning
+## Please pay close attention to detail
+
+Any errors will result in an application being returned and a resubmission will be required.
+:::
 
 ## 
