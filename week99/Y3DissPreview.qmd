@@ -1,0 +1,130 @@
+---
+title: "Second Year Guide to Your Third-Year Dissertation"
+subtitle: "Subject to change"
+date: "12/02/2024"
+image: "lecture.png"
+author: 
+  - name: "Dr. Gordon Wright"
+    orcid: 0000-0001-9424-5743
+    email: g.wright@gold.ac.uk
+
+date-format: "ddd DD MMM, YYYY"
+logo: "../images/LMLLOGO.png"
+license: "CC BY-NC-SA"
+# footer: 
+citations-hover: true
+
+
+format: 
+  pdf: default
+  # pptx: default
+  # html: default
+  # docx: default  
+execute:
+ echo: false
+ freeze: auto
+---
+
+# Second Year Guide to Your Third-Year Dissertation
+
+Welcome to the next exciting stage of your academic journey! This guide provides an overview of what to expect in your third-year dissertation. It is designed to help you prepare for success while you're still in the second year, focusing on what skills, knowledge, and strategies you can develop now.
+
+---
+
+## What is the Third-Year Dissertation?
+
+Your third-year dissertation is the capstone of your undergraduate studies. It’s your opportunity to:
+
+- Conduct **original empirical research** in an area that excites you.
+- Develop critical thinking and communication skills.
+- Demonstrate independence and academic rigor.
+
+This project builds directly on the research skills you've started to hone during your second-year mini-dissertation. Consider it the perfect chance to delve deeper and achieve something truly memorable!
+
+---
+
+## Key Features and Timeline
+
+### The Process
+
+1. **Proposal Development**: Work closely with your supervisor to craft a research plan.
+2. **Ethical Approval**: Submit an ethics application to ensure your study meets all requirements.
+3. **Data Collection**: Recruit participants and gather data systematically.
+4. **Data Analysis**: Interpret your findings using suitable methods.
+5. **Presentation**: Share your project rationale and design with your peers and supervisor.
+6. **Final Write-Up**: Produce a professional dissertation document.
+
+---
+
+### Timeline
+
+| Milestone          | Timeframe             |
+|--------------------|-----------------------|
+| Proposal submission| Early Term 1         |
+| Oral Presentation  | **November**         |
+| Data collection    | Term 1 and Term 2    |
+| Dissertation due   | **Mid-April**        |
+
+---
+
+## Assessment Breakdown
+
+- **Oral Presentation (10%)**:
+  - 15 minutes (including Q&A).
+  - Focus on rationale, hypotheses, and methodology.
+  - Feedback opportunity to refine your approach.
+
+- **Written Dissertation (90%)**:
+  - A comprehensive report (6,000–8,000 words).
+  - Structured like an APA journal article.
+  - Independently graded by two markers and reviewed by an external examiner.
+
+---
+
+## Preparing in Second Year
+
+You’re already laying the foundation for success! Here’s how:
+
+- **Refine your research skills**: Use your mini-dissertation as a rehearsal for the third year. Reflect on what worked and where you can improve.
+- **Explore topics**: Identify subjects that spark your curiosity. Start thinking about potential research questions.
+- **Familiarize with APA guidelines**: Practice formatting and citations early.
+- **Develop time management skills**: Learn to juggle multiple deadlines effectively.
+
+---
+
+## Frequently Asked Questions
+
+### Can I use my second-year mini-dissertation topic?
+Yes! You may build upon your second-year project, but make sure to expand it meaningfully. Avoid self-plagiarism by clearly distinguishing the new work from the old.
+
+### What support is available?
+You’ll have a dedicated supervisor for guidance, as well as access to departmental workshops, the library, and peer collaboration opportunities.
+
+### What if I’m collaborating with others?
+Collaboration in data collection is allowed but must be acknowledged in your write-up. Your analysis and writing must be entirely your own.
+
+### Will my dissertation get published?
+Possibly! Outstanding dissertations often lead to publication. Authorship is negotiated with your supervisor.
+
+---
+
+## Final Tips for Success
+
+1. **Start early**:
+   - Begin planning in your second year to hit the ground running.
+2. **Use feedback**:
+   - Take critiques constructively. They’ll help refine your work.
+3. **Engage actively**:
+   - Discuss ideas with peers and mentors. Collaboration sparks creativity!
+4. **Stay organized**:
+   - Track deadlines and milestones in a project planner.
+5. **Embrace the process**:
+   - This is a chance to explore your passions and grow as a researcher.
+
+---
+
+## A Motivational Note
+
+The third-year dissertation is your opportunity to shine as an independent researcher. It may feel daunting at first, but remember: you’re not alone. Your hard work, creativity, and determination will guide you to success. Think of this as the final chapter of your undergraduate journey, one that will prepare you for the professional and academic challenges ahead.
+
+Let’s make it count!

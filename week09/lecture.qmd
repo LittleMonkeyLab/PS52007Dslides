@@ -1,12 +1,7 @@
 ---
-title: "Lecture 09: STUFF"
-subtitle: "STUFF"
+title: "Lecture 09: ANOVA Recap and Factorial Designs"
+subtitle: "A potent tool"
 date: "12/02/2024"
-categories: 
-  - "Lecture"
-  - "Week 09"
-params:
-  class: "lec09"
 image: "lecture.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -22,6 +17,7 @@ citations-hover: true
 
 format: 
   revealjs: 
+    mainfont: "Atkinson Hyperlegible"
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 09" # Replace it
@@ -35,186 +31,306 @@ execute:
  freeze: auto
 ---
 
-## Key topics today 20000
+## Situating ANOVA Within the GLM
 
-The week ahead
+## What is the General Linear Model (GLM)?
 
--   Personal Tutor Meeting about Mini-Dissertation this week
--   also Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)
-    -   It is your time, PTs have been told to follow your lead
--   Critical Proposal overview and tips
--   Lab preview - Literature search and management
-    -   Your Critical Proposal Target Paper
+- **GLM** is a framework that describes a broad set of statistical models.
+- Includes techniques like:
+  - ANOVA (Analysis of Variance)
+  - Multiple Regression
+  - ANCOVA (Analysis of Covariance)
+  - MANOVA (Multivariate ANOVA)
+  
+## What is the General Linear Model (GLM)?
 
-## Personal Tutor Meeting Week 3
+- Unified by the equation:
 
-This week (week 3) you have 50 minutes with your Personal Tutor to
-discuss the Mini-Dissertation
+$$
+Y = X\beta + \epsilon
+$$
 
-::: callout-tip
-Your Personal Tutor is ANOTHER source of guidance and support.
+---
 
-Give them the information they need to best help you on this journey.
+## Visualizing the General Linear Model (GLM)
+
+```{r}
+#| echo: false
+#| label: fig-glm-visual
+#| fig-cap: "Graphical Representation of the General Linear Model with Intercept(5) and Slope(2)."
+#| out-width: "100%"
+
+library(ggplot2)
+
+# Example data for GLM
+set.seed(123)
+x <- seq(0, 10, by = 0.5)
+beta_0 <- 5  # Intercept
+beta_1 <- 2  # Slope
+epsilon <- rnorm(length(x), mean = 0, sd = 1)  # Random error
+y <- beta_0 + beta_1 * x + epsilon  # GLM equation
+
+data <- data.frame(x, y)
+
+# Create the plot
+ggplot(data, aes(x = x, y = y)) +
+  geom_point(color = "blue", size = 2, alpha = 0.7) +  # Observed data points
+  geom_abline(intercept = beta_0, slope = beta_1, color = "red", linetype = "dashed") +  # True line
+  scale_x_continuous(breaks = seq(0, 10, by = 1), expand = c(0, 0)) +  # Single-unit x-axis graduations
+  scale_y_continuous(breaks = seq(0, max(y) + 1, by = 1), expand = c(0, 0)) +  # Single-unit y-axis graduations
+  labs(title = "Graph of GLM: Y = 5 + 2X + ε",
+       x = "Predictor (X)",
+       y = "Outcome (Y)") +
+  theme_minimal() +
+  theme(panel.grid.minor = element_blank())  # Simplify grid
+```
+
+
+
+## Key Elements of the GLM Equation 1/2
+
+1. **Outcome Variable** (*Y*):
+   - The dependent variable being predicted or explained.
+   - Usually continuous in both regression and ANOVA models.
+
+2. **Predictors** (*X*):
+   - Independent variables in regression (e.g., continuous variables).
+   - Grouping variables in ANOVA (e.g., categorical variables).
+   
+## Key Elements of the GLM Equation 1/2
+
+3. **Coefficients** (*β*):
+   - Represent the estimated weights or effects of predictors (*X*) on the outcome (*Y*).
+
+4. **Error Term** (*ε*):
+   - Captures the variation in *Y* that is not explained by the predictors.
+---
+
+## ANOVA as a Special Case of GLM
+
+- ANOVA compares means across groups by partitioning variance:
+  - **Total Variance = Variance Between Groups + Variance Within Groups**
+- In GLM terms:
+  - **X**: Encodes group membership using dummy variables.
+  - **β**: Represents group mean effects.
+  - **ε**: Residual error capturing unexplained variance.
+
+## Extending to Factorial Designs: Main Effects
+
+- Factorial designs include multiple predictors (e.g., **A** and **B**).
+- Each predictor contributes to the outcome variable (**Y**) through:
+  - **Main Effects**:
+    - Effect of **A** (e.g., differences across levels of factor A).
+    - Effect of **B** (e.g., differences across levels of factor B).
+  - **Residual Error**: Variation unexplained by predictors.
+
+---
+
+## Extending to Factorial Designs: Interaction Effects
+
+- Interaction effects occur when the effect of one predictor (**A**) depends on the level of the other predictor (**B**).
+- Combined model for a factorial design:
+$$
+Y = \beta_0 + \beta_1 X_A + \beta_2 X_B + \beta_3 (X_A \times X_B) + \epsilon
+$$
+- Partitioned Variance in Factorial ANOVA:
+  - Main effects of **A** and **B**.
+  - Interaction effect (**A × B**).
+  - Residual error.
+## ANOVA vs. Multiple Regression
+
+### How They Are Related
+
+- **ANOVA**:
+  - Focuses on group differences (categorical predictors).
+  - Example: Comparing means of 3 groups.
+
+- **Multiple Regression**:
+  - Allows continuous and categorical predictors.
+  - Example: Predicting an outcome using test scores and group membership.
+
+- **Connection**:
+  - ANOVA is a regression model with categorical predictors encoded as dummy variables.
+
+---
+
+## Example: One-Way ANOVA as Regression
+
+- Regression model for a one-way ANOVA:
+
+**Y = β₀ + β₁X₁ + β₂X₂ + ε**
+
+### Components:
+- **X₁, X₂**: Dummy variables for groups.
+- **β₁**: Difference between group 1 and the reference group.
+- **β₂**: Difference between group 2 and the reference group.
+
+## Visualizing the Relationship
+
+```{r}
+#| echo: false
+#| label: fig-anova-regression
+#| fig-cap: "ANOVA as regression: Group means represented by dummy variables."
+#| out-width: "100%"
+
+library(ggplot2)
+
+data <- data.frame(
+  Group = rep(c("A", "B", "C"), each = 10),
+  Score = c(rnorm(10, mean = 70), rnorm(10, mean = 80), rnorm(10, mean = 90))
+)
+
+ggplot(data, aes(x = Group, y = Score)) +
+  geom_boxplot() +
+  stat_summary(fun = mean, geom = "point", color = "red", size = 3) +
+  labs(title = "One-Way ANOVA: Group Means",
+       x = "Group", y = "Score") +
+  theme_minimal()
+```
+
+---
+
+## Key Takeaways
+
+### GLM Framework
+
+- ANOVA and Regression are special cases of GLM.
+- Both share the same foundation:
+- **Y = Xβ + ε**:
+  - Represents the General Linear Model (GLM).
+  - \(Y\): Outcome variable (dependent variable).
+  - \(X\): Predictors (independent variables).
+  - \(β\): Coefficients for predictors.
+  - \(ε\): Residual error term.
+
+### Practical Differences
+
+- ANOVA emphasizes group comparisons.
+- Regression allows for both continuous and categorical predictors.
+
+---
+
+## Recap on Factorial Designs
+
+## What Are Factorial Designs?
+
+- Factorial designs involve multiple independent variables (IVs).
+- Common in psychology research for testing complex interactions.
+- Goal: To interpret **main effects** and **interactions**.
+
+---
+
+## Why Focus on 2x2 Designs this year?
+
+- Simplest factorial design with:
+  - 2 Independent Variables (IVs).
+  - Each IV has 2 levels.
+- Patterns in data can show:
+  - Main Effects: Influence of each IV independently.
+  - Interactions: Combined influence of IVs.
+
+---
+
+## Understanding the 8 Possible Patterns
+
+```{r}
+#| echo: false
+#| label: fig-10bar22
+#| fig-cap: "Bar graphs: 8 possible outcomes in 2x2 design."
+#| out-width: "100%"
+
+library(ggplot2)
+
+p1 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(5, 5, 5, 5))
+
+p2 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(10, 10, 5, 5))
+
+p3 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(10, 13, 5, 2))
+
+p4 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(5, 10, 10, 15))
+
+p5 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(10, 18, 5, 7))
+
+p6 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(5, 10, 5, 10))
+
+p7 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(2, 12, 5, 9))
+
+p8 <- data.frame(IV1 = c("A", "A", "B", "B"),
+                 IV2 = c("1", "2", "1", "2"),
+                 means = c(5, 10, 10, 5))
+
+all_22s <- rbind(p1, p2, p3, p4, p5, p6, p7, p8)
+
+type <- c(
+  rep("No main effects, no interaction", 4),
+  rep("IV1 effect, no IV2, no interaction", 4),
+  rep("IV1 effect, no IV2, interaction", 4),
+  rep("IV1 & IV2 effects, no interaction", 4),
+  rep("IV1 & IV2 effects, interaction", 4),
+  rep("No IV1, IV2 effect, no interaction", 4),
+  rep("No IV1, IV2 effect, interaction", 4),
+  rep("No main effects, interaction", 4)
+)
+
+all_22s <- cbind(all_22s, type)
+
+ggplot(all_22s, aes(x = IV1, y = means, group = IV2, fill = IV2)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_classic() +
+  facet_wrap(~type, nrow = 2) +
+  theme(legend.position = "top")
+```
+
+
+---
+
+## Exploring Main Effects and Interactions
+
+## Interpreting Main Effects
+
+- Main effects represent the **consistent influence** of an IV.
+- Example: **Coffee and wakefulness**:
+  - More coffee = Higher alertness, regardless of location.
+
+## Interaction Effects
+
+- Interaction occurs when one IV’s effect depends on the level of another.
+- Example: Coffee may affect wakefulness differently **in the morning** vs. **at night**.
+
+## Best Practices for Factorial Designs
+
+- Keep designs **simple**: Fewer IVs and levels make interpretation easier.
+- Ensure **sufficient data** for all combinations of IV levels.
+- Always visualize data before analysis to understand patterns.
+
+---
+
+## Summary
+
+- **2x2 designs** are foundational in understanding factorial experiments.
+- Interactions complicate main effects but reveal critical relationships.
+- Use clear visualizations to enhance interpretation.
+
+---
+
+## Citation and Acknowledgments
+
+::: {.callout-note collapse="true"}
+This content is inspired by Matt Crump's *Asking Questions with Data*, CC-BY-NC-SA 4.0.
+
+Crump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). *Answering Questions with Data (Textbook)*: Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52
 :::
-
-> [Dear PTs, "Next week, you are given **no information whatsoever**,
-> and are asked to turn up to your session with nothing other than
-> perhaps a pen and paper, a big smile, and anticipation of lots of
-> exciting research in the making."]{.takeaway}
-
-## Future PT Sessions devoted to the MD
-
-Week 8 - Check on status of Ethics application, and troubleshooting
-
-Week 13 - Session to support Analysis Planning and Writing up/Submission
-preparation
-
-Week 17 - Result interpretation, and any concerns arising in the final
-phase of the MD
-
-# Any Questions?
-
-# Being critical and evaluating the work of others
-
-## This is a topic and skill you've already been shown
-
-![](images/paste-6F9D0DD1.png)
-
-![](images/paste-1DF339DB.png)
-
-Review these materials and consider your performance of the assessment,
-and any feedback
-
-## This year Critical Analysis has a 'point'
-
-The objective of the Critical Proposal is that you start to deploy the
-tools you have practiced in the service of your Mini-Dissertations.
-
-A 'practical' exercise, success if determined in light of practical
-value.
-
-Helping to develop some aspect of your study design or methodology.
-
-You will probably follow this process 'a few times' for your final year
-dissertation!
-
-## Reading list items (Barber 2002; 2004)
-
-![](images/paste-414A92CC.png)
-
-## ![](images/paste-D67024A1.png){width="714"}
-
-## Let's look at the example from last week
-
-![](images/paste-18F30242.png)
-
-## How do I do it? \[one approach\]
-
-Review literature on a key part of your 'puzzle' (an IV, a 'tool', the
-DV etc)
-
-Apply critical evaluation to carefully chosen paper(s)
-
-Consider how it might realistically guide or inform your own research
-
-Identify a procedure to partially replicate, replicate, or replicate and
-extend/improve
-
-Detail how that takes shape and reflect on your confidence, skill base,
-perception of value
-
-## or
-
-You could approach it [strategically as a group]{.underline}.
-
-Identify areas to take ownership of, then divide and conquer!
-
-[Or fly solo and agree to later apply the same process to a mutually
-beneficial part of your study]{.incremental}
-
-## Critical Proposal Support
-
-![![](images/paste-9E5296DE.png)](images/paste-24D6E4F6.png)
-
-## Briefing
-
-![](images/paste-502C4F9E.png)
-
-## Please follow these
-
-![](images/paste-7EC89469.png)
-
-## More tips
-
--   Please review the "SUGGESTED ESSAY OUTLINE" in the coursework
-    briefing
--   No need to follow it roboticly, be strategic & selective in terms of
-    details
--   [Selection of a 'good' paper to focus on is an integral part of the
-    assessment]{.underline}!
--   Do you think the first google result will be a fruitful paper? No,
-    of course you don't!
--   [Use your Lab Tutor and me to get a sense of confidence.
-    Early.]{.takeaway}
--   [Tell us how you are searching and what you are looking
-    for]{.takeaway}
--   [Confirm the paper with us in a lab session \[Priority given for
-    this\]]{.takeaway}
-
-## Even more tips
-
--   Use some of the tools presented in the lab activity to help track
-    down a suitable paper
-
--   Give yourself time to read, review, re-read and select your juiciest
-    points
-
--   Avoid any discussion of methodologies that cannot inform your study
-    directly
-
-    -   e.g. Clinical diagnostic procedures, fMRI technicalities,
-        Criminal Record or Case Study review procedures
-
-## You can (will) use LOTS of this in your MD!
-
-This isn't a sidetrack exercise. It's a critical step in your project
-
-Note your references, note your main points, be organised
-
-## Weeks 4 & 5
-
-Talking about Variables and the 3 'flavours' of ANOVA in week 4
-
-Week 5 is 'power calculations' and opportunity to discuss CP
-
-But we will be moving on and the CP will be part of your independent
-study
-
-Same opportunities for RASA submissions/summer deferrals & resubmissions
-
-# Questions?
-
-## New Teaching Fellow in Lab 03 WB300 9:30-11:30
-
-Dr. Faize Eryaman
-
-I'm going to meet her directly after this.
-
-New to Goldsmiths, but a fantastic researcher and teacher.
-
-Please help her settle in!
-
-## Roving Gordon
-
-I shall be more available across all the labs now, and looking to help
-out as much as I can!
-
-I'm looking for opportunities:
-
--   To share good ideas or practice
--   To help confirm consistency and give you confidence
--   To be another "guide at the side"
--   To challenge you
--   But not to confuse you or contradict your Lab or Personal Tutors
-
-# Questions?

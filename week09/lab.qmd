@@ -1,6 +1,6 @@
 ---
-title: "Lab 09: XX"
-subtitle: "XX"
+title: "Lab 09: Third Year Dissertation Preview"
+subtitle: "The Cherry on the Sundae"
 image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -24,7 +24,7 @@ format:
     title-slide-attributes: 
       data-background-color: "#FFE5B4" # PEACH # Very Peri 2022 Color of the year
     header-logo: "/images/rmmonkey.png"
-    header: "Research Methods Lab 09 - XX" # Replace it
+    header: "Research Methods Lab 09 - Y3 Diss Preview" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
 filters:
@@ -36,15 +36,131 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## Today's activities 20000000
+## Your Dissertation Journey Starts Here
 
-::: incremental
-1.  Complete the Pulse (2 topics - 5 mins Max)
-2.  Consider how to approach the Critical Proposal to best effect
-3.  Start identifying candidate papers
-    1.  Use the tools suggested below (or share others!)
+- **Purpose of the Dissertation**:
+  - Demonstrate the culmination of your research skills.
+  - Transition from guided learning to independent inquiry.
+  - Apply theoretical knowledge to a practical research question.
 
-    2.  Show it to LTs and/or Gordon - get specific!
-:::
+---
 
-# Literature searching
+## Key Timeline and Milestones
+
+1. **November**:
+   - Third-year students deliver their project presentations.
+   - Presentations assess rationale, hypotheses, and methodology.
+   - (Note: You will not attend these presentations.)
+2. **Mid-April**:
+   - Final dissertation submission deadline (6,000–8,000 words).
+
+---
+
+## Third-Year Dissertation Overview
+
+- **What is Expected?**
+  - Conduct original empirical research, guided by a supervisor.
+  - Engage in all research phases: design, ethical approval, data collection, analysis, and reporting.
+  
+## Third-Year Dissertation Overview (cont.)
+- **Key Deliverables**:
+  1. **Oral Presentation** (10% of grade):
+     - Short presentation of project rationale and plan.
+     - Constructive feedback from supervisors and peers.
+  2. **Written Dissertation** (90% of grade):
+     - Formal submission in APA journal-style format.
+     - Includes literature review, methodology, results, and discussion.
+
+---
+
+## Core Learning Outcomes 1/3
+
+- **Research Skills**:
+  - Translate theoretical questions into testable hypotheses.
+  - Design robust and ethical research studies.
+  
+## Core Learning Outcomes 2/3
+
+- **Critical Thinking**:
+  - Identify gaps in existing literature.
+  - Interpret data meaningfully in the context of theoretical frameworks.
+  
+## Core Learning Outcomes 3/3
+
+- **Communication**:
+  - Articulate your findings effectively through writing and presentations.
+
+---
+
+## How Your Mini-Dissertation Prepares You
+
+- **Skills Building**:
+  - Apply second-year research experience to larger, more complex projects.
+  - Practice ethical and methodological rigor.
+- **Lessons Learned**:
+  - Reflect on challenges faced during your mini-project.
+  - Use feedback to refine your research and writing techniques.
+
+---
+
+## Tips for Preparing in Your Second Year 1/3
+
+1. **Choose a Potential Topic**:
+   - Start identifying areas of interest related to your studies.
+   - Discuss ideas with mentors, tutors, or third-year students.
+
+## Tips for Preparing in Your Second Year 2/3
+
+2. **Engage with Literature**:
+   - Read extensively to familiarize yourself with research trends.
+   - Identify key gaps or questions that inspire curiosity.
+   
+## Tips for Preparing in Your Second Year 3/3
+
+3. **Master APA Formatting**:
+   - Practice structuring reports according to APA guidelines.
+   - Familiarize yourself with citation and formatting rules.
+
+---
+
+## Looking Ahead: Key Success Strategies 1/3
+
+- **Supervisory Guidance**:
+  - Build strong communication with your future supervisor.
+  - Use meetings to seek feedback and refine your project plan.
+
+## Looking Ahead: Key Success Strategies 2/3
+
+- **Time Management**:
+  - Develop a timeline for data collection and analysis.
+  - Set interim deadlines to avoid last-minute rushes.
+
+## Looking Ahead: Key Success Strategies 3/3
+
+- **Feedback Loop**:
+  - Treat November presentations (even if you don’t attend) as a model.
+  - Be open to constructive critique for improving your work.
+
+---
+
+## Motivation: Why This Matters
+
+- **A Transformational Experience**:
+  - Your dissertation is more than a grade; it is a demonstration of your growth as a researcher and thinker.
+- **The First Step to Expertise**:
+  - Skills learned here will set the foundation for your academic and professional pursuits.
+- **Your Journey**:
+  - Embrace the challenges and celebrate your progress!
+
+---
+
+## What it means in reality
+
+- **This is yours and yours alone**:
+  - You will be an expert in your field.
+  - This is likely the thing you will talk about in any interview or job application.
+  - This is the thing that will make you stand out from the crowd - so be strategic in your choices.
+  - This is a large-scale project that you will be able to talk about and **demonstrate** Project Management abilities.
+  
+---
+# You can enjoy it! And we hope you do!
