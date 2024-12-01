@@ -1323,130 +1323,158 @@
     "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 06 - Doing Better"
   },
   {
-    "objectID": "week09/lecture.slides.html#key-topics-today-20000",
-    "href": "week09/lecture.slides.html#key-topics-today-20000",
-    "title": "Lecture 09: STUFF",
-    "section": "Key topics today 20000",
-    "text": "Key topics today 20000\nThe week ahead\n\nPersonal Tutor Meeting about Mini-Dissertation this week\nalso Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)\n\nIt is your time, PTs have been told to follow your lead\n\nCritical Proposal overview and tips\nLab preview - Literature search and management\n\nYour Critical Proposal Target Paper"
+    "objectID": "week09/lecture.slides.html#situating-anova-within-the-glm",
+    "href": "week09/lecture.slides.html#situating-anova-within-the-glm",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Situating ANOVA Within the GLM",
+    "text": "Situating ANOVA Within the GLM"
   },
   {
-    "objectID": "week09/lecture.slides.html#personal-tutor-meeting-week-3",
-    "href": "week09/lecture.slides.html#personal-tutor-meeting-week-3",
-    "title": "Lecture 09: STUFF",
-    "section": "Personal Tutor Meeting Week 3",
-    "text": "Personal Tutor Meeting Week 3\nThis week (week 3) you have 50 minutes with your Personal Tutor to discuss the Mini-Dissertation\n\n\n\n\n\n\nTip\n\n\nYour Personal Tutor is ANOTHER source of guidance and support.\nGive them the information they need to best help you on this journey.\n\n\n\n\nDear PTs, “Next week, you are given no information whatsoever, and are asked to turn up to your session with nothing other than perhaps a pen and paper, a big smile, and anticipation of lots of exciting research in the making.”"
+    "objectID": "week09/lecture.slides.html#what-is-the-general-linear-model-glm",
+    "href": "week09/lecture.slides.html#what-is-the-general-linear-model-glm",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "What is the General Linear Model (GLM)?",
+    "text": "What is the General Linear Model (GLM)?\n\nGLM is a framework that describes a broad set of statistical models.\nIncludes techniques like:\n\nANOVA (Analysis of Variance)\nMultiple Regression\nANCOVA (Analysis of Covariance)\nMANOVA (Multivariate ANOVA)"
   },
   {
-    "objectID": "week09/lecture.slides.html#future-pt-sessions-devoted-to-the-md",
-    "href": "week09/lecture.slides.html#future-pt-sessions-devoted-to-the-md",
-    "title": "Lecture 09: STUFF",
-    "section": "Future PT Sessions devoted to the MD",
-    "text": "Future PT Sessions devoted to the MD\nWeek 8 - Check on status of Ethics application, and troubleshooting\nWeek 13 - Session to support Analysis Planning and Writing up/Submission preparation\nWeek 17 - Result interpretation, and any concerns arising in the final phase of the MD"
+    "objectID": "week09/lecture.slides.html#what-is-the-general-linear-model-glm-1",
+    "href": "week09/lecture.slides.html#what-is-the-general-linear-model-glm-1",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "What is the General Linear Model (GLM)?",
+    "text": "What is the General Linear Model (GLM)?\n\nUnified by the equation:\n\n\\[\nY = X\\beta + \\epsilon\n\\]"
   },
   {
-    "objectID": "week09/lecture.slides.html#this-is-a-topic-and-skill-youve-already-been-shown",
-    "href": "week09/lecture.slides.html#this-is-a-topic-and-skill-youve-already-been-shown",
-    "title": "Lecture 09: STUFF",
-    "section": "This is a topic and skill you’ve already been shown",
-    "text": "This is a topic and skill you’ve already been shown\n\n\nReview these materials and consider your performance of the assessment, and any feedback"
+    "objectID": "week09/lecture.slides.html#visualizing-the-general-linear-model-glm",
+    "href": "week09/lecture.slides.html#visualizing-the-general-linear-model-glm",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Visualizing the General Linear Model (GLM)",
+    "text": "Visualizing the General Linear Model (GLM)\n\n\nFigure 1: Graphical Representation of the General Linear Model with Intercept(5) and Slope(2)."
   },
   {
-    "objectID": "week09/lecture.slides.html#this-year-critical-analysis-has-a-point",
-    "href": "week09/lecture.slides.html#this-year-critical-analysis-has-a-point",
-    "title": "Lecture 09: STUFF",
-    "section": "This year Critical Analysis has a ‘point’",
-    "text": "This year Critical Analysis has a ‘point’\nThe objective of the Critical Proposal is that you start to deploy the tools you have practiced in the service of your Mini-Dissertations.\nA ‘practical’ exercise, success if determined in light of practical value.\nHelping to develop some aspect of your study design or methodology.\nYou will probably follow this process ‘a few times’ for your final year dissertation!"
+    "objectID": "week09/lecture.slides.html#key-elements-of-the-glm-equation-12",
+    "href": "week09/lecture.slides.html#key-elements-of-the-glm-equation-12",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Key Elements of the GLM Equation 1/2",
+    "text": "Key Elements of the GLM Equation 1/2\n\nOutcome Variable (Y):\n\nThe dependent variable being predicted or explained.\nUsually continuous in both regression and ANOVA models.\n\nPredictors (X):\n\nIndependent variables in regression (e.g., continuous variables).\nGrouping variables in ANOVA (e.g., categorical variables)."
   },
   {
-    "objectID": "week09/lecture.slides.html#reading-list-items-barber-2002-2004",
-    "href": "week09/lecture.slides.html#reading-list-items-barber-2002-2004",
-    "title": "Lecture 09: STUFF",
-    "section": "Reading list items (Barber 2002; 2004)",
-    "text": "Reading list items (Barber 2002; 2004)"
+    "objectID": "week09/lecture.slides.html#key-elements-of-the-glm-equation-12-1",
+    "href": "week09/lecture.slides.html#key-elements-of-the-glm-equation-12-1",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Key Elements of the GLM Equation 1/2",
+    "text": "Key Elements of the GLM Equation 1/2\n\nCoefficients (β):\n\nRepresent the estimated weights or effects of predictors (X) on the outcome (Y).\n\nError Term (ε):\n\nCaptures the variation in Y that is not explained by the predictors."
   },
   {
-    "objectID": "week09/lecture.slides.html#lets-look-at-the-example-from-last-week",
-    "href": "week09/lecture.slides.html#lets-look-at-the-example-from-last-week",
-    "title": "Lecture 09: STUFF",
-    "section": "Let’s look at the example from last week",
-    "text": "Let’s look at the example from last week"
+    "objectID": "week09/lecture.slides.html#anova-as-a-special-case-of-glm",
+    "href": "week09/lecture.slides.html#anova-as-a-special-case-of-glm",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "ANOVA as a Special Case of GLM",
+    "text": "ANOVA as a Special Case of GLM\n\nANOVA compares means across groups by partitioning variance:\n\nTotal Variance = Variance Between Groups + Variance Within Groups\n\nIn GLM terms:\n\nX: Encodes group membership using dummy variables.\nβ: Represents group mean effects.\nε: Residual error capturing unexplained variance."
   },
   {
-    "objectID": "week09/lecture.slides.html#how-do-i-do-it-one-approach",
-    "href": "week09/lecture.slides.html#how-do-i-do-it-one-approach",
-    "title": "Lecture 09: STUFF",
-    "section": "How do I do it? [one approach]",
-    "text": "How do I do it? [one approach]\nReview literature on a key part of your ‘puzzle’ (an IV, a ‘tool’, the DV etc)\nApply critical evaluation to carefully chosen paper(s)\nConsider how it might realistically guide or inform your own research\nIdentify a procedure to partially replicate, replicate, or replicate and extend/improve\nDetail how that takes shape and reflect on your confidence, skill base, perception of value"
+    "objectID": "week09/lecture.slides.html#extending-to-factorial-designs-main-effects",
+    "href": "week09/lecture.slides.html#extending-to-factorial-designs-main-effects",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Extending to Factorial Designs: Main Effects",
+    "text": "Extending to Factorial Designs: Main Effects\n\nFactorial designs include multiple predictors (e.g., A and B).\nEach predictor contributes to the outcome variable (Y) through:\n\nMain Effects:\n\nEffect of A (e.g., differences across levels of factor A).\nEffect of B (e.g., differences across levels of factor B).\n\nResidual Error: Variation unexplained by predictors."
   },
   {
-    "objectID": "week09/lecture.slides.html#or",
-    "href": "week09/lecture.slides.html#or",
-    "title": "Lecture 09: STUFF",
-    "section": "or",
-    "text": "or\nYou could approach it strategically as a group.\nIdentify areas to take ownership of, then divide and conquer!\nOr fly solo and agree to later apply the same process to a mutually beneficial part of your study"
+    "objectID": "week09/lecture.slides.html#extending-to-factorial-designs-interaction-effects",
+    "href": "week09/lecture.slides.html#extending-to-factorial-designs-interaction-effects",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Extending to Factorial Designs: Interaction Effects",
+    "text": "Extending to Factorial Designs: Interaction Effects\n\nInteraction effects occur when the effect of one predictor (A) depends on the level of the other predictor (B).\nCombined model for a factorial design: \\[\nY = \\beta_0 + \\beta_1 X_A + \\beta_2 X_B + \\beta_3 (X_A \\times X_B) + \\epsilon\n\\]\nPartitioned Variance in Factorial ANOVA:\n\nMain effects of A and B.\nInteraction effect (A × B).\nResidual error. ## ANOVA vs. Multiple Regression\n\n\nHow They Are Related\n\nANOVA:\n\nFocuses on group differences (categorical predictors).\nExample: Comparing means of 3 groups.\n\nMultiple Regression:\n\nAllows continuous and categorical predictors.\nExample: Predicting an outcome using test scores and group membership.\n\nConnection:\n\nANOVA is a regression model with categorical predictors encoded as dummy variables."
   },
   {
-    "objectID": "week09/lecture.slides.html#critical-proposal-support",
-    "href": "week09/lecture.slides.html#critical-proposal-support",
-    "title": "Lecture 09: STUFF",
-    "section": "Critical Proposal Support",
-    "text": "Critical Proposal Support"
+    "objectID": "week09/lecture.slides.html#example-one-way-anova-as-regression",
+    "href": "week09/lecture.slides.html#example-one-way-anova-as-regression",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Example: One-Way ANOVA as Regression",
+    "text": "Example: One-Way ANOVA as Regression\n\nRegression model for a one-way ANOVA:\n\nY = β₀ + β₁X₁ + β₂X₂ + ε\nComponents:\n\nX₁, X₂: Dummy variables for groups.\nβ₁: Difference between group 1 and the reference group.\nβ₂: Difference between group 2 and the reference group."
   },
   {
-    "objectID": "week09/lecture.slides.html#briefing",
-    "href": "week09/lecture.slides.html#briefing",
-    "title": "Lecture 09: STUFF",
-    "section": "Briefing",
-    "text": "Briefing"
+    "objectID": "week09/lecture.slides.html#visualizing-the-relationship",
+    "href": "week09/lecture.slides.html#visualizing-the-relationship",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Visualizing the Relationship",
+    "text": "Visualizing the Relationship\n\n\nFigure 2: ANOVA as regression: Group means represented by dummy variables."
   },
   {
-    "objectID": "week09/lecture.slides.html#please-follow-these",
-    "href": "week09/lecture.slides.html#please-follow-these",
-    "title": "Lecture 09: STUFF",
-    "section": "Please follow these",
-    "text": "Please follow these"
+    "objectID": "week09/lecture.slides.html#key-takeaways",
+    "href": "week09/lecture.slides.html#key-takeaways",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\nGLM Framework\n\nANOVA and Regression are special cases of GLM.\nBoth share the same foundation:\nY = Xβ + ε:\n\nRepresents the General Linear Model (GLM).\n(Y): Outcome variable (dependent variable).\n(X): Predictors (independent variables).\n(β): Coefficients for predictors.\n(ε): Residual error term.\n\n\nPractical Differences\n\nANOVA emphasizes group comparisons.\nRegression allows for both continuous and categorical predictors."
   },
   {
-    "objectID": "week09/lecture.slides.html#more-tips",
-    "href": "week09/lecture.slides.html#more-tips",
-    "title": "Lecture 09: STUFF",
-    "section": "More tips",
-    "text": "More tips\n\nPlease review the “SUGGESTED ESSAY OUTLINE” in the coursework briefing\nNo need to follow it roboticly, be strategic & selective in terms of details\nSelection of a ‘good’ paper to focus on is an integral part of the assessment!\nDo you think the first google result will be a fruitful paper? No, of course you don’t!\nUse your Lab Tutor and me to get a sense of confidence. Early.\nTell us how you are searching and what you are looking for\nConfirm the paper with us in a lab session [Priority given for this]"
+    "objectID": "week09/lecture.slides.html#recap-on-factorial-designs",
+    "href": "week09/lecture.slides.html#recap-on-factorial-designs",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Recap on Factorial Designs",
+    "text": "Recap on Factorial Designs"
   },
   {
-    "objectID": "week09/lecture.slides.html#even-more-tips",
-    "href": "week09/lecture.slides.html#even-more-tips",
-    "title": "Lecture 09: STUFF",
-    "section": "Even more tips",
-    "text": "Even more tips\n\nUse some of the tools presented in the lab activity to help track down a suitable paper\nGive yourself time to read, review, re-read and select your juiciest points\nAvoid any discussion of methodologies that cannot inform your study directly\n\ne.g. Clinical diagnostic procedures, fMRI technicalities, Criminal Record or Case Study review procedures"
+    "objectID": "week09/lecture.slides.html#what-are-factorial-designs",
+    "href": "week09/lecture.slides.html#what-are-factorial-designs",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "What Are Factorial Designs?",
+    "text": "What Are Factorial Designs?\n\nFactorial designs involve multiple independent variables (IVs).\nCommon in psychology research for testing complex interactions.\nGoal: To interpret main effects and interactions."
   },
   {
-    "objectID": "week09/lecture.slides.html#you-can-will-use-lots-of-this-in-your-md",
-    "href": "week09/lecture.slides.html#you-can-will-use-lots-of-this-in-your-md",
-    "title": "Lecture 09: STUFF",
-    "section": "You can (will) use LOTS of this in your MD!",
-    "text": "You can (will) use LOTS of this in your MD!\nThis isn’t a sidetrack exercise. It’s a critical step in your project\nNote your references, note your main points, be organised"
+    "objectID": "week09/lecture.slides.html#why-focus-on-2x2-designs-this-year",
+    "href": "week09/lecture.slides.html#why-focus-on-2x2-designs-this-year",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Why Focus on 2x2 Designs this year?",
+    "text": "Why Focus on 2x2 Designs this year?\n\nSimplest factorial design with:\n\n2 Independent Variables (IVs).\nEach IV has 2 levels.\n\nPatterns in data can show:\n\nMain Effects: Influence of each IV independently.\nInteractions: Combined influence of IVs."
   },
   {
-    "objectID": "week09/lecture.slides.html#weeks-4-5",
-    "href": "week09/lecture.slides.html#weeks-4-5",
-    "title": "Lecture 09: STUFF",
-    "section": "Weeks 4 & 5",
-    "text": "Weeks 4 & 5\nTalking about Variables and the 3 ‘flavours’ of ANOVA in week 4\nWeek 5 is ‘power calculations’ and opportunity to discuss CP\nBut we will be moving on and the CP will be part of your independent study\nSame opportunities for RASA submissions/summer deferrals & resubmissions"
+    "objectID": "week09/lecture.slides.html#understanding-the-8-possible-patterns",
+    "href": "week09/lecture.slides.html#understanding-the-8-possible-patterns",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Understanding the 8 Possible Patterns",
+    "text": "Understanding the 8 Possible Patterns\n\n\nFigure 3: Bar graphs: 8 possible outcomes in 2x2 design."
   },
   {
-    "objectID": "week09/lecture.slides.html#new-teaching-fellow-in-lab-03-wb300-930-1130",
-    "href": "week09/lecture.slides.html#new-teaching-fellow-in-lab-03-wb300-930-1130",
-    "title": "Lecture 09: STUFF",
-    "section": "New Teaching Fellow in Lab 03 WB300 9:30-11:30",
-    "text": "New Teaching Fellow in Lab 03 WB300 9:30-11:30\nDr. Faize Eryaman\nI’m going to meet her directly after this.\nNew to Goldsmiths, but a fantastic researcher and teacher.\nPlease help her settle in!"
+    "objectID": "week09/lecture.slides.html#exploring-main-effects-and-interactions",
+    "href": "week09/lecture.slides.html#exploring-main-effects-and-interactions",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Exploring Main Effects and Interactions",
+    "text": "Exploring Main Effects and Interactions"
   },
   {
-    "objectID": "week09/lecture.slides.html#roving-gordon",
-    "href": "week09/lecture.slides.html#roving-gordon",
-    "title": "Lecture 09: STUFF",
-    "section": "Roving Gordon",
-    "text": "Roving Gordon\nI shall be more available across all the labs now, and looking to help out as much as I can!\nI’m looking for opportunities:\n\nTo share good ideas or practice\nTo help confirm consistency and give you confidence\nTo be another “guide at the side”\nTo challenge you\nBut not to confuse you or contradict your Lab or Personal Tutors"
+    "objectID": "week09/lecture.slides.html#interpreting-main-effects",
+    "href": "week09/lecture.slides.html#interpreting-main-effects",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Interpreting Main Effects",
+    "text": "Interpreting Main Effects\n\nMain effects represent the consistent influence of an IV.\nExample: Coffee and wakefulness:\n\nMore coffee = Higher alertness, regardless of location."
+  },
+  {
+    "objectID": "week09/lecture.slides.html#interaction-effects",
+    "href": "week09/lecture.slides.html#interaction-effects",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Interaction Effects",
+    "text": "Interaction Effects\n\nInteraction occurs when one IV’s effect depends on the level of another.\nExample: Coffee may affect wakefulness differently in the morning vs. at night."
+  },
+  {
+    "objectID": "week09/lecture.slides.html#best-practices-for-factorial-designs",
+    "href": "week09/lecture.slides.html#best-practices-for-factorial-designs",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Best Practices for Factorial Designs",
+    "text": "Best Practices for Factorial Designs\n\nKeep designs simple: Fewer IVs and levels make interpretation easier.\nEnsure sufficient data for all combinations of IV levels.\nAlways visualize data before analysis to understand patterns."
+  },
+  {
+    "objectID": "week09/lecture.slides.html#summary",
+    "href": "week09/lecture.slides.html#summary",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Summary",
+    "text": "Summary\n\n2x2 designs are foundational in understanding factorial experiments.\nInteractions complicate main effects but reveal critical relationships.\nUse clear visualizations to enhance interpretation."
+  },
+  {
+    "objectID": "week09/lecture.slides.html#citation-and-acknowledgments",
+    "href": "week09/lecture.slides.html#citation-and-acknowledgments",
+    "title": "Lecture 09: ANOVA Recap and Factorial Designs",
+    "section": "Citation and Acknowledgments",
+    "text": "Citation and Acknowledgments\n\n\n\n\n\n\nNote\n\n\nThis content is inspired by Matt Crump’s Asking Questions with Data, CC-BY-NC-SA 4.0.\nCrump, M. J. C., Navarro, D. J., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 09"
   },
   {
     "objectID": "week13/lecture.slides.html#the-ongoing-debate",
@@ -3115,25 +3143,235 @@
     "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Module Induction"
   },
   {
-    "objectID": "week09/lab.slides.html#todays-activities-20000000",
-    "href": "week09/lab.slides.html#todays-activities-20000000",
-    "title": "Lab 09: XX",
-    "section": "Today’s activities 20000000",
-    "text": "Today’s activities 20000000\n\n\nComplete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "objectID": "week09/lab.slides.html#your-dissertation-journey-starts-here",
+    "href": "week09/lab.slides.html#your-dissertation-journey-starts-here",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Your Dissertation Journey Starts Here",
+    "text": "Your Dissertation Journey Starts Here\n\nPurpose of the Dissertation:\n\nDemonstrate the culmination of your research skills.\nTransition from guided learning to independent inquiry.\nApply theoretical knowledge to a practical research question."
+  },
+  {
+    "objectID": "week09/lab.slides.html#key-timeline-and-milestones",
+    "href": "week09/lab.slides.html#key-timeline-and-milestones",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Key Timeline and Milestones",
+    "text": "Key Timeline and Milestones\n\nNovember:\n\nThird-year students deliver their project presentations.\nPresentations assess rationale, hypotheses, and methodology.\n(Note: You will not attend these presentations.)\n\nMid-April:\n\nFinal dissertation submission deadline (6,000–8,000 words)."
+  },
+  {
+    "objectID": "week09/lab.slides.html#third-year-dissertation-overview",
+    "href": "week09/lab.slides.html#third-year-dissertation-overview",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Third-Year Dissertation Overview",
+    "text": "Third-Year Dissertation Overview\n\nWhat is Expected?\n\nConduct original empirical research, guided by a supervisor.\nEngage in all research phases: design, ethical approval, data collection, analysis, and reporting."
+  },
+  {
+    "objectID": "week09/lab.slides.html#third-year-dissertation-overview-cont.",
+    "href": "week09/lab.slides.html#third-year-dissertation-overview-cont.",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Third-Year Dissertation Overview (cont.)",
+    "text": "Third-Year Dissertation Overview (cont.)\n\nKey Deliverables:\n\nOral Presentation (10% of grade):\n\nShort presentation of project rationale and plan.\nConstructive feedback from supervisors and peers.\n\nWritten Dissertation (90% of grade):\n\nFormal submission in APA journal-style format.\nIncludes literature review, methodology, results, and discussion."
+  },
+  {
+    "objectID": "week09/lab.slides.html#core-learning-outcomes-13",
+    "href": "week09/lab.slides.html#core-learning-outcomes-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 1/3",
+    "text": "Core Learning Outcomes 1/3\n\nResearch Skills:\n\nTranslate theoretical questions into testable hypotheses.\nDesign robust and ethical research studies."
+  },
+  {
+    "objectID": "week09/lab.slides.html#core-learning-outcomes-23",
+    "href": "week09/lab.slides.html#core-learning-outcomes-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 2/3",
+    "text": "Core Learning Outcomes 2/3\n\nCritical Thinking:\n\nIdentify gaps in existing literature.\nInterpret data meaningfully in the context of theoretical frameworks."
+  },
+  {
+    "objectID": "week09/lab.slides.html#core-learning-outcomes-33",
+    "href": "week09/lab.slides.html#core-learning-outcomes-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 3/3",
+    "text": "Core Learning Outcomes 3/3\n\nCommunication:\n\nArticulate your findings effectively through writing and presentations."
+  },
+  {
+    "objectID": "week09/lab.slides.html#how-your-mini-dissertation-prepares-you",
+    "href": "week09/lab.slides.html#how-your-mini-dissertation-prepares-you",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "How Your Mini-Dissertation Prepares You",
+    "text": "How Your Mini-Dissertation Prepares You\n\nSkills Building:\n\nApply second-year research experience to larger, more complex projects.\nPractice ethical and methodological rigor.\n\nLessons Learned:\n\nReflect on challenges faced during your mini-project.\nUse feedback to refine your research and writing techniques."
+  },
+  {
+    "objectID": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-13",
+    "href": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 1/3",
+    "text": "Tips for Preparing in Your Second Year 1/3\n\nChoose a Potential Topic:\n\nStart identifying areas of interest related to your studies.\nDiscuss ideas with mentors, tutors, or third-year students."
+  },
+  {
+    "objectID": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-23",
+    "href": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 2/3",
+    "text": "Tips for Preparing in Your Second Year 2/3\n\nEngage with Literature:\n\nRead extensively to familiarize yourself with research trends.\nIdentify key gaps or questions that inspire curiosity."
+  },
+  {
+    "objectID": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-33",
+    "href": "week09/lab.slides.html#tips-for-preparing-in-your-second-year-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 3/3",
+    "text": "Tips for Preparing in Your Second Year 3/3\n\nMaster APA Formatting:\n\nPractice structuring reports according to APA guidelines.\nFamiliarize yourself with citation and formatting rules."
+  },
+  {
+    "objectID": "week09/lab.slides.html#looking-ahead-key-success-strategies-13",
+    "href": "week09/lab.slides.html#looking-ahead-key-success-strategies-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 1/3",
+    "text": "Looking Ahead: Key Success Strategies 1/3\n\nSupervisory Guidance:\n\nBuild strong communication with your future supervisor.\nUse meetings to seek feedback and refine your project plan."
+  },
+  {
+    "objectID": "week09/lab.slides.html#looking-ahead-key-success-strategies-23",
+    "href": "week09/lab.slides.html#looking-ahead-key-success-strategies-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 2/3",
+    "text": "Looking Ahead: Key Success Strategies 2/3\n\nTime Management:\n\nDevelop a timeline for data collection and analysis.\nSet interim deadlines to avoid last-minute rushes."
+  },
+  {
+    "objectID": "week09/lab.slides.html#looking-ahead-key-success-strategies-33",
+    "href": "week09/lab.slides.html#looking-ahead-key-success-strategies-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 3/3",
+    "text": "Looking Ahead: Key Success Strategies 3/3\n\nFeedback Loop:\n\nTreat November presentations (even if you don’t attend) as a model.\nBe open to constructive critique for improving your work."
+  },
+  {
+    "objectID": "week09/lab.slides.html#motivation-why-this-matters",
+    "href": "week09/lab.slides.html#motivation-why-this-matters",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Motivation: Why This Matters",
+    "text": "Motivation: Why This Matters\n\nA Transformational Experience:\n\nYour dissertation is more than a grade; it is a demonstration of your growth as a researcher and thinker.\n\nThe First Step to Expertise:\n\nSkills learned here will set the foundation for your academic and professional pursuits.\n\nYour Journey:\n\nEmbrace the challenges and celebrate your progress!"
+  },
+  {
+    "objectID": "week09/lab.slides.html#what-it-means-in-reality",
+    "href": "week09/lab.slides.html#what-it-means-in-reality",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "What it means in reality",
+    "text": "What it means in reality\n\nThis is yours and yours alone:\n\nYou will be an expert in your field.\nThis is likely the thing you will talk about in any interview or job application.\nThis is the thing that will make you stand out from the crowd - so be strategic in your choices.\nThis is a large-scale project that you will be able to talk about and demonstrate Project Management abilities."
   },
   {
     "objectID": "week09/lab.html",
     "href": "week09/lab.html",
-    "title": "Lab 09: XX",
+    "title": "Lab 09: Third Year Dissertation Preview",
     "section": "",
-    "text": "Complete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "text": "Purpose of the Dissertation:\n\nDemonstrate the culmination of your research skills.\nTransition from guided learning to independent inquiry.\nApply theoretical knowledge to a practical research question."
   },
   {
-    "objectID": "week09/lab.html#todays-activities-20000000",
-    "href": "week09/lab.html#todays-activities-20000000",
-    "title": "Lab 09: XX",
+    "objectID": "week09/lab.html#your-dissertation-journey-starts-here",
+    "href": "week09/lab.html#your-dissertation-journey-starts-here",
+    "title": "Lab 09: Third Year Dissertation Preview",
     "section": "",
-    "text": "Complete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "text": "Purpose of the Dissertation:\n\nDemonstrate the culmination of your research skills.\nTransition from guided learning to independent inquiry.\nApply theoretical knowledge to a practical research question."
+  },
+  {
+    "objectID": "week09/lab.html#key-timeline-and-milestones",
+    "href": "week09/lab.html#key-timeline-and-milestones",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Key Timeline and Milestones",
+    "text": "Key Timeline and Milestones\n\nNovember:\n\nThird-year students deliver their project presentations.\nPresentations assess rationale, hypotheses, and methodology.\n(Note: You will not attend these presentations.)\n\nMid-April:\n\nFinal dissertation submission deadline (6,000–8,000 words)."
+  },
+  {
+    "objectID": "week09/lab.html#third-year-dissertation-overview",
+    "href": "week09/lab.html#third-year-dissertation-overview",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Third-Year Dissertation Overview",
+    "text": "Third-Year Dissertation Overview\n\nWhat is Expected?\n\nConduct original empirical research, guided by a supervisor.\nEngage in all research phases: design, ethical approval, data collection, analysis, and reporting."
+  },
+  {
+    "objectID": "week09/lab.html#third-year-dissertation-overview-cont.",
+    "href": "week09/lab.html#third-year-dissertation-overview-cont.",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Third-Year Dissertation Overview (cont.)",
+    "text": "Third-Year Dissertation Overview (cont.)\n\nKey Deliverables:\n\nOral Presentation (10% of grade):\n\nShort presentation of project rationale and plan.\nConstructive feedback from supervisors and peers.\n\nWritten Dissertation (90% of grade):\n\nFormal submission in APA journal-style format.\nIncludes literature review, methodology, results, and discussion."
+  },
+  {
+    "objectID": "week09/lab.html#core-learning-outcomes-13",
+    "href": "week09/lab.html#core-learning-outcomes-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 1/3",
+    "text": "Core Learning Outcomes 1/3\n\nResearch Skills:\n\nTranslate theoretical questions into testable hypotheses.\nDesign robust and ethical research studies."
+  },
+  {
+    "objectID": "week09/lab.html#core-learning-outcomes-23",
+    "href": "week09/lab.html#core-learning-outcomes-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 2/3",
+    "text": "Core Learning Outcomes 2/3\n\nCritical Thinking:\n\nIdentify gaps in existing literature.\nInterpret data meaningfully in the context of theoretical frameworks."
+  },
+  {
+    "objectID": "week09/lab.html#core-learning-outcomes-33",
+    "href": "week09/lab.html#core-learning-outcomes-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Core Learning Outcomes 3/3",
+    "text": "Core Learning Outcomes 3/3\n\nCommunication:\n\nArticulate your findings effectively through writing and presentations."
+  },
+  {
+    "objectID": "week09/lab.html#how-your-mini-dissertation-prepares-you",
+    "href": "week09/lab.html#how-your-mini-dissertation-prepares-you",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "How Your Mini-Dissertation Prepares You",
+    "text": "How Your Mini-Dissertation Prepares You\n\nSkills Building:\n\nApply second-year research experience to larger, more complex projects.\nPractice ethical and methodological rigor.\n\nLessons Learned:\n\nReflect on challenges faced during your mini-project.\nUse feedback to refine your research and writing techniques."
+  },
+  {
+    "objectID": "week09/lab.html#tips-for-preparing-in-your-second-year-13",
+    "href": "week09/lab.html#tips-for-preparing-in-your-second-year-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 1/3",
+    "text": "Tips for Preparing in Your Second Year 1/3\n\nChoose a Potential Topic:\n\nStart identifying areas of interest related to your studies.\nDiscuss ideas with mentors, tutors, or third-year students."
+  },
+  {
+    "objectID": "week09/lab.html#tips-for-preparing-in-your-second-year-23",
+    "href": "week09/lab.html#tips-for-preparing-in-your-second-year-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 2/3",
+    "text": "Tips for Preparing in Your Second Year 2/3\n\nEngage with Literature:\n\nRead extensively to familiarize yourself with research trends.\nIdentify key gaps or questions that inspire curiosity."
+  },
+  {
+    "objectID": "week09/lab.html#tips-for-preparing-in-your-second-year-33",
+    "href": "week09/lab.html#tips-for-preparing-in-your-second-year-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Tips for Preparing in Your Second Year 3/3",
+    "text": "Tips for Preparing in Your Second Year 3/3\n\nMaster APA Formatting:\n\nPractice structuring reports according to APA guidelines.\nFamiliarize yourself with citation and formatting rules."
+  },
+  {
+    "objectID": "week09/lab.html#looking-ahead-key-success-strategies-13",
+    "href": "week09/lab.html#looking-ahead-key-success-strategies-13",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 1/3",
+    "text": "Looking Ahead: Key Success Strategies 1/3\n\nSupervisory Guidance:\n\nBuild strong communication with your future supervisor.\nUse meetings to seek feedback and refine your project plan."
+  },
+  {
+    "objectID": "week09/lab.html#looking-ahead-key-success-strategies-23",
+    "href": "week09/lab.html#looking-ahead-key-success-strategies-23",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 2/3",
+    "text": "Looking Ahead: Key Success Strategies 2/3\n\nTime Management:\n\nDevelop a timeline for data collection and analysis.\nSet interim deadlines to avoid last-minute rushes."
+  },
+  {
+    "objectID": "week09/lab.html#looking-ahead-key-success-strategies-33",
+    "href": "week09/lab.html#looking-ahead-key-success-strategies-33",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Looking Ahead: Key Success Strategies 3/3",
+    "text": "Looking Ahead: Key Success Strategies 3/3\n\nFeedback Loop:\n\nTreat November presentations (even if you don’t attend) as a model.\nBe open to constructive critique for improving your work."
+  },
+  {
+    "objectID": "week09/lab.html#motivation-why-this-matters",
+    "href": "week09/lab.html#motivation-why-this-matters",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "Motivation: Why This Matters",
+    "text": "Motivation: Why This Matters\n\nA Transformational Experience:\n\nYour dissertation is more than a grade; it is a demonstration of your growth as a researcher and thinker.\n\nThe First Step to Expertise:\n\nSkills learned here will set the foundation for your academic and professional pursuits.\n\nYour Journey:\n\nEmbrace the challenges and celebrate your progress!"
+  },
+  {
+    "objectID": "week09/lab.html#what-it-means-in-reality",
+    "href": "week09/lab.html#what-it-means-in-reality",
+    "title": "Lab 09: Third Year Dissertation Preview",
+    "section": "What it means in reality",
+    "text": "What it means in reality\n\nThis is yours and yours alone:\n\nYou will be an expert in your field.\nThis is likely the thing you will talk about in any interview or job application.\nThis is the thing that will make you stand out from the crowd - so be strategic in your choices.\nThis is a large-scale project that you will be able to talk about and demonstrate Project Management abilities."
   },
   {
     "objectID": "week06/lab.slides.html#power",
