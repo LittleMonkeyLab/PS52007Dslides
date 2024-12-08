@@ -2205,116 +2205,109 @@
     "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 11 - Every hypothesis looks like a nail"
   },
   {
-    "objectID": "week10/lecture.slides.html#key-topics-today-20000",
-    "href": "week10/lecture.slides.html#key-topics-today-20000",
-    "title": "Lecture 10: STUFF",
-    "section": "Key topics today 20000",
-    "text": "Key topics today 20000\nThe week ahead\n\nPersonal Tutor Meeting about Mini-Dissertation this week\nalso Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)\n\nIt is your time, PTs have been told to follow your lead\n\nCritical Proposal overview and tips\nLab preview - Literature search and management\n\nYour Critical Proposal Target Paper"
+    "objectID": "week10/lecture.slides.html#what-is-open-data",
+    "href": "week10/lecture.slides.html#what-is-open-data",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "What is Open Data?",
+    "text": "What is Open Data?\n\nDefinition: Making research data accessible for transparency and reproducibility.\nBenefits:\n\nPromotes collaboration.\nAdvances scientific knowledge.\nIncreases study credibility."
   },
   {
-    "objectID": "week10/lecture.slides.html#personal-tutor-meeting-week-3",
-    "href": "week10/lecture.slides.html#personal-tutor-meeting-week-3",
-    "title": "Lecture 10: STUFF",
-    "section": "Personal Tutor Meeting Week 3",
-    "text": "Personal Tutor Meeting Week 3\nThis week (week 3) you have 50 minutes with your Personal Tutor to discuss the Mini-Dissertation\n\n\n\n\n\n\nTip\n\n\nYour Personal Tutor is ANOTHER source of guidance and support.\nGive them the information they need to best help you on this journey.\n\n\n\n\nDear PTs, “Next week, you are given no information whatsoever, and are asked to turn up to your session with nothing other than perhaps a pen and paper, a big smile, and anticipation of lots of exciting research in the making.”"
+    "objectID": "week10/lecture.slides.html#preparing-your-data",
+    "href": "week10/lecture.slides.html#preparing-your-data",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Preparing Your Data",
+    "text": "Preparing Your Data\n\nClean, validate, and anonymize your data.\nRemove errors, inconsistencies, or missing values.\nAnonymize participant data: Replace PII with unique identifiers."
   },
   {
-    "objectID": "week10/lecture.slides.html#future-pt-sessions-devoted-to-the-md",
-    "href": "week10/lecture.slides.html#future-pt-sessions-devoted-to-the-md",
-    "title": "Lecture 10: STUFF",
-    "section": "Future PT Sessions devoted to the MD",
-    "text": "Future PT Sessions devoted to the MD\nWeek 8 - Check on status of Ethics application, and troubleshooting\nWeek 13 - Session to support Analysis Planning and Writing up/Submission preparation\nWeek 17 - Result interpretation, and any concerns arising in the final phase of the MD"
+    "objectID": "week10/lecture.slides.html#data-dictionary",
+    "href": "week10/lecture.slides.html#data-dictionary",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Data Dictionary",
+    "text": "Data Dictionary\n\nDocument the dataset structure for easy understanding:\n\nVariable names and descriptions\nData types (categorical, continuous)\nUnits of measurement (e.g., ms, hours)\nCoding schemes (if applicable)"
   },
   {
-    "objectID": "week10/lecture.slides.html#this-is-a-topic-and-skill-youve-already-been-shownreview-these-materials-and-consider-your-performance-of-the-assessment-and-any-feedback",
-    "href": "week10/lecture.slides.html#this-is-a-topic-and-skill-youve-already-been-shownreview-these-materials-and-consider-your-performance-of-the-assessment-and-any-feedback",
-    "title": "Lecture 10: STUFF",
-    "section": "This is a topic and skill you’ve already been shownReview these materials and consider your performance of the assessment, and any feedback",
-    "text": "This is a topic and skill you’ve already been shownReview these materials and consider your performance of the assessment, and any feedback"
+    "objectID": "week10/lecture.slides.html#documenting-pre-processing",
+    "href": "week10/lecture.slides.html#documenting-pre-processing",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Documenting Pre-processing",
+    "text": "Documenting Pre-processing\n\nDescribe decisions on exclusions, missing data handling.\nKeep a record of processing steps for transparency."
   },
   {
-    "objectID": "week10/lecture.slides.html#this-year-critical-analysis-has-a-point",
-    "href": "week10/lecture.slides.html#this-year-critical-analysis-has-a-point",
-    "title": "Lecture 10: STUFF",
-    "section": "This year Critical Analysis has a ‘point’",
-    "text": "This year Critical Analysis has a ‘point’\nThe objective of the Critical Proposal is that you start to deploy the tools you have practiced in the service of your Mini-Dissertations.\nA ‘practical’ exercise, success if determined in light of practical value.\nHelping to develop some aspect of your study design or methodology.\nYou will probably follow this process ‘a few times’ for your final year dissertation!"
+    "objectID": "week10/lecture.slides.html#choosing-suitable-formats",
+    "href": "week10/lecture.slides.html#choosing-suitable-formats",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Choosing Suitable Formats",
+    "text": "Choosing Suitable Formats\n\nCSV, Excel (.xlsx), SPSS (.sav), Jamovi, R.\nEnsure formats are user-friendly and well-documented."
   },
   {
-    "objectID": "week10/lecture.slides.html#reading-list-items-barber-2002-2004",
-    "href": "week10/lecture.slides.html#reading-list-items-barber-2002-2004",
-    "title": "Lecture 10: STUFF",
-    "section": "Reading list items (Barber 2002; 2004)",
-    "text": "Reading list items (Barber 2002; 2004)"
+    "objectID": "week10/lecture.slides.html#where-to-avoid-spss-dumps",
+    "href": "week10/lecture.slides.html#where-to-avoid-spss-dumps",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Where to Avoid SPSS Dumps",
+    "text": "Where to Avoid SPSS Dumps\n\nImportant: Do not submit the full SPSS output.\nWhat to Include:\n\nKey statistics and results in your report.\nRelevant outputs only for transparency."
   },
   {
-    "objectID": "week10/lecture.slides.html#lets-look-at-the-example-from-last-weekhow-do-i-do-it-one-approach",
-    "href": "week10/lecture.slides.html#lets-look-at-the-example-from-last-weekhow-do-i-do-it-one-approach",
-    "title": "Lecture 10: STUFF",
-    "section": "Let’s look at the example from last weekHow do I do it? [one approach]",
-    "text": "Let’s look at the example from last weekHow do I do it? [one approach]\nReview literature on a key part of your ‘puzzle’ (an IV, a ‘tool’, the DV etc)\nApply critical evaluation to carefully chosen paper(s)\nConsider how it might realistically guide or inform your own research\nIdentify a procedure to partially replicate, replicate, or replicate and extend/improve\nDetail how that takes shape and reflect on your confidence, skill base, perception of value"
+    "objectID": "week10/lecture.slides.html#why-submit-open-materials",
+    "href": "week10/lecture.slides.html#why-submit-open-materials",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Why Submit Open Materials?",
+    "text": "Why Submit Open Materials?\n\nEnables replication and evaluation of research.\nEnsures all materials are well-organized and complete."
   },
   {
-    "objectID": "week10/lecture.slides.html#or",
-    "href": "week10/lecture.slides.html#or",
-    "title": "Lecture 10: STUFF",
-    "section": "or",
-    "text": "or\nYou could approach it strategically as a group.\nIdentify areas to take ownership of, then divide and conquer!\nOr fly solo and agree to later apply the same process to a mutually beneficial part of your study"
+    "objectID": "week10/lecture.slides.html#key-materials-to-include",
+    "href": "week10/lecture.slides.html#key-materials-to-include",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Key Materials to Include",
+    "text": "Key Materials to Include\n\nStimuli (images, videos, text)\nExperimental software/scripts\nData collection tools (surveys, questionnaires)\nConsent, debriefing, and ethics forms\nStudy protocols and task instructions"
   },
   {
-    "objectID": "week10/lecture.slides.html#critical-proposal-support",
-    "href": "week10/lecture.slides.html#critical-proposal-support",
-    "title": "Lecture 10: STUFF",
-    "section": "Critical Proposal Support",
-    "text": "Critical Proposal Support"
+    "objectID": "week10/lecture.slides.html#documenting-your-materials",
+    "href": "week10/lecture.slides.html#documenting-your-materials",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Documenting Your Materials",
+    "text": "Documenting Your Materials\n\nProvide a description of each item’s purpose.\nIndicate whether materials are IVs or DVs.\nInclude labels, reverse-coded items, and response scales."
   },
   {
-    "objectID": "week10/lecture.slides.html#briefing",
-    "href": "week10/lecture.slides.html#briefing",
-    "title": "Lecture 10: STUFF",
-    "section": "Briefing",
-    "text": "Briefing"
+    "objectID": "week10/lecture.slides.html#study-design",
+    "href": "week10/lecture.slides.html#study-design",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Study Design",
+    "text": "Study Design\n\nStudy types: Repeated Measures, Mixed, Between-Groups.\nParticipants: Demographics, recruitment, sample size, inclusion/exclusion criteria.\nProcedures: Task instructions, randomization, counterbalancing."
   },
   {
-    "objectID": "week10/lecture.slides.html#please-follow-thesemore-tips",
-    "href": "week10/lecture.slides.html#please-follow-thesemore-tips",
-    "title": "Lecture 10: STUFF",
-    "section": "Please follow theseMore tips",
-    "text": "Please follow theseMore tips\n\nPlease review the “SUGGESTED ESSAY OUTLINE” in the coursework briefing\nNo need to follow it roboticly, be strategic & selective in terms of details\nSelection of a ‘good’ paper to focus on is an integral part of the assessment!\nDo you think the first google result will be a fruitful paper? No, of course you don’t!\nUse your Lab Tutor and me to get a sense of confidence. Early.\nTell us how you are searching and what you are looking for\nConfirm the paper with us in a lab session [Priority given for this]"
+    "objectID": "week10/lecture.slides.html#anonymizing-and-sharing",
+    "href": "week10/lecture.slides.html#anonymizing-and-sharing",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Anonymizing and Sharing",
+    "text": "Anonymizing and Sharing\n\nEnsure PII is removed.\nRedact researcher names if anonymity is required.\nPrepare files in text, spreadsheet, or PDF formats."
   },
   {
-    "objectID": "week10/lecture.slides.html#even-more-tips",
-    "href": "week10/lecture.slides.html#even-more-tips",
-    "title": "Lecture 10: STUFF",
-    "section": "Even more tips",
-    "text": "Even more tips\n\nUse some of the tools presented in the lab activity to help track down a suitable paper\nGive yourself time to read, review, re-read and select your juiciest points\nAvoid any discussion of methodologies that cannot inform your study directly\n\ne.g. Clinical diagnostic procedures, fMRI technicalities, Criminal Record or Case Study review procedures"
+    "objectID": "week10/lecture.slides.html#submission-organization",
+    "href": "week10/lecture.slides.html#submission-organization",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Submission Organization",
+    "text": "Submission Organization\n\nConsider a README file for clarity.\nIndex documents logically for easy navigation."
   },
   {
-    "objectID": "week10/lecture.slides.html#you-can-will-use-lots-of-this-in-your-md",
-    "href": "week10/lecture.slides.html#you-can-will-use-lots-of-this-in-your-md",
-    "title": "Lecture 10: STUFF",
-    "section": "You can (will) use LOTS of this in your MD!",
-    "text": "You can (will) use LOTS of this in your MD!\nThis isn’t a sidetrack exercise. It’s a critical step in your project\nNote your references, note your main points, be organised"
+    "objectID": "week10/lecture.slides.html#why-reflect",
+    "href": "week10/lecture.slides.html#why-reflect",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Why Reflect?",
+    "text": "Why Reflect?\n\nDevelop deeper learning and research skills.\nPrepare for future research projects and careers."
   },
   {
-    "objectID": "week10/lecture.slides.html#weeks-4-5",
-    "href": "week10/lecture.slides.html#weeks-4-5",
-    "title": "Lecture 10: STUFF",
-    "section": "Weeks 4 & 5",
-    "text": "Weeks 4 & 5\nTalking about Variables and the 3 ‘flavours’ of ANOVA in week 4\nWeek 5 is ‘power calculations’ and opportunity to discuss CP\nBut we will be moving on and the CP will be part of your independent study\nSame opportunities for RASA submissions/summer deferrals & resubmissions"
+    "objectID": "week10/lecture.slides.html#reflection-guide-12",
+    "href": "week10/lecture.slides.html#reflection-guide-12",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Reflection Guide 1/2",
+    "text": "Reflection Guide 1/2\n\nDocument Your Journey:\n\nResearch phases, successes, and challenges.\nRecord decisions and learning experiences.\n\nAsk Critical Questions:\n\nWhat worked well? What could improve?\nHow did challenges affect your outcomes?"
   },
   {
-    "objectID": "week10/lecture.slides.html#new-teaching-fellow-in-lab-03-wb300-930-1130",
-    "href": "week10/lecture.slides.html#new-teaching-fellow-in-lab-03-wb300-930-1130",
-    "title": "Lecture 10: STUFF",
-    "section": "New Teaching Fellow in Lab 03 WB300 9:30-11:30",
-    "text": "New Teaching Fellow in Lab 03 WB300 9:30-11:30\nDr. Faize Eryaman\nI’m going to meet her directly after this.\nNew to Goldsmiths, but a fantastic researcher and teacher.\nPlease help her settle in!"
-  },
-  {
-    "objectID": "week10/lecture.slides.html#roving-gordon",
-    "href": "week10/lecture.slides.html#roving-gordon",
-    "title": "Lecture 10: STUFF",
-    "section": "Roving Gordon",
-    "text": "Roving Gordon\nI shall be more available across all the labs now, and looking to help out as much as I can!\nI’m looking for opportunities:\n\nTo share good ideas or practice\nTo help confirm consistency and give you confidence\nTo be another “guide at the side”\nTo challenge you\nBut not to confuse you or contradict your Lab or Personal Tutors"
+    "objectID": "week10/lecture.slides.html#reflection-guide-22",
+    "href": "week10/lecture.slides.html#reflection-guide-22",
+    "title": "Lecture 10: Open Science Practices for your MD",
+    "section": "Reflection Guide 2/2",
+    "text": "Reflection Guide 2/2\n\nEvaluate & Synthesize:\n\nIdentify strengths and areas for improvement.\nSet future research goals.\n\nConsider Future Impact:\n\nHow does your research fit into the broader field?\nWhat next steps could advance this line of inquiry?"
   },
   {
     "objectID": "week20/lecture.slides.html#template",
@@ -2877,25 +2870,123 @@
     "text": "Stuff\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 20"
   },
   {
-    "objectID": "week10/lab.slides.html#todays-activities-20000000",
-    "href": "week10/lab.slides.html#todays-activities-20000000",
-    "title": "Lab 10: XX",
-    "section": "Today’s activities 20000000",
-    "text": "Today’s activities 20000000\n\n\nComplete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "objectID": "week10/lab.slides.html#looking-ahead-to-term-2",
+    "href": "week10/lab.slides.html#looking-ahead-to-term-2",
+    "title": "Lab 10: Preview to next term",
+    "section": "Looking ahead to term 2!",
+    "text": "Looking ahead to term 2!\n\nStudy Swap: Opens in week 11 and you learn by doing!\nGoal: Learn from peers by participating in each other’s studies.\nWhy?: Experience the challenges and creativity under shared constraints."
+  },
+  {
+    "objectID": "week10/lab.slides.html#how-it-works",
+    "href": "week10/lab.slides.html#how-it-works",
+    "title": "Lab 10: Preview to next term",
+    "section": "How It Works",
+    "text": "How It Works\n\nEveryone Participates: All second-year students will take part in each other’s studies.\nParticipation Cap: There will be a maximum number of required participations.\nFlexibility: You are encouraged to join more studies if interested."
+  },
+  {
+    "objectID": "week10/lab.slides.html#key-learning-outcomes",
+    "href": "week10/lab.slides.html#key-learning-outcomes",
+    "title": "Lab 10: Preview to next term",
+    "section": "Key Learning Outcomes",
+    "text": "Key Learning Outcomes\n\nShared Constraints: See how peers solve similar research challenges.\nResearch Insight: Learn what works and what doesn’t from others’ approaches.\nImproved Design Thinking: Refine your study delivery ideas for future projects."
+  },
+  {
+    "objectID": "week10/lab.slides.html#learning-by-doing",
+    "href": "week10/lab.slides.html#learning-by-doing",
+    "title": "Lab 10: Preview to next term",
+    "section": "Learning by Doing",
+    "text": "Learning by Doing\n\nUnderstand All Moving Parts:\n\nStudy design choices\nData collection methods\nParticipant management\nEthical considerations"
+  },
+  {
+    "objectID": "week10/lab.slides.html#learning-by-doing-1",
+    "href": "week10/lab.slides.html#learning-by-doing-1",
+    "title": "Lab 10: Preview to next term",
+    "section": "Learning by Doing",
+    "text": "Learning by Doing\n\nThink Critically About Delivery:\n\nHow will you run your study next year?\nWhat methods will you avoid or adopt?\nHow do study conditions affect data quality?"
+  },
+  {
+    "objectID": "week10/lab.slides.html#summary",
+    "href": "week10/lab.slides.html#summary",
+    "title": "Lab 10: Preview to next term",
+    "section": "Summary",
+    "text": "Summary\n\nParticipate: Engage with as many studies as possible.\nObserve: Learn from different designs and execution strategies.\nReflect: Apply insights to future research projects.\nAsk Questions: Use labs and forums for feedback and clarification."
+  },
+  {
+    "objectID": "week10/lab.slides.html#participation-will-be-monitored",
+    "href": "week10/lab.slides.html#participation-will-be-monitored",
+    "title": "Lab 10: Preview to next term",
+    "section": "Participation will be monitored!",
+    "text": "Participation will be monitored!"
+  },
+  {
+    "objectID": "week10/lab.slides.html#thank-you",
+    "href": "week10/lab.slides.html#thank-you",
+    "title": "Lab 10: Preview to next term",
+    "section": "Thank You!",
+    "text": "Thank You!\n\nBe curious, be engaged, and learn by doing!\nHave a great break and see you next term!\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 10 - XX"
   },
   {
     "objectID": "week10/lab.html",
     "href": "week10/lab.html",
-    "title": "Lab 10: XX",
+    "title": "Lab 10: Preview to next term",
     "section": "",
-    "text": "Complete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "text": "Today’s Focus: Finalise your ethics applications\n\n\n\n\nStudy Swap: Opens in week 11 and you learn by doing!\nGoal: Learn from peers by participating in each other’s studies.\nWhy?: Experience the challenges and creativity under shared constraints."
   },
   {
-    "objectID": "week10/lab.html#todays-activities-20000000",
-    "href": "week10/lab.html#todays-activities-20000000",
-    "title": "Lab 10: XX",
+    "objectID": "week10/lab.html#looking-ahead-to-term-2",
+    "href": "week10/lab.html#looking-ahead-to-term-2",
+    "title": "Lab 10: Preview to next term",
     "section": "",
-    "text": "Complete the Pulse (2 topics - 5 mins Max)\nConsider how to approach the Critical Proposal to best effect\nStart identifying candidate papers\n\nUse the tools suggested below (or share others!)\nShow it to LTs and/or Gordon - get specific!"
+    "text": "Study Swap: Opens in week 11 and you learn by doing!\nGoal: Learn from peers by participating in each other’s studies.\nWhy?: Experience the challenges and creativity under shared constraints."
+  },
+  {
+    "objectID": "week10/lab.html#how-it-works",
+    "href": "week10/lab.html#how-it-works",
+    "title": "Lab 10: Preview to next term",
+    "section": "How It Works",
+    "text": "How It Works\n\nEveryone Participates: All second-year students will take part in each other’s studies.\nParticipation Cap: There will be a maximum number of required participations.\nFlexibility: You are encouraged to join more studies if interested."
+  },
+  {
+    "objectID": "week10/lab.html#key-learning-outcomes",
+    "href": "week10/lab.html#key-learning-outcomes",
+    "title": "Lab 10: Preview to next term",
+    "section": "Key Learning Outcomes",
+    "text": "Key Learning Outcomes\n\nShared Constraints: See how peers solve similar research challenges.\nResearch Insight: Learn what works and what doesn’t from others’ approaches.\nImproved Design Thinking: Refine your study delivery ideas for future projects."
+  },
+  {
+    "objectID": "week10/lab.html#learning-by-doing",
+    "href": "week10/lab.html#learning-by-doing",
+    "title": "Lab 10: Preview to next term",
+    "section": "Learning by Doing",
+    "text": "Learning by Doing\n\nUnderstand All Moving Parts:\n\nStudy design choices\nData collection methods\nParticipant management\nEthical considerations"
+  },
+  {
+    "objectID": "week10/lab.html#learning-by-doing-1",
+    "href": "week10/lab.html#learning-by-doing-1",
+    "title": "Lab 10: Preview to next term",
+    "section": "Learning by Doing",
+    "text": "Learning by Doing\n\nThink Critically About Delivery:\n\nHow will you run your study next year?\nWhat methods will you avoid or adopt?\nHow do study conditions affect data quality?"
+  },
+  {
+    "objectID": "week10/lab.html#summary",
+    "href": "week10/lab.html#summary",
+    "title": "Lab 10: Preview to next term",
+    "section": "Summary",
+    "text": "Summary\n\nParticipate: Engage with as many studies as possible.\nObserve: Learn from different designs and execution strategies.\nReflect: Apply insights to future research projects.\nAsk Questions: Use labs and forums for feedback and clarification."
+  },
+  {
+    "objectID": "week10/lab.html#participation-will-be-monitored",
+    "href": "week10/lab.html#participation-will-be-monitored",
+    "title": "Lab 10: Preview to next term",
+    "section": "Participation will be monitored!",
+    "text": "Participation will be monitored!"
+  },
+  {
+    "objectID": "week10/lab.html#thank-you",
+    "href": "week10/lab.html#thank-you",
+    "title": "Lab 10: Preview to next term",
+    "section": "Thank You!",
+    "text": "Thank You!\n\nBe curious, be engaged, and learn by doing!\nHave a great break and see you next term!"
   },
   {
     "objectID": "week11/lab.slides.html#study-swap",
