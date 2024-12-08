@@ -1,6 +1,6 @@
 ---
-title: "Lecture 10: STUFF"
-subtitle: "STUFF"
+title: "Lecture 10: Open Science Practices for your MD"
+subtitle: "Important information"
 date: "12/09/2024"
 categories: 
   - "Lecture"
@@ -26,6 +26,8 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 10" # Replace it
     hide-from-titleSlide: "text"
+    mainfont: "Atkinson Hyperlegible"
+    embed-resources: true
   # pdf: default
   pptx: default
   # html: default
@@ -35,163 +37,136 @@ execute:
  freeze: auto
 ---
 
-## Key topics today 20000
+# Introduction
 
-The week ahead
+-   **Purpose**: Enhance transparency, reproducibility, and collaboration.
+-   **Focus Areas**:
+    -   Open Data
+    -   Open Materials
+    -   Reflective Account
 
--   Personal Tutor Meeting about Mini-Dissertation this week
--   also Weeks 8 (ethics), 13 (write-up prep), 17 (Stats)
-    -   It is your time, PTs have been told to follow your lead
--   Critical Proposal overview and tips
--   Lab preview - Literature search and management
-    -   Your Critical Proposal Target Paper
+# Why Open Science Matters
 
-## Personal Tutor Meeting Week 3
+-   Ensures research credibility and integrity.
+-   Facilitates peer review and replication.
+-   Increases research visibility and impact.
+-   Encourages innovation and collaborative opportunities.
 
-This week (week 3) you have 50 minutes with your Personal Tutor to
-discuss the Mini-Dissertation
+# Open Data Requirements
 
-::: callout-tip
-Your Personal Tutor is ANOTHER source of guidance and support.
+## What is Open Data?
 
-Give them the information they need to best help you on this journey.
-:::
+-   **Definition**: Making research data accessible for transparency and reproducibility.
+-   **Benefits**:
+    -   Promotes collaboration.
+    -   Advances scientific knowledge.
+    -   Increases study credibility.
 
-> [Dear PTs, "Next week, you are given **no information whatsoever**,
-> and are asked to turn up to your session with nothing other than
-> perhaps a pen and paper, a big smile, and anticipation of lots of
-> exciting research in the making."]{.takeaway}
+## Preparing Your Data
 
-## Future PT Sessions devoted to the MD
+-   Clean, validate, and anonymize your data.
+-   Remove errors, inconsistencies, or missing values.
+-   Anonymize participant data: Replace PII with unique identifiers.
 
-Week 8 - Check on status of Ethics application, and troubleshooting
+## Data Dictionary
 
-Week 13 - Session to support Analysis Planning and Writing up/Submission
-preparation
+-   Document the dataset structure for easy understanding:
+    -   Variable names and descriptions
+    -   Data types (categorical, continuous)
+    -   Units of measurement (e.g., ms, hours)
+    -   Coding schemes (if applicable)
 
-Week 17 - Result interpretation, and any concerns arising in the final
-phase of the MD
+## Documenting Pre-processing
 
-# Any Questions?
+-   Describe decisions on exclusions, missing data handling.
+-   Keep a record of processing steps for transparency.
 
-# Being critical and evaluating the work of others
+## Choosing Suitable Formats
 
-## This is a topic and skill you've already been shownReview these materials and consider your performance of the assessment, and any feedback
+-   CSV, Excel (.xlsx), SPSS (.sav), Jamovi, R.
+-   Ensure formats are user-friendly and well-documented.
 
-## This year Critical Analysis has a 'point'
+## Where to Avoid SPSS Dumps
 
-The objective of the Critical Proposal is that you start to deploy the
-tools you have practiced in the service of your Mini-Dissertations.
+-   **Important**: Do not submit the full SPSS output.
+-   **What to Include**:
+    -   Key statistics and results in your report.
+    -   Relevant outputs only for transparency.
 
-A 'practical' exercise, success if determined in light of practical
-value.
+# Open Materials Requirements
 
-Helping to develop some aspect of your study design or methodology.
+## Why Submit Open Materials?
 
-You will probably follow this process 'a few times' for your final year
-dissertation!
+-   Enables replication and evaluation of research.
+-   Ensures all materials are well-organized and complete.
 
-## Reading list items (Barber 2002; 2004)
+## Key Materials to Include
 
-## Let's look at the example from last weekHow do I do it? \[one approach\]
+-   Stimuli (images, videos, text)
+-   Experimental software/scripts
+-   Data collection tools (surveys, questionnaires)
+-   Consent, debriefing, and ethics forms
+-   Study protocols and task instructions
 
-Review literature on a key part of your 'puzzle' (an IV, a 'tool', the
-DV etc)
+## Documenting Your Materials
 
-Apply critical evaluation to carefully chosen paper(s)
+-   Provide a description of each item’s purpose.
+-   Indicate whether materials are IVs or DVs.
+-   Include labels, reverse-coded items, and response scales.
 
-Consider how it might realistically guide or inform your own research
+## Study Design
 
-Identify a procedure to partially replicate, replicate, or replicate and
-extend/improve
+-   Study types: Repeated Measures, Mixed, Between-Groups.
+-   Participants: Demographics, recruitment, sample size, inclusion/exclusion criteria.
+-   Procedures: Task instructions, randomization, counterbalancing.
 
-Detail how that takes shape and reflect on your confidence, skill base,
-perception of value
+## Anonymizing and Sharing
 
-## or
+-   Ensure PII is removed.
+-   Redact researcher names if anonymity is required.
+-   Prepare files in text, spreadsheet, or PDF formats.
 
-You could approach it [strategically as a group]{.underline}.
+## Submission Organization
 
-Identify areas to take ownership of, then divide and conquer!
+-   Consider a README file for clarity.
+-   Index documents logically for easy navigation.
 
-[Or fly solo and agree to later apply the same process to a mutually
-beneficial part of your study]{.incremental}
+# Reflective Account Requirements
 
-## Critical Proposal Support
+## Why Reflect?
 
-## Briefing
+-   Develop deeper learning and research skills.
+-   Prepare for future research projects and careers.
 
-## Please follow theseMore tips
+## Reflection Guide 1/2
 
--   Please review the "SUGGESTED ESSAY OUTLINE" in the coursework
-    briefing
--   No need to follow it roboticly, be strategic & selective in terms of
-    details
--   [Selection of a 'good' paper to focus on is an integral part of the
-    assessment]{.underline}!
--   Do you think the first google result will be a fruitful paper? No,
-    of course you don't!
--   [Use your Lab Tutor and me to get a sense of confidence.
-    Early.]{.takeaway}
--   [Tell us how you are searching and what you are looking
-    for]{.takeaway}
--   [Confirm the paper with us in a lab session \[Priority given for
-    this\]]{.takeaway}
+-   **Document Your Journey**:
+    -   Research phases, successes, and challenges.
+    -   Record decisions and learning experiences.
+-   **Ask Critical Questions**:
+    -   What worked well? What could improve?
+    -   How did challenges affect your outcomes?
+    
+## Reflection Guide 2/2
 
-## Even more tips
+-   **Evaluate & Synthesize**:
+    -   Identify strengths and areas for improvement.
+    -   Set future research goals.
+-   **Consider Future Impact**:
+    -   How does your research fit into the broader field?
+    -   What next steps could advance this line of inquiry?
 
--   Use some of the tools presented in the lab activity to help track
-    down a suitable paper
+# Summary & Reminders
 
--   Give yourself time to read, review, re-read and select your juiciest
-    points
+-   **Must Submit**:
+    -   Open Data
+    -   Open Materials
+    -   Reflective Account
+-   **Ask Questions**:
+    -   Use lab sessions or discussion forums.
+    -   Seek feedback from peers and instructors.
 
--   Avoid any discussion of methodologies that cannot inform your study
-    directly
+# Thank You!
 
-    -   e.g. Clinical diagnostic procedures, fMRI technicalities,
-        Criminal Record or Case Study review procedures
-
-## You can (will) use LOTS of this in your MD!
-
-This isn't a sidetrack exercise. It's a critical step in your project
-
-Note your references, note your main points, be organised
-
-## Weeks 4 & 5
-
-Talking about Variables and the 3 'flavours' of ANOVA in week 4
-
-Week 5 is 'power calculations' and opportunity to discuss CP
-
-But we will be moving on and the CP will be part of your independent
-study
-
-Same opportunities for RASA submissions/summer deferrals & resubmissions
-
-# Questions?
-
-## New Teaching Fellow in Lab 03 WB300 9:30-11:30
-
-Dr. Faize Eryaman
-
-I'm going to meet her directly after this.
-
-New to Goldsmiths, but a fantastic researcher and teacher.
-
-Please help her settle in!
-
-## Roving Gordon
-
-I shall be more available across all the labs now, and looking to help
-out as much as I can!
-
-I'm looking for opportunities:
-
--   To share good ideas or practice
--   To help confirm consistency and give you confidence
--   To be another "guide at the side"
--   To challenge you
--   But not to confuse you or contradict your Lab or Personal Tutors
-
-# Questions?
+-   **Questions?**
+-   Let's make research open and reproducible!

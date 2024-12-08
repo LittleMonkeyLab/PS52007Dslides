@@ -78,7 +78,7 @@ format:
     controls-layout: edges
     show-slide-number: all
     slide-number: c/t
-    mainfont: Atkinson Hyperlegible
+    mainfont: "Atkinson Hyperlegible"
     incremental: false
     margin: 0.1
     smaller: false

@@ -1,6 +1,6 @@
 ---
-title: "Lab 10: XX"
-subtitle: "XX"
+title: "Lab 10: Preview to next term"
+subtitle: "Lots of fun ahead"
 image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -36,15 +36,58 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-## Today's activities 20000000
+# Welcome to Lab 10
 
-::: incremental
-1.  Complete the Pulse (2 topics - 5 mins Max)
-2.  Consider how to approach the Critical Proposal to best effect
-3.  Start identifying candidate papers
-    1.  Use the tools suggested below (or share others!)
+-   **Today's Focus**: Finalise your ethics applications
 
-    2.  Show it to LTs and/or Gordon - get specific!
-:::
+## Looking ahead to term 2!
+-   **Study Swap**: Opens in week 11 and you learn by doing!
+-   **Goal**: Learn from peers by participating in each other's studies.
+-   **Why?**: Experience the challenges and creativity under shared constraints.
 
-# Literature searching
+# Compulsory Participation
+
+## How It Works
+
+-   **Everyone Participates**: All second-year students will take part in each other’s studies.
+-   **Participation Cap**: There will be a maximum number of required participations.
+-   **Flexibility**: You are encouraged to join more studies if interested.
+
+# Why Participate?
+
+## Key Learning Outcomes
+
+-   **Shared Constraints**: See how peers solve similar research challenges.
+-   **Research Insight**: Learn what works and what doesn’t from others’ approaches.
+-   **Improved Design Thinking**: Refine your study delivery ideas for future projects.
+
+## Learning by Doing
+
+-   **Understand All Moving Parts**:
+    -   Study design choices
+    -   Data collection methods
+    -   Participant management
+    -   Ethical considerations
+
+## Learning by Doing
+
+-   **Think Critically About Delivery**:
+    -   How will you run your study next year?
+    -   What methods will you avoid or adopt?
+    -   How do study conditions affect data quality?
+
+## Summary
+
+-   **Participate**: Engage with as many studies as possible.
+-   **Observe**: Learn from different designs and execution strategies.
+-   **Reflect**: Apply insights to future research projects.
+-   **Ask Questions**: Use labs and forums for feedback and clarification.
+
+## Participation will be monitored!
+
+![](images/Screenshot%202024-12-08%20at%2017.14.06.png)
+
+## Thank You!
+
+-   Be curious, be engaged, and learn by doing!
+-   Have a great break and see you next term!
