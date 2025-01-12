@@ -68,6 +68,14 @@ I shall be uploading materials from popular topics from previous years (recordin
 and more
 :::
 
+## Surprise\* hit last year
+
+Inclusivity -- 2 lectures from Dr Tegan Penton[^1]
+
+[^1]: Not really a surprise! ;-)
+
+![](images/TeagyPenty%20Inclusivity.png)
+
 ## CHIP Assignment(s)
 
 ::: incremental
@@ -176,7 +184,7 @@ Each week, we will focus on a key skill or procedure, supplying useful resources
 ## Weeks 10 -- 15 (alongside lectures & data collection)
 
 ::: incremental
--   In week 10 - Complete Qualtrics Study Swap survey and recruit/participate in studies!
+-   In week 10 - Email Gordon for Study Swap and recruit/participate in studies!
 -   In week 11 - We begin the process of focusing on Writing & Analysis - Literature & Introduction
 -   In week 12 - We will be focusing on 'Writing up your Method section'
 -   In week 13 - We will be talking about 'Planning your analysis'
@@ -194,7 +202,7 @@ Each week, we will focus on a key skill or procedure, supplying useful resources
 -   An APA 7^th^ Edition Mini-Dissertation template word document
 -   An APA 7^th^ Edition Reference Cheat Sheet
 -   Extended Mini-Dissertation Marking Criteria
--   2 x Example Mini-Dissertations (more to follow)
+-   2 x Example Mini-Dissertations
 :::
 
 ## APA 7 Mini-Dissertation Template
@@ -252,4 +260,4 @@ Points to attend to:
 
 # Any Questions?
 
-##
+## References
