@@ -2394,6 +2394,160 @@
     "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 07 - Psychometrics"
   },
   {
+    "objectID": "week14/lecture.slides.html#overview",
+    "href": "week14/lecture.slides.html#overview",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Overview",
+    "text": "Overview\n\nThe Replication Crisis in Behaviouural Science\nEnter the Data Colada Team\nCase Study 1: Francesca Gino\nCase Study 2: Dan Ariely\nImplications for Scientific Integrity\nThe Future of Behavioural Science"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-replication-crisis",
+    "href": "week14/lecture.slides.html#the-replication-crisis",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Replication Crisis",
+    "text": "The Replication Crisis\n\n\nThe Problem\n\nMany famous findings couldn’t be replicated\nSmall sample sizes\nP-hacking concerns\nPublication bias\n\n\nThe Impact\n\nLoss of confidence in findings\nQuestions about methodology\nNeed for better oversight\nCall for reform"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#enter-data-colada",
+    "href": "week14/lecture.slides.html#enter-data-colada",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Enter Data Colada",
+    "text": "Enter Data Colada\nThe Team\n\nUri Simonsohn (UPenn)\nJoseph Simmons (UPenn)\nLeif Nelson (UC Berkeley)\n\n\nLegends\n\n\n\nTheir Mission\n\nInvestigate statistical anomalies\nPromote research integrity\nChallenge questionable findings\nFoster methodological rigor"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#their-methods",
+    "href": "week14/lecture.slides.html#their-methods",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Their Methods",
+    "text": "Their Methods\nStatistical Analysis\n\nExamination of raw data\nAnalysis of digital footprints\nPattern recognition\nCollaboration with anonymous sources\n\nPublication Strategy\n\nPublic blog posts\nDetailed technical analyses\nOpen access to findings\nEngagement with academic community"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#case-study-francesca-gino",
+    "href": "week14/lecture.slides.html#case-study-francesca-gino",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Case Study: Francesca Gino",
+    "text": "Case Study: Francesca Gino"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#case-study-francesca-gino-1",
+    "href": "week14/lecture.slides.html#case-study-francesca-gino-1",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Case Study: Francesca Gino",
+    "text": "Case Study: Francesca Gino\nBackground\n\nHarvard Business School Professor\nExpert in Behavioural ethics\n\nStudy of dishonesty\nRising academic star\n\n\nThe Investigation\n\nFour papers under scrutiny\nExcel file anomalies\nData manipulation evidence\nPattern of questionable results"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#ginos-key-papers-in-question",
+    "href": "week14/lecture.slides.html#ginos-key-papers-in-question",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Gino’s Key Papers in Question",
+    "text": "Gino’s Key Papers in Question\nThe Studies\n\nSign-at-top effect on honesty\nCleansing products and authenticity\nCheating Behaviour patterns\nDecision-making and morality"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-problems",
+    "href": "week14/lecture.slides.html#the-problems",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Problems",
+    "text": "The Problems"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-problems-1",
+    "href": "week14/lecture.slides.html#the-problems-1",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Problems",
+    "text": "The Problems\n\nData point manipulation\nSuspicious response patterns\nExcel timestamp issues\nStatistical improbabilities"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-harvard-response",
+    "href": "week14/lecture.slides.html#the-harvard-response",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Harvard Response",
+    "text": "The Harvard Response\nActions Taken\n\nUnpaid administrative leave\nMove to revoke tenure\nInvestigation launched\nJournal retractions requested"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#ginos-response",
+    "href": "week14/lecture.slides.html#ginos-response",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Gino’s Response",
+    "text": "Gino’s Response\n\n\n$25M lawsuit\nClaims of discrimination\nProcedural complaints\nDenial of allegations"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#dan-ariely-connection",
+    "href": "week14/lecture.slides.html#dan-ariely-connection",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Dan Ariely Connection",
+    "text": "Dan Ariely Connection"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#background-1",
+    "href": "week14/lecture.slides.html#background-1",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Background",
+    "text": "Background\n\nBestselling author\nTED Talk star\nBehavioural economics pioneer\nFrequent Gino collaborator"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-issues",
+    "href": "week14/lecture.slides.html#the-issues",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Issues",
+    "text": "The Issues\n\nQuestioned data in joint work\nSimilar pattern allegations\nTen Commandments study concerns\nReplication failures"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#broader-implications",
+    "href": "week14/lecture.slides.html#broader-implications",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Broader Implications",
+    "text": "Broader Implications"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#for-academia",
+    "href": "week14/lecture.slides.html#for-academia",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "For Academia",
+    "text": "For Academia\n\nResearch integrity focus\nMethodology scrutiny\nData transparency needs\nReplication importance"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#for-students",
+    "href": "week14/lecture.slides.html#for-students",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "For Students",
+    "text": "For Students\n\nCritical thinking emphasis\nMethods verification\nEthics awareness\nData handling skills"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#the-role-of-watchdogs",
+    "href": "week14/lecture.slides.html#the-role-of-watchdogs",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "The Role of Watchdogs",
+    "text": "The Role of Watchdogs\nBenefits\n\nQuality control\nError detection\nIntegrity promotion\nMethodology improvement\n\nChallenges\n\nPower dynamics\nDue process concerns\nCareer impacts\nField reputation"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#future-of-behavioural-science",
+    "href": "week14/lecture.slides.html#future-of-behavioural-science",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Future of Behavioural Science",
+    "text": "Future of Behavioural Science\nChanges Needed\n\nBetter verification methods\nStronger oversight\nData transparency\nReplication emphasis\n\nOpportunities\n\nImproved methods\nBetter quality control\nMore reliable findings\nRestored confidence"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#discussion-questions",
+    "href": "week14/lecture.slides.html#discussion-questions",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nHow can we prevent research fraud?\nWhat role should blog-based criticism play?\nHow do we balance innovation and rigor?\nWhat are the implications for peer review?"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#key-takeaways",
+    "href": "week14/lecture.slides.html#key-takeaways",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nData verification is crucial\nExternal oversight matters\nMethods matter as much as results\nTransparency is essential\nReplication is vital"
+  },
+  {
+    "objectID": "week14/lecture.slides.html#further-reading",
+    "href": "week14/lecture.slides.html#further-reading",
+    "title": "Data Police: Behavioural Science Under the Microscope",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nData Colada Blog (datacolada.org)\n“Predictably Irrational” by Dan Ariely\nHarvard Business School case studies\nAcademic integrity guidelines\nStatistical methods resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 14 - Naughtiness"
+  },
+  {
     "objectID": "week04/lecture.slides.html#key-topics-today",
     "href": "week04/lecture.slides.html#key-topics-today",
     "title": "Lecture 04: Selecting tools and methods",
