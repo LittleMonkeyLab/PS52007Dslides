@@ -1,5 +1,5 @@
 ---
-title: "Data Police: Behavioral Science Under the Microscope"
+title: "Data Police: Behavioural Science Under the Microscope"
 subtitle: "The Rise of Data Colada and the Fall of Academic Stars"
 date: "02/03/2025"
 categories: 
@@ -24,8 +24,9 @@ format:
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
-    header: "Research Methods Lecture 14 - Employability" # Replace it
+    header: "Research Methods Lecture 14 - Naughtiness" # Replace it
     hide-from-titleSlide: "text"
+    scrollable: true
   # pdf: default
   # pptx: default
   # html: default
@@ -35,187 +36,227 @@ execute:
  freeze: auto
 ---
 
-# Overview
+## Overview
 
-- The Replication Crisis in Behavioral Science
-- Enter the Data Colada Team
-- Case Study 1: Francesca Gino
-- Case Study 2: Dan Ariely
-- Implications for Scientific Integrity
-- The Future of Behavioral Science
+-   The Replication Crisis in Behaviouural Science
+-   Enter the Data Colada Team
+-   Case Study 1: Francesca Gino
+-   Case Study 2: Dan Ariely
+-   Implications for Scientific Integrity
+-   The Future of Behavioural Science
 
-# The Replication Crisis
+## The Replication Crisis
 
-::: {.columns}
+::::: columns
 ::: {.column width="50%"}
 ### The Problem
-- Many famous findings couldn't be replicated
-- Small sample sizes
-- P-hacking concerns
-- Publication bias
+
+-   Many famous findings couldn't be replicated
+-   Small sample sizes
+-   P-hacking concerns
+-   Publication bias
 :::
 
 ::: {.column width="50%"}
 ### The Impact
-- Loss of confidence in findings
-- Questions about methodology
-- Need for better oversight
-- Call for reform
-:::
-:::
 
-# Enter Data Colada {.smaller}
+-   Loss of confidence in findings
+-   Questions about methodology
+-   Need for better oversight
+-   Call for reform
+:::
+:::::
+
+## Enter Data Colada {.smaller}
 
 ### The Team
-- Uri Simonsohn (UPenn)
-- Joseph Simmons (UPenn)
-- Leif Nelson (UC Berkeley)
+
+-   Uri Simonsohn (UPenn)
+-   Joseph Simmons (UPenn)
+-   Leif Nelson (UC Berkeley)
+-   ![](images/CleanShot%202025-02-03%20at%2009.19.45-02.png)
+
+### Legends
+
+-   ![](images/CleanShot%202025-02-03%20at%2009.15.08.png)
 
 ### Their Mission
-- Investigate statistical anomalies
-- Promote research integrity
-- Challenge questionable findings
-- Foster methodological rigor
 
-# Their Methods {.smaller}
+-   Investigate statistical anomalies
+-   Promote research integrity
+-   Challenge questionable findings
+-   Foster methodological rigor
+
+## Their Methods {.smaller}
 
 ### Statistical Analysis
-- Examination of raw data
-- Analysis of digital footprints
-- Pattern recognition
-- Collaboration with anonymous sources
+
+-   Examination of raw data
+-   Analysis of digital footprints
+-   Pattern recognition
+-   Collaboration with anonymous sources
 
 ### Publication Strategy
-- Public blog posts
-- Detailed technical analyses
-- Open access to findings
-- Engagement with academic community
 
-# Case Study: Francesca Gino {.smaller}
+-   Public blog posts
+-   Detailed technical analyses
+-   Open access to findings
+-   Engagement with academic community
+
+## Case Study: Francesca Gino {.smaller}
+
+![](images/CleanShot%202025-02-03%20at%2009.18.04.png)
+
+## Case Study: Francesca Gino {.smaller}
 
 ### Background
-- Harvard Business School Professor
-- Expert in behavioral ethics
-- Study of dishonesty
-- Rising academic star
+
+-   Harvard Business School Professor
+-   Expert in Behavioural ethics
+-   ![](images/CleanShot%202025-02-03%20at%2009.18.37.png)
+-   Study of dishonesty
+-   Rising academic star
+
+### ![](images/CleanShot%202025-02-03%20at%2009.14.13.png)![](images/CleanShot%202025-02-03%20at%2009.22.28.png)
 
 ### The Investigation
-- Four papers under scrutiny
-- Excel file anomalies
-- Data manipulation evidence
-- Pattern of questionable results
 
-# Gino's Key Papers in Question {.smaller}
+-   Four papers under scrutiny
+-   Excel file anomalies
+-   Data manipulation evidence
+-   Pattern of questionable results
+
+## Gino's Key Papers in Question {.smaller}
 
 ### The Studies
-1. Sign-at-top effect on honesty
-2. Cleansing products and authenticity
-3. Cheating behavior patterns
-4. Decision-making and morality
 
-### The Problems
-- Data point manipulation
-- Suspicious response patterns
-- Excel timestamp issues
-- Statistical improbabilities
+1.  Sign-at-top effect on honesty
 
-# The Harvard Response {.smaller}
+2.  Cleansing products and authenticity
+
+3.  Cheating Behaviour patterns
+
+4.  Decision-making and morality
+
+    ![](images/CleanShot%202025-02-03%20at%2009.16.36.png)
+
+## The Problems
+
+![](images/CleanShot%202025-02-03%20at%2009.17.07.png)
+
+## The Problems
+
+-   Data point manipulation
+-   Suspicious response patterns
+-   Excel timestamp issues
+-   Statistical improbabilities
+-   ![](images/CleanShot%202025-02-03%20at%2009.15.35.png)
+
+## The Harvard Response {.smaller}
 
 ### Actions Taken
-- Unpaid administrative leave
-- Move to revoke tenure
-- Investigation launched
-- Journal retractions requested
 
-### Gino's Response
-- $25M lawsuit
-- Claims of discrimination
-- Procedural complaints
-- Denial of allegations
+-   Unpaid administrative leave
+-   Move to revoke tenure
+-   Investigation launched
+-   Journal retractions requested
 
-# Dan Ariely Connection {.smaller}
+## Gino's Response
 
-### Background
-- Bestselling author
-- TED Talk star
-- Behavioral economics pioneer
-- Frequent Gino collaborator
+![](images/CleanShot%202025-02-03%20at%2009.19.20.png)
 
-### The Issues
-- Questioned data in joint work
-- Similar pattern allegations
-- Ten Commandments study concerns
-- Replication failures
+-   \$25M lawsuit
+-   Claims of discrimination![](images/CleanShot%202025-02-03%20at%2009.19.45.png)
+-   Procedural complaints
+-   Denial of allegations
+-   ![](images/CleanShot%202025-02-03%20at%2009.19.45-01.png)
 
-# Broader Implications {.smaller}
+## Dan Ariely Connection {.smaller}
 
-### For Academia
-- Research integrity focus
-- Methodology scrutiny
-- Data transparency needs
-- Replication importance
+![](images/clipboard-3502560499.png)
 
-### For Students
-- Critical thinking emphasis
-- Methods verification
-- Ethics awareness
-- Data handling skills
+## Background
 
-# The Role of Watchdogs {.smaller}
+-   Bestselling author
+-   TED Talk star
+-   Behavioural economics pioneer
+-   Frequent Gino collaborator
+-   ![](images/clipboard-2271388348.png)![](images/clipboard-159310918.png)![](images/clipboard-279001488.png)
+
+## The Issues
+
+-   Questioned data in joint work
+-   Similar pattern allegations
+-   Ten Commandments study concerns
+-   Replication failures![](images/CleanShot%202025-02-03%20at%2009.23.07.png)
+
+## Broader Implications {.smaller}
+
+## For Academia
+
+-   Research integrity focus
+-   Methodology scrutiny
+-   Data transparency needs
+-   Replication importance
+
+## For Students
+
+-   Critical thinking emphasis
+-   Methods verification
+-   Ethics awareness
+-   Data handling skills
+
+## The Role of Watchdogs {.smaller}
 
 ### Benefits
-- Quality control
-- Error detection
-- Integrity promotion
-- Methodology improvement
+
+-   Quality control
+-   Error detection
+-   Integrity promotion
+-   Methodology improvement
 
 ### Challenges
-- Power dynamics
-- Due process concerns
-- Career impacts
-- Field reputation
 
-# Future of Behavioral Science {.smaller}
+-   Power dynamics
+-   Due process concerns
+-   Career impacts
+-   Field reputation
+
+## Future of Behavioural Science {.smaller}
 
 ### Changes Needed
-- Better verification methods
-- Stronger oversight
-- Data transparency
-- Replication emphasis
+
+-   Better verification methods
+-   Stronger oversight
+-   Data transparency
+-   Replication emphasis
 
 ### Opportunities
-- Improved methods
-- Better quality control
-- More reliable findings
-- Restored confidence
 
-# Discussion Questions {.smaller}
+-   Improved methods
+-   Better quality control
+-   More reliable findings
+-   Restored confidence
 
-1. How can we prevent research fraud?
-2. What role should blog-based criticism play?
-3. How do we balance innovation and rigor?
-4. What are the implications for peer review?
+## Discussion Questions {.smaller}
 
-# Key Takeaways {.smaller}
+1.  How can we prevent research fraud?
+2.  What role should blog-based criticism play?
+3.  How do we balance innovation and rigor?
+4.  What are the implications for peer review?
 
-1. Data verification is crucial
-2. External oversight matters
-3. Methods matter as much as results
-4. Transparency is essential
-5. Replication is vital
+## Key Takeaways {.smaller}
 
-# Further Reading {.smaller}
+1.  Data verification is crucial
+2.  External oversight matters
+3.  Methods matter as much as results
+4.  Transparency is essential
+5.  Replication is vital
 
-- Data Colada Blog (datacolada.org)
-- "Predictably Irrational" by Dan Ariely
-- Harvard Business School case studies
-- Academic integrity guidelines
-- Statistical methods resources
+## Further Reading {.smaller}
 
-# Thank You {.center}
-
-Questions and Discussion
-
-::: {.notes}
-This presentation is designed for educational purposes and presents ongoing cases that are still subject to legal proceedings.
-:::
+-   Data Colada Blog (datacolada.org)
+-   "Predictably Irrational" by Dan Ariely
+-   Harvard Business School case studies
+-   Academic integrity guidelines
+-   Statistical methods resources
