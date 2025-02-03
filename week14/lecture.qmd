@@ -1,6 +1,6 @@
 ---
-title: "Lecture 14: Research Methods & Employability"
-subtitle: "Thinking ahead"
+title: "Data Police: Behavioral Science Under the Microscope"
+subtitle: "The Rise of Data Colada and the Fall of Academic Stars"
 date: "02/03/2025"
 categories: 
   - "Lecture"
@@ -35,193 +35,187 @@ execute:
  freeze: auto
 ---
 
-## Weeks ahead
-
--   This week - Year 1 Lab Invasion on Thursday
--   Lab 14 - Analysis Planning and Open Data
--   Lab 15 - Data Export, preprocessing & Overview of APA Results
-    section
--   Lab 16 - Data Analysis - Three Flavours of ANOVA (+ Assumptions &
-    Post-hoc tests)
--   Lab 17 - Results write-up, Table, Figures & style
-
-# Careers
-
-## Careers in Psych and Alternative Careers
-
-![](images/careers.png)
-
-## Please register
-
-![](images/QRCOde.png){width="300"}
-
-<https://goldsmiths.targetconnect.net/unauth?leap=true&currentUserLocale=en_GB>
-
-## Clinical Pathway - 20,000 Psych Graduates/year
-
-![](images/Clinical%20Pathway.png)
-
-## Known Challenges
-
--   Limited opportunity to gain 'on the job' experience
-
--   **Highly** competitive and uncertain
-
--   The vast majority of **Psych** careers require an MSc. Like another
-    3rd year (±5 modules (inc. RM and a dissertation). Usually 2 days
-    per week FT.
-
-## Embracing Innovative Research Methods
-
--   **Explore Qualitative Research**: Engage deeply with qualitative
-    research methods. Develop skills in ethnography, narrative analysis,
-    and discourse analysis to bring fresh perspectives to clinical
-    psychology.
-
--   **Methodological Innovation**: Foster a creative approach to
-    research methods. Break away from conventional techniques and
-    develop novel research strategies that address complex psychological
-    issues.
-
--   **Utilize Theoretical Frameworks**: Integrate diverse theoretical
-    perspectives such as feminism, poststructuralism, psychoanalysis,
-    and Marxism into your research. This interdisciplinary approach can
-    enrich your understanding and application of clinical psychology.
-
-------------------------------------------------------------------------
-
-## Developing a Unique Professional Identity
-
--   **Political and Ethical Awareness**: Cultivate an awareness of the
-    moral and political dimensions of psychology. Understand how your
-    work can contribute to societal change and uphold ethical standards
-    in research.
-
--   **Reflexivity and Critical Thinking**: Practice reflexivity in your
-    work. Be critical of your biases and assumptions, and understand how
-    they influence your research and clinical practice.
-
--   **Advocacy and Empowerment**: Position yourself as an advocate for
-    marginalized communities. Use your skills to empower individuals and
-    groups, contributing to social justice through clinical psychology.
-
-------------------------------------------------------------------------
-
-## Crafting a Standout Identity and Personal Statement
-
--   **Professional Presence**: Join Linkedin, attend seminars or
-    conferences, advertise your research skills/interest, join volunteer
-    organisations
-
--   **Tailored CVs**: Customize your CV for each application. Highlight
-    relevant coursework, projects, and research experiences that align
-    with clinical psychology.
-
--   **Impactful Personal Statements**: Convey your passion for
-    psychology and your commitment to pursuing a career in clinical
-    psychology. Reflect on experiences that shaped your interest and how
-    they prepare you for this field.
-
--   **Showcase Skills and Achievements**: Clearly articulate your
-    skills, especially in research methods, critical thinking, and
-    communication. Include any awards, presentations, or publications to
-    demonstrate your competence and dedication.
-
-------------------------------------------------------------------------
-
-## References
-
--   References can be a powerful addition to any application, or a
-    weakness
-
--   References should align with the content of your application
-
--   A referee needs to be able to speak to Academic ability,
-    Professional Skills, Team Work, Extra-Curricular/Voluntary work
-
-# You can be working on all of these things NOW!
-
-## Summer in Second Year
-
--   GRIP and Departmental Bursaries
-
--   Opportunities to do voluntary work
-
--   Other options
-
-## Here's what they don't tell you and maybe you don't want to hear
-
--   The next step on any **Psych** career is a Masters.
-
--   Therefore, getting on the right programme is the key.
-
--   It's about Academic merit and the little extras.
-
--   The best applicants I interview have a 'Research Narrative'
-    (Relevant Y3 Dissertation and Proposed MSc Dissertation).
-
--   And enough 'experience' to illustrate effort and engagement with the
-    field.
-
-## Final words on the **Psych** careers
-
--   Don't think of it as a 'different' domain to where you are now.
-
--   Experience can be in the lab, or on a research project with vague
-    relevance!
-
--   Samaritans, CirclesUk, any of the virtual helplines etc. All very
-    flexible to your time
-
-## Alternative Careers (with HR Hiring rounds)
-
--   Put effort into the application process and **prepare** for the
-    interviews carefully.
-
--   Illustrate your skills (with examples) and break down all the things
-    you have learned here.
-
--   Try to get a reference that highlights the same skills you are
-    mentioning.
-
-## Marketable Skills of a Psychology Graduate
-
--   **DATA-SKILLS**: Ability to analyze and interpret data, identifying
-    patterns and drawing logical conclusions from **DATA**.
--   **Research Skills**: Proficiency in designing, conducting, and
-    analyzing research, including both quantitative and qualitative
-    methods.
--   **Communication**: Strong verbal and written skills for effectively
-    conveying complex psychological concepts to diverse audiences.
--   **Empathy and Interpersonal Skills**: Exceptional understanding of
-    human behavior and the capacity to empathize with clients from
-    varied needs etc.
--   **Problem-Solving Abilities**: Aptitude for identifying problems,
-    generating solutions, and implementing effective strategies in
-    **Project Management**.
--   **Ethical and Cultural Awareness**: Deep understanding of ethical
-    considerations in psychology and sensitivity to cultural
-    differences.
-
-## Alternative Careers (without HR Hiring rounds)
-
--   If there is a human involved, then your Psych background is
-    valuable. Make it count!
-
--   Network and sell your idea/perspective/skills
-
--   Build a portfolio or a profile
-
--   Knock on doors and try to understand the industry
-
--   Science the sh\*t out of it!
-
-## Last words
-
--   Don't be in a hurry
-
--   If you are in a hurry, be strategic and devious
-
--   Try to understand yourself (as much as you can)
-
--   Talk to as many people as you can!
+# Overview
+
+- The Replication Crisis in Behavioral Science
+- Enter the Data Colada Team
+- Case Study 1: Francesca Gino
+- Case Study 2: Dan Ariely
+- Implications for Scientific Integrity
+- The Future of Behavioral Science
+
+# The Replication Crisis
+
+::: {.columns}
+::: {.column width="50%"}
+### The Problem
+- Many famous findings couldn't be replicated
+- Small sample sizes
+- P-hacking concerns
+- Publication bias
+:::
+
+::: {.column width="50%"}
+### The Impact
+- Loss of confidence in findings
+- Questions about methodology
+- Need for better oversight
+- Call for reform
+:::
+:::
+
+# Enter Data Colada {.smaller}
+
+### The Team
+- Uri Simonsohn (UPenn)
+- Joseph Simmons (UPenn)
+- Leif Nelson (UC Berkeley)
+
+### Their Mission
+- Investigate statistical anomalies
+- Promote research integrity
+- Challenge questionable findings
+- Foster methodological rigor
+
+# Their Methods {.smaller}
+
+### Statistical Analysis
+- Examination of raw data
+- Analysis of digital footprints
+- Pattern recognition
+- Collaboration with anonymous sources
+
+### Publication Strategy
+- Public blog posts
+- Detailed technical analyses
+- Open access to findings
+- Engagement with academic community
+
+# Case Study: Francesca Gino {.smaller}
+
+### Background
+- Harvard Business School Professor
+- Expert in behavioral ethics
+- Study of dishonesty
+- Rising academic star
+
+### The Investigation
+- Four papers under scrutiny
+- Excel file anomalies
+- Data manipulation evidence
+- Pattern of questionable results
+
+# Gino's Key Papers in Question {.smaller}
+
+### The Studies
+1. Sign-at-top effect on honesty
+2. Cleansing products and authenticity
+3. Cheating behavior patterns
+4. Decision-making and morality
+
+### The Problems
+- Data point manipulation
+- Suspicious response patterns
+- Excel timestamp issues
+- Statistical improbabilities
+
+# The Harvard Response {.smaller}
+
+### Actions Taken
+- Unpaid administrative leave
+- Move to revoke tenure
+- Investigation launched
+- Journal retractions requested
+
+### Gino's Response
+- $25M lawsuit
+- Claims of discrimination
+- Procedural complaints
+- Denial of allegations
+
+# Dan Ariely Connection {.smaller}
+
+### Background
+- Bestselling author
+- TED Talk star
+- Behavioral economics pioneer
+- Frequent Gino collaborator
+
+### The Issues
+- Questioned data in joint work
+- Similar pattern allegations
+- Ten Commandments study concerns
+- Replication failures
+
+# Broader Implications {.smaller}
+
+### For Academia
+- Research integrity focus
+- Methodology scrutiny
+- Data transparency needs
+- Replication importance
+
+### For Students
+- Critical thinking emphasis
+- Methods verification
+- Ethics awareness
+- Data handling skills
+
+# The Role of Watchdogs {.smaller}
+
+### Benefits
+- Quality control
+- Error detection
+- Integrity promotion
+- Methodology improvement
+
+### Challenges
+- Power dynamics
+- Due process concerns
+- Career impacts
+- Field reputation
+
+# Future of Behavioral Science {.smaller}
+
+### Changes Needed
+- Better verification methods
+- Stronger oversight
+- Data transparency
+- Replication emphasis
+
+### Opportunities
+- Improved methods
+- Better quality control
+- More reliable findings
+- Restored confidence
+
+# Discussion Questions {.smaller}
+
+1. How can we prevent research fraud?
+2. What role should blog-based criticism play?
+3. How do we balance innovation and rigor?
+4. What are the implications for peer review?
+
+# Key Takeaways {.smaller}
+
+1. Data verification is crucial
+2. External oversight matters
+3. Methods matter as much as results
+4. Transparency is essential
+5. Replication is vital
+
+# Further Reading {.smaller}
+
+- Data Colada Blog (datacolada.org)
+- "Predictably Irrational" by Dan Ariely
+- Harvard Business School case studies
+- Academic integrity guidelines
+- Statistical methods resources
+
+# Thank You {.center}
+
+Questions and Discussion
+
+::: {.notes}
+This presentation is designed for educational purposes and presents ongoing cases that are still subject to legal proceedings.
+:::
