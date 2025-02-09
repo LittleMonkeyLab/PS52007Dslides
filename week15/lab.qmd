@@ -1,5 +1,5 @@
 ---
-title: "Lab 15: Lab 15"
+title: "Lab 15: Concluding Data Collection"
 subtitle: "Data Audit and Stopping plans"
 # image: "lab.png"
 author: 
@@ -35,10 +35,54 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of today's lab activities
+# Lab 15 
 
-1.  Audit Data status for all groups
+## Priority for Lab 15: Achieving Ethical Approval
 
-2.  Identify groups with need for fabricated data
+* Must achieve ethical approval as part of group
+* Required to pass the module
+* No exceptions
 
-# Have a great Reading Week!
+## Timeline & Next Steps
+
+### After Reading Week:
+* Data preprocessing begins
+* Data analysis starts
+
+### Warning:
+* Organizing data collection after reading week will:
+   * Waste valuable lab time
+   * Reduce ability to follow along with resources
+   * Impact your learning experience
+
+## Key Resources Available
+
+* Mini dissertation writing guide
+* Support from lab tutors - it will get busier as people 'return'
+
+## Action Points
+
+### If You Have Limited Data:
+* Raise this with lab tutors immediately
+* Don't wait until after reading week
+* Seek guidance on data collection strategies
+
+### For All Students:
+* Review ethical approval requirements
+* Ensure all group members understand their roles
+* Check data collection progress and report to lab tutors
+
+## Supporting Your Success
+
+* Lab tutors available for guidance (in labs)
+* Resources continuously available
+* Focus on meeting key deadlines
+* Prioritize ethical approval
+
+## Next Steps Timeline
+
+1. Complete ethical approval process
+2. Finalize data collection 
+3. Reading week (recharge batteries)
+4. Begin data preprocessing after reading week
+5. Start analysis phase all joined up with preparing the submission

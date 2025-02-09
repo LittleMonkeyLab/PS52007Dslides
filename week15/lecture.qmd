@@ -1,6 +1,6 @@
 ---
-title: "Lecture 15: Chip, QA & Recap"
-subtitle: "Reading Week Review"
+title: "Lecture 15: The Structure of Scientific Revolutions"
+subtitle: "This is important"
 date: "02/10/2025"
 categories: 
   - "Lecture"
@@ -24,8 +24,9 @@ format:
   revealjs: 
     title-slide-attributes: 
       data-background-color: "#3d0158" # Plum
-    header: "Research Methods Lecture 15 - CHIP-Tastic!" # Replace it
+    header: "Research Methods Lecture 15 - Kuhn" # Replace it
     hide-from-titleSlide: "text"
+    scrollable: true
   # pdf: default
   # pptx: default
   # html: default
@@ -35,190 +36,407 @@ execute:
  freeze: auto
 ---
 
-## A number of topics to cover today
+## The Structure of Scientific Revolutions
 
-With the goal of clearing the decks before Reading Week
+### Thomas Kuhn (1962)
 
-::: incremental
--   Thank you to everyone who contributed so wonderfully on Thursday
+#### Understanding Scientific Change & Progress
 
--   Review existing materials available to you for the Mini-Dissertation
+![Historical image of Thomas Kuhn](images/ThomasKuhn.jpeg)
 
--   Labs tomorrow will be focused on finalising data collection and a
-    data audit
+## Legacy
 
--   CHIP topics
+-   One of the most influential books about science ever written
+-   Revolutionized how we think about scientific progress
+-   Key relevance for psychology and cognitive science today
+
+## Key Concepts We'll Cover
+
+-   Normal Science & Paradigms
+-   Scientific Revolutions & Crisis
+-   Incommensurability
+-   Case Studies from History of Science
+-   Applications to Psychology
+-   Modern Relevance (AI Revolution)
+
+## What is Normal Science?
+
+-   Scientists working within an accepted framework
+-   "Puzzle-solving" activities
+-   Based on shared assumptions and methods
+-   Example: Current cognitive psychology research paradigm
+-   Textbooks play crucial role in maintaining normal science
+
+## Paradigms: The Core Concept
+
+A paradigm is:
+
+-   Shared worldview within scientific community
+-   Set of exemplary solutions/methods
+-   Framework for what counts as legitimate problems
+-   Not just theory - includes practices, tools, values
+
+## Paradigms
+
+> "Scientists work from models acquired through education & subsequent exposure to the literature often without quite knowing or needing to know what characteristics have given these models the status of community paradigms"
+
+## Components of a Paradigm
+
+1.  Symbolic generalizations (e.g., F=ma)
+2.  Metaphysical commitments
+3.  Values
+4.  Exemplars (concrete problem solutions)
+
+## Diagram
+
+![Diagram showing paradigm components](images/Diagram showing paradigm components.png)
+
+## Case Study: The Copernican Revolution
+
+::::: columns
+::: {.column width="70%"}
+-   Pre-Copernican paradigm: Earth-centered universe
+-   Anomalies accumulated over time
+-   Copernicus proposed radical alternative
+-   Resistance from established community
+-   Eventually led to complete worldview change
 :::
 
-## Thank you
+::: {.column width="30%"}
 
-I was really pleased to see you all contribute to Thursday and the First
-Years are all very grateful
+![Copernican solar system diagram](images/Copernican solar system diagram.jpg)
+:::
+:::::
 
-. . .
+## Scientific Crisis
 
-Some of you might have noticed that there was an extra option available
-to the First Years...
+-   Accumulation of anomalies
+-   Existing paradigm cannot explain new findings
+-   Loss of confidence in current methods
+-   Proliferation of competing theories
+-   Example in Psychology: Behaviorism crisis
 
-![](images/Lecture15_2.png)
+## Scientific Revolutions
 
-## Results will be announced in the last lecture!
+-   Paradigm shift occurs
+-   "Scientific revolution" = complete perspective change
+-   Not just new knowledge - new way of seeing
+-   Cannot be reduced to rule-following
+-   Involves conversion experience
 
-![](images/Lecture15-3.png){width="900"}
+## Incommensurability
 
-## I just want to recap the materials available on the VLE
+-   Different paradigms cannot be directly compared
+-   Use different concepts, see different things
+-   Communication difficulties between paradigms
+-   No neutral observation language
+-   Example: Behaviorist vs Cognitive descriptions
 
-![](images/Lecture15-4-02.png)
+## Historical Case Study: Chemistry Revolution
 
-## Mini-Dissertation Writing Guides
+-   Phlogiston theory vs Oxygen theory
+-   Lavoisier's new paradigm
+-   Changed basic concepts of element/compound
+-   Transformed experimental practices
+-   Parallel to modern psychology shifts?
 
-![](images/Lecture15-5.png)
+## Psychology's Paradigm Shifts: A Deeper Look
 
-## Mini-Dissertation Resources
+## 1. Introspectionism (1879-1920s)
 
-![](images/Lecture15-6.png)
+-   Wundt's experimental psychology
+-   Focus on conscious experience
+-   Structured self-observation methods
+-   Titchener's systematic introspection
+-   Crisis: Unreliable results, lack of replication
 
-## Data Analysis
+## 2. Behaviorism (1920s-1960s)
 
-**Remember, PS52005C Design & Analysis is where you are taught ANOVA**
+-   Watson's rejection of consciousness
+-   Observable behavior only
+-   Stimulus-response mechanisms
+-   Skinner's radical behaviorism
+-   Crisis: Cannot explain language, thought, memory
 
-![](images/Lecture15-7%202.png)
+## The Behaviorist Paradigm in Detail
 
-# Labs tomorrow
+## Key Assumptions
 
-## I ask for your help
+-   Mind is a "black box"
+-   Learning through conditioning
+-   Environmental determinism
+-   Rejection of mental states
 
--   I shall be circulating performing a data sudit
+## Methods
 
--   So please turn up if you can
+-   Animal studies
+-   Conditioning experiments
+-   Controlled environment
+-   Quantitative measurement
 
--   Be ready to give me a status on your data collection efforts and
-    plans for stopping
+## The Cognitive Revolution (1950s-1960s)
 
--   We will decide if I need to fabricate data for you
+## Catalysts
 
--   Please put a message on Whatsapp
+-   Chomsky's critique of Skinner
+-   Information theory development
+-   Computer science emergence
+-   Memory research breakthroughs
 
-# Now let's quickly discuss CHIP
+## Key Figures
 
-## CHIP Assignment(s)
+-   Jerome Bruner
+-   George Miller
+-   Ulric Neisser
+-   Donald Broadbent
 
-::: incremental
--   Coursework piece designed to allow you to engage reflexively with
-    the 'big picture' of your degree
+## An exciting amalgam
 
--   Think about how these issues link into psychology as a discipline,
-    and how they relate to your own thoughts about what psychology is or
-    should be
+![Early computer and cognitive science](images/Early computer and cognitive science.png)
 
--   Two 'reflective accounts' of max 600 words each (Not including
-    obligatory reference list)
+## Cognitive Psychology Paradigm
 
--   [**Marks are awarded for reflection**]{.underline}, evidence of
-    learning and bring topics together. Please see marking criteria for
-    both accounts.
+### Core Metaphor: Mind as Computer
 
--   Not looking for a restatement of the facts in the lectures etc.
+-   Information processing
+-   Memory storage and retrieval
+-   Mental representations
+-   Computational procedures
 
--   [**They are designed to be personal and reflective -- embrace this
-    aspect!**]{.underline}
+## Methods
+
+-   Reaction time studies
+-   Protocol analysis
+-   Experimental tasks
+-   Computer modeling
+
+## Neuroscience Revolution (1990s-2000s)
+
+### Enabling Technologies
+
+-   fMRI imaging
+-   EEG advances
+-   Optogenetics
+-   Neural recording
+
+## New Understanding
+
+-   Brain networks
+-   Neural correlates
+-   Plasticity
+-   Embodied cognition
+
+## Barely imaginable without this
+
+![Brain imaging technology](images/Brain imaging technology.jpeg)
+
+## Current AI Revolution
+
+### Key Developments
+
+-   Deep learning success
+-   GPT language models
+-   Computer vision advances
+-   Reinforcement learning
+
+## Challenges to Traditional Views
+
+-   Emergence vs representation
+-   Distributed vs modular processing
+-   Learning without explicit rules
+-   Scale of computation
+
+## AI Impact on Psychological Theory
+
+### Traditional Cognitive Models
+
+-   Rule-based processing
+-   Symbolic representations
+-   Modular systems
+-   Sequential processing
+
+## AI-Inspired Models
+
+-   Parallel distributed processing
+-   Emergent properties
+-   Statistical learning
+-   Dynamic systems
+
+## Neural Attention Mechanisms
+
+![Neural network architecture](images/Neural network architecture.png)
+
+## Current Debates in AI-Psychology
+
+### 1. Consciousness
+
+-   Integrated Information Theory
+-   Global Workspace Theory
+-   Predictive Processing
+
+## 2. Intelligence
+
+-   Multiple intelligences
+-   Artificial vs natural
+-   General vs specific
+
+## 3. Learning
+
+-   Deep learning principles
+-   Transfer capabilities
+-   Role of innate structure
+
+## Evidence of Paradigm Crisis?
+
+### Current Anomalies
+
+-   Replication failures
+-   Limited ecological validity
+-   Theory-practice gap
+-   Integration problems
+
+## Emerging Questions
+
+-   Role of consciousness
+-   Nature of intelligence
+-   Boundaries of cognition
+-   Human-AI interaction
+
+## Future Integration?
+
+### Potential Synthesis
+
+-   Computational neuroscience
+-   Cognitive architectures
+-   Hybrid AI systems
+-   Embodied robotics
+
+## Research Directions
+
+-   Brain-computer interfaces
+-   Augmented cognition
+-   Social-technical systems
+-   Collective intelligence
+
+## Key Critics & Alternative Views
+
+### Philosophy of Science after Kuhn
+
+-   Kuhn's work sparked major debates
+-   Three key alternative perspectives:
+    -   Karl Popper: Falsificationism
+    -   Imre Lakatos: Research Programs
+    -   Paul Feyerabend: Epistemological Anarchism
+
+## "Critical!"
+
+![Philosophy debate illustration](images/Philosophy debate illustration.jpeg)
+
+## Karl Popper's Falsificationism
+
+-   Science advances through bold conjectures and refutations
+-   No amount of evidence can prove a theory true
+-   But one counterexample can prove it false
+-   Focus on crucial experiments that could falsify theories
+-   Criticized Kuhn's "normal science" as too dogmatic
+
+## Extraordinary claims require extraordinary evidence
+
+![Popper portrait and falsification diagram](images/Popper portrait and falsification diagram.jpeg)
+
+## Popper vs Kuhn
+
+### Popper
+
+-   Science should actively seek falsification
+-   Clear demarcation between science and non-science
+-   Progress through rational criticism
+
+## Kuhn
+
+-   Scientists typically defend paradigms
+-   No clear demarcation criteria
+-   Progress through revolution and conversion
+
+## Imre Lakatos: Research Programs
+
+-   Attempted synthesis between Kuhn and Popper
+-   Science organized into "Research Programs" with:
+    -   "Hard core" of fundamental assumptions
+    -   "Protective belt" of auxiliary hypotheses
+    -   Positive and negative heuristics
+
+## Imre Lakatos
+
+![](images/ImreLakatos.jpeg)
+
+## Progressive vs Degenerating Programs
+
+::::: columns
+::: {.column width="50%"}
+### Progressive Programs
+
+-   Make novel predictions
+-   Explain new phenomena
+-   Generate new research
 :::
 
-## Reflective Account 1
+::: {.column width="50%"}
+### Degenerating Programs
 
-Essay 1 is based on the content of ONE of the topics and should adopt at
-least two of the following 6 'perspectives'.
-
-::: incremental
--   As a **STUDENT** of psychology
-
--   As a **TRAINEE** psychologist
-
--   In relation to a **RESEARCH** application in your future
-
--   As an **HISTORIAN** of psychology
-
--   Reporting on the culture or **PRACTICE** of psychology as it
-    currently exists here or across cultures
-
--   As a critic or supporter of psychology's status as a **SCIENCE**
+-   Only explain known facts
+-   Make ad hoc modifications
+-   Lose predictive power
 :::
+:::::
 
-## Reflective Account 1 tips
+## Paul Feyerabend: Against Method
 
-::: incremental
--   Ask a specific question -- and answer it.
--   Intro, body, conclusion structure.
--   Reflect on the topic and give your own opinion as to the answer!
--   Present a journey in your learning or appreciation of the topic
--   Ensure your answer is argued using examples
--   Use evidence in your argument from a range of sources, ideally do
-    some strategic wider reading
--   Present and reference it well
-:::
+-   Rejected both Kuhn and Popper
+-   "Anything goes" in scientific method
+-   Science shouldn't be privileged over other forms of knowledge
+-   Progress requires breaking all rules
+-   Advocated theoretical anarchism
 
-## Reflective Account 2
+## Punk Paul
 
-Essay 2 should focus on at least one of the OTHER topics covered in the
-course.
+![Feyerabend portrait](images/Feyerabend portrait.jpeg)
 
-::: incremental
--   This answer should focus on a primary reading and then any further
-    reading you have done (strongly encouraged).
--   You must identify that primary reading explicitly in the essay
-    itself.
--   You should not simply restate what the authors thought or found, but
-    rather briefly summarise and build
--   Think about your perspective on the issues.
--   What do you think about this debate or issue? We want to know!
--   And what do you think are interesting directions for psychologists
-    to take this debate or issue in the future?
-:::
+## Feyerabend's Critique of Kuhn
 
-## Reflective Account 2 tips
+-   Paradigms can and should coexist
+-   No single scientific method
+-   Progress through proliferation of theories
+-   Science needs external criticism
+-   Democracy over expert authority
 
-::: incremental
--   Explicitly identify a single initial reading and build upon that.
--   Discuss a debate or issue that you think is interesting or important
--   Give your own opinion and how this has developed or changed as a
-    result of the lecture, the course more widely, and/or the reading.
--   Argue your opinion explicitly, own it and back it up with examples
--   Use evidence in your argument from a range of sources, ideally do
-    some strategic wider reading
--   Present and reference it well
-:::
+## Relevance for Psychology
 
-## Overlapping content
+### Key Questions
 
-::: incremental
--   You can combine across different topics in Essay 2 (e.g., you could
-    talk about Evolution and Consciousness, or Inclusivity and Science),
-    and thinking about links between topics is strongly encouraged.
--   However, the material covered in Essay 2 must be different from
-    Essay 1. Students will be penalised for covering identical topics.
-:::
+1.  Is psychology falsifiable? (Popper)
+2.  What are our research programs? (Lakatos)
+3.  Should we embrace methodological pluralism? (Feyerabend)
+4.  How do these views inform current debates?
 
-## Details
+## Discussion Questions
 
-::: incremental
--   Due: Friday, 12 April 2024, 12:00 Noon - about 3 weeks after the end
-    of term
+1.  Are we currently in a paradigm crisis in psychology?
+2.  How does AI challenge our understanding of mind?
+3.  What would constitute evidence of a paradigm shift?
+4.  Can multiple paradigms coexist productively?
+5.  How should psychology education adapt?
 
--   n.b. Mini-Dissertation Due: Friday, 22 March 2024, 12:00 Noon
+## Key Takeaways
 
--   Both answers should be written in essay-style prose (e.g., with APA
-    references where you refer to sources) put in a single document and
-    submitted to the coursework submission page.
+1.  Science progresses through paradigm shifts
+2.  Psychology has experienced multiple revolutions
+3.  AI may represent current paradigm crisis
+4.  Awareness of paradigms crucial for researchers
+5.  Balance needed between stability and change
 
--   Max 600 words per answer (references not included in word count)
+## Thank You
 
--   Remember that this only accounts for a smaller portion of the module
-    grade (15%). Should hopefully be an enjoyable way to reflect on
-    issues on the course you found interesting.
-:::
+### Questions & Discussion
 
-## Is this a CHIP-able topic?
-
-![](images/Lecture15-7.png)
-
-# Any Questions?
+> "The successive transition from one paradigm to another via revolution is the usual developmental pattern of mature science." - Thomas Kuhn
