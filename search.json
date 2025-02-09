@@ -616,116 +616,396 @@
     "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 18"
   },
   {
-    "objectID": "week15/lecture.slides.html#a-number-of-topics-to-cover-today",
-    "href": "week15/lecture.slides.html#a-number-of-topics-to-cover-today",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "A number of topics to cover today",
-    "text": "A number of topics to cover today\nWith the goal of clearing the decks before Reading Week\n\n\nThank you to everyone who contributed so wonderfully on Thursday\nReview existing materials available to you for the Mini-Dissertation\nLabs tomorrow will be focused on finalising data collection and a data audit\nCHIP topics"
+    "objectID": "week15/lecture.slides.html#the-structure-of-scientific-revolutions",
+    "href": "week15/lecture.slides.html#the-structure-of-scientific-revolutions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "The Structure of Scientific Revolutions",
+    "text": "The Structure of Scientific Revolutions\nThomas Kuhn (1962)\nUnderstanding Scientific Change & Progress\n\nHistorical image of Thomas Kuhn"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#legacy",
+    "href": "week15/lecture.slides.html#legacy",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Legacy",
+    "text": "Legacy\n\nOne of the most influential books about science ever written\nRevolutionized how we think about scientific progress\nKey relevance for psychology and cognitive science today"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#key-concepts-well-cover",
+    "href": "week15/lecture.slides.html#key-concepts-well-cover",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Key Concepts We’ll Cover",
+    "text": "Key Concepts We’ll Cover\n\nNormal Science & Paradigms\nScientific Revolutions & Crisis\nIncommensurability\nCase Studies from History of Science\nApplications to Psychology\nModern Relevance (AI Revolution)"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#what-is-normal-science",
+    "href": "week15/lecture.slides.html#what-is-normal-science",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "What is Normal Science?",
+    "text": "What is Normal Science?\n\nScientists working within an accepted framework\n“Puzzle-solving” activities\nBased on shared assumptions and methods\nExample: Current cognitive psychology research paradigm\nTextbooks play crucial role in maintaining normal science"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#paradigms-the-core-concept",
+    "href": "week15/lecture.slides.html#paradigms-the-core-concept",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Paradigms: The Core Concept",
+    "text": "Paradigms: The Core Concept\nA paradigm is:\n\nShared worldview within scientific community\nSet of exemplary solutions/methods\nFramework for what counts as legitimate problems\nNot just theory - includes practices, tools, values"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#paradigms",
+    "href": "week15/lecture.slides.html#paradigms",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Paradigms",
+    "text": "Paradigms\n\n“Scientists work from models acquired through education & subsequent exposure to the literature often without quite knowing or needing to know what characteristics have given these models the status of community paradigms”"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#components-of-a-paradigm",
+    "href": "week15/lecture.slides.html#components-of-a-paradigm",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Components of a Paradigm",
+    "text": "Components of a Paradigm\n\nSymbolic generalizations (e.g., F=ma)\nMetaphysical commitments\nValues\nExemplars (concrete problem solutions)"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#diagram",
+    "href": "week15/lecture.slides.html#diagram",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Diagram",
+    "text": "Diagram\n\nDiagram showing paradigm components"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#case-study-the-copernican-revolution",
+    "href": "week15/lecture.slides.html#case-study-the-copernican-revolution",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Case Study: The Copernican Revolution",
+    "text": "Case Study: The Copernican Revolution\n\n\n\nPre-Copernican paradigm: Earth-centered universe\nAnomalies accumulated over time\nCopernicus proposed radical alternative\nResistance from established community\nEventually led to complete worldview change\n\n\n\n\n\nCopernican solar system diagram"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#scientific-crisis",
+    "href": "week15/lecture.slides.html#scientific-crisis",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Scientific Crisis",
+    "text": "Scientific Crisis\n\nAccumulation of anomalies\nExisting paradigm cannot explain new findings\nLoss of confidence in current methods\nProliferation of competing theories\nExample in Psychology: Behaviorism crisis"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#scientific-revolutions",
+    "href": "week15/lecture.slides.html#scientific-revolutions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Scientific Revolutions",
+    "text": "Scientific Revolutions\n\nParadigm shift occurs\n“Scientific revolution” = complete perspective change\nNot just new knowledge - new way of seeing\nCannot be reduced to rule-following\nInvolves conversion experience"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#incommensurability",
+    "href": "week15/lecture.slides.html#incommensurability",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Incommensurability",
+    "text": "Incommensurability\n\nDifferent paradigms cannot be directly compared\nUse different concepts, see different things\nCommunication difficulties between paradigms\nNo neutral observation language\nExample: Behaviorist vs Cognitive descriptions"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#historical-case-study-chemistry-revolution",
+    "href": "week15/lecture.slides.html#historical-case-study-chemistry-revolution",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Historical Case Study: Chemistry Revolution",
+    "text": "Historical Case Study: Chemistry Revolution\n\nPhlogiston theory vs Oxygen theory\nLavoisier’s new paradigm\nChanged basic concepts of element/compound\nTransformed experimental practices\nParallel to modern psychology shifts?"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#psychologys-paradigm-shifts-a-deeper-look",
+    "href": "week15/lecture.slides.html#psychologys-paradigm-shifts-a-deeper-look",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Psychology’s Paradigm Shifts: A Deeper Look",
+    "text": "Psychology’s Paradigm Shifts: A Deeper Look"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#introspectionism-1879-1920s",
+    "href": "week15/lecture.slides.html#introspectionism-1879-1920s",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "1. Introspectionism (1879-1920s)",
+    "text": "1. Introspectionism (1879-1920s)\n\nWundt’s experimental psychology\nFocus on conscious experience\nStructured self-observation methods\nTitchener’s systematic introspection\nCrisis: Unreliable results, lack of replication"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#behaviorism-1920s-1960s",
+    "href": "week15/lecture.slides.html#behaviorism-1920s-1960s",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "2. Behaviorism (1920s-1960s)",
+    "text": "2. Behaviorism (1920s-1960s)\n\nWatson’s rejection of consciousness\nObservable behavior only\nStimulus-response mechanisms\nSkinner’s radical behaviorism\nCrisis: Cannot explain language, thought, memory"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#the-behaviorist-paradigm-in-detail",
+    "href": "week15/lecture.slides.html#the-behaviorist-paradigm-in-detail",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "The Behaviorist Paradigm in Detail",
+    "text": "The Behaviorist Paradigm in Detail"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#key-assumptions",
+    "href": "week15/lecture.slides.html#key-assumptions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Key Assumptions",
+    "text": "Key Assumptions\n\nMind is a “black box”\nLearning through conditioning\nEnvironmental determinism\nRejection of mental states"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#methods",
+    "href": "week15/lecture.slides.html#methods",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Methods",
+    "text": "Methods\n\nAnimal studies\nConditioning experiments\nControlled environment\nQuantitative measurement"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#the-cognitive-revolution-1950s-1960s",
+    "href": "week15/lecture.slides.html#the-cognitive-revolution-1950s-1960s",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "The Cognitive Revolution (1950s-1960s)",
+    "text": "The Cognitive Revolution (1950s-1960s)"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#catalysts",
+    "href": "week15/lecture.slides.html#catalysts",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Catalysts",
+    "text": "Catalysts\n\nChomsky’s critique of Skinner\nInformation theory development\nComputer science emergence\nMemory research breakthroughs"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#key-figures",
+    "href": "week15/lecture.slides.html#key-figures",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Key Figures",
+    "text": "Key Figures\n\nJerome Bruner\nGeorge Miller\nUlric Neisser\nDonald Broadbent"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#an-exciting-amalgam",
+    "href": "week15/lecture.slides.html#an-exciting-amalgam",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "An exciting amalgam",
+    "text": "An exciting amalgam\n\nEarly computer and cognitive science"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#cognitive-psychology-paradigm",
+    "href": "week15/lecture.slides.html#cognitive-psychology-paradigm",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Cognitive Psychology Paradigm",
+    "text": "Cognitive Psychology Paradigm\nCore Metaphor: Mind as Computer\n\nInformation processing\nMemory storage and retrieval\nMental representations\nComputational procedures"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#methods-1",
+    "href": "week15/lecture.slides.html#methods-1",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Methods",
+    "text": "Methods\n\nReaction time studies\nProtocol analysis\nExperimental tasks\nComputer modeling"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#neuroscience-revolution-1990s-2000s",
+    "href": "week15/lecture.slides.html#neuroscience-revolution-1990s-2000s",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Neuroscience Revolution (1990s-2000s)",
+    "text": "Neuroscience Revolution (1990s-2000s)\nEnabling Technologies\n\nfMRI imaging\nEEG advances\nOptogenetics\nNeural recording"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#new-understanding",
+    "href": "week15/lecture.slides.html#new-understanding",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "New Understanding",
+    "text": "New Understanding\n\nBrain networks\nNeural correlates\nPlasticity\nEmbodied cognition"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#barely-imaginable-without-this",
+    "href": "week15/lecture.slides.html#barely-imaginable-without-this",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Barely imaginable without this",
+    "text": "Barely imaginable without this\n\nBrain imaging technology"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#current-ai-revolution",
+    "href": "week15/lecture.slides.html#current-ai-revolution",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Current AI Revolution",
+    "text": "Current AI Revolution\nKey Developments\n\nDeep learning success\nGPT language models\nComputer vision advances\nReinforcement learning"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#challenges-to-traditional-views",
+    "href": "week15/lecture.slides.html#challenges-to-traditional-views",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Challenges to Traditional Views",
+    "text": "Challenges to Traditional Views\n\nEmergence vs representation\nDistributed vs modular processing\nLearning without explicit rules\nScale of computation"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#ai-impact-on-psychological-theory",
+    "href": "week15/lecture.slides.html#ai-impact-on-psychological-theory",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "AI Impact on Psychological Theory",
+    "text": "AI Impact on Psychological Theory\nTraditional Cognitive Models\n\nRule-based processing\nSymbolic representations\nModular systems\nSequential processing"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#ai-inspired-models",
+    "href": "week15/lecture.slides.html#ai-inspired-models",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "AI-Inspired Models",
+    "text": "AI-Inspired Models\n\nParallel distributed processing\nEmergent properties\nStatistical learning\nDynamic systems"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#neural-attention-mechanisms",
+    "href": "week15/lecture.slides.html#neural-attention-mechanisms",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Neural Attention Mechanisms",
+    "text": "Neural Attention Mechanisms\n\nNeural network architecture"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#current-debates-in-ai-psychology",
+    "href": "week15/lecture.slides.html#current-debates-in-ai-psychology",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Current Debates in AI-Psychology",
+    "text": "Current Debates in AI-Psychology\n1. Consciousness\n\nIntegrated Information Theory\nGlobal Workspace Theory\nPredictive Processing"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#intelligence",
+    "href": "week15/lecture.slides.html#intelligence",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "2. Intelligence",
+    "text": "2. Intelligence\n\nMultiple intelligences\nArtificial vs natural\nGeneral vs specific"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#learning",
+    "href": "week15/lecture.slides.html#learning",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "3. Learning",
+    "text": "3. Learning\n\nDeep learning principles\nTransfer capabilities\nRole of innate structure"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#evidence-of-paradigm-crisis",
+    "href": "week15/lecture.slides.html#evidence-of-paradigm-crisis",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Evidence of Paradigm Crisis?",
+    "text": "Evidence of Paradigm Crisis?\nCurrent Anomalies\n\nReplication failures\nLimited ecological validity\nTheory-practice gap\nIntegration problems"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#emerging-questions",
+    "href": "week15/lecture.slides.html#emerging-questions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Emerging Questions",
+    "text": "Emerging Questions\n\nRole of consciousness\nNature of intelligence\nBoundaries of cognition\nHuman-AI interaction"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#future-integration",
+    "href": "week15/lecture.slides.html#future-integration",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Future Integration?",
+    "text": "Future Integration?\nPotential Synthesis\n\nComputational neuroscience\nCognitive architectures\nHybrid AI systems\nEmbodied robotics"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#research-directions",
+    "href": "week15/lecture.slides.html#research-directions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Research Directions",
+    "text": "Research Directions\n\nBrain-computer interfaces\nAugmented cognition\nSocial-technical systems\nCollective intelligence"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#key-critics-alternative-views",
+    "href": "week15/lecture.slides.html#key-critics-alternative-views",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Key Critics & Alternative Views",
+    "text": "Key Critics & Alternative Views\nPhilosophy of Science after Kuhn\n\nKuhn’s work sparked major debates\nThree key alternative perspectives:\n\nKarl Popper: Falsificationism\nImre Lakatos: Research Programs\nPaul Feyerabend: Epistemological Anarchism"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#critical",
+    "href": "week15/lecture.slides.html#critical",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "“Critical!”",
+    "text": "“Critical!”\n\nPhilosophy debate illustration"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#karl-poppers-falsificationism",
+    "href": "week15/lecture.slides.html#karl-poppers-falsificationism",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Karl Popper’s Falsificationism",
+    "text": "Karl Popper’s Falsificationism\n\nScience advances through bold conjectures and refutations\nNo amount of evidence can prove a theory true\nBut one counterexample can prove it false\nFocus on crucial experiments that could falsify theories\nCriticized Kuhn’s “normal science” as too dogmatic"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#extraordinary-claims-require-extraordinary-evidence",
+    "href": "week15/lecture.slides.html#extraordinary-claims-require-extraordinary-evidence",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Extraordinary claims require extraordinary evidence",
+    "text": "Extraordinary claims require extraordinary evidence\n\nPopper portrait and falsification diagram"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#popper-vs-kuhn",
+    "href": "week15/lecture.slides.html#popper-vs-kuhn",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Popper vs Kuhn",
+    "text": "Popper vs Kuhn\nPopper\n\nScience should actively seek falsification\nClear demarcation between science and non-science\nProgress through rational criticism"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#kuhn",
+    "href": "week15/lecture.slides.html#kuhn",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Kuhn",
+    "text": "Kuhn\n\nScientists typically defend paradigms\nNo clear demarcation criteria\nProgress through revolution and conversion"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#imre-lakatos-research-programs",
+    "href": "week15/lecture.slides.html#imre-lakatos-research-programs",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Imre Lakatos: Research Programs",
+    "text": "Imre Lakatos: Research Programs\n\nAttempted synthesis between Kuhn and Popper\nScience organized into “Research Programs” with:\n\n“Hard core” of fundamental assumptions\n“Protective belt” of auxiliary hypotheses\nPositive and negative heuristics"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#imre-lakatos",
+    "href": "week15/lecture.slides.html#imre-lakatos",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Imre Lakatos",
+    "text": "Imre Lakatos"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#progressive-vs-degenerating-programs",
+    "href": "week15/lecture.slides.html#progressive-vs-degenerating-programs",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Progressive vs Degenerating Programs",
+    "text": "Progressive vs Degenerating Programs\n\n\nProgressive Programs\n\nMake novel predictions\nExplain new phenomena\nGenerate new research\n\n\nDegenerating Programs\n\nOnly explain known facts\nMake ad hoc modifications\nLose predictive power"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#paul-feyerabend-against-method",
+    "href": "week15/lecture.slides.html#paul-feyerabend-against-method",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Paul Feyerabend: Against Method",
+    "text": "Paul Feyerabend: Against Method\n\nRejected both Kuhn and Popper\n“Anything goes” in scientific method\nScience shouldn’t be privileged over other forms of knowledge\nProgress requires breaking all rules\nAdvocated theoretical anarchism"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#punk-paul",
+    "href": "week15/lecture.slides.html#punk-paul",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Punk Paul",
+    "text": "Punk Paul\n\nFeyerabend portrait"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#feyerabends-critique-of-kuhn",
+    "href": "week15/lecture.slides.html#feyerabends-critique-of-kuhn",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Feyerabend’s Critique of Kuhn",
+    "text": "Feyerabend’s Critique of Kuhn\n\nParadigms can and should coexist\nNo single scientific method\nProgress through proliferation of theories\nScience needs external criticism\nDemocracy over expert authority"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#relevance-for-psychology",
+    "href": "week15/lecture.slides.html#relevance-for-psychology",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Relevance for Psychology",
+    "text": "Relevance for Psychology\nKey Questions\n\nIs psychology falsifiable? (Popper)\nWhat are our research programs? (Lakatos)\nShould we embrace methodological pluralism? (Feyerabend)\nHow do these views inform current debates?"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#discussion-questions",
+    "href": "week15/lecture.slides.html#discussion-questions",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Discussion Questions",
+    "text": "Discussion Questions\n\nAre we currently in a paradigm crisis in psychology?\nHow does AI challenge our understanding of mind?\nWhat would constitute evidence of a paradigm shift?\nCan multiple paradigms coexist productively?\nHow should psychology education adapt?"
+  },
+  {
+    "objectID": "week15/lecture.slides.html#key-takeaways",
+    "href": "week15/lecture.slides.html#key-takeaways",
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nScience progresses through paradigm shifts\nPsychology has experienced multiple revolutions\nAI may represent current paradigm crisis\nAwareness of paradigms crucial for researchers\nBalance needed between stability and change"
   },
   {
     "objectID": "week15/lecture.slides.html#thank-you",
     "href": "week15/lecture.slides.html#thank-you",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Thank you",
-    "text": "Thank you\nI was really pleased to see you all contribute to Thursday and the First Years are all very grateful\n\nSome of you might have noticed that there was an extra option available to the First Years…"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#results-will-be-announced-in-the-last-lecture",
-    "href": "week15/lecture.slides.html#results-will-be-announced-in-the-last-lecture",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Results will be announced in the last lecture!",
-    "text": "Results will be announced in the last lecture!"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#i-just-want-to-recap-the-materials-available-on-the-vle",
-    "href": "week15/lecture.slides.html#i-just-want-to-recap-the-materials-available-on-the-vle",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "I just want to recap the materials available on the VLE",
-    "text": "I just want to recap the materials available on the VLE"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#mini-dissertation-writing-guides",
-    "href": "week15/lecture.slides.html#mini-dissertation-writing-guides",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Mini-Dissertation Writing Guides",
-    "text": "Mini-Dissertation Writing Guides"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#mini-dissertation-resources",
-    "href": "week15/lecture.slides.html#mini-dissertation-resources",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Mini-Dissertation Resources",
-    "text": "Mini-Dissertation Resources"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#data-analysis",
-    "href": "week15/lecture.slides.html#data-analysis",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Data Analysis",
-    "text": "Data Analysis\nRemember, PS52005C Design & Analysis is where you are taught ANOVA"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#i-ask-for-your-help",
-    "href": "week15/lecture.slides.html#i-ask-for-your-help",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "I ask for your help",
-    "text": "I ask for your help\n\nI shall be circulating performing a data sudit\nSo please turn up if you can\nBe ready to give me a status on your data collection efforts and plans for stopping\nWe will decide if I need to fabricate data for you\nPlease put a message on Whatsapp"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#chip-assignments",
-    "href": "week15/lecture.slides.html#chip-assignments",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "CHIP Assignment(s)",
-    "text": "CHIP Assignment(s)\n\n\nCoursework piece designed to allow you to engage reflexively with the ‘big picture’ of your degree\nThink about how these issues link into psychology as a discipline, and how they relate to your own thoughts about what psychology is or should be\nTwo ‘reflective accounts’ of max 600 words each (Not including obligatory reference list)\nMarks are awarded for reflection, evidence of learning and bring topics together. Please see marking criteria for both accounts.\nNot looking for a restatement of the facts in the lectures etc.\nThey are designed to be personal and reflective – embrace this aspect!"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#reflective-account-1",
-    "href": "week15/lecture.slides.html#reflective-account-1",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Reflective Account 1",
-    "text": "Reflective Account 1\nEssay 1 is based on the content of ONE of the topics and should adopt at least two of the following 6 ‘perspectives’.\n\n\nAs a STUDENT of psychology\nAs a TRAINEE psychologist\nIn relation to a RESEARCH application in your future\nAs an HISTORIAN of psychology\nReporting on the culture or PRACTICE of psychology as it currently exists here or across cultures\nAs a critic or supporter of psychology’s status as a SCIENCE"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#reflective-account-1-tips",
-    "href": "week15/lecture.slides.html#reflective-account-1-tips",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Reflective Account 1 tips",
-    "text": "Reflective Account 1 tips\n\n\nAsk a specific question – and answer it.\nIntro, body, conclusion structure.\nReflect on the topic and give your own opinion as to the answer!\nPresent a journey in your learning or appreciation of the topic\nEnsure your answer is argued using examples\nUse evidence in your argument from a range of sources, ideally do some strategic wider reading\nPresent and reference it well"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#reflective-account-2",
-    "href": "week15/lecture.slides.html#reflective-account-2",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Reflective Account 2",
-    "text": "Reflective Account 2\nEssay 2 should focus on at least one of the OTHER topics covered in the course.\n\n\nThis answer should focus on a primary reading and then any further reading you have done (strongly encouraged).\nYou must identify that primary reading explicitly in the essay itself.\nYou should not simply restate what the authors thought or found, but rather briefly summarise and build\nThink about your perspective on the issues.\nWhat do you think about this debate or issue? We want to know!\nAnd what do you think are interesting directions for psychologists to take this debate or issue in the future?"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#reflective-account-2-tips",
-    "href": "week15/lecture.slides.html#reflective-account-2-tips",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Reflective Account 2 tips",
-    "text": "Reflective Account 2 tips\n\n\nExplicitly identify a single initial reading and build upon that.\nDiscuss a debate or issue that you think is interesting or important\nGive your own opinion and how this has developed or changed as a result of the lecture, the course more widely, and/or the reading.\nArgue your opinion explicitly, own it and back it up with examples\nUse evidence in your argument from a range of sources, ideally do some strategic wider reading\nPresent and reference it well"
-  },
-  {
-    "objectID": "week15/lecture.slides.html#overlapping-content",
-    "href": "week15/lecture.slides.html#overlapping-content",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Overlapping content",
-    "text": "Overlapping content\n\n\nYou can combine across different topics in Essay 2 (e.g., you could talk about Evolution and Consciousness, or Inclusivity and Science), and thinking about links between topics is strongly encouraged.\nHowever, the material covered in Essay 2 must be different from Essay 1. Students will be penalised for covering identical topics."
-  },
-  {
-    "objectID": "week15/lecture.slides.html#details",
-    "href": "week15/lecture.slides.html#details",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Details",
-    "text": "Details\n\n\nDue: Friday, 12 April 2024, 12:00 Noon - about 3 weeks after the end of term\nn.b. Mini-Dissertation Due: Friday, 22 March 2024, 12:00 Noon\nBoth answers should be written in essay-style prose (e.g., with APA references where you refer to sources) put in a single document and submitted to the coursework submission page.\nMax 600 words per answer (references not included in word count)\nRemember that this only accounts for a smaller portion of the module grade (15%). Should hopefully be an enjoyable way to reflect on issues on the course you found interesting."
-  },
-  {
-    "objectID": "week15/lecture.slides.html#is-this-a-chip-able-topic",
-    "href": "week15/lecture.slides.html#is-this-a-chip-able-topic",
-    "title": "Lecture 15: Chip, QA & Recap",
-    "section": "Is this a CHIP-able topic?",
-    "text": "Is this a CHIP-able topic?"
+    "title": "Lecture 15: The Structure of Scientific Revolutions",
+    "section": "Thank You",
+    "text": "Thank You\nQuestions & Discussion\n\n“The successive transition from one paradigm to another via revolution is the usual developmental pattern of mature science.” - Thomas Kuhn\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 15 - Kuhn"
   },
   {
     "objectID": "week02/lecture.slides.html#key-topics-today",
@@ -3449,6 +3729,48 @@
     "title": "Lab 02: Literature Masterclass",
     "section": "Module Milestones (by end of this week)",
     "text": "Module Milestones (by end of this week)\n\nI’m in my group and we have a plan\nI’ve got a rough idea of the Topic of my Mini-Dissertation\nIf after today, I sit down and read, or jot down ideas, whether for Essay or MD - it’s useful productive work"
+  },
+  {
+    "objectID": "week15/lab.slides.html#priority-for-lab-15-achieving-ethical-approval",
+    "href": "week15/lab.slides.html#priority-for-lab-15-achieving-ethical-approval",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Priority for Lab 15: Achieving Ethical Approval",
+    "text": "Priority for Lab 15: Achieving Ethical Approval\n\nMust achieve ethical approval as part of group\nRequired to pass the module\nNo exceptions"
+  },
+  {
+    "objectID": "week15/lab.slides.html#timeline-next-steps",
+    "href": "week15/lab.slides.html#timeline-next-steps",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Timeline & Next Steps",
+    "text": "Timeline & Next Steps\nAfter Reading Week:\n\nData preprocessing begins\nData analysis starts\n\nWarning:\n\nOrganizing data collection after reading week will:\n\nWaste valuable lab time\nReduce ability to follow along with resources\nImpact your learning experience"
+  },
+  {
+    "objectID": "week15/lab.slides.html#key-resources-available",
+    "href": "week15/lab.slides.html#key-resources-available",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Key Resources Available",
+    "text": "Key Resources Available\n\nMini dissertation writing guide\nSupport from lab tutors - it will get busier as people ‘return’"
+  },
+  {
+    "objectID": "week15/lab.slides.html#action-points",
+    "href": "week15/lab.slides.html#action-points",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Action Points",
+    "text": "Action Points\nIf You Have Limited Data:\n\nRaise this with lab tutors immediately\nDon’t wait until after reading week\nSeek guidance on data collection strategies\n\nFor All Students:\n\nReview ethical approval requirements\nEnsure all group members understand their roles\nCheck data collection progress and report to lab tutors"
+  },
+  {
+    "objectID": "week15/lab.slides.html#supporting-your-success",
+    "href": "week15/lab.slides.html#supporting-your-success",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Supporting Your Success",
+    "text": "Supporting Your Success\n\nLab tutors available for guidance (in labs)\nResources continuously available\nFocus on meeting key deadlines\nPrioritize ethical approval"
+  },
+  {
+    "objectID": "week15/lab.slides.html#next-steps-timeline",
+    "href": "week15/lab.slides.html#next-steps-timeline",
+    "title": "Lab 15: Concluding Data Collection",
+    "section": "Next Steps Timeline",
+    "text": "Next Steps Timeline\n\nComplete ethical approval process\nFinalize data collection\nReading week (recharge batteries)\nBegin data preprocessing after reading week\nStart analysis phase all joined up with preparing the submission\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 15 - Data Audit"
   },
   {
     "objectID": "week18/lab.slides.html#stuff",
