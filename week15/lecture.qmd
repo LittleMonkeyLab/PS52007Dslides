@@ -89,7 +89,7 @@ A paradigm is:
 
 ## Diagram
 
-![Diagram showing paradigm components](images/Diagram showing paradigm components.png)
+![Diagram showing paradigm components](images/Diagram%20showing%20paradigm%20components.png)
 
 ## Case Study: The Copernican Revolution
 
@@ -103,8 +103,7 @@ A paradigm is:
 :::
 
 ::: {.column width="30%"}
-
-![Copernican solar system diagram](images/Copernican solar system diagram.jpg)
+![Copernican solar system diagram](images/Copernican%20solar%20system%20diagram.jpg)
 :::
 :::::
 
@@ -192,7 +191,7 @@ A paradigm is:
 
 ## An exciting amalgam
 
-![Early computer and cognitive science](images/Early computer and cognitive science.png)
+![Early computer and cognitive science](images/Early%20computer%20and%20cognitive%20science.png)
 
 ## Cognitive Psychology Paradigm
 
@@ -228,7 +227,7 @@ A paradigm is:
 
 ## Barely imaginable without this
 
-![Brain imaging technology](images/Brain imaging technology.jpeg)
+![Brain imaging technology](images/Brain%20imaging%20technology.jpeg)
 
 ## Current AI Revolution
 
@@ -264,7 +263,7 @@ A paradigm is:
 
 ## Neural Attention Mechanisms
 
-![Neural network architecture](images/Neural network architecture.png)
+![Neural network architecture](images/Neural%20network%20architecture.png)
 
 ## Current Debates in AI-Psychology
 
@@ -330,7 +329,7 @@ A paradigm is:
 
 ## "Critical!"
 
-![Philosophy debate illustration](images/Philosophy debate illustration.jpeg)
+![Philosophy debate illustration](images/Philosophy%20debate%20illustration.jpeg)
 
 ## Karl Popper's Falsificationism
 
@@ -342,7 +341,7 @@ A paradigm is:
 
 ## Extraordinary claims require extraordinary evidence
 
-![Popper portrait and falsification diagram](images/Popper portrait and falsification diagram.jpeg)
+![Popper portrait and falsification diagram](images/Popper%20portrait%20and%20falsification%20diagram.jpeg)
 
 ## Popper vs Kuhn
 
@@ -400,7 +399,7 @@ A paradigm is:
 
 ## Punk Paul
 
-![Feyerabend portrait](images/Feyerabend portrait.jpeg)
+![Feyerabend portrait](images/Feyerabend%20portrait.jpeg)
 
 ## Feyerabend's Critique of Kuhn
 

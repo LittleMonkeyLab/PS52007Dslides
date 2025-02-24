@@ -1,6 +1,6 @@
 ---
-title: "Lab 16: XX"
-subtitle: "XX"
+title: "Lab 16: Doing your Analysis "
+subtitle: "Additional support on top of Design & Analysis"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -26,6 +26,7 @@ format:
     header: "Research Methods Lab 16" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
+    scrollable: true
 filters:
   - reveal-header
 execute:
@@ -35,10 +36,564 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of today's lab activities
+## Overview {.center}
 
-1.  Audit Data status for all groups
+::: {.callout-note appearance="minimal"}
+## Today's Learning Objectives
 
-2.  Identify groups with need for fabricated data
+-   Reinforce the three main types of ANOVA designs and which one is your design!
+-   Remind you to check and address ANOVA assumptions
+-   Master post-hoc testing procedures and interpretation
+-   Apply these techniques to your mini-dissertation data
+:::
 
-# Have a great Reading Week!
+## The value of Factorial ANOVA designs
+
+::: {.callout-tip appearance="minimal"}
+ANOVA is a foundational skill for many psychology research designs. Many students will be using some form of ANOVA in their final year dissertations.
+:::
+
+## Using the Writing Guide
+
+::: {.callout-note appearance="minimal"}
+### How to Use This Resource
+
+-   The Writing Guide is organized to assist with all elements of your mini-dissertation
+-   Each of the remaining lab sessions focuses on key stages of your mini-dissertation analysis and write-up
+-   Use the guide as a reference before, during, and after each lab
+:::
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+**The guide includes:**
+
+-   Step-by-step instructions
+-   APA 7 formatting guidelines
+-   Examples and templates
+-   Common pitfalls to avoid
+:::
+
+::: {.column width="50%"}
+**Key components:**
+
+-   Main dissertation sections
+-   Open Materials requirements
+-   Open Data documentation
+-   Reflective Account guidance
+:::
+:::::
+
+## Mini-Dissertation Progress Tracker {.smaller}
+
+::: callout-important
+### Suggested timeline
+:::
+
+::::: columns
+::: {.column width="50%"}
+**Completed: (feasibly this week)**
+
+-   Data collection ✅
+-   Initial data cleaning ✅
+-   Descriptive statistics ✅
+:::
+
+::: {.column width="50%"}
+**Up Next: (in lab or independent study)**
+
+-   ANOVA analysis
+-   Post-hoc tests
+-   Results write-up (Lab 17)
+:::
+:::::
+
+## Mini-Dissertation Reminder
+
+::::: columns
+::: {.column width="70%"}
+**Mini-Dissertation (70% of module):**
+
+-   2,500 word APA format report
+-   Word count includes **every word** up to References, including Title, Abstract and tables
+-   2x2 ANOVA analysis with assumptions and post-hocs (nothing else allowed!)
+-   **Submission Date:** 28th March Midday (end of week 20)
+:::
+
+::: {.column width="30%"}
+**Required Components:**
+
+-   Main APA report
+-   Open Data
+-   Open Materials
+-   Reflective Account
+:::
+:::::
+
+## 
+
+::: callout-important
+**ETHICAL APPROVAL IS MANDATORY**\
+All students must have obtained ethical approval to pass the module. No exceptions!
+
+If you have NOT received Ethical Approval yet, you must still achieve this milestone, but fabricated data can be supplied. Consult your Lab Tutor immediately.
+:::
+
+## Setting Yourself Up for Success {.smaller}
+
+::: callout-tip
+### Your Complete Submission Package
+:::
+
+::::: columns
+::: {.column width="60%"}
+**Maximize your potential by including all required elements:**
+
+-   Well-structured APA report (introduction, method, results, discussion)
+-   Thoroughly documented Open Data
+-   Comprehensive Open Materials
+-   Thoughtful Reflective Account
+
+**Pro tip:** Consider the MD as numerous 'chunks' of work, not a document you can smash out in a single session! Divide and conquer.
+:::
+
+::: {.column width="40%"}
+**Benefits of complete submission:**
+
+-   Demonstrates scientific rigor
+-   Shows attention to detail
+-   Highlights your research skills
+-   Reflects achievement of learning outcomes
+-   Ensures full credit for your hard work
+:::
+:::::
+
+## Making Every Word Count {.smaller}
+
+::: callout-note
+### Understanding the 2,500 Word Limit
+:::
+
+::::: columns
+::: {.column width="60%"}
+**The word count includes everything from title to references:**
+
+-   Title
+-   Abstract
+-   All headings and subheadings
+-   Main text
+-   In-text citations
+-   Tables and figures (including captions)
+
+**Smart strategy:** Draft your content early, then refine and condense to stay within limits.
+:::
+
+::: {.column width="40%"}
+**Tips for concise writing:**
+
+-   Use clear, direct language
+-   Prioritize your most important findings
+-   Create informative figures that reduce text needs
+-   Focus on quality over quantity
+-   Start early to allow time for editing
+-   Use the Writing Guide
+:::
+:::::
+
+## Key Writing Guide Sections for Lab 16
+
+::: callout-important
+### This Week's Focus Areas in the Writing Guide
+
+-   **Part 05: Results Section and Open Data** (pp. 49-74)
+-   **Part 06: Data Pre-Processing** (pp. 75-84)
+-   **Part 07: Analysis (Top Level)** (pp. 85-100)
+-   **Part 08: 3 Flavours of ANOVA** (pp. 101-111)
+:::
+
+## Reminder
+
+This module builds on the skills you have been taught in Design & Analysis Lectures and Labs. It is not our job to teach the SPSS - but we are trying to support you as much as possible. Refer to your Design & Analysis VLE and materials.
+
+::: {.callout-tip appearance="minimal"}
+Pay special attention to **Data Pre-Processing** (pp. 75-84) for assumption testing and **3 Flavours of ANOVA** (pp. 101-111) for step-by-step guidance on each ANOVA type.
+:::
+
+## Lab 16: ANOVA Analysis (This Week)
+
+::::: columns
+::: {.column width="65%"}
+**Key Tasks:**
+
+-   Complete all data collection
+-   Clean data and check assumptions
+-   Run appropriate ANOVA analysis
+-   Test and interpret post-hoc tests
+:::
+
+::: {.column .smaller width="35%"}
+**Writing Guide References:**
+
+-   Data Pre-Processing (pp. 75-84)
+-   Three Flavours of ANOVA (pp. 101-111)
+-   Post-hoc testing procedures (pp. 105-110)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Lab 17: Results Write-up (Next Week)
+
+::::: columns
+::: {.column width="65%"}
+**Key Tasks:**
+
+-   Create APA-style figures and tables
+-   Write up complete results section
+-   Ensure all statistics properly reported
+-   Draft visualization of key findings
+:::
+
+::: {.column .smaller width="35%"}
+**Writing Guide References:**
+
+-   Results section structure (p. 99)
+-   F-statement writing (p. 98)
+-   Figures & Tables formatting (pp. 117-121)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Lab 18: Discussion Section
+
+::::: columns
+::: {.column width="65%"}
+**Key Tasks:**
+
+-   Interpret findings in context
+-   Link to literature and hypotheses
+-   Address limitations
+-   Suggest future research directions
+-   Draft conclusion
+:::
+
+::: {.column .smaller width="35%"}
+**Writing Guide References:**
+
+-   Discussion section structure (pp. 112-116)
+-   Effective limitations section (pp. 114-115)
+-   Conclusion writing tips (p. 115)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Lab 19: Final Preparations
+
+::::: columns
+::: {.column width="65%"}
+**Key Tasks:**
+
+-   Complete all document sections
+-   Prepare Open Data package
+-   Organize Open Materials
+-   Write Reflective Account
+-   Review APA formatting
+:::
+
+::: {.column .smaller width="35%"}
+**Writing Guide References:**
+
+-   Open Data requirements (pp. 125-127)
+-   Open Materials requirements (pp. 127-129)
+-   Reflective Account guidelines (pp. 129-131)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Lab 20: Final Submission
+
+::::: columns
+::: {.column .tighter width="65%"}
+**Key Tasks:**
+
+-   Last-minute troubleshooting
+-   Submit a complete package
+-   Ensure all components are included:
+    -   Main APA report (2,500 words)
+    -   Open Data & Materials
+    -   Reflective Account
+:::
+
+::: {.column .smaller width="35%"}
+**Remember:**
+
+-   All components are mandatory to pass!
+-   Word limit includes everything from title to References
+-   Ethics approval is required
+-   Schedule buffer time before submission
+:::
+:::::
+
+## Important Note on Data
+
+::: callout-warning
+### If You Need Fabricated Data
+
+If you were unable to collect sufficient data:
+
+-   Arrange with your lab tutor to use fabricated data
+-   You must provide a 4-box set of means and SDs
+-   This must be arranged well in advance
+-   Document this clearly in your Reflective Account
+:::
+
+## Important note on Analysis
+
+::: callout-important
+**ALL projects will use 2×2 ANOVA designs**
+
+Your design will be one of the three "flavours":
+
+-   Repeated Measures (within-subjects)
+-   Between-Groups (factorial)
+-   Mixed Design (combination)
+:::
+
+::: callout-warning
+**IF YOU USE ANY OTHER ANALYSIS, YOU WON'T SCORE ANY MARKS FOR IT**
+:::
+
+## Three Types of ANOVA {.smaller}
+
+::: panel-tabset
+### Repeated Measures ANOVA
+
+-   **Design:** Same participants in all conditions
+-   **When to use:** Measuring same participants under different conditions
+-   **Example:** Testing memory before and after training across two task types
+-   **Key advantage:** More statistical power with fewer participants
+-   **Key challenge:** Order effects, practice effects
+-   **Guide Reference:** pp. 108-111
+
+### Factorial ANOVA
+
+-   **Design:** Different participants in each condition
+-   **When to use:** Independent groups for each combination of factors
+-   **Example:** Effects of medication (drug vs. placebo) and therapy (yes vs. no)
+-   **Key advantage:** No carryover effects
+-   **Key challenge:** Requires more participants
+-   **Guide Reference:** pp. 101-103
+
+### Mixed ANOVA
+
+-   **Design:** Combines between and within-subjects factors
+-   **When to use:** One factor measured repeatedly, another between groups
+-   **Example:** Comparing anxiety (pre/post) between treatment and control groups
+-   **Key advantage:** Examines interaction between between/within factors
+-   **Key challenge:** Most complex analysis of the three
+-   **Guide Reference:** pp. 103-107
+:::
+
+## ANOVA Assumptions {.smaller}
+
+::: callout-note
+Check the Writing Guide pp. 75-84 for detailed procedures for testing assumptions
+:::
+
+## Design Assumptions
+
+-   **Independent observations** (observations should not influence each other)
+-   **Appropriate measurement level** (dependent variable on interval/ratio scale)
+-   **Balanced design** (approximately equal cell sizes when possible)
+-   **Complete data** (handle missing data appropriately)
+
+::: callout-tip
+These are established through your research design, not statistical tests
+:::
+
+## Statistical Assumptions {.smaller}
+
+-   **No significant outliers**
+    -   Use boxplots to identify extreme values
+    -   Assess impact on results
+    -   Writing Guide pp. 77-79
+-   **Normality of distribution**
+    -   Shapiro-Wilk test (p \> .05 indicates normality)
+    -   Q-Q plots
+    -   Writing Guide pp. 80-81
+
+
+
+## More Statistical Assumptions {.smaller}
+
+-   **Homogeneity of variance** (for between-subjects factors)
+    -   Levene's test (p \> .05 indicates equal variances)
+    -   Writing Guide p. 81-83
+-   **Sphericity** (for repeated measures designs)
+    -   Mauchly's test (p \> .05 indicates sphericity)
+    -   If violated, use correction (Greenhouse-Geisser or Huynh-Feldt)
+    -   Writing Guide p. 83-84
+
+::: callout-warning
+**Remember:** Document ALL assumption tests in your Methods/Results section
+:::
+
+
+## Post-Hoc Testing {.smaller}
+
+### When to Use Post-Hoc Tests
+
+1. After finding a significant main effect with **more than two levels**
+2. After finding a significant interaction effect
+3. To identify which specific group differences drive effects
+
+### Common Post-Hoc Tests
+
+* **Bonferroni correction**: Controls Type I error; conservative but widely accepted; default in most SPSS procedures
+* **Tukey's HSD**: Good balance of power and control; for between-subjects comparisons with equal n
+
+## For Interactions
+
+* **Simple effects analysis**: Examine one factor at each level of another; essential for understanding interactions (pp. 105-107)
+* **Simple main effects analysis**: Look at differences between groups at each level; helps interpret complex interactions
+
+::: callout-note
+See Writing Guide pp. 101-111 for step-by-step guides for post-hoc testing for each ANOVA type
+:::
+
+## APA Style Results Reporting {.smaller}
+
+::: callout-tip
+### ANOVA Results Template (p. 98 in Writing Guide)
+
+```         
+A [repeated-measures/factorial/mixed] ANOVA was conducted to examine the effect of [IV1] and [IV2] on [DV]. 
+[Assumption tests were conducted with no serious violations noted + details].
+
+There was a [significant/non-significant] main effect of [IV1], F([df1], [df2]) = [F-value], 
+p = [p-value], partial η² = [effect size]. 
+
+There was a [significant/non-significant] main effect of [IV2], F([df1], [df2]) = [F-value], 
+p = [p-value], partial η² = [effect size].
+
+There was a [significant/non-significant] interaction between [IV1] and [IV2], 
+F([df1], [df2]) = [F-value], p = [p-value], partial η² = [effect size].
+```
+:::
+
+::: callout-note
+For significant effects, follow with post-hoc test results, including means, SDs, p-values, and effect sizes where appropriate.
+:::
+
+## Common Mistake 1: Forgetting Assumptions Tests {.smaller}
+
+* Don't forget to report the Assumptions tests
+
+**Solution:**
+
+* Report them in your results
+
+## Common Mistake 2: Misinterpreting Interaction Effects {.smaller}
+
+* Focusing only on main effects when interactions are significant
+* Missing the most important part of your findings
+
+**Solution:**
+
+* Use post-hocs to understand the pattern and report EMMs
+
+**Mini-dissertation tip:**
+
+* Use interaction plots to visualize and aid interpretation
+
+
+## Common Mistake 3: Poor Visualization {.smaller}
+
+* Figures don't clearly show patterns and results
+* Raw SPSS output used instead of APA-formatted figures
+
+**Solution:**
+
+* Create clear, APA-style visualizations
+* Focus on communicating key findings visually
+
+**Mini-dissertation tip:**
+
+* Start creating draft figures immediately after analysis
+* Use the Writing Guide examples as templates (pp. 117-121)
+
+
+## Common Mistake 4: Time Management {.smaller}
+
+* Leaving work to the last minute
+* Underestimating supplementary materials workload
+
+**Solution:**
+
+* Create a detailed week-by-week plan
+* Set personal deadlines ahead of final submission
+
+**Mini-dissertation tip:**
+
+* Remember that the 2,500 word limit is tight for concise writing
+* Allow substantial time for supplementary materials
+
+---
+
+## Common Mistake 5: Statistical Reporting Errors {.smaller}
+
+* Missing degrees of freedom
+* Inconsistent decimal places and italics
+* Omitting effect sizes
+
+**Solution:**
+
+* Follow APA style guidelines strictly
+* Use the templates provided in the Writing Guide
+
+**Mini-dissertation tip:**
+
+* Double-check all F-statements, t-tests, and p-values
+* Review the statistical reporting templates (p. 98)
+
+---
+
+## Common Mistake 6: Incomplete Submissions {.smaller}
+
+* Missing required components
+* Poorly documented Open Data/Materials
+
+**Solution:**
+
+* Create a comprehensive submission checklist
+* Review all requirements before submitting
+
+* Verify all four components are complete (APA report, Open Data, Open Materials, Reflective Account)
+
+
+## Next Steps {.smaller}
+
+**📋 To-Do Before Next Lab:**
+
+-   Complete ANOVA analyses for your mini-dissertation
+-   Create draft figures of your results
+-   Prepare summary of your findings
+-   Bring questions about interpretation to Lab 17
+
+::: callout-warning
+## Important Reminder
+
+Remember that the 2,500 word limit must cover introduction, method, results and discussion. Be concise and focused in your writing.
+
+The supplementary materials (Open Data, Open Materials, Reflective Account) are mandatory but do not count toward the word limit.
+:::
+
+## any {.center background-color="#3c3c3c"}
+
+::: r-fit-text
+Questions?
+:::

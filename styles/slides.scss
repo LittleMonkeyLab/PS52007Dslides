@@ -38,5 +38,18 @@ $presentation-h2-font-size: 1.6em !default;
    display: block;
 }
 
+.smaller {
+    font-size: 80% !important;
+}
 
+.tighter ul {
+    margin-top: 0.2em !important;
+    margin-bottom: 0.2em !important;
+    padding-left: 1.2em !important;
+}
+
+.tighter li {
+    margin-bottom: 0.1em !important;
+    line-height: 1.1 !important;
+}
 
