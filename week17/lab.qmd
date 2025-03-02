@@ -1,12 +1,12 @@
 ---
 title: "Lab 17"
-subtitle: "XX"
+subtitle: "Focussed Support"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
     orcid: 0000-0001-9424-5743
     email: g.wright@gold.ac.uk
-date: "03/10/2025"
+date: "03/04/2025"
 date-format: long
 license: "CC BY-NC-SA"
 citations-hover: true
@@ -35,12 +35,115 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of today's lab activities
+# Lab Session Overview
 
-1.  Template
+## Getting the Feedback You Need
 
-2.  Template
+::: callout-important
+### You Want Feedback? We're Here to Provide It!
 
-3.  Template
+-   Labs are specifically designed for personalized feedback
+-   **But feedback is not automatic** — you must be proactive:
+    -   Identify specific areas where you need support
+    -   Prepare targeted questions about your project
+    -   Actively approach your lab tutors during sessions
+    -   Listen to and implement their advice
+    -   Show your work to receive meaningful guidance
 
-## Stuff
+**Remember:** After submission is too late for feedback. Many students say they wanted more guidance, yet didn't take advantage of lab opportunities when available.
+:::
+
+## Essential Resources 1/3
+
+::: callout-tip
+-   **Marking Rubric**
+    -   Clear criteria for each grade boundary
+    -   Use as a checklist before submission
+:::
+
+![](images/Brief&Rubric.png)
+
+## Essential Resources 2/3
+
+::: callout-tip
+-   **Mini-Dissertation Writing Guide**
+    -   Detailed section-by-section guidance
+    -   Available on VLE under "Assessment Resources"
+:::
+
+![](images/Mini-Diss%20Writing%20Guide.png){width="150"}
+
+## Essential Resources 3/3
+
+::: callout-tip
+-   **Data Analysis Resources**
+    -   ANOVA support and D&A worksheets
+-   APA Resources
+    -   Everything you could possibly need!
+:::
+
+![](images/Analysis Resources.png)
+
+## Getting the Most from Today's Lab
+
+::: callout-note
+Use this time effectively with your lab tutor!
+:::
+
+-   Review your design and analysis plan
+-   Get feedback on preliminary results
+-   Discuss specific challenges with your dataset
+-   Clarify expectations for specific sections
+
+## Focused Activities with Lab Tutors
+
+### Data Analysis Support
+
+-   Verify your 2x2 ANOVA implementation
+-   Check assumption tests and interpretations
+-   Review your tables and figures
+-   Discuss appropriate effect size calculations
+
+## Focused Activities with Lab Tutors (cont.)
+
+### Writing Support
+
+-   Outline structure review
+-   Feedback on draft sections
+-   APA formatting questions
+-   Word count management strategies
+
+## Focused Activities with Lab Tutors (cont.)
+
+### Open Data & Materials Review
+
+-   Confirm your data files are properly organized
+-   Review documentation clarity
+-   Check materials package completeness
+-   Ensure reflective account meets requirements
+
+## Next Steps and Planning
+
+::: callout-important
+### Create a Completion Timeline
+
+-   Break remaining work into manageable tasks
+-   Set personal deadlines for each component
+-   Plan for peer review before final submission
+:::
+
+## Questions for the VLE Forum
+
+::: callout-tip
+### Let's Get the Discussion Started
+
+Take a moment to write down your **two most pressing questions** about your mini-dissertation, then:
+
+-   Post them to the dedicated VLE forum thread "Coursework Discussion Forum"
+-   This allows everyone to benefit from the answers
+-   Lab tutors will monitor and respond to questions
+-   See if others have similar concerns to yours
+-   Remember: all communication must go through the VLE from here on in!
+:::
+
+**Head to the forum now:** \[[Coursework Discussion Forum](https://learn.gold.ac.uk/mod/forum/view.php?id=1581642)\]

@@ -53,3 +53,54 @@ $presentation-h2-font-size: 1.6em !default;
     line-height: 1.1 !important;
 }
 
+/* Improve callout visibility */
+.callout {
+  border-radius: 5px;
+  margin-bottom: 1em;
+  padding: 0.7em 1em;
+  border-left-width: 5px;
+}
+
+/* Differentiating callout types */
+.callout-note {
+  background-color: #f0f7fb;
+  border-left-color: #3498db;
+}
+
+.callout-tip {
+  background-color: #eafaf1;
+  border-left-color: #2ecc71;
+}
+
+.callout-warning {
+  background-color: #fef9e7;
+  border-left-color: #f1c40f;
+}
+
+.callout-important {
+  background-color: #fadbd8;
+  border-left-color: #e74c3c;
+}
+
+/* Better visibility for section headers */
+h1 {
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.2em;
+}
+
+/* Make the FAQ callouts more attractive */
+.callout h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+/* Emphasize the metaphor section */
+#the-research-journey-metaphor h2 {
+  color: #3498db;
+}
+
+/* Improve presentation of bullet points */
+ul li, ol li {
+  margin-bottom: 0.5em;
+}
+
