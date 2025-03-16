@@ -1,6 +1,6 @@
 ---
-title: "Lecture 19: STUFF"
-subtitle: "STUFF"
+title: "Lecture 19: Presenting Scientific Research"
+subtitle: "A valuable skill"
 date: "03/17/2025"
 categories: 
   - "Lecture"
@@ -35,32 +35,363 @@ execute:
  freeze: auto
 ---
 
-## Template
+---
+title: "The Art and Science of Scientific Presentations"
+author: "Your Name"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    highlight-style: github
+    code-fold: true
+    footer: "Scientific Communication Workshop"
+---
 
-I apologise for my unexpected absence at the end of last term.
+## Overview
 
-It was unavoidable, but I shall endeavour to repay your patience this
-year.
+- Scientific communication: Why it matters
+- Three key formats: Posters, presentations, talks
+- IMRAD structure for scientific communication
+- Designing effective visual content
+- Audience-centered communication
+- Practice makes perfect: Tips for delivery
+- Q&A strategies
+- Course assessment: Preparing for your 15-minute presentation
 
-## Template
+## Why Scientific Communication Matters {.smaller}
 
--   An overview of the CHIP Learning Log coursework
+- **Knowledge sharing**: Advancing collective understanding in your field
+- **Peer validation**: Opening your work to feedback and critique
+- **Impact**: Ensuring your research influences academia, policy, or practice
+- **Career advancement**: Building your academic reputation
+- **Public understanding**: Bridging the gap between scientific research and public knowledge
 
--   Lab activity this term - Data collection, data preparation, analysis
-    and writing up.
-
-# Template Section
-
-## Template
-
-::: incremental
-Template
-
--   Template
--   Template
--   Template
+::: {.notes}
+Emphasize how even groundbreaking research has limited impact if poorly communicated.
 :::
 
-# Any Questions?
+## Communication Formats
 
-## References
+::: {.columns}
+::: {.column width="33%"}
+**Posters**
+
+- Visual emphasis
+- Interactive, one-on-one
+- Stand-alone content
+- Browse & engage format
+:::
+
+::: {.column width="33%"}
+**Presentations**
+
+- Slide-based
+- Structured narrative
+- Visual + verbal balance
+- Time-limited
+:::
+
+::: {.column width="33%"}
+**Talks/Lectures**
+
+- Extended format
+- Depth of content
+- Complex narratives
+- Q&A component
+:::
+:::
+
+## IMRAD: The Scientific Structure
+
+::: {.incremental}
+- **Introduction**: What question are you addressing? Why does it matter?
+- **Methods**: How did you investigate the question?
+- **Results**: What did you find?
+- **Discussion**: What do your findings mean in context?
+:::
+
+::: {.notes}
+Emphasize flexibility - this structure can be adapted for different communication formats while maintaining logical flow.
+:::
+
+## IMRAD for Project Presentations
+
+- **Introduction**: Context of research problem, knowledge gap, significance
+- **Methods**: Proposed experimental design, procedures, analysis techniques
+- **Results**: For project presentations, focus on *predicted* results
+  - What outcomes would support your hypothesis?
+  - What alternative outcomes might occur?
+- **Discussion**: Implications of expected findings, limitations, future directions
+
+::: {.notes}
+For student presentations, emphasize that since this is a project proposal, they should focus on predicted results rather than actual results.
+:::
+
+## Adapting IMRAD to Presentations
+
+| Section | Purpose | Slide Approach |
+|---------|---------|----------------|
+| **Introduction** | Hook audience, establish relevance | Clear problem statement, compelling visuals |
+| **Methods** | Build credibility, explain approach | Simplified flowcharts, key methodological points |
+| **Results** | Share discoveries, highlight importance | Data visualization, animations to build complexity |
+| **Discussion** | Extract meaning, implications | Connection to broader field, future directions |
+
+## Visual Design Principles {background-color="#f3f3f3"}
+
+::: {.columns}
+::: {.column width="60%"}
+- **Simplicity**: One main idea per slide
+- **Consistency**: Visual language, colors, fonts
+- **Contrast**: Make important elements stand out
+- **Hierarchy**: Guide viewer attention
+- **White space**: Allow content to breathe
+:::
+
+::: {.column width="40%"}
+![](https://via.placeholder.com/400x300)
+:::
+:::
+
+## Slide Design: Do's and Don'ts {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**DO**
+
+- Use high-quality visuals
+- Maintain consistent design
+- Limit text (6x6 rule)
+- Use clear, readable fonts
+- Create meaningful titles
+- Incorporate intentional animations
+:::
+
+::: {.column width="50%"}
+**DON'T**
+
+- Use low-resolution images
+- Include excessive text
+- Use multiple fonts/styles
+- Over-animate slides
+- Use distracting backgrounds
+- Present complex raw data
+:::
+:::
+
+## Data Visualization Best Practices {background-color="#f3f3f3"}
+
+- Choose appropriate chart types for your data
+- Simplify: Focus on the key message
+- Use color intentionally and consistently
+- Label directly when possible
+- Consider accessibility in design choices
+- Tell a story with your data
+
+::: {.notes}
+Remind participants that visualizations should support understanding, not demonstrate software skills.
+:::
+
+## Know Your Audience
+
+::: {.incremental}
+- **Expert audiences**: Technical depth, methods focus, current debates
+- **Mixed audiences**: Clear definitions, broader context, varied examples
+- **Public audiences**: Relatable metaphors, visual storytelling, clear relevance
+:::
+
+## Presentation Delivery {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Preparation**
+
+- Practice full run-throughs
+- Time yourself rigorously
+- Prepare transitions
+- Create speaker notes
+- Test technology beforehand
+- Have backup plans
+:::
+
+::: {.column width="50%"}
+**Delivery**
+
+- Maintain eye contact
+- Use purposeful movement
+- Modulate your voice
+- Use pauses effectively
+- Acknowledge questions clearly
+- Manage time vigilantly
+:::
+:::
+
+## Common Pitfalls to Avoid
+
+::: {.incremental}
+- Excessive information on slides
+- Speaking to the screen, not the audience
+- Monotone delivery or reading directly from slides
+- Poor time management
+- Neglecting to practice transitions
+- Apologizing unnecessarily
+:::
+
+## Tips for Meeting Assessment Criteria {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Make Your Introduction Clear**
+- Start with a compelling hook
+- Clearly state your research question
+- Explain why your topic matters
+
+**Present Background Effectively**
+- Connect information to your research
+- Demonstrate knowledge of the field
+- Establish the knowledge gap
+:::
+
+::: {.column width="50%"}
+**Articulate Aims & Hypotheses**
+- Make hypotheses testable and specific
+- Connect aims to background information
+- Use visual cues to emphasize key points
+
+**Methodology Presentation**
+- Use flowcharts for complex methods
+- Explain why methods are appropriate
+- Focus on critical aspects only
+:::
+:::
+
+## Tips for Meeting Assessment Criteria II {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Predicted Results**
+- Use clear visualizations
+- Show example data formats
+- Present multiple possible outcomes
+
+**Implications**
+- Connect back to research question
+- Discuss significance of each potential outcome
+- Address limitations honestly
+:::
+
+::: {.column width="50%"}
+**Presentation Skills**
+- Practice vocal variety and eye contact
+- Develop smooth transitions between sections
+- Prepare for questions thoroughly
+- Time each section during rehearsals
+- Create backup slides for complex questions
+:::
+:::
+
+## Q&A Strategies
+
+- Anticipate likely questions
+- Listen carefully before responding
+- Be concise in your answers
+- "I don't know" is a valid response
+- Connect questions to your main points
+- Follow up with questioners afterwards
+
+## Effective Scientific Posters
+
+::: {.columns}
+::: {.column width="60%"}
+- Clear, concise title
+- Logical flow (typically left-to-right, top-to-bottom)
+- Graphics dominate (60-70% visual)
+- Text is minimal and scannable
+- Contact information and QR codes for supplementary materials
+:::
+
+::: {.column width="40%"}
+![](https://via.placeholder.com/300x400)
+:::
+:::
+
+## Longer Scientific Talks
+
+- Plan for 75% content, 25% flexibility
+- Build in deliberate transitions between sections
+- Consider narrative structure to maintain engagement
+- Use signposting to help audience follow your logic
+- Plan visual breaks in longer presentations
+- Consider handouts for complex information
+
+## Resources for Continued Learning {.smaller}
+
+- Books:
+  - "Better Presentations" by Jonathan Schwabish
+  - "Slide:ology" by Nancy Duarte
+  - "Made to Stick" by Chip and Dan Heath
+
+- Online:
+  - "[Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077)" (PLOS Computational Biology)
+  - Data visualization resources from Edward Tufte
+
+## Course Assessment: 15-Minute Oral Presentation {.smaller}
+
+**Requirements:**
+- 8-10 minutes presentation + 5-7 minutes for questions (15 minutes total)
+- Worth 10% of final grade
+- Assessed by your supervisor and moderated
+
+**Purpose:**
+- Formal presentation experience (valuable for job applications)
+- Help structure your research project
+- Receive constructive feedback before final write-up
+- Learn about peers' research projects
+
+::: {.notes}
+Emphasize that this presentation is obligatory and will be formally assessed.
+:::
+
+## Assessment Criteria {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+- **Introduction**: Clear topic introduction
+- **Background**: Relevance of information
+- **Aims & Objectives**: Clear hypotheses
+- **Methodology**: How research question is addressed
+- **Predicted Results**: Clear presentation
+- **Explanation**: Clear implications of results
+:::
+
+::: {.column width="50%"}
+- **Overview**: Clear summary
+- **Structure**: Well-organized talk
+- **Visual Aids**: Effective use of materials
+- **Examples**: Illustrative examples
+- **Level**: Appropriately pitched
+- **Presentation Skills**: Voice, eye contact, etc.
+- **Timing**: Good pacing
+- **Q&A**: Response to questions
+:::
+:::
+
+## Presentation Timing Strategy {background-color="#f3f3f3"}
+
+| Section | Time Allocation | Focus Points |
+|---------|-----------------|--------------|
+| Introduction & Background | 2-3 minutes | Problem context, relevance, knowledge gap |
+| Aims & Objectives | 1-2 minutes | Clear hypotheses, specific goals |
+| Methodology | 2-3 minutes | Key approaches, techniques, design |
+| Predicted Results & Implications | 2-3 minutes | Expected outcomes, significance |
+| Summary & Conclusion | 1 minute | Key takeaways, future directions |
+
+::: {.notes}
+Remind students to practice with a timer to ensure they stay within the 8-10 minute presentation window.
+:::
+
+## Thank You!
+
+**Questions?**
+
+

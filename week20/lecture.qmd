@@ -37,17 +37,11 @@ execute:
 
 ## Template
 
-I apologise for my unexpected absence at the end of last term.
-
-It was unavoidable, but I shall endeavour to repay your patience this
-year.
-
 ## Template
 
 -   An overview of the CHIP Learning Log coursework
 
--   Lab activity this term - Data collection, data preparation, analysis
-    and writing up.
+-   Lab activity this term - Data collection, data preparation, analysis and writing up.
 
 # Template Section
 

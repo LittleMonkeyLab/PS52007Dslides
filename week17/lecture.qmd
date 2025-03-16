@@ -1,6 +1,6 @@
 ---
-title: "Lecture 17: STUFF"
-subtitle: "STUFF"
+title: "Lecture 17: Approaching the MD"
+subtitle: "FAQs"
 date: "03/03/2025"
 categories: 
   - "Lecture"
@@ -35,32 +35,351 @@ execute:
  freeze: auto
 ---
 
-## Template
+# Understanding Your Research Design
 
-I apologise for my unexpected absence at the end of last term.
+## Variables Refresher
 
-It was unavoidable, but I shall endeavour to repay your patience this
-year.
+- **Independent Variables (IVs)**
+  - Things you manipulate or measure
+  - Categorical: Groups (e.g., high/low, young/old)
+  
+- **Dependent Variables (DVs)**
+  - Things that you measure
+  - Continuous/Ordinal: Responses from participants
 
-## Template
+## Understanding YOUR Design
 
--   An overview of the CHIP Learning Log coursework
+::: {.callout-important}
+Focus exclusively on YOUR individual 2x2 design, not what other group members did
+:::
 
--   Lab activity this term - Data collection, data preparation, analysis
-    and writing up.
+- Your design uses 2 IVs with 2 levels each
+- Identify your specific variables and levels
+- Focus solely on your own design in your write-up
 
-# Template Section
+## Types of 2x2 ANOVA Designs
 
-## Template
+1. **Between-subjects design**
+   - Different participants in each condition
+   - Both IVs are between-subjects factors
+   - 4 'groups' of participants
 
-::: incremental
-Template
+## Types of 2x2 ANOVA Designs (cont.)
 
--   Template
--   Template
--   Template
+2. **Repeated measures design**
+   - All participants in all conditions
+   - Both IVs are within-subjects factors
+   - 1 'group' of participants
+
+## Types of 2x2 ANOVA Designs (cont.)
+
+3. **Mixed design**
+   - One IV is repeated measures (within-subjects)
+   - One IV is between-subjects
+   - 2 'groups' of participants
+
+::: {.callout-note}
+Whichever design you implemented, you must conduct the appropriate 2x2 ANOVA. It is immediately apparent from your results section, abstract and methods section (e.g. Design) if you have nailed this. Lots don't!
+:::
+
+# Data Collection & Analysis
+
+## Final Data Collection Steps
+
+- Data collection is complete
+- Ensure your dataset is clean and analysis should be on the go!
+- Document any preprocessing steps in your methods section
+
+## What to Expect in Analysis
+
+- **2x2 ANOVA is the only required inferential analysis**
+- Even if assumptions are violated, still conduct and report the ANOVA
+- Include post-hoc tests for significant interactions
+- Report means, standard deviations, and effect sizes
+
+# Mini-Dissertation Structure
+
+## IMRAD+ Format
+
+1. **Title**: Concise, descriptive, reflects your variables
+2. **Abstract**: Brief summary (150-250 words)
+3. **Introduction**: Literature review → specific hypotheses
+4. **Methods**: Design, Participants, Materials, Procedure
+
+## IMRAD+ Format (cont.)
+
+5. **Results**: Statistics, visualizations, patterns
+6. **Discussion**: Interpretation, limitations, implications
+7. **References**: APA 7 format
+8. **Open Data & Materials**: Replication package
+
+## IMRAD+ Format (cont.)
+
+9. **Reflective Account**: Min 200 words - Engagement with the process
+
+::: {.callout-warning}
+Incomplete submissions are capped at a 2:1 grade!
+:::
+
+# Writing Effective Sections
+
+## Introduction
+
+- Move from general topics to specific hypotheses
+- Establish clear rationale for your study
+- Present relevant literature concisely and consider both IVs, DV and methods
+- End with explicit hypotheses
+
+## Methods
+
+- **Design**: Your specific 2x2 design with variables/levels/type
+- **Participants**: Demographics, sampling approach
+- **Materials**: Detailed description of all measures and Stuff used
+- **Procedure**: Clear overview of experimental protocol (step-by-step)
+
+## Results
+
+- **Descriptive statistics**: Means, standard deviations, patterns
+- **Inferential statistics**: Main effects and interactions from ANOVA
+- Include visualizations (graphs, tables)
+- Focus on relevant outputs (p-values, effect sizes)
+
+## FAQ - SPSS output
+
+::: {.callout-warning}
+### What SPSS output should I include in my mini-dissertation?
+
+None. The statistical values (F-values, p-values, effect sizes, means, standard deviations) are all important, but they should be rewritten either in narrative form or in hand-generated tables following APA format. 
+
+**Rationale:** SPSS output contains too much extraneous and irrelevant information that is not necessary for your report. Including raw output introduces clutter and demonstrates less understanding than properly reporting the statistics yourself.
+:::
+
+## Discussion
+
+- Interpret whether hypotheses were supported
+- Connect findings to existing literature
+- Discuss limitations honestly
+- Suggest meaningful future directions
+
+# Submission Requirements
+
+## Open Data
+
+- Must be useful for re-analysis
+- Can include:
+  - Raw data from platforms (e.g., Qualtrics)
+  - Processed data with corrections
+  - Analysis-ready datasets
+
+## Open Materials
+
+- A package of all study materials
+- Should allow for immediate reproduction
+- Include consent forms, questionnaires, stimuli
+- Provide clear documentation
+
+## Reflective Account
+
+- At least 200 words
+- Demonstrate reflective practice and metacognition
+- Avoid negativity; focus on learning
+- Consider your personal growth as a researcher
+
+::: {.callout-important}
+## It's the process, not the product!
+:::
+
+# The Research Journey Metaphor
+
+## Product Is Not the Outcome
+
+Think of your research project like a cooking apprenticeship:
+
+- A chef doesn't just learn by creating perfect dishes
+- They learn through challenges: ingredient interactions, timing issues, technique refinement
+- Even when a dish doesn't turn out as expected, the knowledge gained is invaluable
+
+## Product Is Not the Outcome (cont.)
+
+Similarly, your research project develops crucial skills:
+
+- Experimental design
+- Data collection and analysis for real
+- Scientific writing and critical thinking
+
+The true measure of success isn't your p-value, but the research toolkit you're developing.
+
+# Best Practices for Success
+
+## Presentation Matters
+
+- Quality of presentation impacts grading
+- Use visuals to enhance understanding
+- Ensure consistent formatting, no weird fonts or formats
+- Proofread carefully and edit viciously
+
+## Avoid Data Paralysis
+
+- The analysis is maybe not the funnest part - I hear you!
+- But it is only a small part of the exercise
+- You can show your lab-tutor on screen or get support in labs
+- Don't over-egg it, and don't put it off
+
+## Data Analysis Focus
+
+- Report only relevant statistical outputs
+- Interpret what your results actually mean
+- Link analysis back to your hypotheses
+- Be precise in your reporting - don't shove in everything in case it's useful
+
+## Completeness Is Critical
+
+- Use the rubric and marking guidelines
+- Ensure no required sections are missing
+- Incomplete submissions are capped at 2:1
+- Double-check everything before submission
+
+## Feedback Opportunities
+
+- Lab tutors can review all aspects of your work
+- Not showing work means missing valuable feedback
+- Don't wait until after submission to seek help
+- Use lab sessions to get input on your progress
+
+# Student-Sourced FAQs
+
+## General Questions
+
+::: {.callout-note}
+### What is the expected structure of the mini-dissertation?
+The mini-dissertation should follow the IMRAD format: Title, Abstract, Introduction, Methods, Results, Discussion, References, and Open Data/Materials.
+AND the reflective account is compulsory too
+:::
+
+::: {.callout-note}
+### How long should the reflective account be?
+The reflective account must be at least 200 words and should demonstrate reflective practice and metacognition. Do it, with feeling! 
+:::
+
+## Word count worries
+
+::: {.callout-important}
+### How is the word count calculated for the mini-dissertation?
+
+The word count limit is 2,500 words, which includes everything from the first word of the title to the last word of the discussion section.
+
+**What counts in the word limit:**
+- Title
+- Abstract
+- Introduction (yes - in text citations count)
+- Methods
+- Results
+- Discussion
+- All text in tables and figures (including captions and legends)
+
+**What does NOT count in the word limit:**
+- Reference section
+- Open Data section
+- Open Materials section
+- Reflective Account
+
+**Remember:** If there are words visible anywhere in your document (including in figures, tables, in-text citations), they count toward your word limit.
+:::
+
+## Common Data Mistakes to Avoid
+
+::: {.callout-warning}
+### What are typical DATA mistakes students make?
+1. Skipping data cleaning
+2. Neglecting assumptions testing
+3. Writing overly detailed procedure sections
+4. Providing incomplete open data or materials
+5. Doing anything other than a 2x2 ANOVA
+:::
+
+## Common Writing Mistakes to Avoid
+
+::: {.callout-warning}
+### What are typical WRITING mistakes students make?
+1. Trying to fill the word limit unnecessarily (it's punishingly short by design)
+2. Using variable language for key terms (find the best way of saying something and stick to it)
+3. Duplicating content across method section elements
+4. Using imprecise in-text citations
+5. Creating incomplete reference lists (missing hanging indents, not alphabetized, missing DOIs, incorrect italicization)
+:::
+
+## Common Formatting Mistakes to Avoid
+
+::: {.callout-warning}
+### What are typical FORMATTING mistakes students make?
+1. Using fancy fonts instead of Times New Roman or similar boring fonts
+2. Using font sizes other than 11 or 12 point
+3. Not using double spacing
+4. Including color when black and white is sufficient
+5. Using bullet points (unnecessary in formal scientific writing)
+6. Including appendices (use Open Data and Materials instead)
+:::
+
+::: {.callout-warning}
+### Are there pitfalls in the reflective account?
+Avoid general negative sentiments about the experience or group members. Focus on what you learned rather than complaining.
+:::
+
+## Tips for Success
+
+::: {.callout-tip}
+### How can I produce a high-quality mini-dissertation?
+1. Plan early and outline or draft sections in advance
+2. Use clear, concise, precise language
+3. Include relevant visualisations if you need/want
+4. Use all the Lab-report guidance available to you. This is a lab-report+!
+:::
+
+::: {.callout-tip}
+### How should I handle data analysis?
+The results section is usually the shortest and is comprised of very little 'creative' writing. Paint by numbers. Get it off your plate as soon as you can, and then you know what you are dealing with results-wise.
+:::
+
+## Addressing Concerns
+
+::: {.callout-important}
+### What if I don't have a "reasonable" data set?
+- Approach your lab-tutor in labs and discuss this. 
+- Data can (and is) fabricated if needed with no impact on mark
+- Consult Design & Analysis resources or get help in labs - this is where support is offered.
+:::
+
+::: {.callout-important}
+### How do I deal with group work issues?
+Remember to reflect on how you'll change your approach next year. Document challenges and discuss them positively in your reflective account (if you choose to) rather than trying to gain any compensation.
+:::
+
+## Extensions and Communication
+
+::: {.callout-note}
+### What if I need to use a RASA and/or ECs?
+- Scheduled drop-in sessions will be scheduled in weeks 21, 22 & 23
+- 1st, 8th, 15th April.
+- Be strategic about seeking help due to limited availability
+- All communication must be through lab sessions or VLE discussion forums
+:::
+
+::: {.callout-warning}
+For equality purposes, all questions must be shared publicly via the VLE
+:::
+
+# Final Thoughts
+
+## Additional Resources
+
+- **Writing Guide**: Detailed advice on each section
+- **Statistical Resources**: Templates for ANOVA analysis
+- **Rubric**: Essential for checking completeness
+
+::: {.callout-tip}
+## Remember
+The goal is learning research skills, not just producing perfect results!
 :::
 
 # Any Questions?
 
-## References

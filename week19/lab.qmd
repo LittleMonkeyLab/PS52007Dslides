@@ -1,6 +1,6 @@
 ---
 title: "Lab 19"
-subtitle: "XX"
+subtitle: "Pre-Submission Checklist"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -35,12 +35,182 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of today's lab activities
+## Lab Activities: Document Structure and Editing
 
-1.  Template
+- Pre-submission checklist
+- Editing strategies
+- Structuring the document
+- Critical review and refinement
+- Discussion sections (Chapter 16)
+- Creating effective figures and tables (Chapter 17)
 
-2.  Template
+## Discussion Section Structure
 
-3.  Template
+1. Restate each hypothesis and interpret results
+2. Connect to literature: Matches and divergences
+3. Acknowledge limitations
+4. Suggest future directions
+5. Provide a concise conclusion
+6. Include comprehensive references
 
-## Stuff
+## Restating and Interpreting Hypotheses
+
+**Key Points:**
+- Briefly remind readers of each hypothesis
+- Clearly state whether data supports or refutes it
+- Cite supporting literature
+
+::: {.callout-tip}
+**Example:** "As predicted, participants in the experimental group showed a significant decline in memory performance (Hypothesis 1). This aligns with findings from Smith and Jones (2020), who reported similar cognitive impairments under acute stress conditions."
+:::
+
+## Connecting to Existing Literature
+
+**Key Points:**
+- Highlight agreements with previous research
+- Explain divergences and unexpected results
+- Discuss theoretical implications
+
+::: {.callout-tip}
+**Example:** "While the overall trend aligns with the stress-impairment hypothesis, the observed gender differences diverge from prior research. This could be due to the inclusion of a more diverse sample, as suggested by prior critiques (e.g., Doe, 2021)."
+:::
+
+## Acknowledging Limitations
+
+**Key Points:**
+- Address methodological issues (sample size, generalizability)
+- Discuss potential biases
+- Explain impact on interpretation
+
+::: {.callout-tip}
+**Example:** "One limitation of the study was the relatively small sample size, which may have reduced the statistical power of the analyses. Future research should aim to replicate these findings with a larger and more diverse cohort."
+:::
+
+## Suggesting Future Directions
+
+**Key Points:**
+- Build on your findings
+- Introduce novel questions inspired by results
+- Suggest practical applications
+
+::: {.callout-tip}
+**Example:** "Future research could explore the role of coping mechanisms in mitigating stress-induced cognitive decline. Additionally, longitudinal studies are needed to examine the long-term impact of stress on cognitive functions across different age groups."
+:::
+
+## Writing a Strong Conclusion
+
+**Key Points:**
+- Summarize key takeaways
+- Revisit the original research question
+- Emphasize broader impact
+
+::: {.callout-tip}
+**Example:** "In conclusion, this study highlights the detrimental effects of stress on working memory, underscoring the importance of interventions to reduce stress in high-pressure environments. These findings contribute to a growing understanding of cognitive resilience."
+:::
+
+## Creating Effective Figures
+
+**Key Requirements:**
+- Number figures sequentially (Figure 1, Figure 2, etc.)
+- Include a clear title at the top
+- Ensure all elements are readable
+- Place key/legend within the graph
+- Add explanatory notes (including p-values)
+
+## Figure Design Best Practices
+
+- Use colors sparingly and consistently
+- Consider accessibility (patterns can be better than subtle colors)
+- Use a modest color palette
+- Ensure figures are readable when converted to PDF
+- Follow APA style guidelines: [APA Figure Examples](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/sample-figures)
+
+## Pre-submission Checklist
+
+**Document Structure:**
+- Title page complete with required information
+- Abstract within word limit
+- All required sections present
+- References properly formatted
+- Appendices included if necessary
+
+## Pre-submission Checklist: Content
+
+**Content Quality:**
+- Research question/hypothesis clearly stated
+- Methods described with sufficient detail
+- Results presented accurately with appropriate statistics
+- Discussion interprets findings and acknowledges limitations
+- Conclusion summarizes key findings and implications
+
+## Pre-submission Checklist: Formatting
+
+**Formatting:**
+- Correct font and size
+- Proper margins and spacing
+- Page numbers included
+- Headings formatted consistently
+- Figures and tables properly labeled
+- In-text citations formatted correctly
+
+## Editing Strategies: Global
+
+**Global Editing (Content & Structure):**
+- Read for overall argument coherence
+- Check logical flow between sections
+- Ensure each paragraph has a clear purpose
+- Verify all claims are supported by evidence
+- Confirm all research questions are addressed
+
+## Editing Strategies: Local
+
+**Local Editing (Language & Style):**
+- Eliminate wordiness and redundancy
+- Vary sentence structure
+- Check for consistent tense use
+- Ensure subject-verb agreement
+- Replace vague terms with precise language
+
+## Editing Approach
+
+1. **First Pass:** Content and structure (big picture)
+2. **Second Pass:** Paragraph-level organization
+3. **Third Pass:** Sentence clarity and flow
+4. **Fourth Pass:** Grammar, spelling, punctuation
+5. **Final Pass:** Format, citations, references
+
+## Critical Review Strategies
+
+- Read your work aloud
+- Use text-to-speech software
+- Take a break before final review
+- Have peers review your work
+- Check against assessment criteria
+- Use the "reverse outline" technique
+
+## Reverse Outline Technique
+
+1. Read your completed draft
+2. For each paragraph, write 1-2 sentences describing what it does
+3. Check whether paragraphs:
+   - Serve a clear purpose
+   - Follow a logical sequence
+   - Contain relevant information
+4. Reorganize as needed
+
+## Practical Exercise
+
+**In pairs (15 minutes):**
+1. Swap seats and look at something your neighbour has written
+2. Review it using the checklist provided
+3. Identify at least:
+   - Two strengths
+   - Two areas for improvement
+   - One suggestion for clearer structure or communication
+
+## Q&A and Discussion
+
+- What aspects of document structure do you find most challenging?
+- What editing strategies have worked well for you?
+- How do you approach creating effective figures?
+- What questions do you have about the discussion section?
