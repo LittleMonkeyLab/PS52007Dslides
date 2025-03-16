@@ -1,0 +1,24 @@
+/* Load Atkinson Hyperlegible font */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Force apply the font to all relevant elements */
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6,
+.reveal p,
+.reveal li,
+.reveal div {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}
+
+/* Make sure it also applies to specific reveal.js elements */
+.reveal .slides,
+.reveal .slide,
+.reveal .slide-background,
+.reveal .footer {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}

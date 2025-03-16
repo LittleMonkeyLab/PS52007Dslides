@@ -1,6 +1,6 @@
 ---
 title: "Lab 19"
-subtitle: "Pre-Submission Checklist"
+subtitle: "Writing Good Discussions"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -26,6 +26,7 @@ format:
     header: "Research Methods Lab 19" # Replace it
     hide-from-titleSlide: "text"
     slide-number: c/t
+    scrollable: true
 filters:
   - reveal-header
 execute:
@@ -56,17 +57,19 @@ embed-resources: true
 ## Restating and Interpreting Hypotheses
 
 **Key Points:**
+
 - Briefly remind readers of each hypothesis
 - Clearly state whether data supports or refutes it
 - Cite supporting literature
 
 ::: {.callout-tip}
-**Example:** "As predicted, participants in the experimental group showed a significant decline in memory performance (Hypothesis 1). This aligns with findings from Smith and Jones (2020), who reported similar cognitive impairments under acute stress conditions."
+**Example:** "As predicted, participants in the divided attention group showed a significant decline in memory performance (Hypothesis 1). This aligns with findings from Smith and Jones (2020), who reported similar cognitive impairments under conditions of complex attentional requirement."
 :::
 
 ## Connecting to Existing Literature
 
 **Key Points:**
+
 - Highlight agreements with previous research
 - Explain divergences and unexpected results
 - Discuss theoretical implications
@@ -78,8 +81,11 @@ embed-resources: true
 ## Acknowledging Limitations
 
 **Key Points:**
-- Address methodological issues (sample size, generalizability)
-- Discuss potential biases
+
+- Address methodological issues 
+- Try to find better points than sample size or gender split
+- Discuss potential biases or effect size implications
+- Design issues are more important than sample size
 - Explain impact on interpretation
 
 ::: {.callout-tip}
@@ -89,6 +95,7 @@ embed-resources: true
 ## Suggesting Future Directions
 
 **Key Points:**
+
 - Build on your findings
 - Introduce novel questions inspired by results
 - Suggest practical applications
@@ -100,6 +107,7 @@ embed-resources: true
 ## Writing a Strong Conclusion
 
 **Key Points:**
+
 - Summarize key takeaways
 - Revisit the original research question
 - Emphasize broader impact
@@ -111,6 +119,7 @@ embed-resources: true
 ## Creating Effective Figures
 
 **Key Requirements:**
+
 - Number figures sequentially (Figure 1, Figure 2, etc.)
 - Include a clear title at the top
 - Ensure all elements are readable
@@ -128,6 +137,7 @@ embed-resources: true
 ## Pre-submission Checklist
 
 **Document Structure:**
+
 - Title page complete with required information
 - Abstract within word limit
 - All required sections present
@@ -137,18 +147,20 @@ embed-resources: true
 ## Pre-submission Checklist: Content
 
 **Content Quality:**
+
 - Research question/hypothesis clearly stated
 - Methods described with sufficient detail
-- Results presented accurately with appropriate statistics
+- Results presented accurately with appropriate visuals
 - Discussion interprets findings and acknowledges limitations
 - Conclusion summarizes key findings and implications
 
 ## Pre-submission Checklist: Formatting
 
 **Formatting:**
+
 - Correct font and size
 - Proper margins and spacing
-- Page numbers included
+- Anonymous!
 - Headings formatted consistently
 - Figures and tables properly labeled
 - In-text citations formatted correctly
@@ -156,6 +168,7 @@ embed-resources: true
 ## Editing Strategies: Global
 
 **Global Editing (Content & Structure):**
+
 - Read for overall argument coherence
 - Check logical flow between sections
 - Ensure each paragraph has a clear purpose
@@ -165,6 +178,7 @@ embed-resources: true
 ## Editing Strategies: Local
 
 **Local Editing (Language & Style):**
+
 - Eliminate wordiness and redundancy
 - Vary sentence structure
 - Check for consistent tense use
@@ -198,10 +212,11 @@ embed-resources: true
    - Contain relevant information
 4. Reorganize as needed
 
-## Practical Exercise
+## Nobody ever bothers to do this!
 
-**In pairs (15 minutes):**
-1. Swap seats and look at something your neighbour has written
+**Peer review:**
+
+1. Swap seats and look at something your neighbour has written (do not email it!)
 2. Review it using the checklist provided
 3. Identify at least:
    - Two strengths

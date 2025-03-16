@@ -1,6 +1,6 @@
 ---
-title: "Lecture 19: Presenting Scientific Research"
-subtitle: "A valuable skill"
+title: "Lecture 19: Presenting Your Final Year Dissertations"
+subtitle: "NEXT YEAR"
 date: "03/17/2025"
 categories: 
   - "Lecture"
@@ -26,35 +26,21 @@ format:
       data-background-color: "#3d0158" # Plum
     header: "Research Methods Lecture 19" # Replace it
     hide-from-titleSlide: "text"
-  # pdf: default
-  # pptx: default
-  # html: default
-  # docx: default  
+    mbed-resources: true
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 execute:
  echo: false
  freeze: auto
 ---
 
----
-title: "The Art and Science of Scientific Presentations"
-author: "Your Name"
-format: 
-  revealjs:
-    theme: simple
-    transition: slide
-    slide-number: true
-    highlight-style: github
-    code-fold: true
-    footer: "Scientific Communication Workshop"
----
 
 ## Overview
 
 - Scientific communication: Why it matters
-- Three key formats: Posters, presentations, talks
 - IMRAD structure for scientific communication
 - Designing effective visual content
-- Audience-centered communication
 - Practice makes perfect: Tips for delivery
 - Q&A strategies
 - Course assessment: Preparing for your 15-minute presentation
@@ -67,14 +53,10 @@ format:
 - **Career advancement**: Building your academic reputation
 - **Public understanding**: Bridging the gap between scientific research and public knowledge
 
-::: {.notes}
-Emphasize how even groundbreaking research has limited impact if poorly communicated.
-:::
-
 ## Communication Formats
 
 ::: {.columns}
-::: {.column width="33%"}
+::: {.column width="50%"}
 **Posters**
 
 - Visual emphasis
@@ -83,7 +65,7 @@ Emphasize how even groundbreaking research has limited impact if poorly communic
 - Browse & engage format
 :::
 
-::: {.column width="33%"}
+::: {.column width="50%"}
 **Presentations**
 
 - Slide-based
@@ -92,14 +74,6 @@ Emphasize how even groundbreaking research has limited impact if poorly communic
 - Time-limited
 :::
 
-::: {.column width="33%"}
-**Talks/Lectures**
-
-- Extended format
-- Depth of content
-- Complex narratives
-- Q&A component
-:::
 :::
 
 ## IMRAD: The Scientific Structure
@@ -111,9 +85,6 @@ Emphasize how even groundbreaking research has limited impact if poorly communic
 - **Discussion**: What do your findings mean in context?
 :::
 
-::: {.notes}
-Emphasize flexibility - this structure can be adapted for different communication formats while maintaining logical flow.
-:::
 
 ## IMRAD for Project Presentations
 
@@ -128,7 +99,7 @@ Emphasize flexibility - this structure can be adapted for different communicatio
 For student presentations, emphasize that since this is a project proposal, they should focus on predicted results rather than actual results.
 :::
 
-## Adapting IMRAD to Presentations
+## Adapting IMRAD to Presentations {.smaller}
 
 | Section | Purpose | Slide Approach |
 |---------|---------|----------------|
@@ -137,7 +108,7 @@ For student presentations, emphasize that since this is a project proposal, they
 | **Results** | Share discoveries, highlight importance | Data visualization, animations to build complexity |
 | **Discussion** | Extract meaning, implications | Connection to broader field, future directions |
 
-## Visual Design Principles {background-color="#f3f3f3"}
+## Visual Design Principles {background-color="#f3f3f3" .smaller}
 
 ::: {.columns}
 ::: {.column width="60%"}
@@ -149,7 +120,7 @@ For student presentations, emphasize that since this is a project proposal, they
 :::
 
 ::: {.column width="40%"}
-![](https://via.placeholder.com/400x300)
+Visualdesign placeholder
 :::
 :::
 
@@ -242,11 +213,13 @@ Remind participants that visualizations should support understanding, not demons
 ::: {.columns}
 ::: {.column width="50%"}
 **Make Your Introduction Clear**
+
 - Start with a compelling hook
 - Clearly state your research question
 - Explain why your topic matters
 
 **Present Background Effectively**
+
 - Connect information to your research
 - Demonstrate knowledge of the field
 - Establish the knowledge gap
@@ -254,11 +227,13 @@ Remind participants that visualizations should support understanding, not demons
 
 ::: {.column width="50%"}
 **Articulate Aims & Hypotheses**
+
 - Make hypotheses testable and specific
 - Connect aims to background information
 - Use visual cues to emphasize key points
 
 **Methodology Presentation**
+
 - Use flowcharts for complex methods
 - Explain why methods are appropriate
 - Focus on critical aspects only
@@ -270,11 +245,13 @@ Remind participants that visualizations should support understanding, not demons
 ::: {.columns}
 ::: {.column width="50%"}
 **Predicted Results**
+
 - Use clear visualizations
 - Show example data formats
 - Present multiple possible outcomes
 
 **Implications**
+
 - Connect back to research question
 - Discuss significance of each potential outcome
 - Address limitations honestly
@@ -282,6 +259,7 @@ Remind participants that visualizations should support understanding, not demons
 
 ::: {.column width="50%"}
 **Presentation Skills**
+
 - Practice vocal variety and eye contact
 - Develop smooth transitions between sections
 - Prepare for questions thoroughly
@@ -311,7 +289,7 @@ Remind participants that visualizations should support understanding, not demons
 :::
 
 ::: {.column width="40%"}
-![](https://via.placeholder.com/300x400)
+
 :::
 :::
 
@@ -326,31 +304,27 @@ Remind participants that visualizations should support understanding, not demons
 
 ## Resources for Continued Learning {.smaller}
 
-- Books:
-  - "Better Presentations" by Jonathan Schwabish
-  - "Slide:ology" by Nancy Duarte
-  - "Made to Stick" by Chip and Dan Heath
-
-- Online:
   - "[Ten Simple Rules for Making Good Oral Presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077)" (PLOS Computational Biology)
   - Data visualization resources from Edward Tufte
 
 ## Course Assessment: 15-Minute Oral Presentation {.smaller}
 
 **Requirements:**
+
 - 8-10 minutes presentation + 5-7 minutes for questions (15 minutes total)
 - Worth 10% of final grade
 - Assessed by your supervisor and moderated
 
 **Purpose:**
+
 - Formal presentation experience (valuable for job applications)
 - Help structure your research project
 - Receive constructive feedback before final write-up
 - Learn about peers' research projects
 
-::: {.notes}
-Emphasize that this presentation is obligatory and will be formally assessed.
-:::
+
+This presentation is obligatory and will be formally assessed.
+
 
 ## Assessment Criteria {.smaller}
 
@@ -376,7 +350,7 @@ Emphasize that this presentation is obligatory and will be formally assessed.
 :::
 :::
 
-## Presentation Timing Strategy {background-color="#f3f3f3"}
+## Presentation Timing Strategy {background-color="#f3f3f3" .smaller}
 
 | Section | Time Allocation | Focus Points |
 |---------|-----------------|--------------|

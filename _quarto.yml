@@ -89,6 +89,7 @@ format:
     output-ext: slides.html
     hide-from-titleSlide: "text"
     embed-resources: true
+
     filters:
       - fontawesome
       - reveal-header

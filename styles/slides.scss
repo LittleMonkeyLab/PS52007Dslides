@@ -1,59 +1,52 @@
 /*-- scss:defaults --*/
 
-// Color Definitions
-$blue: #588FF9;
-$purple: #725EEC;
-$pink: #DF227C;
-$orange: #FF6018;
-$gold: #FFB02F;
-$cream: #F4F3EE;
-$charcoal: #222222;
-$black: #000000;
-$url-blue: #01BAEF;
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-// Define Defaults
-$body-bg: $cream;
-$body-color: $charcoal;
-$link-color: $url_blue;
-$presentation-h1-font-size: 2.5em !default;
-$presentation-h2-font-size: 1.6em !default;
+// Fonts
+$font-family-sans-serif: 'Atkinson Hyperlegible', sans-serif !default;
+$presentation-heading-font: 'Atkinson Hyperlegible', sans-serif !default;
+
+// Colors
+$body-bg: #F4F3EE !default;
+$body-color: #222222 !default;
+$link-color: #01BAEF !default;
+$selection-bg: #588FF9 !default;
+
+// Sizes
+$presentation-font-size-root: 36px !default;
+$presentation-heading-weight: 700 !default;
 
 /*-- scss:rules --*/
+.reveal {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: $presentation-heading-font;
+  font-weight: $presentation-heading-weight;
+}
 
 // Quick refs for core palette
-.blue { color: $blue; }
-.purple { color: $purple; }
-.pink { color: $pink; }
-.orange { color: $orange; }
-.gold { color: $gold; }
-
-//Underline URLs
-.reveal .slide a {
-  text-decoration: underline;
-}
-
-.logo img {
-   width: 100%;
-   height: auto;
-   display: block;
-}
+.blue { color: #588FF9; }
+.purple { color: #725EEC; }
+.pink { color: #DF227C; }
+.orange { color: #FF6018; }
+.gold { color: #FFB02F; }
 
 .smaller {
-    font-size: 80% !important;
+    font-size: 80%;
 }
 
-.tighter ul {
-    margin-top: 0.2em !important;
-    margin-bottom: 0.2em !important;
-    padding-left: 1.2em !important;
-}
-
-.tighter li {
-    margin-bottom: 0.1em !important;
-    line-height: 1.1 !important;
-}
-
-/* Improve callout visibility */
+// Callouts
 .callout {
   border-radius: 5px;
   margin-bottom: 1em;
@@ -61,7 +54,6 @@ $presentation-h2-font-size: 1.6em !default;
   border-left-width: 5px;
 }
 
-/* Differentiating callout types */
 .callout-note {
   background-color: #f0f7fb;
   border-left-color: #3498db;
@@ -81,26 +73,3 @@ $presentation-h2-font-size: 1.6em !default;
   background-color: #fadbd8;
   border-left-color: #e74c3c;
 }
-
-/* Better visibility for section headers */
-h1 {
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 0.2em;
-}
-
-/* Make the FAQ callouts more attractive */
-.callout h3 {
-  margin-top: 0;
-  font-size: 1.1em;
-}
-
-/* Emphasize the metaphor section */
-#the-research-journey-metaphor h2 {
-  color: #3498db;
-}
-
-/* Improve presentation of bullet points */
-ul li, ol li {
-  margin-bottom: 0.5em;
-}
-
