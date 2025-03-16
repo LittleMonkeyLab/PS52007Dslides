@@ -749,32 +749,158 @@
     "text": "Thank you for your time\nAnd have an amazing year!\nThe Research Methods Team\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 00 - Module Induction"
   },
   {
-    "objectID": "week19/lecture.slides.html#template",
-    "href": "week19/lecture.slides.html#template",
-    "title": "Lecture 19: STUFF",
-    "section": "Template",
-    "text": "Template\nI apologise for my unexpected absence at the end of last term.\nIt was unavoidable, but I shall endeavour to repay your patience this year."
+    "objectID": "week19/lecture.slides.html#overview",
+    "href": "week19/lecture.slides.html#overview",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Overview",
+    "text": "Overview\n\nScientific communication: Why it matters\nThree key formats: Posters, presentations, talks\nIMRAD structure for scientific communication\nDesigning effective visual content\nAudience-centered communication\nPractice makes perfect: Tips for delivery\nQ&A strategies\nCourse assessment: Preparing for your 15-minute presentation"
   },
   {
-    "objectID": "week19/lecture.slides.html#template-1",
-    "href": "week19/lecture.slides.html#template-1",
-    "title": "Lecture 19: STUFF",
-    "section": "Template",
-    "text": "Template\n\nAn overview of the CHIP Learning Log coursework\nLab activity this term - Data collection, data preparation, analysis and writing up."
+    "objectID": "week19/lecture.slides.html#why-scientific-communication-matters",
+    "href": "week19/lecture.slides.html#why-scientific-communication-matters",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Why Scientific Communication Matters",
+    "text": "Why Scientific Communication Matters\n\nKnowledge sharing: Advancing collective understanding in your field\nPeer validation: Opening your work to feedback and critique\nImpact: Ensuring your research influences academia, policy, or practice\nCareer advancement: Building your academic reputation\nPublic understanding: Bridging the gap between scientific research and public knowledge\n\n\nEmphasize how even groundbreaking research has limited impact if poorly communicated."
   },
   {
-    "objectID": "week19/lecture.slides.html#template-2",
-    "href": "week19/lecture.slides.html#template-2",
-    "title": "Lecture 19: STUFF",
-    "section": "Template",
-    "text": "Template\n\nTemplate\n\nTemplate\nTemplate\nTemplate"
+    "objectID": "week19/lecture.slides.html#communication-formats",
+    "href": "week19/lecture.slides.html#communication-formats",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Communication Formats",
+    "text": "Communication Formats\n\n\nPosters\n\nVisual emphasis\nInteractive, one-on-one\nStand-alone content\nBrowse & engage format\n\n\nPresentations\n\nSlide-based\nStructured narrative\nVisual + verbal balance\nTime-limited\n\n\nTalks/Lectures\n\nExtended format\nDepth of content\nComplex narratives\nQ&A component"
   },
   {
-    "objectID": "week19/lecture.slides.html#references",
-    "href": "week19/lecture.slides.html#references",
-    "title": "Lecture 19: STUFF",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lecture 19"
+    "objectID": "week19/lecture.slides.html#imrad-the-scientific-structure",
+    "href": "week19/lecture.slides.html#imrad-the-scientific-structure",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "IMRAD: The Scientific Structure",
+    "text": "IMRAD: The Scientific Structure\n\n\nIntroduction: What question are you addressing? Why does it matter?\nMethods: How did you investigate the question?\nResults: What did you find?\nDiscussion: What do your findings mean in context?\n\n\n\nEmphasize flexibility - this structure can be adapted for different communication formats while maintaining logical flow."
+  },
+  {
+    "objectID": "week19/lecture.slides.html#imrad-for-project-presentations",
+    "href": "week19/lecture.slides.html#imrad-for-project-presentations",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "IMRAD for Project Presentations",
+    "text": "IMRAD for Project Presentations\n\nIntroduction: Context of research problem, knowledge gap, significance\nMethods: Proposed experimental design, procedures, analysis techniques\nResults: For project presentations, focus on predicted results\n\nWhat outcomes would support your hypothesis?\nWhat alternative outcomes might occur?\n\nDiscussion: Implications of expected findings, limitations, future directions\n\n\nFor student presentations, emphasize that since this is a project proposal, they should focus on predicted results rather than actual results."
+  },
+  {
+    "objectID": "week19/lecture.slides.html#adapting-imrad-to-presentations",
+    "href": "week19/lecture.slides.html#adapting-imrad-to-presentations",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Adapting IMRAD to Presentations",
+    "text": "Adapting IMRAD to Presentations\n\n\n\n\n\n\n\n\nSection\nPurpose\nSlide Approach\n\n\n\n\nIntroduction\nHook audience, establish relevance\nClear problem statement, compelling visuals\n\n\nMethods\nBuild credibility, explain approach\nSimplified flowcharts, key methodological points\n\n\nResults\nShare discoveries, highlight importance\nData visualization, animations to build complexity\n\n\nDiscussion\nExtract meaning, implications\nConnection to broader field, future directions"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#visual-design-principles",
+    "href": "week19/lecture.slides.html#visual-design-principles",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Visual Design Principles",
+    "text": "Visual Design Principles\n\n\n\nSimplicity: One main idea per slide\nConsistency: Visual language, colors, fonts\nContrast: Make important elements stand out\nHierarchy: Guide viewer attention\nWhite space: Allow content to breathe"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#slide-design-dos-and-donts",
+    "href": "week19/lecture.slides.html#slide-design-dos-and-donts",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Slide Design: Do’s and Don’ts",
+    "text": "Slide Design: Do’s and Don’ts\n\n\nDO\n\nUse high-quality visuals\nMaintain consistent design\nLimit text (6x6 rule)\nUse clear, readable fonts\nCreate meaningful titles\nIncorporate intentional animations\n\n\nDON’T\n\nUse low-resolution images\nInclude excessive text\nUse multiple fonts/styles\nOver-animate slides\nUse distracting backgrounds\nPresent complex raw data"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#data-visualization-best-practices",
+    "href": "week19/lecture.slides.html#data-visualization-best-practices",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Data Visualization Best Practices",
+    "text": "Data Visualization Best Practices\n\nChoose appropriate chart types for your data\nSimplify: Focus on the key message\nUse color intentionally and consistently\nLabel directly when possible\nConsider accessibility in design choices\nTell a story with your data\n\n\nRemind participants that visualizations should support understanding, not demonstrate software skills."
+  },
+  {
+    "objectID": "week19/lecture.slides.html#know-your-audience",
+    "href": "week19/lecture.slides.html#know-your-audience",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Know Your Audience",
+    "text": "Know Your Audience\n\n\nExpert audiences: Technical depth, methods focus, current debates\nMixed audiences: Clear definitions, broader context, varied examples\nPublic audiences: Relatable metaphors, visual storytelling, clear relevance"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#presentation-delivery",
+    "href": "week19/lecture.slides.html#presentation-delivery",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Presentation Delivery",
+    "text": "Presentation Delivery\n\n\nPreparation\n\nPractice full run-throughs\nTime yourself rigorously\nPrepare transitions\nCreate speaker notes\nTest technology beforehand\nHave backup plans\n\n\nDelivery\n\nMaintain eye contact\nUse purposeful movement\nModulate your voice\nUse pauses effectively\nAcknowledge questions clearly\nManage time vigilantly"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#common-pitfalls-to-avoid",
+    "href": "week19/lecture.slides.html#common-pitfalls-to-avoid",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\n\nExcessive information on slides\nSpeaking to the screen, not the audience\nMonotone delivery or reading directly from slides\nPoor time management\nNeglecting to practice transitions\nApologizing unnecessarily"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#tips-for-meeting-assessment-criteria",
+    "href": "week19/lecture.slides.html#tips-for-meeting-assessment-criteria",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Tips for Meeting Assessment Criteria",
+    "text": "Tips for Meeting Assessment Criteria\n\n\nMake Your Introduction Clear - Start with a compelling hook - Clearly state your research question - Explain why your topic matters\nPresent Background Effectively - Connect information to your research - Demonstrate knowledge of the field - Establish the knowledge gap\n\nArticulate Aims & Hypotheses - Make hypotheses testable and specific - Connect aims to background information - Use visual cues to emphasize key points\nMethodology Presentation - Use flowcharts for complex methods - Explain why methods are appropriate - Focus on critical aspects only"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#tips-for-meeting-assessment-criteria-ii",
+    "href": "week19/lecture.slides.html#tips-for-meeting-assessment-criteria-ii",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Tips for Meeting Assessment Criteria II",
+    "text": "Tips for Meeting Assessment Criteria II\n\n\nPredicted Results - Use clear visualizations - Show example data formats - Present multiple possible outcomes\nImplications - Connect back to research question - Discuss significance of each potential outcome - Address limitations honestly\n\nPresentation Skills - Practice vocal variety and eye contact - Develop smooth transitions between sections - Prepare for questions thoroughly - Time each section during rehearsals - Create backup slides for complex questions"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#qa-strategies",
+    "href": "week19/lecture.slides.html#qa-strategies",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Q&A Strategies",
+    "text": "Q&A Strategies\n\nAnticipate likely questions\nListen carefully before responding\nBe concise in your answers\n“I don’t know” is a valid response\nConnect questions to your main points\nFollow up with questioners afterwards"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#effective-scientific-posters",
+    "href": "week19/lecture.slides.html#effective-scientific-posters",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Effective Scientific Posters",
+    "text": "Effective Scientific Posters\n\n\n\nClear, concise title\nLogical flow (typically left-to-right, top-to-bottom)\nGraphics dominate (60-70% visual)\nText is minimal and scannable\nContact information and QR codes for supplementary materials"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#longer-scientific-talks",
+    "href": "week19/lecture.slides.html#longer-scientific-talks",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Longer Scientific Talks",
+    "text": "Longer Scientific Talks\n\nPlan for 75% content, 25% flexibility\nBuild in deliberate transitions between sections\nConsider narrative structure to maintain engagement\nUse signposting to help audience follow your logic\nPlan visual breaks in longer presentations\nConsider handouts for complex information"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#resources-for-continued-learning",
+    "href": "week19/lecture.slides.html#resources-for-continued-learning",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Resources for Continued Learning",
+    "text": "Resources for Continued Learning\n\nBooks:\n\n“Better Presentations” by Jonathan Schwabish\n“Slide:ology” by Nancy Duarte\n“Made to Stick” by Chip and Dan Heath\n\nOnline:\n\n“Ten Simple Rules for Making Good Oral Presentations” (PLOS Computational Biology)\nData visualization resources from Edward Tufte"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#course-assessment-15-minute-oral-presentation",
+    "href": "week19/lecture.slides.html#course-assessment-15-minute-oral-presentation",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Course Assessment: 15-Minute Oral Presentation",
+    "text": "Course Assessment: 15-Minute Oral Presentation\nRequirements: - 8-10 minutes presentation + 5-7 minutes for questions (15 minutes total) - Worth 10% of final grade - Assessed by your supervisor and moderated\nPurpose: - Formal presentation experience (valuable for job applications) - Help structure your research project - Receive constructive feedback before final write-up - Learn about peers’ research projects\n\nEmphasize that this presentation is obligatory and will be formally assessed."
+  },
+  {
+    "objectID": "week19/lecture.slides.html#assessment-criteria",
+    "href": "week19/lecture.slides.html#assessment-criteria",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Assessment Criteria",
+    "text": "Assessment Criteria\n\n\n\nIntroduction: Clear topic introduction\nBackground: Relevance of information\nAims & Objectives: Clear hypotheses\nMethodology: How research question is addressed\nPredicted Results: Clear presentation\nExplanation: Clear implications of results\n\n\n\nOverview: Clear summary\nStructure: Well-organized talk\nVisual Aids: Effective use of materials\nExamples: Illustrative examples\nLevel: Appropriately pitched\nPresentation Skills: Voice, eye contact, etc.\nTiming: Good pacing\nQ&A: Response to questions"
+  },
+  {
+    "objectID": "week19/lecture.slides.html#presentation-timing-strategy",
+    "href": "week19/lecture.slides.html#presentation-timing-strategy",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Presentation Timing Strategy",
+    "text": "Presentation Timing Strategy\n\n\n\n\n\n\n\n\nSection\nTime Allocation\nFocus Points\n\n\n\n\nIntroduction & Background\n2-3 minutes\nProblem context, relevance, knowledge gap\n\n\nAims & Objectives\n1-2 minutes\nClear hypotheses, specific goals\n\n\nMethodology\n2-3 minutes\nKey approaches, techniques, design\n\n\nPredicted Results & Implications\n2-3 minutes\nExpected outcomes, significance\n\n\nSummary & Conclusion\n1 minute\nKey takeaways, future directions\n\n\n\n\nRemind students to practice with a timer to ensure they stay within the 8-10 minute presentation window."
+  },
+  {
+    "objectID": "week19/lecture.slides.html#thank-you",
+    "href": "week19/lecture.slides.html#thank-you",
+    "title": "The Art and Science of Scientific Presentations",
+    "section": "Thank You!",
+    "text": "Thank You!\nQuestions?\n\n\n\n\nScientific Communication Workshop"
   },
   {
     "objectID": "week05/lecture.slides.html#key-topics-today",
@@ -2153,11 +2279,137 @@
     "text": "Ask your lab tutor any questions relating to the Critical Proposal\nFurther support for RASA and EC applications will be available in Week 6 - if needed"
   },
   {
-    "objectID": "week19/lab.slides.html#stuff",
-    "href": "week19/lab.slides.html#stuff",
+    "objectID": "week19/lab.slides.html#lab-activities-document-structure-and-editing",
+    "href": "week19/lab.slides.html#lab-activities-document-structure-and-editing",
     "title": "Lab 19",
-    "section": "Stuff",
-    "text": "Stuff\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 19"
+    "section": "Lab Activities: Document Structure and Editing",
+    "text": "Lab Activities: Document Structure and Editing\n\nPre-submission checklist\nEditing strategies\nStructuring the document\nCritical review and refinement\nDiscussion sections (Chapter 16)\nCreating effective figures and tables (Chapter 17)"
+  },
+  {
+    "objectID": "week19/lab.slides.html#discussion-section-structure",
+    "href": "week19/lab.slides.html#discussion-section-structure",
+    "title": "Lab 19",
+    "section": "Discussion Section Structure",
+    "text": "Discussion Section Structure\n\nRestate each hypothesis and interpret results\nConnect to literature: Matches and divergences\nAcknowledge limitations\nSuggest future directions\nProvide a concise conclusion\nInclude comprehensive references"
+  },
+  {
+    "objectID": "week19/lab.slides.html#restating-and-interpreting-hypotheses",
+    "href": "week19/lab.slides.html#restating-and-interpreting-hypotheses",
+    "title": "Lab 19",
+    "section": "Restating and Interpreting Hypotheses",
+    "text": "Restating and Interpreting Hypotheses\nKey Points: - Briefly remind readers of each hypothesis - Clearly state whether data supports or refutes it - Cite supporting literature\n\n\n\n\n\n\nTip\n\n\nExample: “As predicted, participants in the experimental group showed a significant decline in memory performance (Hypothesis 1). This aligns with findings from Smith and Jones (2020), who reported similar cognitive impairments under acute stress conditions.”"
+  },
+  {
+    "objectID": "week19/lab.slides.html#connecting-to-existing-literature",
+    "href": "week19/lab.slides.html#connecting-to-existing-literature",
+    "title": "Lab 19",
+    "section": "Connecting to Existing Literature",
+    "text": "Connecting to Existing Literature\nKey Points: - Highlight agreements with previous research - Explain divergences and unexpected results - Discuss theoretical implications\n\n\n\n\n\n\nTip\n\n\nExample: “While the overall trend aligns with the stress-impairment hypothesis, the observed gender differences diverge from prior research. This could be due to the inclusion of a more diverse sample, as suggested by prior critiques (e.g., Doe, 2021).”"
+  },
+  {
+    "objectID": "week19/lab.slides.html#acknowledging-limitations",
+    "href": "week19/lab.slides.html#acknowledging-limitations",
+    "title": "Lab 19",
+    "section": "Acknowledging Limitations",
+    "text": "Acknowledging Limitations\nKey Points: - Address methodological issues (sample size, generalizability) - Discuss potential biases - Explain impact on interpretation\n\n\n\n\n\n\nTip\n\n\nExample: “One limitation of the study was the relatively small sample size, which may have reduced the statistical power of the analyses. Future research should aim to replicate these findings with a larger and more diverse cohort.”"
+  },
+  {
+    "objectID": "week19/lab.slides.html#suggesting-future-directions",
+    "href": "week19/lab.slides.html#suggesting-future-directions",
+    "title": "Lab 19",
+    "section": "Suggesting Future Directions",
+    "text": "Suggesting Future Directions\nKey Points: - Build on your findings - Introduce novel questions inspired by results - Suggest practical applications\n\n\n\n\n\n\nTip\n\n\nExample: “Future research could explore the role of coping mechanisms in mitigating stress-induced cognitive decline. Additionally, longitudinal studies are needed to examine the long-term impact of stress on cognitive functions across different age groups.”"
+  },
+  {
+    "objectID": "week19/lab.slides.html#writing-a-strong-conclusion",
+    "href": "week19/lab.slides.html#writing-a-strong-conclusion",
+    "title": "Lab 19",
+    "section": "Writing a Strong Conclusion",
+    "text": "Writing a Strong Conclusion\nKey Points: - Summarize key takeaways - Revisit the original research question - Emphasize broader impact\n\n\n\n\n\n\nTip\n\n\nExample: “In conclusion, this study highlights the detrimental effects of stress on working memory, underscoring the importance of interventions to reduce stress in high-pressure environments. These findings contribute to a growing understanding of cognitive resilience.”"
+  },
+  {
+    "objectID": "week19/lab.slides.html#creating-effective-figures",
+    "href": "week19/lab.slides.html#creating-effective-figures",
+    "title": "Lab 19",
+    "section": "Creating Effective Figures",
+    "text": "Creating Effective Figures\nKey Requirements: - Number figures sequentially (Figure 1, Figure 2, etc.) - Include a clear title at the top - Ensure all elements are readable - Place key/legend within the graph - Add explanatory notes (including p-values)"
+  },
+  {
+    "objectID": "week19/lab.slides.html#figure-design-best-practices",
+    "href": "week19/lab.slides.html#figure-design-best-practices",
+    "title": "Lab 19",
+    "section": "Figure Design Best Practices",
+    "text": "Figure Design Best Practices\n\nUse colors sparingly and consistently\nConsider accessibility (patterns can be better than subtle colors)\nUse a modest color palette\nEnsure figures are readable when converted to PDF\nFollow APA style guidelines: APA Figure Examples"
+  },
+  {
+    "objectID": "week19/lab.slides.html#pre-submission-checklist",
+    "href": "week19/lab.slides.html#pre-submission-checklist",
+    "title": "Lab 19",
+    "section": "Pre-submission Checklist",
+    "text": "Pre-submission Checklist\nDocument Structure: - Title page complete with required information - Abstract within word limit - All required sections present - References properly formatted - Appendices included if necessary"
+  },
+  {
+    "objectID": "week19/lab.slides.html#pre-submission-checklist-content",
+    "href": "week19/lab.slides.html#pre-submission-checklist-content",
+    "title": "Lab 19",
+    "section": "Pre-submission Checklist: Content",
+    "text": "Pre-submission Checklist: Content\nContent Quality: - Research question/hypothesis clearly stated - Methods described with sufficient detail - Results presented accurately with appropriate statistics - Discussion interprets findings and acknowledges limitations - Conclusion summarizes key findings and implications"
+  },
+  {
+    "objectID": "week19/lab.slides.html#pre-submission-checklist-formatting",
+    "href": "week19/lab.slides.html#pre-submission-checklist-formatting",
+    "title": "Lab 19",
+    "section": "Pre-submission Checklist: Formatting",
+    "text": "Pre-submission Checklist: Formatting\nFormatting: - Correct font and size - Proper margins and spacing - Page numbers included - Headings formatted consistently - Figures and tables properly labeled - In-text citations formatted correctly"
+  },
+  {
+    "objectID": "week19/lab.slides.html#editing-strategies-global",
+    "href": "week19/lab.slides.html#editing-strategies-global",
+    "title": "Lab 19",
+    "section": "Editing Strategies: Global",
+    "text": "Editing Strategies: Global\nGlobal Editing (Content & Structure): - Read for overall argument coherence - Check logical flow between sections - Ensure each paragraph has a clear purpose - Verify all claims are supported by evidence - Confirm all research questions are addressed"
+  },
+  {
+    "objectID": "week19/lab.slides.html#editing-strategies-local",
+    "href": "week19/lab.slides.html#editing-strategies-local",
+    "title": "Lab 19",
+    "section": "Editing Strategies: Local",
+    "text": "Editing Strategies: Local\nLocal Editing (Language & Style): - Eliminate wordiness and redundancy - Vary sentence structure - Check for consistent tense use - Ensure subject-verb agreement - Replace vague terms with precise language"
+  },
+  {
+    "objectID": "week19/lab.slides.html#editing-approach",
+    "href": "week19/lab.slides.html#editing-approach",
+    "title": "Lab 19",
+    "section": "Editing Approach",
+    "text": "Editing Approach\n\nFirst Pass: Content and structure (big picture)\nSecond Pass: Paragraph-level organization\nThird Pass: Sentence clarity and flow\nFourth Pass: Grammar, spelling, punctuation\nFinal Pass: Format, citations, references"
+  },
+  {
+    "objectID": "week19/lab.slides.html#critical-review-strategies",
+    "href": "week19/lab.slides.html#critical-review-strategies",
+    "title": "Lab 19",
+    "section": "Critical Review Strategies",
+    "text": "Critical Review Strategies\n\nRead your work aloud\nUse text-to-speech software\nTake a break before final review\nHave peers review your work\nCheck against assessment criteria\nUse the “reverse outline” technique"
+  },
+  {
+    "objectID": "week19/lab.slides.html#reverse-outline-technique",
+    "href": "week19/lab.slides.html#reverse-outline-technique",
+    "title": "Lab 19",
+    "section": "Reverse Outline Technique",
+    "text": "Reverse Outline Technique\n\nRead your completed draft\nFor each paragraph, write 1-2 sentences describing what it does\nCheck whether paragraphs:\n\nServe a clear purpose\nFollow a logical sequence\nContain relevant information\n\nReorganize as needed"
+  },
+  {
+    "objectID": "week19/lab.slides.html#practical-exercise",
+    "href": "week19/lab.slides.html#practical-exercise",
+    "title": "Lab 19",
+    "section": "Practical Exercise",
+    "text": "Practical Exercise\nIn pairs (15 minutes): 1. Swap seats and look at something your neighbour has written 2. Review it using the checklist provided 3. Identify at least: - Two strengths - Two areas for improvement - One suggestion for clearer structure or communication"
+  },
+  {
+    "objectID": "week19/lab.slides.html#qa-and-discussion",
+    "href": "week19/lab.slides.html#qa-and-discussion",
+    "title": "Lab 19",
+    "section": "Q&A and Discussion",
+    "text": "Q&A and Discussion\n\nWhat aspects of document structure do you find most challenging?\nWhat editing strategies have worked well for you?\nHow do you approach creating effective figures?\nWhat questions do you have about the discussion section?\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nResearch Methods Lab 19"
   },
   {
     "objectID": "week11/lecture.slides.html#sec-week-11-lets-go",
@@ -3186,7 +3438,7 @@
     "href": "week20/lecture.slides.html#template",
     "title": "Lecture 20: STUFF",
     "section": "Template",
-    "text": "Template\nI apologise for my unexpected absence at the end of last term.\nIt was unavoidable, but I shall endeavour to repay your patience this year."
+    "text": "Template"
   },
   {
     "objectID": "week20/lecture.slides.html#template-1",
