@@ -1,6 +1,6 @@
 ---
-title: "Lecture 20: STUFF"
-subtitle: "STUFF"
+title: "Metacognition, Reflection and CHIP Submission Reminders"
+subtitle: "Dassit!"
 date: "03/24/2025"
 categories: 
   - "Lecture"
@@ -35,26 +35,490 @@ execute:
  freeze: auto
 ---
 
-## Template
+## Today's Lecture
 
-## Template
-
--   An overview of the CHIP Learning Log coursework
-
--   Lab activity this term - Data collection, data preparation, analysis and writing up.
-
-# Template Section
-
-## Template
-
-::: incremental
-Template
-
--   Template
--   Template
--   Template
+::: nonincremental
+-   **Metacognition:** Understanding the research
+-   **Reflection:** Theory and practice in learning
+-   **CHIP Learning Log:** Key requirements and success strategies
+-   **Q&A:** Your questions answered
 :::
 
-# Any Questions?
+::: notes
+-   Welcome everyone to our session today
+-   This lecture bridges theoretical concepts with practical application
+-   Aim: To give you tools for effective reflection and successful CHIP submission
+:::
+
+# Part 1: Metacognition {background-color="#1c5253"}
+
+## What is Metacognition?
+
+> "Thinking about thinking"
+
+-   Knowledge about cognition
+-   Regulation of cognition
+-   Self-awareness of learning processes
+
+::: notes
+-   Metacognition was first defined by Flavell (1979) as "knowledge and cognition about cognitive phenomena"
+-   It involves both understanding our thought processes and actively controlling them
+-   Unlike cognition which processes information, metacognition evaluates and regulates that processing
+:::
+
+## The Metacognitive Framework
+
+::::: columns
+::: {.column width="50%"}
+**Metacognitive Knowledge**
+
+-   Declarative knowledge (knowing what)
+-   Procedural knowledge (knowing how)
+-   Conditional knowledge (knowing when and why)
+:::
+
+::: {.column width="50%"}
+**Metacognitive Regulation**
+
+-   Planning
+-   Monitoring
+-   Evaluating
+:::
+:::::
+
+::: notes
+-   This framework comes from Schraw & Moshman (1995)
+-   Metacognitive knowledge: What we know about our own cognition
+-   Metacognitive regulation: How we control our cognition
+-   Both components are essential for effective learning
+:::
+
+## Metacognition in Research
+
+-   **Nelson & Narens (1990):** Model of metacognition with monitoring and control
+
+    ![](images/metamemory.png)
+
+-   **Dunlosky & Metcalfe (2008):** Metacognition in educational settings
+
+-   **Fleming & Dolan (2012):** Neural basis of metacognition
+
+::: fragment
+*Research indicates metacognitive awareness significantly improves learning outcomes*
+:::
+
+::: notes
+-   Nelson & Narens developed a foundational model showing how monitoring and control processes interact
+-   Dunlosky's work demonstrates how metacognition can be applied to improve study techniques and retention
+-   Neuroscience research by Fleming identifies specific brain regions involved in metacognitive processes
+:::
+
+## The Psychology Student as Metacognitive Practitioner
+
+-   Self-questioning research methods
+-   Evaluating theoretical frameworks
+-   Recognizing cognitive biases in your thinking
+-   Assessing the quality of evidence
+
+::: notes
+-   Psychology students are in a unique position to apply metacognition to their own studies
+-   The discipline requires constant critical evaluation of methods and evidence
+-   This creates a "meta" level where you're studying psychological processes while using them
+:::
+
+## Metacognition and Academic Success
+
+![](images/CleanShot 2025-03-22 at 16.58.52.png)
+
+/
+
+::::: columns
+::: {.column width="50%"}
+**Students with strong metacognitive skills:**
+
+-   Plan more effectively
+-   Monitor comprehension
+-   Adjust strategies when needed
+-   Reflect on performance
+:::
+
+::: {.column width="50%"}
+**Research findings:**
+
+-   40% variance in learning outcomes explained by metacognitive awareness (Veenman et al., 2006)
+-   Improves transfer of knowledge to new contexts
+-   Enhances critical thinking abilities
+:::
+:::::
+
+::: notes
+-   Research consistently shows metacognitive abilities are strong predictors of academic success
+-   These skills become even more important in higher education settings
+-   They're particularly crucial for psychology where critical analysis of evidence is central
+:::
+
+# Part 2: Reflection in Learning {background-color="#1c5253"}
+
+## Theoretical Foundations of Reflection
+
+::::: columns
+::: {.column width="50%"}
+**Dewey (1933)** - Reflection as purposeful, systematic thinking - Problem-solving approach
+:::
+
+::: {.column width="50%"}
+**Schön (1983)** - Reflection-in-action - Reflection-on-action
+:::
+:::::
+
+::: fragment
+**Kolb (1984): Experiential Learning Cycle** - Concrete experience → Reflective observation → Abstract conceptualization → Active experimentation
+:::
+
+::: notes
+-   John Dewey was one of the first to systematically explore reflection in learning
+-   Donald Schön distinguished between reflection during an activity and reflection after completion
+-   David Kolb integrated reflection into a complete learning cycle that continues to influence education
+:::
+
+## Gibbs' Reflective Cycle (1988)
+
+```{mermaid}
+%%| fig-width: 6
+%%| fig-height: 6
+flowchart TD
+    A[Description\nWhat happened?] --> B[Feelings\nWhat were you thinking?]
+    B --> C[Evaluation\nWhat was good/bad?]
+    C --> D[Analysis\nWhat sense can you make?]
+    D --> E[Conclusion\nWhat else could you have done?]
+    E --> F[Action Plan\nIf it happened again, what would you do?]
+    F --> A
+```
+
+::: notes
+-   Gibbs' model provides a structured approach to reflection
+-   Each stage prompts different types of thinking
+-   This cycle is particularly useful for the CHIP Learning Log
+-   Notice how it integrates emotional responses with analytical thinking
+:::
+
+## Levels of Reflection
+
+::: nonincremental
+1.  **Descriptive reflection** - Reporting what happened
+2.  **Dialogic reflection** - Exploring reasons and alternatives
+3.  **Critical reflection** - Considering broader contexts and implications
+:::
+
+::: fragment
+For the CHIP Learning Log, aim for **dialogic** and **critical** reflection
+:::
+
+::: notes
+-   Based on Hatton & Smith's (1995) taxonomy of reflection
+-   Descriptive reflection is necessary but insufficient for university-level work
+-   Dialogic reflection shows engagement with different perspectives
+-   Critical reflection demonstrates the highest level of academic thinking
+:::
+
+## Reflection vs. Academic Writing
+
+::::: columns
+::: {.column width="50%"}
+**Traditional Academic Writing** - Third person - Objective tone - Focus on evidence - Literature-driven
+:::
+
+::: {.column width="50%"}
+**Reflective Writing** - First person ("I") - Personal perspective - Experience integrated with evidence - Connection between self and theory
+:::
+:::::
+
+::: notes
+-   Many students struggle with the shift between these writing styles
+-   Reflective writing still requires academic rigor and evidence
+-   The key difference is the integration of personal perspective
+-   This is a valuable skill that employers increasingly seek
+:::
+
+# Part 3: CHIP Learning Log Requirements {background-color="#1c5253"}
+
+## Overview of CHIP Learning Log
+
+-   Two reflective accounts (600 words each, not including references)
+-   Focus on conceptual, historical, and integrative perspectives
+-   Personal engagement with course topics
+-   Critical thinking, not summarizing
+
+::: fragment
+*"The reflections are not summaries of the material (at all - biggest error)"*
+:::
+
+::: notes
+-   The Learning Log is a significant assessment worth double a standard essay
+-   It requires a different approach than other coursework
+-   The emphasis is on personal reflection and critical engagement
+-   Students often make the mistake of merely summarizing lecture content
+:::
+
+## First Reflective Account: Two Perspectives
+
+Choose **two** perspectives from:
+
+::: nonincremental
+-   As a **STUDENT** of psychology
+-   As a **TRAINEE** psychologist
+-   In relation to a **RESEARCH** application
+-   As a **HISTORIAN** of psychology
+-   Reporting on the **CULTURE or PRACTICE** of psychology
+-   As a critic or supporter of psychology's status as a **SCIENCE**
+:::
+
+::: notes
+-   Your title should clearly indicate which two perspectives you've chosen
+-   Each perspective offers a different lens for examining your chosen topic
+-   Choose perspectives that genuinely interest you and relate to your aspirations
+-   The perspectives should complement each other to create a cohesive reflection
+:::
+
+## Example Title and Structure (First Account)
+
+**Title:** "Is Psychology a Science? From the perspectives of: STUDENT/FUTURE CLINICAL PSYCHOLOGIST"
+
+**Structure:** - Introduction: Topic and perspectives - Main body: Explore each perspective - Conclusion: Key insights and implications
+
+::: notes
+-   Notice how the title clearly identifies both the topic and the perspectives
+-   The structure should be logical and well-organized
+-   Each perspective should be given appropriate attention
+-   Remember to include references and explain any technical terms
+:::
+
+## Second Reflective Account: Learning Journey
+
+-   **Starting point:** Reading, TED Talk, cartoon, video, etc.
+-   **Document your exploration:** How understanding evolved
+-   **Reflect on experience:** Reactions, assumptions, emotions
+-   **Conclude:** Key takeaways and discoveries
+
+::: fragment
+*"This is easier if you actually do the thing."*
+:::
+
+::: notes
+-   The second account traces your intellectual journey on a topic
+-   It should show how your understanding developed through engagement with multiple sources
+-   The reflection should be authentic - based on real exploration, not fabricated
+-   Include your emotional and intellectual responses to what you discovered
+:::
+
+## Key Success Strategies
+
+::: nonincremental
+1.  Start early - track interesting topics throughout the year
+2.  Be authentic - use your actual voice and experiences
+3.  Balance personal reflection with academic rigor
+4.  Focus on depth rather than breadth
+5.  Include relevant references and explain key terms
+6.  Stay within the 600-word limit for each account
+:::
+
+::: notes
+-   Successful reflections demonstrate genuine engagement with the material
+-   Many students leave this until after their dissertation, which creates unnecessary pressure
+-   The personal nature of reflection doesn't mean abandoning academic standards
+-   Brevity is challenging - be concise and focused
+:::
+
+## Common Pitfalls to Avoid
+
+::::: columns
+::: {.column width="50%"}
+**DON'T:** - Summarize lecture content - Write generically without personal voice - Wait until the last minute - Exceed the word limit
+:::
+
+::: {.column width="50%"}
+**DO:** - Critically engage with ideas - Use "I" and personal experiences - Track interesting topics year-round - Be concise and focused
+:::
+:::::
+
+::: notes
+-   The most common mistake is treating this like a content summary
+-   Another frequent issue is writing in an impersonal academic style
+-   Many students underestimate the time needed for quality reflection
+-   Word limits are strict - practice concise expression
+:::
+
+## Tone and Style Guidelines
+
+> *"I want to hear your voice, I want to hear your perspective. I want to see you write in a tone and style that helps convey your argument, it is an opportunity to ditch that weird passive voice and use "I"."*
+
+::: fragment
+But remember: *"It is NOT an opportunity to be imprecise or write without sources, or to ignore the guidelines."*
+:::
+
+::: notes
+-   This assessment allows for more personal expression than typical academic work
+-   Using "I" appropriately signals authentic reflection
+-   Despite the personal tone, maintain academic rigor with sources and precise language
+-   Balance personal reflection with scholarly engagement
+:::
+
+# Part 4: Metacognition in Practice {background-color="#1c5253"}
+
+## Metacognitive Strategies for Reflection
+
+::::: columns
+::: {.column width="50%"}
+**Before writing:** - Knowledge activation - Goal setting - Strategy selection
+:::
+
+::: {.column width="50%"}
+**During writing:** - Comprehension monitoring - Clarity checking - Progress evaluation
+:::
+:::::
+
+::: fragment
+**After writing:** - Performance assessment - Strategy effectiveness review - Future approach planning
+:::
+
+::: notes
+-   These metacognitive strategies can be applied directly to your reflection process
+-   Before writing: Activate what you know, set clear goals, choose appropriate strategies
+-   During writing: Monitor your understanding, check clarity, evaluate progress
+-   After writing: Assess performance, review strategy effectiveness, plan for future improvements
+:::
+
+## Practical Exercise: Metacognitive Reflection
+
+Take 3 minutes to reflect on:
+
+1.  Your current understanding of a potential CHIP topic
+2.  Gaps in your knowledge about this topic
+3.  Strategies you could use to deepen your understanding
+4.  How you might approach the reflection from two perspectives
+
+::: notes
+-   This brief exercise demonstrates metacognition in action
+-   It helps identify knowledge gaps before they become problematic
+-   The process mirrors what you'll need to do for your CHIP Learning Log
+-   This type of reflection should become habitual throughout your studies
+:::
+
+## Applying Metacognition to CHIP Success
+
+::: nonincremental
+-   **Planning:** Choose topics that genuinely interest you
+-   **Monitoring:** Track your learning journey in real time
+-   **Evaluating:** Assess your reflections against the criteria
+-   **Regulating:** Adjust your approach based on feedback
+:::
+
+::: fragment
+*Strategic metacognition will improve both your learning and your grades*
+:::
+
+::: notes
+-   Metacognition isn't just a theoretical concept - it's a practical tool
+-   Use planning strategies to select meaningful topics early
+-   Monitoring helps ensure you're capturing your authentic learning journey
+-   Evaluation against criteria keeps you aligned with assessment requirements
+-   Regulation allows for improvement based on feedback
+:::
+
+# Conclusion: Bringing It All Together {background-color="#1c5253"}
+
+## The Value of Metacognitive Reflection
+
+::::: columns
+::: {.column width="60%"}
+-   Deepens learning beyond content knowledge
+-   Develops critical professional skills
+-   Creates connections between theory and practice
+-   Enhances self-awareness as a learner and future psychologist
+:::
+
+::: {.column width="40%"}
+```{mermaid}
+%%| fig-width: 4
+%%| fig-height: 4
+flowchart TD
+    A[Experience] --> B[Reflection]
+    B --> C[Metacognition]
+    C --> D[Learning]
+    D --> A
+```
+:::
+:::::
+
+::: notes
+-   Metacognitive reflection creates a deeper level of learning
+-   These skills transfer to professional contexts after graduation
+-   The process helps bridge theoretical understanding with practical application
+-   Self-awareness developed through reflection is valuable throughout your career
+:::
+
+## Timeline for CHIP Learning Log
+
+::: nonincremental
+-   **Now:** Begin tracking interesting topics and personal responses
+-   **Throughout the year:** Collect starting points for your second reflection
+-   **After lectures:** Note topics that resonate with you
+-   **Before submission:** Review guidelines and check word count
+:::
+
+::: fragment
+*Remember: "People usually wait until after they submit their Mini-Dissertation before starting thinking about this."*
+:::
+
+::: notes
+-   Starting early significantly reduces stress and improves quality
+-   Creating a habit of reflection throughout the year makes this assignment much easier
+-   Use the time after lectures to briefly note topics that interest you
+-   The CHIP Learning Log should be an ongoing process, not a last-minute effort
+:::
+
+## Final Reminders
+
+::: nonincremental
+-   Two accounts, 600 words each (excluding references)
+-   First account: Two perspectives on a course topic
+-   Second account: Learning journey from a starting point
+-   Balance personal voice with academic rigor
+-   Previous high scores: 88 (worth double a Cognitive Essay!)
+:::
+
+::: notes
+-   These are the key points to remember about the CHIP Learning Log
+-   The word limit is strict but manageable with focused writing
+-   Both accounts require different approaches but similar quality
+-   This is a valuable opportunity to achieve a high score if approached properly
+-   Remember this is worth double a standard essay in terms of credit
+:::
+
+## Q&A Session
+
+Questions?
+
+::: notes
+-   Open the floor for questions
+-   Encourage students to seek clarification on any aspects of metacognition or the CHIP requirements
+-   Remind them about the forum for checking topic suitability
+-   Emphasize that there are "no hidden surprises or traps" in this assessment
+:::
 
 ## References
+
+::: nonincremental
+-   Dewey, J. (1933). *How we think: A restatement of the relation of reflective thinking to the educative process*. D.C. Heath & Co.
+-   Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906-911.
+-   Gibbs, G. (1988). *Learning by doing: A guide to teaching and learning methods*. FEU.
+-   Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.
+-   Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books.
+-   Veenman, M. V. J., Van Hout-Wolters, B. H. A. M., & Afflerbach, P. (2006). Metacognition and learning: Conceptual and methodological considerations. *Metacognition and Learning, 1*, 3-14.
+:::
+
+::: notes
+-   These references support the content of this lecture
+-   They also provide a model for how students should reference in their own work
+-   Students may wish to explore some of these sources further
+:::
