@@ -1,6 +1,6 @@
 ---
-title: "Lab 20"
-subtitle: "XX"
+title: "Lab 20: Final Advice"
+subtitle: "You've got this!"
 # image: "lab.png"
 author: 
   - name: "Dr. Gordon Wright"
@@ -35,12 +35,90 @@ embed-resources: true
   # Title page populated by content above
 ---
 
-# Overview of today's lab activities
 
-1.  Template
+## Welcome to the Final Lab Session
 
-2.  Template
+- Last opportunity to ask questions (apart from the FORUM!)
+- Review of key resources
+- Advice from previous students and lab tutors
+- Practical tips for successful completion
 
-3.  Template
+## Document Repository Reminder
 
-## Stuff
+:::{.callout-important}
+Remember to thoroughly review the document repository with the mini-dissertation writing guide!
+:::
+
+- Contains comprehensive guidelines for your write-up
+- Includes templates, examples, and formatting requirements
+- Addresses common questions and concerns
+- Will help you avoid common mistakes
+
+## Available Resources
+
+The repository contains numerous valuable resources:
+
+- **Style guides** for academic writing
+- **Data Analysis** templates and guidance
+- **Tables and Figures** best practices
+- **Example MDs** from previous years
+- **Rubrics** outlining assessment criteria
+
+
+## Common Pitfalls to Avoid
+
+Previous students often struggled with:
+
+- Unclear research questions
+- Inadequate literature review
+- Poor descriptive tables and weak figures
+- Weak connection between results and discussion
+- Citation and reference inconsistencies
+- Last-minute writing mistakes (start early!)
+
+## Advice from Previous Students
+
+> "Start writing early and in small chunks. Don't wait until you have all your results."
+
+> "Use the templates provided in the repository - they save time and ensure you meet formatting requirements."
+
+> "2,500 words is not as long as you worry it will be at the start or as long as you want it to be at the end!"
+
+## More Student Advice
+
+> "Keep a research journal to track your process and decisions - this is invaluable for the methodology section."
+
+> "Create an outline before you start writing each section. I left it late, so didn't want to over-write"
+
+> "Set aside time for multiple rounds of proofreading and editing. You don't see the words after a while..."
+
+## Lab Tutor Wisdom
+
+- Everyone jumps for low-value limitations (sample size etc) instead of really thinking about it
+- Connect your findings back to existing literature
+- Follow formatting guidelines precisely
+
+## Writing Process Tips
+
+1. Write the methods section first (easiest when fresh in your mind)
+2. Draft results as you analyze data
+3. Introduction often comes last (when you know what you're introducing)
+4. Allow time for restructuring and revision
+5. Have peers review your work (TODAY IF YOU HAVE ANYTHING ON THE PAGE)
+
+## Final Encouragement
+
+You have all the skills and resources needed to succeed!
+
+- Use the repository resources
+- Apply the advice shared today
+- Manage your time effectively
+- Seek help early if needed
+
+**Good luck with your mini-dissertations!**
+
+## From the Lab Tutors
+
+Thanks for working so hard and being so positive. 
+
+It has been great fun and we wish you all well next year!
